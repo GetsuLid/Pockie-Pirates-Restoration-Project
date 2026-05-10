@@ -26,7 +26,7 @@ The project is currently in the early stages of restoration.
 ## 📦 Installation & Running
 
 1. Run the server: `python server.py`.
-2. Open the file `main.swf` using **Flash Player SA**.
+2. Open the file `main.swf` using **Flash Player SA**. (\pockiepirates\pockiepirates\onepiece\main.swf)
 3. Point the client to your local server IP (default is 127.0.0.1).
 
 ## 🤝 How to Contribute
