@@ -1,0 +1,3530 @@
+[
+  {
+    "recordId": 1,
+    "position": 2,
+    "cfgArmyId": 30101,
+    "cfgMonsterId": 101151
+  },
+  {
+    "recordId": 2,
+    "position": 1,
+    "cfgArmyId": 30101,
+    "cfgMonsterId": 101152
+  },
+  {
+    "recordId": 3,
+    "position": 4,
+    "cfgArmyId": 30101,
+    "cfgMonsterId": 101153
+  },
+  {
+    "recordId": 4,
+    "position": 8,
+    "cfgArmyId": 30101,
+    "cfgMonsterId": 101154
+  },
+  {
+    "recordId": 5,
+    "position": 7,
+    "cfgArmyId": 30102,
+    "cfgMonsterId": 101155
+  },
+  {
+    "recordId": 6,
+    "position": 9,
+    "cfgArmyId": 30102,
+    "cfgMonsterId": 101156
+  },
+  {
+    "recordId": 7,
+    "position": 5,
+    "cfgArmyId": 30102,
+    "cfgMonsterId": 101157
+  },
+  {
+    "recordId": 8,
+    "position": 4,
+    "cfgArmyId": 30102,
+    "cfgMonsterId": 101158
+  },
+  {
+    "recordId": 9,
+    "position": 1,
+    "cfgArmyId": 30103,
+    "cfgMonsterId": 101159
+  },
+  {
+    "recordId": 10,
+    "position": 2,
+    "cfgArmyId": 30103,
+    "cfgMonsterId": 101160
+  },
+  {
+    "recordId": 11,
+    "position": 3,
+    "cfgArmyId": 30103,
+    "cfgMonsterId": 101161
+  },
+  {
+    "recordId": 12,
+    "position": 5,
+    "cfgArmyId": 30103,
+    "cfgMonsterId": 101162
+  },
+  {
+    "recordId": 13,
+    "position": 1,
+    "cfgArmyId": 30104,
+    "cfgMonsterId": 101163
+  },
+  {
+    "recordId": 14,
+    "position": 5,
+    "cfgArmyId": 30104,
+    "cfgMonsterId": 101164
+  },
+  {
+    "recordId": 15,
+    "position": 8,
+    "cfgArmyId": 30104,
+    "cfgMonsterId": 101165
+  },
+  {
+    "recordId": 17,
+    "position": 2,
+    "cfgArmyId": 30105,
+    "cfgMonsterId": 101167
+  },
+  {
+    "recordId": 16,
+    "position": 6,
+    "cfgArmyId": 30104,
+    "cfgMonsterId": 101166
+  },
+  {
+    "recordId": 19,
+    "position": 4,
+    "cfgArmyId": 30105,
+    "cfgMonsterId": 101169
+  },
+  {
+    "recordId": 18,
+    "position": 3,
+    "cfgArmyId": 30105,
+    "cfgMonsterId": 101168
+  },
+  {
+    "recordId": 21,
+    "position": 7,
+    "cfgArmyId": 30106,
+    "cfgMonsterId": 101171
+  },
+  {
+    "recordId": 20,
+    "position": 7,
+    "cfgArmyId": 30105,
+    "cfgMonsterId": 101170
+  },
+  {
+    "recordId": 23,
+    "position": 5,
+    "cfgArmyId": 30106,
+    "cfgMonsterId": 101173
+  },
+  {
+    "recordId": 22,
+    "position": 9,
+    "cfgArmyId": 30106,
+    "cfgMonsterId": 101172
+  },
+  {
+    "recordId": 25,
+    "position": 1,
+    "cfgArmyId": 30107,
+    "cfgMonsterId": 101175
+  },
+  {
+    "recordId": 24,
+    "position": 4,
+    "cfgArmyId": 30106,
+    "cfgMonsterId": 101174
+  },
+  {
+    "recordId": 27,
+    "position": 3,
+    "cfgArmyId": 30107,
+    "cfgMonsterId": 101177
+  },
+  {
+    "recordId": 26,
+    "position": 2,
+    "cfgArmyId": 30107,
+    "cfgMonsterId": 101176
+  },
+  {
+    "recordId": 29,
+    "position": 1,
+    "cfgArmyId": 30108,
+    "cfgMonsterId": 101179
+  },
+  {
+    "recordId": 28,
+    "position": 5,
+    "cfgArmyId": 30107,
+    "cfgMonsterId": 101178
+  },
+  {
+    "recordId": 31,
+    "position": 8,
+    "cfgArmyId": 30108,
+    "cfgMonsterId": 101181
+  },
+  {
+    "recordId": 30,
+    "position": 5,
+    "cfgArmyId": 30108,
+    "cfgMonsterId": 101180
+  },
+  {
+    "recordId": 34,
+    "position": 1,
+    "cfgArmyId": 30109,
+    "cfgMonsterId": 101184
+  },
+  {
+    "recordId": 35,
+    "position": 4,
+    "cfgArmyId": 30109,
+    "cfgMonsterId": 101185
+  },
+  {
+    "recordId": 32,
+    "position": 6,
+    "cfgArmyId": 30108,
+    "cfgMonsterId": 101182
+  },
+  {
+    "recordId": 33,
+    "position": 2,
+    "cfgArmyId": 30109,
+    "cfgMonsterId": 101183
+  },
+  {
+    "recordId": 38,
+    "position": 9,
+    "cfgArmyId": 30110,
+    "cfgMonsterId": 101188
+  },
+  {
+    "recordId": 39,
+    "position": 5,
+    "cfgArmyId": 30110,
+    "cfgMonsterId": 101189
+  },
+  {
+    "recordId": 36,
+    "position": 8,
+    "cfgArmyId": 30109,
+    "cfgMonsterId": 101186
+  },
+  {
+    "recordId": 37,
+    "position": 7,
+    "cfgArmyId": 30110,
+    "cfgMonsterId": 101187
+  },
+  {
+    "recordId": 42,
+    "position": 2,
+    "cfgArmyId": 30111,
+    "cfgMonsterId": 101192
+  },
+  {
+    "recordId": 43,
+    "position": 3,
+    "cfgArmyId": 30111,
+    "cfgMonsterId": 101193
+  },
+  {
+    "recordId": 40,
+    "position": 4,
+    "cfgArmyId": 30110,
+    "cfgMonsterId": 101190
+  },
+  {
+    "recordId": 41,
+    "position": 1,
+    "cfgArmyId": 30111,
+    "cfgMonsterId": 101191
+  },
+  {
+    "recordId": 46,
+    "position": 5,
+    "cfgArmyId": 30112,
+    "cfgMonsterId": 101196
+  },
+  {
+    "recordId": 47,
+    "position": 8,
+    "cfgArmyId": 30112,
+    "cfgMonsterId": 101197
+  },
+  {
+    "recordId": 44,
+    "position": 5,
+    "cfgArmyId": 30111,
+    "cfgMonsterId": 101194
+  },
+  {
+    "recordId": 45,
+    "position": 1,
+    "cfgArmyId": 30112,
+    "cfgMonsterId": 101195
+  },
+  {
+    "recordId": 51,
+    "position": 7,
+    "cfgArmyId": 30113,
+    "cfgMonsterId": 101201
+  },
+  {
+    "recordId": 50,
+    "position": 4,
+    "cfgArmyId": 30113,
+    "cfgMonsterId": 101200
+  },
+  {
+    "recordId": 49,
+    "position": 1,
+    "cfgArmyId": 30113,
+    "cfgMonsterId": 101199
+  },
+  {
+    "recordId": 48,
+    "position": 6,
+    "cfgArmyId": 30112,
+    "cfgMonsterId": 101198
+  },
+  {
+    "recordId": 55,
+    "position": 5,
+    "cfgArmyId": 30114,
+    "cfgMonsterId": 101205
+  },
+  {
+    "recordId": 54,
+    "position": 8,
+    "cfgArmyId": 30114,
+    "cfgMonsterId": 101204
+  },
+  {
+    "recordId": 53,
+    "position": 8,
+    "cfgArmyId": 30113,
+    "cfgMonsterId": 101203
+  },
+  {
+    "recordId": 52,
+    "position": 5,
+    "cfgArmyId": 30113,
+    "cfgMonsterId": 101202
+  },
+  {
+    "recordId": 59,
+    "position": 7,
+    "cfgArmyId": 30115,
+    "cfgMonsterId": 101209
+  },
+  {
+    "recordId": 58,
+    "position": 3,
+    "cfgArmyId": 30114,
+    "cfgMonsterId": 101208
+  },
+  {
+    "recordId": 57,
+    "position": 1,
+    "cfgArmyId": 30114,
+    "cfgMonsterId": 101207
+  },
+  {
+    "recordId": 56,
+    "position": 2,
+    "cfgArmyId": 30114,
+    "cfgMonsterId": 101206
+  },
+  {
+    "recordId": 63,
+    "position": 8,
+    "cfgArmyId": 30115,
+    "cfgMonsterId": 101213
+  },
+  {
+    "recordId": 62,
+    "position": 5,
+    "cfgArmyId": 30115,
+    "cfgMonsterId": 101212
+  },
+  {
+    "recordId": 61,
+    "position": 9,
+    "cfgArmyId": 30115,
+    "cfgMonsterId": 101211
+  },
+  {
+    "recordId": 60,
+    "position": 2,
+    "cfgArmyId": 30115,
+    "cfgMonsterId": 101210
+  },
+  {
+    "recordId": 68,
+    "position": 5,
+    "cfgArmyId": 30116,
+    "cfgMonsterId": 101218
+  },
+  {
+    "recordId": 69,
+    "position": 2,
+    "cfgArmyId": 30117,
+    "cfgMonsterId": 101219
+  },
+  {
+    "recordId": 70,
+    "position": 8,
+    "cfgArmyId": 30117,
+    "cfgMonsterId": 101220
+  },
+  {
+    "recordId": 71,
+    "position": 4,
+    "cfgArmyId": 30117,
+    "cfgMonsterId": 101221
+  },
+  {
+    "recordId": 64,
+    "position": 7,
+    "cfgArmyId": 30116,
+    "cfgMonsterId": 101214
+  },
+  {
+    "recordId": 65,
+    "position": 1,
+    "cfgArmyId": 30116,
+    "cfgMonsterId": 101215
+  },
+  {
+    "recordId": 66,
+    "position": 3,
+    "cfgArmyId": 30116,
+    "cfgMonsterId": 101216
+  },
+  {
+    "recordId": 67,
+    "position": 9,
+    "cfgArmyId": 30116,
+    "cfgMonsterId": 101217
+  },
+  {
+    "recordId": 76,
+    "position": 6,
+    "cfgArmyId": 30118,
+    "cfgMonsterId": 101226
+  },
+  {
+    "recordId": 77,
+    "position": 4,
+    "cfgArmyId": 30118,
+    "cfgMonsterId": 101227
+  },
+  {
+    "recordId": 78,
+    "position": 9,
+    "cfgArmyId": 30118,
+    "cfgMonsterId": 101228
+  },
+  {
+    "recordId": 79,
+    "position": 2,
+    "cfgArmyId": 30119,
+    "cfgMonsterId": 101229
+  },
+  {
+    "recordId": 72,
+    "position": 5,
+    "cfgArmyId": 30117,
+    "cfgMonsterId": 101222
+  },
+  {
+    "recordId": 73,
+    "position": 6,
+    "cfgArmyId": 30117,
+    "cfgMonsterId": 101223
+  },
+  {
+    "recordId": 74,
+    "position": 5,
+    "cfgArmyId": 30118,
+    "cfgMonsterId": 101224
+  },
+  {
+    "recordId": 75,
+    "position": 1,
+    "cfgArmyId": 30118,
+    "cfgMonsterId": 101225
+  },
+  {
+    "recordId": 85,
+    "position": 7,
+    "cfgArmyId": 30120,
+    "cfgMonsterId": 101235
+  },
+  {
+    "recordId": 84,
+    "position": 1,
+    "cfgArmyId": 30120,
+    "cfgMonsterId": 101234
+  },
+  {
+    "recordId": 87,
+    "position": 9,
+    "cfgArmyId": 30120,
+    "cfgMonsterId": 101237
+  },
+  {
+    "recordId": 86,
+    "position": 5,
+    "cfgArmyId": 30120,
+    "cfgMonsterId": 101236
+  },
+  {
+    "recordId": 81,
+    "position": 4,
+    "cfgArmyId": 30119,
+    "cfgMonsterId": 101231
+  },
+  {
+    "recordId": 80,
+    "position": 5,
+    "cfgArmyId": 30119,
+    "cfgMonsterId": 101230
+  },
+  {
+    "recordId": 83,
+    "position": 6,
+    "cfgArmyId": 30119,
+    "cfgMonsterId": 101233
+  },
+  {
+    "recordId": 82,
+    "position": 8,
+    "cfgArmyId": 30119,
+    "cfgMonsterId": 101232
+  },
+  {
+    "recordId": 93,
+    "position": 8,
+    "cfgArmyId": 30201,
+    "cfgMonsterId": 101243
+  },
+  {
+    "recordId": 92,
+    "position": 5,
+    "cfgArmyId": 30201,
+    "cfgMonsterId": 101242
+  },
+  {
+    "recordId": 95,
+    "position": 5,
+    "cfgArmyId": 30202,
+    "cfgMonsterId": 101245
+  },
+  {
+    "recordId": 94,
+    "position": 8,
+    "cfgArmyId": 30202,
+    "cfgMonsterId": 101244
+  },
+  {
+    "recordId": 89,
+    "position": 1,
+    "cfgArmyId": 30201,
+    "cfgMonsterId": 101239
+  },
+  {
+    "recordId": 88,
+    "position": 3,
+    "cfgArmyId": 30120,
+    "cfgMonsterId": 101238
+  },
+  {
+    "recordId": 91,
+    "position": 7,
+    "cfgArmyId": 30201,
+    "cfgMonsterId": 101241
+  },
+  {
+    "recordId": 90,
+    "position": 4,
+    "cfgArmyId": 30201,
+    "cfgMonsterId": 101240
+  },
+  {
+    "recordId": 102,
+    "position": 5,
+    "cfgArmyId": 30203,
+    "cfgMonsterId": 101252
+  },
+  {
+    "recordId": 103,
+    "position": 8,
+    "cfgArmyId": 30203,
+    "cfgMonsterId": 101253
+  },
+  {
+    "recordId": 100,
+    "position": 2,
+    "cfgArmyId": 30203,
+    "cfgMonsterId": 101250
+  },
+  {
+    "recordId": 101,
+    "position": 9,
+    "cfgArmyId": 30203,
+    "cfgMonsterId": 101251
+  },
+  {
+    "recordId": 98,
+    "position": 3,
+    "cfgArmyId": 30202,
+    "cfgMonsterId": 101248
+  },
+  {
+    "recordId": 99,
+    "position": 7,
+    "cfgArmyId": 30203,
+    "cfgMonsterId": 101249
+  },
+  {
+    "recordId": 96,
+    "position": 2,
+    "cfgArmyId": 30202,
+    "cfgMonsterId": 101246
+  },
+  {
+    "recordId": 97,
+    "position": 1,
+    "cfgArmyId": 30202,
+    "cfgMonsterId": 101247
+  },
+  {
+    "recordId": 110,
+    "position": 8,
+    "cfgArmyId": 30205,
+    "cfgMonsterId": 101260
+  },
+  {
+    "recordId": 111,
+    "position": 4,
+    "cfgArmyId": 30205,
+    "cfgMonsterId": 101261
+  },
+  {
+    "recordId": 108,
+    "position": 5,
+    "cfgArmyId": 30204,
+    "cfgMonsterId": 101258
+  },
+  {
+    "recordId": 109,
+    "position": 2,
+    "cfgArmyId": 30205,
+    "cfgMonsterId": 101259
+  },
+  {
+    "recordId": 106,
+    "position": 3,
+    "cfgArmyId": 30204,
+    "cfgMonsterId": 101256
+  },
+  {
+    "recordId": 107,
+    "position": 9,
+    "cfgArmyId": 30204,
+    "cfgMonsterId": 101257
+  },
+  {
+    "recordId": 104,
+    "position": 7,
+    "cfgArmyId": 30204,
+    "cfgMonsterId": 101254
+  },
+  {
+    "recordId": 105,
+    "position": 1,
+    "cfgArmyId": 30204,
+    "cfgMonsterId": 101255
+  },
+  {
+    "recordId": 119,
+    "position": 2,
+    "cfgArmyId": 30207,
+    "cfgMonsterId": 101269
+  },
+  {
+    "recordId": 118,
+    "position": 9,
+    "cfgArmyId": 30206,
+    "cfgMonsterId": 101268
+  },
+  {
+    "recordId": 117,
+    "position": 4,
+    "cfgArmyId": 30206,
+    "cfgMonsterId": 101267
+  },
+  {
+    "recordId": 116,
+    "position": 6,
+    "cfgArmyId": 30206,
+    "cfgMonsterId": 101266
+  },
+  {
+    "recordId": 115,
+    "position": 1,
+    "cfgArmyId": 30206,
+    "cfgMonsterId": 101265
+  },
+  {
+    "recordId": 114,
+    "position": 5,
+    "cfgArmyId": 30206,
+    "cfgMonsterId": 101264
+  },
+  {
+    "recordId": 113,
+    "position": 6,
+    "cfgArmyId": 30205,
+    "cfgMonsterId": 101263
+  },
+  {
+    "recordId": 112,
+    "position": 5,
+    "cfgArmyId": 30205,
+    "cfgMonsterId": 101262
+  },
+  {
+    "recordId": 127,
+    "position": 9,
+    "cfgArmyId": 30208,
+    "cfgMonsterId": 101277
+  },
+  {
+    "recordId": 126,
+    "position": 5,
+    "cfgArmyId": 30208,
+    "cfgMonsterId": 101276
+  },
+  {
+    "recordId": 125,
+    "position": 7,
+    "cfgArmyId": 30208,
+    "cfgMonsterId": 101275
+  },
+  {
+    "recordId": 124,
+    "position": 1,
+    "cfgArmyId": 30208,
+    "cfgMonsterId": 101274
+  },
+  {
+    "recordId": 123,
+    "position": 6,
+    "cfgArmyId": 30207,
+    "cfgMonsterId": 101273
+  },
+  {
+    "recordId": 122,
+    "position": 8,
+    "cfgArmyId": 30207,
+    "cfgMonsterId": 101272
+  },
+  {
+    "recordId": 121,
+    "position": 4,
+    "cfgArmyId": 30207,
+    "cfgMonsterId": 101271
+  },
+  {
+    "recordId": 120,
+    "position": 5,
+    "cfgArmyId": 30207,
+    "cfgMonsterId": 101270
+  },
+  {
+    "recordId": 137,
+    "position": 1,
+    "cfgArmyId": 30210,
+    "cfgMonsterId": 101287
+  },
+  {
+    "recordId": 136,
+    "position": 2,
+    "cfgArmyId": 30210,
+    "cfgMonsterId": 101286
+  },
+  {
+    "recordId": 139,
+    "position": 7,
+    "cfgArmyId": 30211,
+    "cfgMonsterId": 101289
+  },
+  {
+    "recordId": 138,
+    "position": 3,
+    "cfgArmyId": 30210,
+    "cfgMonsterId": 101288
+  },
+  {
+    "recordId": 141,
+    "position": 9,
+    "cfgArmyId": 30211,
+    "cfgMonsterId": 101291
+  },
+  {
+    "recordId": 140,
+    "position": 2,
+    "cfgArmyId": 30211,
+    "cfgMonsterId": 101290
+  },
+  {
+    "recordId": 143,
+    "position": 8,
+    "cfgArmyId": 30211,
+    "cfgMonsterId": 101293
+  },
+  {
+    "recordId": 142,
+    "position": 5,
+    "cfgArmyId": 30211,
+    "cfgMonsterId": 101292
+  },
+  {
+    "recordId": 129,
+    "position": 1,
+    "cfgArmyId": 30209,
+    "cfgMonsterId": 101279
+  },
+  {
+    "recordId": 128,
+    "position": 3,
+    "cfgArmyId": 30208,
+    "cfgMonsterId": 101278
+  },
+  {
+    "recordId": 131,
+    "position": 7,
+    "cfgArmyId": 30209,
+    "cfgMonsterId": 101281
+  },
+  {
+    "recordId": 130,
+    "position": 4,
+    "cfgArmyId": 30209,
+    "cfgMonsterId": 101280
+  },
+  {
+    "recordId": 133,
+    "position": 8,
+    "cfgArmyId": 30209,
+    "cfgMonsterId": 101283
+  },
+  {
+    "recordId": 132,
+    "position": 5,
+    "cfgArmyId": 30209,
+    "cfgMonsterId": 101282
+  },
+  {
+    "recordId": 135,
+    "position": 5,
+    "cfgArmyId": 30210,
+    "cfgMonsterId": 101285
+  },
+  {
+    "recordId": 134,
+    "position": 8,
+    "cfgArmyId": 30210,
+    "cfgMonsterId": 101284
+  },
+  {
+    "recordId": 152,
+    "position": 5,
+    "cfgArmyId": 30213,
+    "cfgMonsterId": 101302
+  },
+  {
+    "recordId": 153,
+    "position": 6,
+    "cfgArmyId": 30213,
+    "cfgMonsterId": 101303
+  },
+  {
+    "recordId": 154,
+    "position": 5,
+    "cfgArmyId": 30214,
+    "cfgMonsterId": 101304
+  },
+  {
+    "recordId": 155,
+    "position": 1,
+    "cfgArmyId": 30214,
+    "cfgMonsterId": 101305
+  },
+  {
+    "recordId": 156,
+    "position": 6,
+    "cfgArmyId": 30214,
+    "cfgMonsterId": 101306
+  },
+  {
+    "recordId": 157,
+    "position": 4,
+    "cfgArmyId": 30214,
+    "cfgMonsterId": 101307
+  },
+  {
+    "recordId": 158,
+    "position": 9,
+    "cfgArmyId": 30214,
+    "cfgMonsterId": 101308
+  },
+  {
+    "recordId": 159,
+    "position": 2,
+    "cfgArmyId": 30215,
+    "cfgMonsterId": 101309
+  },
+  {
+    "recordId": 144,
+    "position": 7,
+    "cfgArmyId": 30212,
+    "cfgMonsterId": 101294
+  },
+  {
+    "recordId": 145,
+    "position": 1,
+    "cfgArmyId": 30212,
+    "cfgMonsterId": 101295
+  },
+  {
+    "recordId": 146,
+    "position": 3,
+    "cfgArmyId": 30212,
+    "cfgMonsterId": 101296
+  },
+  {
+    "recordId": 147,
+    "position": 9,
+    "cfgArmyId": 30212,
+    "cfgMonsterId": 101297
+  },
+  {
+    "recordId": 148,
+    "position": 5,
+    "cfgArmyId": 30212,
+    "cfgMonsterId": 101298
+  },
+  {
+    "recordId": 149,
+    "position": 2,
+    "cfgArmyId": 30213,
+    "cfgMonsterId": 101299
+  },
+  {
+    "recordId": 150,
+    "position": 8,
+    "cfgArmyId": 30213,
+    "cfgMonsterId": 101300
+  },
+  {
+    "recordId": 151,
+    "position": 4,
+    "cfgArmyId": 30213,
+    "cfgMonsterId": 101301
+  },
+  {
+    "recordId": 171,
+    "position": 7,
+    "cfgArmyId": 30217,
+    "cfgMonsterId": 101321
+  },
+  {
+    "recordId": 170,
+    "position": 4,
+    "cfgArmyId": 30217,
+    "cfgMonsterId": 101320
+  },
+  {
+    "recordId": 169,
+    "position": 1,
+    "cfgArmyId": 30217,
+    "cfgMonsterId": 101319
+  },
+  {
+    "recordId": 168,
+    "position": 3,
+    "cfgArmyId": 30216,
+    "cfgMonsterId": 101318
+  },
+  {
+    "recordId": 175,
+    "position": 5,
+    "cfgArmyId": 30218,
+    "cfgMonsterId": 101325
+  },
+  {
+    "recordId": 174,
+    "position": 8,
+    "cfgArmyId": 30218,
+    "cfgMonsterId": 101324
+  },
+  {
+    "recordId": 173,
+    "position": 8,
+    "cfgArmyId": 30217,
+    "cfgMonsterId": 101323
+  },
+  {
+    "recordId": 172,
+    "position": 5,
+    "cfgArmyId": 30217,
+    "cfgMonsterId": 101322
+  },
+  {
+    "recordId": 163,
+    "position": 6,
+    "cfgArmyId": 30215,
+    "cfgMonsterId": 101313
+  },
+  {
+    "recordId": 162,
+    "position": 8,
+    "cfgArmyId": 30215,
+    "cfgMonsterId": 101312
+  },
+  {
+    "recordId": 161,
+    "position": 4,
+    "cfgArmyId": 30215,
+    "cfgMonsterId": 101311
+  },
+  {
+    "recordId": 160,
+    "position": 5,
+    "cfgArmyId": 30215,
+    "cfgMonsterId": 101310
+  },
+  {
+    "recordId": 167,
+    "position": 9,
+    "cfgArmyId": 30216,
+    "cfgMonsterId": 101317
+  },
+  {
+    "recordId": 166,
+    "position": 5,
+    "cfgArmyId": 30216,
+    "cfgMonsterId": 101316
+  },
+  {
+    "recordId": 165,
+    "position": 7,
+    "cfgArmyId": 30216,
+    "cfgMonsterId": 101315
+  },
+  {
+    "recordId": 164,
+    "position": 1,
+    "cfgArmyId": 30216,
+    "cfgMonsterId": 101314
+  },
+  {
+    "recordId": 186,
+    "position": 3,
+    "cfgArmyId": 30220,
+    "cfgMonsterId": 101336
+  },
+  {
+    "recordId": 187,
+    "position": 9,
+    "cfgArmyId": 30220,
+    "cfgMonsterId": 101337
+  },
+  {
+    "recordId": 184,
+    "position": 7,
+    "cfgArmyId": 30220,
+    "cfgMonsterId": 101334
+  },
+  {
+    "recordId": 185,
+    "position": 1,
+    "cfgArmyId": 30220,
+    "cfgMonsterId": 101335
+  },
+  {
+    "recordId": 190,
+    "position": 8,
+    "cfgArmyId": 30301,
+    "cfgMonsterId": 101340
+  },
+  {
+    "recordId": 191,
+    "position": 4,
+    "cfgArmyId": 30301,
+    "cfgMonsterId": 101341
+  },
+  {
+    "recordId": 188,
+    "position": 5,
+    "cfgArmyId": 30220,
+    "cfgMonsterId": 101338
+  },
+  {
+    "recordId": 189,
+    "position": 2,
+    "cfgArmyId": 30301,
+    "cfgMonsterId": 101339
+  },
+  {
+    "recordId": 178,
+    "position": 3,
+    "cfgArmyId": 30218,
+    "cfgMonsterId": 101328
+  },
+  {
+    "recordId": 179,
+    "position": 7,
+    "cfgArmyId": 30219,
+    "cfgMonsterId": 101329
+  },
+  {
+    "recordId": 176,
+    "position": 2,
+    "cfgArmyId": 30218,
+    "cfgMonsterId": 101326
+  },
+  {
+    "recordId": 177,
+    "position": 1,
+    "cfgArmyId": 30218,
+    "cfgMonsterId": 101327
+  },
+  {
+    "recordId": 182,
+    "position": 5,
+    "cfgArmyId": 30219,
+    "cfgMonsterId": 101332
+  },
+  {
+    "recordId": 183,
+    "position": 8,
+    "cfgArmyId": 30219,
+    "cfgMonsterId": 101333
+  },
+  {
+    "recordId": 180,
+    "position": 2,
+    "cfgArmyId": 30219,
+    "cfgMonsterId": 101330
+  },
+  {
+    "recordId": 181,
+    "position": 9,
+    "cfgArmyId": 30219,
+    "cfgMonsterId": 101331
+  },
+  {
+    "recordId": 205,
+    "position": 7,
+    "cfgArmyId": 30304,
+    "cfgMonsterId": 101355
+  },
+  {
+    "recordId": 204,
+    "position": 1,
+    "cfgArmyId": 30304,
+    "cfgMonsterId": 101354
+  },
+  {
+    "recordId": 207,
+    "position": 9,
+    "cfgArmyId": 30304,
+    "cfgMonsterId": 101357
+  },
+  {
+    "recordId": 206,
+    "position": 5,
+    "cfgArmyId": 30304,
+    "cfgMonsterId": 101356
+  },
+  {
+    "recordId": 201,
+    "position": 4,
+    "cfgArmyId": 30303,
+    "cfgMonsterId": 101351
+  },
+  {
+    "recordId": 200,
+    "position": 5,
+    "cfgArmyId": 30303,
+    "cfgMonsterId": 101350
+  },
+  {
+    "recordId": 203,
+    "position": 6,
+    "cfgArmyId": 30303,
+    "cfgMonsterId": 101353
+  },
+  {
+    "recordId": 202,
+    "position": 8,
+    "cfgArmyId": 30303,
+    "cfgMonsterId": 101352
+  },
+  {
+    "recordId": 197,
+    "position": 4,
+    "cfgArmyId": 30302,
+    "cfgMonsterId": 101347
+  },
+  {
+    "recordId": 196,
+    "position": 6,
+    "cfgArmyId": 30302,
+    "cfgMonsterId": 101346
+  },
+  {
+    "recordId": 199,
+    "position": 2,
+    "cfgArmyId": 30303,
+    "cfgMonsterId": 101349
+  },
+  {
+    "recordId": 198,
+    "position": 9,
+    "cfgArmyId": 30302,
+    "cfgMonsterId": 101348
+  },
+  {
+    "recordId": 193,
+    "position": 6,
+    "cfgArmyId": 30301,
+    "cfgMonsterId": 101343
+  },
+  {
+    "recordId": 192,
+    "position": 5,
+    "cfgArmyId": 30301,
+    "cfgMonsterId": 101342
+  },
+  {
+    "recordId": 195,
+    "position": 1,
+    "cfgArmyId": 30302,
+    "cfgMonsterId": 101345
+  },
+  {
+    "recordId": 194,
+    "position": 5,
+    "cfgArmyId": 30302,
+    "cfgMonsterId": 101344
+  },
+  {
+    "recordId": 220,
+    "position": 2,
+    "cfgArmyId": 30307,
+    "cfgMonsterId": 101370
+  },
+  {
+    "recordId": 221,
+    "position": 9,
+    "cfgArmyId": 30307,
+    "cfgMonsterId": 101371
+  },
+  {
+    "recordId": 222,
+    "position": 5,
+    "cfgArmyId": 30307,
+    "cfgMonsterId": 101372
+  },
+  {
+    "recordId": 223,
+    "position": 8,
+    "cfgArmyId": 30307,
+    "cfgMonsterId": 101373
+  },
+  {
+    "recordId": 216,
+    "position": 2,
+    "cfgArmyId": 30306,
+    "cfgMonsterId": 101366
+  },
+  {
+    "recordId": 217,
+    "position": 1,
+    "cfgArmyId": 30306,
+    "cfgMonsterId": 101367
+  },
+  {
+    "recordId": 218,
+    "position": 3,
+    "cfgArmyId": 30306,
+    "cfgMonsterId": 101368
+  },
+  {
+    "recordId": 219,
+    "position": 7,
+    "cfgArmyId": 30307,
+    "cfgMonsterId": 101369
+  },
+  {
+    "recordId": 212,
+    "position": 5,
+    "cfgArmyId": 30305,
+    "cfgMonsterId": 101362
+  },
+  {
+    "recordId": 213,
+    "position": 8,
+    "cfgArmyId": 30305,
+    "cfgMonsterId": 101363
+  },
+  {
+    "recordId": 214,
+    "position": 8,
+    "cfgArmyId": 30306,
+    "cfgMonsterId": 101364
+  },
+  {
+    "recordId": 215,
+    "position": 5,
+    "cfgArmyId": 30306,
+    "cfgMonsterId": 101365
+  },
+  {
+    "recordId": 208,
+    "position": 3,
+    "cfgArmyId": 30304,
+    "cfgMonsterId": 101358
+  },
+  {
+    "recordId": 209,
+    "position": 1,
+    "cfgArmyId": 30305,
+    "cfgMonsterId": 101359
+  },
+  {
+    "recordId": 210,
+    "position": 4,
+    "cfgArmyId": 30305,
+    "cfgMonsterId": 101360
+  },
+  {
+    "recordId": 211,
+    "position": 7,
+    "cfgArmyId": 30305,
+    "cfgMonsterId": 101361
+  },
+  {
+    "recordId": 239,
+    "position": 2,
+    "cfgArmyId": 30311,
+    "cfgMonsterId": 101389
+  },
+  {
+    "recordId": 238,
+    "position": 9,
+    "cfgArmyId": 30310,
+    "cfgMonsterId": 101388
+  },
+  {
+    "recordId": 237,
+    "position": 4,
+    "cfgArmyId": 30310,
+    "cfgMonsterId": 101387
+  },
+  {
+    "recordId": 236,
+    "position": 6,
+    "cfgArmyId": 30310,
+    "cfgMonsterId": 101386
+  },
+  {
+    "recordId": 235,
+    "position": 1,
+    "cfgArmyId": 30310,
+    "cfgMonsterId": 101385
+  },
+  {
+    "recordId": 234,
+    "position": 5,
+    "cfgArmyId": 30310,
+    "cfgMonsterId": 101384
+  },
+  {
+    "recordId": 233,
+    "position": 6,
+    "cfgArmyId": 30309,
+    "cfgMonsterId": 101383
+  },
+  {
+    "recordId": 232,
+    "position": 5,
+    "cfgArmyId": 30309,
+    "cfgMonsterId": 101382
+  },
+  {
+    "recordId": 231,
+    "position": 4,
+    "cfgArmyId": 30309,
+    "cfgMonsterId": 101381
+  },
+  {
+    "recordId": 230,
+    "position": 8,
+    "cfgArmyId": 30309,
+    "cfgMonsterId": 101380
+  },
+  {
+    "recordId": 229,
+    "position": 2,
+    "cfgArmyId": 30309,
+    "cfgMonsterId": 101379
+  },
+  {
+    "recordId": 228,
+    "position": 5,
+    "cfgArmyId": 30308,
+    "cfgMonsterId": 101378
+  },
+  {
+    "recordId": 227,
+    "position": 9,
+    "cfgArmyId": 30308,
+    "cfgMonsterId": 101377
+  },
+  {
+    "recordId": 226,
+    "position": 3,
+    "cfgArmyId": 30308,
+    "cfgMonsterId": 101376
+  },
+  {
+    "recordId": 225,
+    "position": 1,
+    "cfgArmyId": 30308,
+    "cfgMonsterId": 101375
+  },
+  {
+    "recordId": 224,
+    "position": 7,
+    "cfgArmyId": 30308,
+    "cfgMonsterId": 101374
+  },
+  {
+    "recordId": 254,
+    "position": 8,
+    "cfgArmyId": 30314,
+    "cfgMonsterId": 101404
+  },
+  {
+    "recordId": 255,
+    "position": 5,
+    "cfgArmyId": 30314,
+    "cfgMonsterId": 101405
+  },
+  {
+    "recordId": 252,
+    "position": 5,
+    "cfgArmyId": 30313,
+    "cfgMonsterId": 101402
+  },
+  {
+    "recordId": 253,
+    "position": 8,
+    "cfgArmyId": 30313,
+    "cfgMonsterId": 101403
+  },
+  {
+    "recordId": 250,
+    "position": 4,
+    "cfgArmyId": 30313,
+    "cfgMonsterId": 101400
+  },
+  {
+    "recordId": 251,
+    "position": 7,
+    "cfgArmyId": 30313,
+    "cfgMonsterId": 101401
+  },
+  {
+    "recordId": 248,
+    "position": 3,
+    "cfgArmyId": 30312,
+    "cfgMonsterId": 101398
+  },
+  {
+    "recordId": 249,
+    "position": 1,
+    "cfgArmyId": 30313,
+    "cfgMonsterId": 101399
+  },
+  {
+    "recordId": 246,
+    "position": 5,
+    "cfgArmyId": 30312,
+    "cfgMonsterId": 101396
+  },
+  {
+    "recordId": 247,
+    "position": 9,
+    "cfgArmyId": 30312,
+    "cfgMonsterId": 101397
+  },
+  {
+    "recordId": 244,
+    "position": 1,
+    "cfgArmyId": 30312,
+    "cfgMonsterId": 101394
+  },
+  {
+    "recordId": 245,
+    "position": 7,
+    "cfgArmyId": 30312,
+    "cfgMonsterId": 101395
+  },
+  {
+    "recordId": 242,
+    "position": 8,
+    "cfgArmyId": 30311,
+    "cfgMonsterId": 101392
+  },
+  {
+    "recordId": 243,
+    "position": 6,
+    "cfgArmyId": 30311,
+    "cfgMonsterId": 101393
+  },
+  {
+    "recordId": 240,
+    "position": 5,
+    "cfgArmyId": 30311,
+    "cfgMonsterId": 101390
+  },
+  {
+    "recordId": 241,
+    "position": 4,
+    "cfgArmyId": 30311,
+    "cfgMonsterId": 101391
+  },
+  {
+    "recordId": 275,
+    "position": 1,
+    "cfgArmyId": 30318,
+    "cfgMonsterId": 101425
+  },
+  {
+    "recordId": 274,
+    "position": 5,
+    "cfgArmyId": 30318,
+    "cfgMonsterId": 101424
+  },
+  {
+    "recordId": 273,
+    "position": 6,
+    "cfgArmyId": 30317,
+    "cfgMonsterId": 101423
+  },
+  {
+    "recordId": 272,
+    "position": 5,
+    "cfgArmyId": 30317,
+    "cfgMonsterId": 101422
+  },
+  {
+    "recordId": 279,
+    "position": 2,
+    "cfgArmyId": 30319,
+    "cfgMonsterId": 101429
+  },
+  {
+    "recordId": 278,
+    "position": 9,
+    "cfgArmyId": 30318,
+    "cfgMonsterId": 101428
+  },
+  {
+    "recordId": 277,
+    "position": 4,
+    "cfgArmyId": 30318,
+    "cfgMonsterId": 101427
+  },
+  {
+    "recordId": 276,
+    "position": 6,
+    "cfgArmyId": 30318,
+    "cfgMonsterId": 101426
+  },
+  {
+    "recordId": 283,
+    "position": 6,
+    "cfgArmyId": 30319,
+    "cfgMonsterId": 101433
+  },
+  {
+    "recordId": 282,
+    "position": 8,
+    "cfgArmyId": 30319,
+    "cfgMonsterId": 101432
+  },
+  {
+    "recordId": 281,
+    "position": 4,
+    "cfgArmyId": 30319,
+    "cfgMonsterId": 101431
+  },
+  {
+    "recordId": 280,
+    "position": 5,
+    "cfgArmyId": 30319,
+    "cfgMonsterId": 101430
+  },
+  {
+    "recordId": 287,
+    "position": 9,
+    "cfgArmyId": 30320,
+    "cfgMonsterId": 101437
+  },
+  {
+    "recordId": 286,
+    "position": 5,
+    "cfgArmyId": 30320,
+    "cfgMonsterId": 101436
+  },
+  {
+    "recordId": 285,
+    "position": 7,
+    "cfgArmyId": 30320,
+    "cfgMonsterId": 101435
+  },
+  {
+    "recordId": 284,
+    "position": 1,
+    "cfgArmyId": 30320,
+    "cfgMonsterId": 101434
+  },
+  {
+    "recordId": 258,
+    "position": 3,
+    "cfgArmyId": 30314,
+    "cfgMonsterId": 101408
+  },
+  {
+    "recordId": 259,
+    "position": 7,
+    "cfgArmyId": 30315,
+    "cfgMonsterId": 101409
+  },
+  {
+    "recordId": 256,
+    "position": 2,
+    "cfgArmyId": 30314,
+    "cfgMonsterId": 101406
+  },
+  {
+    "recordId": 257,
+    "position": 1,
+    "cfgArmyId": 30314,
+    "cfgMonsterId": 101407
+  },
+  {
+    "recordId": 262,
+    "position": 5,
+    "cfgArmyId": 30315,
+    "cfgMonsterId": 101412
+  },
+  {
+    "recordId": 263,
+    "position": 8,
+    "cfgArmyId": 30315,
+    "cfgMonsterId": 101413
+  },
+  {
+    "recordId": 260,
+    "position": 2,
+    "cfgArmyId": 30315,
+    "cfgMonsterId": 101410
+  },
+  {
+    "recordId": 261,
+    "position": 9,
+    "cfgArmyId": 30315,
+    "cfgMonsterId": 101411
+  },
+  {
+    "recordId": 266,
+    "position": 3,
+    "cfgArmyId": 30316,
+    "cfgMonsterId": 101416
+  },
+  {
+    "recordId": 267,
+    "position": 9,
+    "cfgArmyId": 30316,
+    "cfgMonsterId": 101417
+  },
+  {
+    "recordId": 264,
+    "position": 7,
+    "cfgArmyId": 30316,
+    "cfgMonsterId": 101414
+  },
+  {
+    "recordId": 265,
+    "position": 1,
+    "cfgArmyId": 30316,
+    "cfgMonsterId": 101415
+  },
+  {
+    "recordId": 270,
+    "position": 8,
+    "cfgArmyId": 30317,
+    "cfgMonsterId": 101420
+  },
+  {
+    "recordId": 271,
+    "position": 4,
+    "cfgArmyId": 30317,
+    "cfgMonsterId": 101421
+  },
+  {
+    "recordId": 268,
+    "position": 5,
+    "cfgArmyId": 30316,
+    "cfgMonsterId": 101418
+  },
+  {
+    "recordId": 269,
+    "position": 2,
+    "cfgArmyId": 30317,
+    "cfgMonsterId": 101419
+  },
+  {
+    "recordId": 305,
+    "position": 1,
+    "cfgArmyId": 30404,
+    "cfgMonsterId": 101455
+  },
+  {
+    "recordId": 304,
+    "position": 7,
+    "cfgArmyId": 30404,
+    "cfgMonsterId": 101454
+  },
+  {
+    "recordId": 307,
+    "position": 9,
+    "cfgArmyId": 30404,
+    "cfgMonsterId": 101457
+  },
+  {
+    "recordId": 306,
+    "position": 3,
+    "cfgArmyId": 30404,
+    "cfgMonsterId": 101456
+  },
+  {
+    "recordId": 309,
+    "position": 2,
+    "cfgArmyId": 30405,
+    "cfgMonsterId": 101459
+  },
+  {
+    "recordId": 308,
+    "position": 5,
+    "cfgArmyId": 30404,
+    "cfgMonsterId": 101458
+  },
+  {
+    "recordId": 311,
+    "position": 4,
+    "cfgArmyId": 30405,
+    "cfgMonsterId": 101461
+  },
+  {
+    "recordId": 310,
+    "position": 8,
+    "cfgArmyId": 30405,
+    "cfgMonsterId": 101460
+  },
+  {
+    "recordId": 313,
+    "position": 6,
+    "cfgArmyId": 30405,
+    "cfgMonsterId": 101463
+  },
+  {
+    "recordId": 312,
+    "position": 5,
+    "cfgArmyId": 30405,
+    "cfgMonsterId": 101462
+  },
+  {
+    "recordId": 315,
+    "position": 1,
+    "cfgArmyId": 30406,
+    "cfgMonsterId": 101465
+  },
+  {
+    "recordId": 314,
+    "position": 5,
+    "cfgArmyId": 30406,
+    "cfgMonsterId": 101464
+  },
+  {
+    "recordId": 317,
+    "position": 4,
+    "cfgArmyId": 30406,
+    "cfgMonsterId": 101467
+  },
+  {
+    "recordId": 316,
+    "position": 6,
+    "cfgArmyId": 30406,
+    "cfgMonsterId": 101466
+  },
+  {
+    "recordId": 319,
+    "position": 2,
+    "cfgArmyId": 30407,
+    "cfgMonsterId": 101469
+  },
+  {
+    "recordId": 318,
+    "position": 9,
+    "cfgArmyId": 30406,
+    "cfgMonsterId": 101468
+  },
+  {
+    "recordId": 288,
+    "position": 3,
+    "cfgArmyId": 30320,
+    "cfgMonsterId": 101438
+  },
+  {
+    "recordId": 289,
+    "position": 1,
+    "cfgArmyId": 30401,
+    "cfgMonsterId": 101439
+  },
+  {
+    "recordId": 290,
+    "position": 4,
+    "cfgArmyId": 30401,
+    "cfgMonsterId": 101440
+  },
+  {
+    "recordId": 291,
+    "position": 7,
+    "cfgArmyId": 30401,
+    "cfgMonsterId": 101441
+  },
+  {
+    "recordId": 292,
+    "position": 5,
+    "cfgArmyId": 30401,
+    "cfgMonsterId": 101442
+  },
+  {
+    "recordId": 293,
+    "position": 8,
+    "cfgArmyId": 30401,
+    "cfgMonsterId": 101443
+  },
+  {
+    "recordId": 294,
+    "position": 8,
+    "cfgArmyId": 30402,
+    "cfgMonsterId": 101444
+  },
+  {
+    "recordId": 295,
+    "position": 5,
+    "cfgArmyId": 30402,
+    "cfgMonsterId": 101445
+  },
+  {
+    "recordId": 296,
+    "position": 2,
+    "cfgArmyId": 30402,
+    "cfgMonsterId": 101446
+  },
+  {
+    "recordId": 297,
+    "position": 1,
+    "cfgArmyId": 30402,
+    "cfgMonsterId": 101447
+  },
+  {
+    "recordId": 298,
+    "position": 3,
+    "cfgArmyId": 30402,
+    "cfgMonsterId": 101448
+  },
+  {
+    "recordId": 299,
+    "position": 7,
+    "cfgArmyId": 30403,
+    "cfgMonsterId": 101449
+  },
+  {
+    "recordId": 300,
+    "position": 2,
+    "cfgArmyId": 30403,
+    "cfgMonsterId": 101450
+  },
+  {
+    "recordId": 301,
+    "position": 9,
+    "cfgArmyId": 30403,
+    "cfgMonsterId": 101451
+  },
+  {
+    "recordId": 302,
+    "position": 5,
+    "cfgArmyId": 30403,
+    "cfgMonsterId": 101452
+  },
+  {
+    "recordId": 303,
+    "position": 8,
+    "cfgArmyId": 30403,
+    "cfgMonsterId": 101453
+  },
+  {
+    "recordId": 343,
+    "position": 8,
+    "cfgArmyId": 30411,
+    "cfgMonsterId": 101493
+  },
+  {
+    "recordId": 342,
+    "position": 5,
+    "cfgArmyId": 30411,
+    "cfgMonsterId": 101492
+  },
+  {
+    "recordId": 341,
+    "position": 9,
+    "cfgArmyId": 30411,
+    "cfgMonsterId": 101491
+  },
+  {
+    "recordId": 340,
+    "position": 2,
+    "cfgArmyId": 30411,
+    "cfgMonsterId": 101490
+  },
+  {
+    "recordId": 339,
+    "position": 7,
+    "cfgArmyId": 30411,
+    "cfgMonsterId": 101489
+  },
+  {
+    "recordId": 338,
+    "position": 3,
+    "cfgArmyId": 30410,
+    "cfgMonsterId": 101488
+  },
+  {
+    "recordId": 337,
+    "position": 1,
+    "cfgArmyId": 30410,
+    "cfgMonsterId": 101487
+  },
+  {
+    "recordId": 336,
+    "position": 2,
+    "cfgArmyId": 30410,
+    "cfgMonsterId": 101486
+  },
+  {
+    "recordId": 351,
+    "position": 4,
+    "cfgArmyId": 30413,
+    "cfgMonsterId": 101501
+  },
+  {
+    "recordId": 350,
+    "position": 8,
+    "cfgArmyId": 30413,
+    "cfgMonsterId": 101500
+  },
+  {
+    "recordId": 349,
+    "position": 2,
+    "cfgArmyId": 30413,
+    "cfgMonsterId": 101499
+  },
+  {
+    "recordId": 348,
+    "position": 5,
+    "cfgArmyId": 30412,
+    "cfgMonsterId": 101498
+  },
+  {
+    "recordId": 347,
+    "position": 9,
+    "cfgArmyId": 30412,
+    "cfgMonsterId": 101497
+  },
+  {
+    "recordId": 346,
+    "position": 3,
+    "cfgArmyId": 30412,
+    "cfgMonsterId": 101496
+  },
+  {
+    "recordId": 345,
+    "position": 1,
+    "cfgArmyId": 30412,
+    "cfgMonsterId": 101495
+  },
+  {
+    "recordId": 344,
+    "position": 7,
+    "cfgArmyId": 30412,
+    "cfgMonsterId": 101494
+  },
+  {
+    "recordId": 326,
+    "position": 5,
+    "cfgArmyId": 30408,
+    "cfgMonsterId": 101476
+  },
+  {
+    "recordId": 327,
+    "position": 9,
+    "cfgArmyId": 30408,
+    "cfgMonsterId": 101477
+  },
+  {
+    "recordId": 324,
+    "position": 1,
+    "cfgArmyId": 30408,
+    "cfgMonsterId": 101474
+  },
+  {
+    "recordId": 325,
+    "position": 7,
+    "cfgArmyId": 30408,
+    "cfgMonsterId": 101475
+  },
+  {
+    "recordId": 322,
+    "position": 8,
+    "cfgArmyId": 30407,
+    "cfgMonsterId": 101472
+  },
+  {
+    "recordId": 323,
+    "position": 6,
+    "cfgArmyId": 30407,
+    "cfgMonsterId": 101473
+  },
+  {
+    "recordId": 320,
+    "position": 5,
+    "cfgArmyId": 30407,
+    "cfgMonsterId": 101470
+  },
+  {
+    "recordId": 321,
+    "position": 4,
+    "cfgArmyId": 30407,
+    "cfgMonsterId": 101471
+  },
+  {
+    "recordId": 334,
+    "position": 8,
+    "cfgArmyId": 30410,
+    "cfgMonsterId": 101484
+  },
+  {
+    "recordId": 335,
+    "position": 5,
+    "cfgArmyId": 30410,
+    "cfgMonsterId": 101485
+  },
+  {
+    "recordId": 332,
+    "position": 5,
+    "cfgArmyId": 30409,
+    "cfgMonsterId": 101482
+  },
+  {
+    "recordId": 333,
+    "position": 8,
+    "cfgArmyId": 30409,
+    "cfgMonsterId": 101483
+  },
+  {
+    "recordId": 330,
+    "position": 4,
+    "cfgArmyId": 30409,
+    "cfgMonsterId": 101480
+  },
+  {
+    "recordId": 331,
+    "position": 7,
+    "cfgArmyId": 30409,
+    "cfgMonsterId": 101481
+  },
+  {
+    "recordId": 328,
+    "position": 3,
+    "cfgArmyId": 30408,
+    "cfgMonsterId": 101478
+  },
+  {
+    "recordId": 329,
+    "position": 1,
+    "cfgArmyId": 30409,
+    "cfgMonsterId": 101479
+  },
+  {
+    "recordId": 373,
+    "position": 8,
+    "cfgArmyId": 30417,
+    "cfgMonsterId": 101523
+  },
+  {
+    "recordId": 372,
+    "position": 5,
+    "cfgArmyId": 30417,
+    "cfgMonsterId": 101522
+  },
+  {
+    "recordId": 375,
+    "position": 5,
+    "cfgArmyId": 30418,
+    "cfgMonsterId": 101525
+  },
+  {
+    "recordId": 374,
+    "position": 8,
+    "cfgArmyId": 30418,
+    "cfgMonsterId": 101524
+  },
+  {
+    "recordId": 369,
+    "position": 1,
+    "cfgArmyId": 30417,
+    "cfgMonsterId": 101519
+  },
+  {
+    "recordId": 368,
+    "position": 3,
+    "cfgArmyId": 30416,
+    "cfgMonsterId": 101518
+  },
+  {
+    "recordId": 371,
+    "position": 7,
+    "cfgArmyId": 30417,
+    "cfgMonsterId": 101521
+  },
+  {
+    "recordId": 370,
+    "position": 4,
+    "cfgArmyId": 30417,
+    "cfgMonsterId": 101520
+  },
+  {
+    "recordId": 381,
+    "position": 9,
+    "cfgArmyId": 30419,
+    "cfgMonsterId": 101531
+  },
+  {
+    "recordId": 380,
+    "position": 2,
+    "cfgArmyId": 30419,
+    "cfgMonsterId": 101530
+  },
+  {
+    "recordId": 383,
+    "position": 8,
+    "cfgArmyId": 30419,
+    "cfgMonsterId": 101533
+  },
+  {
+    "recordId": 382,
+    "position": 5,
+    "cfgArmyId": 30419,
+    "cfgMonsterId": 101532
+  },
+  {
+    "recordId": 377,
+    "position": 1,
+    "cfgArmyId": 30418,
+    "cfgMonsterId": 101527
+  },
+  {
+    "recordId": 376,
+    "position": 2,
+    "cfgArmyId": 30418,
+    "cfgMonsterId": 101526
+  },
+  {
+    "recordId": 379,
+    "position": 7,
+    "cfgArmyId": 30419,
+    "cfgMonsterId": 101529
+  },
+  {
+    "recordId": 378,
+    "position": 3,
+    "cfgArmyId": 30418,
+    "cfgMonsterId": 101528
+  },
+  {
+    "recordId": 356,
+    "position": 6,
+    "cfgArmyId": 30414,
+    "cfgMonsterId": 101506
+  },
+  {
+    "recordId": 357,
+    "position": 4,
+    "cfgArmyId": 30414,
+    "cfgMonsterId": 101507
+  },
+  {
+    "recordId": 358,
+    "position": 9,
+    "cfgArmyId": 30414,
+    "cfgMonsterId": 101508
+  },
+  {
+    "recordId": 359,
+    "position": 2,
+    "cfgArmyId": 30415,
+    "cfgMonsterId": 101509
+  },
+  {
+    "recordId": 352,
+    "position": 5,
+    "cfgArmyId": 30413,
+    "cfgMonsterId": 101502
+  },
+  {
+    "recordId": 353,
+    "position": 6,
+    "cfgArmyId": 30413,
+    "cfgMonsterId": 101503
+  },
+  {
+    "recordId": 354,
+    "position": 5,
+    "cfgArmyId": 30414,
+    "cfgMonsterId": 101504
+  },
+  {
+    "recordId": 355,
+    "position": 1,
+    "cfgArmyId": 30414,
+    "cfgMonsterId": 101505
+  },
+  {
+    "recordId": 364,
+    "position": 1,
+    "cfgArmyId": 30416,
+    "cfgMonsterId": 101514
+  },
+  {
+    "recordId": 365,
+    "position": 7,
+    "cfgArmyId": 30416,
+    "cfgMonsterId": 101515
+  },
+  {
+    "recordId": 366,
+    "position": 5,
+    "cfgArmyId": 30416,
+    "cfgMonsterId": 101516
+  },
+  {
+    "recordId": 367,
+    "position": 9,
+    "cfgArmyId": 30416,
+    "cfgMonsterId": 101517
+  },
+  {
+    "recordId": 360,
+    "position": 5,
+    "cfgArmyId": 30415,
+    "cfgMonsterId": 101510
+  },
+  {
+    "recordId": 361,
+    "position": 4,
+    "cfgArmyId": 30415,
+    "cfgMonsterId": 101511
+  },
+  {
+    "recordId": 362,
+    "position": 8,
+    "cfgArmyId": 30415,
+    "cfgMonsterId": 101512
+  },
+  {
+    "recordId": 363,
+    "position": 6,
+    "cfgArmyId": 30415,
+    "cfgMonsterId": 101513
+  },
+  {
+    "recordId": 410,
+    "position": 1,
+    "cfgArmyId": 30505,
+    "cfgMonsterId": 107443
+  },
+  {
+    "recordId": 411,
+    "position": 6,
+    "cfgArmyId": 30505,
+    "cfgMonsterId": 107444
+  },
+  {
+    "recordId": 408,
+    "position": 6,
+    "cfgArmyId": 30504,
+    "cfgMonsterId": 107441
+  },
+  {
+    "recordId": 409,
+    "position": 5,
+    "cfgArmyId": 30505,
+    "cfgMonsterId": 107442
+  },
+  {
+    "recordId": 414,
+    "position": 2,
+    "cfgArmyId": 30506,
+    "cfgMonsterId": 107447
+  },
+  {
+    "recordId": 415,
+    "position": 5,
+    "cfgArmyId": 30506,
+    "cfgMonsterId": 107448
+  },
+  {
+    "recordId": 412,
+    "position": 4,
+    "cfgArmyId": 30505,
+    "cfgMonsterId": 107445
+  },
+  {
+    "recordId": 413,
+    "position": 9,
+    "cfgArmyId": 30505,
+    "cfgMonsterId": 107446
+  },
+  {
+    "recordId": 402,
+    "position": 9,
+    "cfgArmyId": 30503,
+    "cfgMonsterId": 107435
+  },
+  {
+    "recordId": 403,
+    "position": 5,
+    "cfgArmyId": 30503,
+    "cfgMonsterId": 107436
+  },
+  {
+    "recordId": 400,
+    "position": 1,
+    "cfgArmyId": 30503,
+    "cfgMonsterId": 107433
+  },
+  {
+    "recordId": 401,
+    "position": 3,
+    "cfgArmyId": 30503,
+    "cfgMonsterId": 107434
+  },
+  {
+    "recordId": 406,
+    "position": 4,
+    "cfgArmyId": 30504,
+    "cfgMonsterId": 107439
+  },
+  {
+    "recordId": 407,
+    "position": 5,
+    "cfgArmyId": 30504,
+    "cfgMonsterId": 107440
+  },
+  {
+    "recordId": 404,
+    "position": 2,
+    "cfgArmyId": 30504,
+    "cfgMonsterId": 107437
+  },
+  {
+    "recordId": 405,
+    "position": 8,
+    "cfgArmyId": 30504,
+    "cfgMonsterId": 107438
+  },
+  {
+    "recordId": 395,
+    "position": 2,
+    "cfgArmyId": 30502,
+    "cfgMonsterId": 107428
+  },
+  {
+    "recordId": 394,
+    "position": 7,
+    "cfgArmyId": 30502,
+    "cfgMonsterId": 107427
+  },
+  {
+    "recordId": 393,
+    "position": 3,
+    "cfgArmyId": 30501,
+    "cfgMonsterId": 107426
+  },
+  {
+    "recordId": 392,
+    "position": 1,
+    "cfgArmyId": 30501,
+    "cfgMonsterId": 107425
+  },
+  {
+    "recordId": 399,
+    "position": 7,
+    "cfgArmyId": 30503,
+    "cfgMonsterId": 107432
+  },
+  {
+    "recordId": 398,
+    "position": 8,
+    "cfgArmyId": 30502,
+    "cfgMonsterId": 107431
+  },
+  {
+    "recordId": 397,
+    "position": 5,
+    "cfgArmyId": 30502,
+    "cfgMonsterId": 107430
+  },
+  {
+    "recordId": 396,
+    "position": 9,
+    "cfgArmyId": 30502,
+    "cfgMonsterId": 107429
+  },
+  {
+    "recordId": 387,
+    "position": 9,
+    "cfgArmyId": 30420,
+    "cfgMonsterId": 101537
+  },
+  {
+    "recordId": 386,
+    "position": 3,
+    "cfgArmyId": 30420,
+    "cfgMonsterId": 101536
+  },
+  {
+    "recordId": 385,
+    "position": 1,
+    "cfgArmyId": 30420,
+    "cfgMonsterId": 101535
+  },
+  {
+    "recordId": 384,
+    "position": 7,
+    "cfgArmyId": 30420,
+    "cfgMonsterId": 101534
+  },
+  {
+    "recordId": 391,
+    "position": 2,
+    "cfgArmyId": 30501,
+    "cfgMonsterId": 107424
+  },
+  {
+    "recordId": 390,
+    "position": 5,
+    "cfgArmyId": 30501,
+    "cfgMonsterId": 107423
+  },
+  {
+    "recordId": 389,
+    "position": 8,
+    "cfgArmyId": 30501,
+    "cfgMonsterId": 107422
+  },
+  {
+    "recordId": 388,
+    "position": 5,
+    "cfgArmyId": 30420,
+    "cfgMonsterId": 101538
+  },
+  {
+    "recordId": 440,
+    "position": 1,
+    "cfgArmyId": 30511,
+    "cfgMonsterId": 107473
+  },
+  {
+    "recordId": 441,
+    "position": 3,
+    "cfgArmyId": 30511,
+    "cfgMonsterId": 107474
+  },
+  {
+    "recordId": 442,
+    "position": 9,
+    "cfgArmyId": 30511,
+    "cfgMonsterId": 107475
+  },
+  {
+    "recordId": 443,
+    "position": 5,
+    "cfgArmyId": 30511,
+    "cfgMonsterId": 107476
+  },
+  {
+    "recordId": 444,
+    "position": 2,
+    "cfgArmyId": 30512,
+    "cfgMonsterId": 107477
+  },
+  {
+    "recordId": 445,
+    "position": 8,
+    "cfgArmyId": 30512,
+    "cfgMonsterId": 107478
+  },
+  {
+    "recordId": 446,
+    "position": 4,
+    "cfgArmyId": 30512,
+    "cfgMonsterId": 107479
+  },
+  {
+    "recordId": 447,
+    "position": 5,
+    "cfgArmyId": 30512,
+    "cfgMonsterId": 107480
+  },
+  {
+    "recordId": 432,
+    "position": 1,
+    "cfgArmyId": 30509,
+    "cfgMonsterId": 107465
+  },
+  {
+    "recordId": 433,
+    "position": 3,
+    "cfgArmyId": 30509,
+    "cfgMonsterId": 107466
+  },
+  {
+    "recordId": 434,
+    "position": 7,
+    "cfgArmyId": 30510,
+    "cfgMonsterId": 107467
+  },
+  {
+    "recordId": 435,
+    "position": 2,
+    "cfgArmyId": 30510,
+    "cfgMonsterId": 107468
+  },
+  {
+    "recordId": 436,
+    "position": 9,
+    "cfgArmyId": 30510,
+    "cfgMonsterId": 107469
+  },
+  {
+    "recordId": 437,
+    "position": 5,
+    "cfgArmyId": 30510,
+    "cfgMonsterId": 107470
+  },
+  {
+    "recordId": 438,
+    "position": 8,
+    "cfgArmyId": 30510,
+    "cfgMonsterId": 107471
+  },
+  {
+    "recordId": 439,
+    "position": 7,
+    "cfgArmyId": 30511,
+    "cfgMonsterId": 107472
+  },
+  {
+    "recordId": 425,
+    "position": 4,
+    "cfgArmyId": 30508,
+    "cfgMonsterId": 107458
+  },
+  {
+    "recordId": 424,
+    "position": 1,
+    "cfgArmyId": 30508,
+    "cfgMonsterId": 107457
+  },
+  {
+    "recordId": 427,
+    "position": 5,
+    "cfgArmyId": 30508,
+    "cfgMonsterId": 107460
+  },
+  {
+    "recordId": 426,
+    "position": 7,
+    "cfgArmyId": 30508,
+    "cfgMonsterId": 107459
+  },
+  {
+    "recordId": 429,
+    "position": 8,
+    "cfgArmyId": 30509,
+    "cfgMonsterId": 107462
+  },
+  {
+    "recordId": 428,
+    "position": 8,
+    "cfgArmyId": 30508,
+    "cfgMonsterId": 107461
+  },
+  {
+    "recordId": 431,
+    "position": 2,
+    "cfgArmyId": 30509,
+    "cfgMonsterId": 107464
+  },
+  {
+    "recordId": 430,
+    "position": 5,
+    "cfgArmyId": 30509,
+    "cfgMonsterId": 107463
+  },
+  {
+    "recordId": 417,
+    "position": 8,
+    "cfgArmyId": 30506,
+    "cfgMonsterId": 107450
+  },
+  {
+    "recordId": 416,
+    "position": 4,
+    "cfgArmyId": 30506,
+    "cfgMonsterId": 107449
+  },
+  {
+    "recordId": 419,
+    "position": 1,
+    "cfgArmyId": 30507,
+    "cfgMonsterId": 107452
+  },
+  {
+    "recordId": 418,
+    "position": 6,
+    "cfgArmyId": 30506,
+    "cfgMonsterId": 107451
+  },
+  {
+    "recordId": 421,
+    "position": 5,
+    "cfgArmyId": 30507,
+    "cfgMonsterId": 107454
+  },
+  {
+    "recordId": 420,
+    "position": 7,
+    "cfgArmyId": 30507,
+    "cfgMonsterId": 107453
+  },
+  {
+    "recordId": 423,
+    "position": 3,
+    "cfgArmyId": 30507,
+    "cfgMonsterId": 107456
+  },
+  {
+    "recordId": 422,
+    "position": 9,
+    "cfgArmyId": 30507,
+    "cfgMonsterId": 107455
+  },
+  {
+    "recordId": 478,
+    "position": 8,
+    "cfgArmyId": 30518,
+    "cfgMonsterId": 107511
+  },
+  {
+    "recordId": 479,
+    "position": 2,
+    "cfgArmyId": 30519,
+    "cfgMonsterId": 107512
+  },
+  {
+    "recordId": 476,
+    "position": 9,
+    "cfgArmyId": 30518,
+    "cfgMonsterId": 107509
+  },
+  {
+    "recordId": 477,
+    "position": 5,
+    "cfgArmyId": 30518,
+    "cfgMonsterId": 107510
+  },
+  {
+    "recordId": 474,
+    "position": 7,
+    "cfgArmyId": 30518,
+    "cfgMonsterId": 107507
+  },
+  {
+    "recordId": 475,
+    "position": 2,
+    "cfgArmyId": 30518,
+    "cfgMonsterId": 107508
+  },
+  {
+    "recordId": 472,
+    "position": 1,
+    "cfgArmyId": 30517,
+    "cfgMonsterId": 107505
+  },
+  {
+    "recordId": 473,
+    "position": 3,
+    "cfgArmyId": 30517,
+    "cfgMonsterId": 107506
+  },
+  {
+    "recordId": 470,
+    "position": 5,
+    "cfgArmyId": 30517,
+    "cfgMonsterId": 107503
+  },
+  {
+    "recordId": 471,
+    "position": 2,
+    "cfgArmyId": 30517,
+    "cfgMonsterId": 107504
+  },
+  {
+    "recordId": 468,
+    "position": 8,
+    "cfgArmyId": 30516,
+    "cfgMonsterId": 107501
+  },
+  {
+    "recordId": 469,
+    "position": 8,
+    "cfgArmyId": 30517,
+    "cfgMonsterId": 107502
+  },
+  {
+    "recordId": 466,
+    "position": 7,
+    "cfgArmyId": 30516,
+    "cfgMonsterId": 107499
+  },
+  {
+    "recordId": 467,
+    "position": 5,
+    "cfgArmyId": 30516,
+    "cfgMonsterId": 107500
+  },
+  {
+    "recordId": 464,
+    "position": 1,
+    "cfgArmyId": 30516,
+    "cfgMonsterId": 107497
+  },
+  {
+    "recordId": 465,
+    "position": 4,
+    "cfgArmyId": 30516,
+    "cfgMonsterId": 107498
+  },
+  {
+    "recordId": 463,
+    "position": 3,
+    "cfgArmyId": 30515,
+    "cfgMonsterId": 107496
+  },
+  {
+    "recordId": 462,
+    "position": 9,
+    "cfgArmyId": 30515,
+    "cfgMonsterId": 107495
+  },
+  {
+    "recordId": 461,
+    "position": 5,
+    "cfgArmyId": 30515,
+    "cfgMonsterId": 107494
+  },
+  {
+    "recordId": 460,
+    "position": 7,
+    "cfgArmyId": 30515,
+    "cfgMonsterId": 107493
+  },
+  {
+    "recordId": 459,
+    "position": 1,
+    "cfgArmyId": 30515,
+    "cfgMonsterId": 107492
+  },
+  {
+    "recordId": 458,
+    "position": 6,
+    "cfgArmyId": 30514,
+    "cfgMonsterId": 107491
+  },
+  {
+    "recordId": 457,
+    "position": 8,
+    "cfgArmyId": 30514,
+    "cfgMonsterId": 107490
+  },
+  {
+    "recordId": 456,
+    "position": 4,
+    "cfgArmyId": 30514,
+    "cfgMonsterId": 107489
+  },
+  {
+    "recordId": 455,
+    "position": 5,
+    "cfgArmyId": 30514,
+    "cfgMonsterId": 107488
+  },
+  {
+    "recordId": 454,
+    "position": 2,
+    "cfgArmyId": 30514,
+    "cfgMonsterId": 107487
+  },
+  {
+    "recordId": 453,
+    "position": 9,
+    "cfgArmyId": 30513,
+    "cfgMonsterId": 107486
+  },
+  {
+    "recordId": 452,
+    "position": 4,
+    "cfgArmyId": 30513,
+    "cfgMonsterId": 107485
+  },
+  {
+    "recordId": 451,
+    "position": 6,
+    "cfgArmyId": 30513,
+    "cfgMonsterId": 107484
+  },
+  {
+    "recordId": 450,
+    "position": 1,
+    "cfgArmyId": 30513,
+    "cfgMonsterId": 107483
+  },
+  {
+    "recordId": 449,
+    "position": 5,
+    "cfgArmyId": 30513,
+    "cfgMonsterId": 107482
+  },
+  {
+    "recordId": 448,
+    "position": 6,
+    "cfgArmyId": 30512,
+    "cfgMonsterId": 107481
+  },
+  {
+    "recordId": 508,
+    "position": 7,
+    "cfgArmyId": 30604,
+    "cfgMonsterId": 110539
+  },
+  {
+    "recordId": 509,
+    "position": 1,
+    "cfgArmyId": 30605,
+    "cfgMonsterId": 110540
+  },
+  {
+    "recordId": 510,
+    "position": 3,
+    "cfgArmyId": 30605,
+    "cfgMonsterId": 110541
+  },
+  {
+    "recordId": 511,
+    "position": 5,
+    "cfgArmyId": 30605,
+    "cfgMonsterId": 110542
+  },
+  {
+    "recordId": 504,
+    "position": 1,
+    "cfgArmyId": 30604,
+    "cfgMonsterId": 110535
+  },
+  {
+    "recordId": 505,
+    "position": 5,
+    "cfgArmyId": 30604,
+    "cfgMonsterId": 110536
+  },
+  {
+    "recordId": 506,
+    "position": 8,
+    "cfgArmyId": 30604,
+    "cfgMonsterId": 110537
+  },
+  {
+    "recordId": 507,
+    "position": 3,
+    "cfgArmyId": 30604,
+    "cfgMonsterId": 110538
+  },
+  {
+    "recordId": 500,
+    "position": 3,
+    "cfgArmyId": 30603,
+    "cfgMonsterId": 110531
+  },
+  {
+    "recordId": 501,
+    "position": 5,
+    "cfgArmyId": 30603,
+    "cfgMonsterId": 110532
+  },
+  {
+    "recordId": 502,
+    "position": 2,
+    "cfgArmyId": 30603,
+    "cfgMonsterId": 110533
+  },
+  {
+    "recordId": 503,
+    "position": 9,
+    "cfgArmyId": 30603,
+    "cfgMonsterId": 110534
+  },
+  {
+    "recordId": 496,
+    "position": 3,
+    "cfgArmyId": 30602,
+    "cfgMonsterId": 110527
+  },
+  {
+    "recordId": 497,
+    "position": 8,
+    "cfgArmyId": 30602,
+    "cfgMonsterId": 110528
+  },
+  {
+    "recordId": 498,
+    "position": 2,
+    "cfgArmyId": 30602,
+    "cfgMonsterId": 110529
+  },
+  {
+    "recordId": 499,
+    "position": 1,
+    "cfgArmyId": 30603,
+    "cfgMonsterId": 110530
+  },
+  {
+    "recordId": 493,
+    "position": 8,
+    "cfgArmyId": 30601,
+    "cfgMonsterId": 110524
+  },
+  {
+    "recordId": 492,
+    "position": 9,
+    "cfgArmyId": 30601,
+    "cfgMonsterId": 110523
+  },
+  {
+    "recordId": 495,
+    "position": 5,
+    "cfgArmyId": 30602,
+    "cfgMonsterId": 110526
+  },
+  {
+    "recordId": 494,
+    "position": 1,
+    "cfgArmyId": 30602,
+    "cfgMonsterId": 110525
+  },
+  {
+    "recordId": 489,
+    "position": 2,
+    "cfgArmyId": 30601,
+    "cfgMonsterId": 110520
+  },
+  {
+    "recordId": 488,
+    "position": 4,
+    "cfgArmyId": 30520,
+    "cfgMonsterId": 107521
+  },
+  {
+    "recordId": 491,
+    "position": 7,
+    "cfgArmyId": 30601,
+    "cfgMonsterId": 110522
+  },
+  {
+    "recordId": 490,
+    "position": 5,
+    "cfgArmyId": 30601,
+    "cfgMonsterId": 110521
+  },
+  {
+    "recordId": 485,
+    "position": 5,
+    "cfgArmyId": 30520,
+    "cfgMonsterId": 107518
+  },
+  {
+    "recordId": 484,
+    "position": 2,
+    "cfgArmyId": 30520,
+    "cfgMonsterId": 107517
+  },
+  {
+    "recordId": 487,
+    "position": 8,
+    "cfgArmyId": 30520,
+    "cfgMonsterId": 107520
+  },
+  {
+    "recordId": 486,
+    "position": 6,
+    "cfgArmyId": 30520,
+    "cfgMonsterId": 107519
+  },
+  {
+    "recordId": 481,
+    "position": 4,
+    "cfgArmyId": 30519,
+    "cfgMonsterId": 107514
+  },
+  {
+    "recordId": 480,
+    "position": 3,
+    "cfgArmyId": 30519,
+    "cfgMonsterId": 107513
+  },
+  {
+    "recordId": 483,
+    "position": 8,
+    "cfgArmyId": 30519,
+    "cfgMonsterId": 107516
+  },
+  {
+    "recordId": 482,
+    "position": 7,
+    "cfgArmyId": 30519,
+    "cfgMonsterId": 107515
+  },
+  {
+    "recordId": 550,
+    "position": 2,
+    "cfgArmyId": 30613,
+    "cfgMonsterId": 110581
+  },
+  {
+    "recordId": 551,
+    "position": 3,
+    "cfgArmyId": 30613,
+    "cfgMonsterId": 110582
+  },
+  {
+    "recordId": 548,
+    "position": 7,
+    "cfgArmyId": 30612,
+    "cfgMonsterId": 110579
+  },
+  {
+    "recordId": 549,
+    "position": 1,
+    "cfgArmyId": 30613,
+    "cfgMonsterId": 110580
+  },
+  {
+    "recordId": 546,
+    "position": 3,
+    "cfgArmyId": 30612,
+    "cfgMonsterId": 110577
+  },
+  {
+    "recordId": 547,
+    "position": 8,
+    "cfgArmyId": 30612,
+    "cfgMonsterId": 110578
+  },
+  {
+    "recordId": 544,
+    "position": 1,
+    "cfgArmyId": 30612,
+    "cfgMonsterId": 110575
+  },
+  {
+    "recordId": 545,
+    "position": 2,
+    "cfgArmyId": 30612,
+    "cfgMonsterId": 110576
+  },
+  {
+    "recordId": 558,
+    "position": 4,
+    "cfgArmyId": 30614,
+    "cfgMonsterId": 110589
+  },
+  {
+    "recordId": 559,
+    "position": 2,
+    "cfgArmyId": 30615,
+    "cfgMonsterId": 110590
+  },
+  {
+    "recordId": 556,
+    "position": 5,
+    "cfgArmyId": 30614,
+    "cfgMonsterId": 110587
+  },
+  {
+    "recordId": 557,
+    "position": 9,
+    "cfgArmyId": 30614,
+    "cfgMonsterId": 110588
+  },
+  {
+    "recordId": 554,
+    "position": 3,
+    "cfgArmyId": 30614,
+    "cfgMonsterId": 110585
+  },
+  {
+    "recordId": 555,
+    "position": 7,
+    "cfgArmyId": 30614,
+    "cfgMonsterId": 110586
+  },
+  {
+    "recordId": 552,
+    "position": 5,
+    "cfgArmyId": 30613,
+    "cfgMonsterId": 110583
+  },
+  {
+    "recordId": 553,
+    "position": 7,
+    "cfgArmyId": 30613,
+    "cfgMonsterId": 110584
+  },
+  {
+    "recordId": 567,
+    "position": 9,
+    "cfgArmyId": 30616,
+    "cfgMonsterId": 110598
+  },
+  {
+    "recordId": 566,
+    "position": 7,
+    "cfgArmyId": 30616,
+    "cfgMonsterId": 110597
+  },
+  {
+    "recordId": 565,
+    "position": 3,
+    "cfgArmyId": 30616,
+    "cfgMonsterId": 110596
+  },
+  {
+    "recordId": 564,
+    "position": 1,
+    "cfgArmyId": 30616,
+    "cfgMonsterId": 110595
+  },
+  {
+    "recordId": 563,
+    "position": 5,
+    "cfgArmyId": 30615,
+    "cfgMonsterId": 110594
+  },
+  {
+    "recordId": 562,
+    "position": 4,
+    "cfgArmyId": 30615,
+    "cfgMonsterId": 110593
+  },
+  {
+    "recordId": 561,
+    "position": 7,
+    "cfgArmyId": 30615,
+    "cfgMonsterId": 110592
+  },
+  {
+    "recordId": 560,
+    "position": 3,
+    "cfgArmyId": 30615,
+    "cfgMonsterId": 110591
+  },
+  {
+    "recordId": 575,
+    "position": 5,
+    "cfgArmyId": 30618,
+    "cfgMonsterId": 110606
+  },
+  {
+    "recordId": 574,
+    "position": 3,
+    "cfgArmyId": 30618,
+    "cfgMonsterId": 110605
+  },
+  {
+    "recordId": 573,
+    "position": 5,
+    "cfgArmyId": 30617,
+    "cfgMonsterId": 110604
+  },
+  {
+    "recordId": 572,
+    "position": 8,
+    "cfgArmyId": 30617,
+    "cfgMonsterId": 110603
+  },
+  {
+    "recordId": 571,
+    "position": 6,
+    "cfgArmyId": 30617,
+    "cfgMonsterId": 110602
+  },
+  {
+    "recordId": 570,
+    "position": 4,
+    "cfgArmyId": 30617,
+    "cfgMonsterId": 110601
+  },
+  {
+    "recordId": 569,
+    "position": 2,
+    "cfgArmyId": 30617,
+    "cfgMonsterId": 110600
+  },
+  {
+    "recordId": 568,
+    "position": 5,
+    "cfgArmyId": 30616,
+    "cfgMonsterId": 110599
+  },
+  {
+    "recordId": 516,
+    "position": 9,
+    "cfgArmyId": 30606,
+    "cfgMonsterId": 110547
+  },
+  {
+    "recordId": 517,
+    "position": 3,
+    "cfgArmyId": 30606,
+    "cfgMonsterId": 110548
+  },
+  {
+    "recordId": 518,
+    "position": 4,
+    "cfgArmyId": 30606,
+    "cfgMonsterId": 110549
+  },
+  {
+    "recordId": 519,
+    "position": 1,
+    "cfgArmyId": 30607,
+    "cfgMonsterId": 110550
+  },
+  {
+    "recordId": 512,
+    "position": 8,
+    "cfgArmyId": 30605,
+    "cfgMonsterId": 110543
+  },
+  {
+    "recordId": 513,
+    "position": 9,
+    "cfgArmyId": 30605,
+    "cfgMonsterId": 110544
+  },
+  {
+    "recordId": 514,
+    "position": 2,
+    "cfgArmyId": 30606,
+    "cfgMonsterId": 110545
+  },
+  {
+    "recordId": 515,
+    "position": 8,
+    "cfgArmyId": 30606,
+    "cfgMonsterId": 110546
+  },
+  {
+    "recordId": 524,
+    "position": 3,
+    "cfgArmyId": 30608,
+    "cfgMonsterId": 110555
+  },
+  {
+    "recordId": 525,
+    "position": 5,
+    "cfgArmyId": 30608,
+    "cfgMonsterId": 110556
+  },
+  {
+    "recordId": 526,
+    "position": 2,
+    "cfgArmyId": 30608,
+    "cfgMonsterId": 110557
+  },
+  {
+    "recordId": 527,
+    "position": 9,
+    "cfgArmyId": 30608,
+    "cfgMonsterId": 110558
+  },
+  {
+    "recordId": 520,
+    "position": 2,
+    "cfgArmyId": 30607,
+    "cfgMonsterId": 110551
+  },
+  {
+    "recordId": 521,
+    "position": 3,
+    "cfgArmyId": 30607,
+    "cfgMonsterId": 110552
+  },
+  {
+    "recordId": 522,
+    "position": 5,
+    "cfgArmyId": 30607,
+    "cfgMonsterId": 110553
+  },
+  {
+    "recordId": 523,
+    "position": 7,
+    "cfgArmyId": 30607,
+    "cfgMonsterId": 110554
+  },
+  {
+    "recordId": 533,
+    "position": 8,
+    "cfgArmyId": 30609,
+    "cfgMonsterId": 110564
+  },
+  {
+    "recordId": 532,
+    "position": 6,
+    "cfgArmyId": 30609,
+    "cfgMonsterId": 110563
+  },
+  {
+    "recordId": 535,
+    "position": 2,
+    "cfgArmyId": 30610,
+    "cfgMonsterId": 110566
+  },
+  {
+    "recordId": 534,
+    "position": 1,
+    "cfgArmyId": 30610,
+    "cfgMonsterId": 110565
+  },
+  {
+    "recordId": 529,
+    "position": 2,
+    "cfgArmyId": 30609,
+    "cfgMonsterId": 110560
+  },
+  {
+    "recordId": 528,
+    "position": 1,
+    "cfgArmyId": 30608,
+    "cfgMonsterId": 110559
+  },
+  {
+    "recordId": 531,
+    "position": 4,
+    "cfgArmyId": 30609,
+    "cfgMonsterId": 110562
+  },
+  {
+    "recordId": 530,
+    "position": 3,
+    "cfgArmyId": 30609,
+    "cfgMonsterId": 110561
+  },
+  {
+    "recordId": 541,
+    "position": 5,
+    "cfgArmyId": 30611,
+    "cfgMonsterId": 110572
+  },
+  {
+    "recordId": 540,
+    "position": 3,
+    "cfgArmyId": 30611,
+    "cfgMonsterId": 110571
+  },
+  {
+    "recordId": 543,
+    "position": 9,
+    "cfgArmyId": 30611,
+    "cfgMonsterId": 110574
+  },
+  {
+    "recordId": 542,
+    "position": 7,
+    "cfgArmyId": 30611,
+    "cfgMonsterId": 110573
+  },
+  {
+    "recordId": 537,
+    "position": 8,
+    "cfgArmyId": 30610,
+    "cfgMonsterId": 110568
+  },
+  {
+    "recordId": 536,
+    "position": 3,
+    "cfgArmyId": 30610,
+    "cfgMonsterId": 110567
+  },
+  {
+    "recordId": 539,
+    "position": 2,
+    "cfgArmyId": 30611,
+    "cfgMonsterId": 110570
+  },
+  {
+    "recordId": 538,
+    "position": 5,
+    "cfgArmyId": 30610,
+    "cfgMonsterId": 110569
+  },
+  {
+    "recordId": 576,
+    "position": 2,
+    "cfgArmyId": 30618,
+    "cfgMonsterId": 110607
+  },
+  {
+    "recordId": 577,
+    "position": 7,
+    "cfgArmyId": 30618,
+    "cfgMonsterId": 110608
+  },
+  {
+    "recordId": 578,
+    "position": 1,
+    "cfgArmyId": 30618,
+    "cfgMonsterId": 110609
+  },
+  {
+    "recordId": 579,
+    "position": 1,
+    "cfgArmyId": 30619,
+    "cfgMonsterId": 110610
+  },
+  {
+    "recordId": 580,
+    "position": 3,
+    "cfgArmyId": 30619,
+    "cfgMonsterId": 110611
+  },
+  {
+    "recordId": 581,
+    "position": 5,
+    "cfgArmyId": 30619,
+    "cfgMonsterId": 110612
+  },
+  {
+    "recordId": 582,
+    "position": 7,
+    "cfgArmyId": 30619,
+    "cfgMonsterId": 110613
+  },
+  {
+    "recordId": 583,
+    "position": 2,
+    "cfgArmyId": 30619,
+    "cfgMonsterId": 110614
+  },
+  {
+    "recordId": 584,
+    "position": 8,
+    "cfgArmyId": 30620,
+    "cfgMonsterId": 110615
+  },
+  {
+    "recordId": 585,
+    "position": 4,
+    "cfgArmyId": 30620,
+    "cfgMonsterId": 110616
+  },
+  {
+    "recordId": 586,
+    "position": 6,
+    "cfgArmyId": 30620,
+    "cfgMonsterId": 110617
+  },
+  {
+    "recordId": 587,
+    "position": 5,
+    "cfgArmyId": 30620,
+    "cfgMonsterId": 110618
+  },
+  {
+    "recordId": 588,
+    "position": 2,
+    "cfgArmyId": 30620,
+    "cfgMonsterId": 110619
+  }
+]

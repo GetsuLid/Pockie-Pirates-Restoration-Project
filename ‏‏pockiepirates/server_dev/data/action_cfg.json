@@ -1,0 +1,187 @@
+[
+  {
+    "maxCount": 1,
+    "action": 1,
+    "tip": "Taxation"
+  },
+  {
+    "maxCount": 1,
+    "action": 2,
+    "tip": "Arena Duel"
+  },
+  {
+    "maxCount": 1,
+    "action": 3,
+    "tip": "Enhance"
+  },
+  {
+    "maxCount": 1,
+    "action": 4,
+    "tip": "Crew Develop"
+  },
+  {
+    "maxCount": 1,
+    "action": 5,
+    "tip": "Fishing"
+  },
+  {
+    "maxCount": 1,
+    "action": 6,
+    "tip": "Aptitude Upgrade"
+  },
+  {
+    "maxCount": 1,
+    "action": 7,
+    "tip": "Warship Upgrade"
+  },
+  {
+    "maxCount": 1,
+    "action": 8,
+    "tip": "Trade"
+  },
+  {
+    "maxCount": 1,
+    "action": 9,
+    "tip": "Plunder"
+  },
+  {
+    "maxCount": 1,
+    "action": 10,
+    "tip": "Whitebeard"
+  },
+  {
+    "maxCount": 1,
+    "action": 11,
+    "tip": "Training"
+  },
+  {
+    "maxCount": 1,
+    "action": 12,
+    "tip": "Tournament"
+  },
+  {
+    "maxCount": 1,
+    "action": 13,
+    "tip": "Shadow Hunting"
+  },
+  {
+    "maxCount": 1,
+    "action": 14,
+    "tip": "Salvage"
+  },
+  {
+    "maxCount": 1,
+    "action": 15,
+    "tip": "Battle"
+  },
+  {
+    "maxCount": 1,
+    "action": 17,
+    "tip": "Davy Back Fight"
+  },
+  {
+    "maxCount": 1,
+    "action": 16,
+    "tip": "Team Battle"
+  },
+  {
+    "maxCount": 1,
+    "action": 19,
+    "tip": "Dungeon Chances"
+  },
+  {
+    "maxCount": 1,
+    "action": 18,
+    "tip": "Bounty Claim"
+  },
+  {
+    "maxCount": 1,
+    "action": 21,
+    "tip": "Vitality Bought"
+  },
+  {
+    "maxCount": 1,
+    "action": 20,
+    "tip": "Gold Spent"
+  },
+  {
+    "maxCount": 1,
+    "action": 23,
+    "tip": "Trial"
+  },
+  {
+    "maxCount": 1,
+    "action": 22,
+    "tip": "Beast Interaction"
+  },
+  {
+    "maxCount": 1,
+    "action": 25,
+    "tip": "Shop Purchase"
+  },
+  {
+    "maxCount": 1,
+    "action": 24,
+    "tip": "Advanced Hunting"
+  },
+  {
+    "maxCount": 1,
+    "action": 27,
+    "tip": "Beast Adventure"
+  },
+  {
+    "maxCount": 1,
+    "action": 26,
+    "tip": "Beast Attribute Growth"
+  },
+  {
+    "maxCount": 1,
+    "action": 29,
+    "tip": "Set Star Upgrade"
+  },
+  {
+    "maxCount": 1,
+    "action": 28,
+    "tip": "Equipment Melting"
+  },
+  {
+    "maxCount": 1,
+    "action": 31,
+    "tip": "Slave Taken"
+  },
+  {
+    "maxCount": 1,
+    "action": 30,
+    "tip": "Impel Down Challenge"
+  },
+  {
+    "maxCount": 1,
+    "action": 34,
+    "tip": "Daily cooking quest"
+  },
+  {
+    "maxCount": 1,
+    "action": 35,
+    "tip": "Daily food making"
+  },
+  {
+    "maxCount": 1,
+    "action": 32,
+    "tip": "Legion Contribution"
+  },
+  {
+    "maxCount": 1,
+    "action": 33,
+    "tip": "Daily loop sailing quest"
+  },
+  {
+    "maxCount": 1,
+    "action": 36,
+    "tip": "Daily sea adventure"
+  },
+  {
+    "maxCount": 1,
+    "action": 37,
+    "tip": "Daily port invenstment"
+  }
+]

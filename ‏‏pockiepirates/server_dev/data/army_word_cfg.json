@@ -1,0 +1,8572 @@
+[
+  {
+    "recordId": 1,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "What a nice nap that was. I'm Luffy and I'm hungry! Now where am I? ",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 2,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Eh, there's someone in the barrel? I'm -0-. This is Alvida's pirate ship and I'm here to defeat her.",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 3,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 3,
+    "face": 10079,
+    "idx": 3,
+    "content": "Ah! Don't beat me... My name is Coby, a caretaker serving Alvida, but I want to escape! I just don't have the guts to do it…",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 4,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 4,
+    "content": "Well, how about you help me find some food then run away with me when I'm full?",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 5,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 3,
+    "face": 10079,
+    "idx": 5,
+    "content": "No way...My legs will tremble whenever I think I'll be captured by Alvida...",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 6,
+    "name": "Pirate Swordsman",
+    "order": 0,
+    "dialog": 6,
+    "face": 10004,
+    "idx": 6,
+    "content": "Hey! Who's hiding there?!",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 7,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "You're pretty stupid and useless, and you seem kinda wimpy, Coby. I don't like you.",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 8,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 4,
+    "face": 10079,
+    "idx": 2,
+    "content": "(So direct...) Er... So, Luffy, why are you sailing? ",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 9,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "Me? Hehe... I want to become the Pirate King!",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 10,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 4,
+    "content": "Are you telling me you're looking for the greatest treasure in the world, the [One Piece]? Aren't you scared?",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 11,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 5,
+    "content": "This is my dream, so I wouldn't even mind dying for it!",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 12,
+    "name": "0",
+    "order": 1,
+    "dialog": 3,
+    "face": 0,
+    "idx": 6,
+    "content": "(He's thinking the same thing as me...)",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 13,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 6,
+    "face": 10079,
+    "idx": 7,
+    "content": "If I'm willing to die...Will I accomplish it...? Will I be able... to become a Marine? I...I want to arrest Alvida!!",
+    "cfgArmyId": 10101
+  },
+  {
+    "recordId": 14,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Hurry up, Coby! Let's find the villagers.",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 15,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 4,
+    "face": 10079,
+    "idx": 2,
+    "content": "Lu...Luffy, are you serious? What if Alvida finds out...",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 16,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "You're such a coward, Coby. Don't worry, we're here. Alvida won't dare bully you again. ",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 17,
+    "name": "Peppoko",
+    "order": 0,
+    "dialog": 1,
+    "face": 10019,
+    "idx": 4,
+    "content": "Hey! Who's there! ",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 18,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 5,
+    "content": "Shoot, we're done for!",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 19,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 6,
+    "content": "What are you afraid of, Coby? -0- , let's go!",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 20,
+    "name": "0",
+    "order": 0,
+    "dialog": 6,
+    "face": 0,
+    "idx": 7,
+    "content": "No problem!",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 21,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Are the Alvida pirates all as weak as this? That's boring!",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 22,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 2,
+    "content": "Eh...Luffy, you're really strong.",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 23,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 3,
+    "content": "Luffy, I found the captured villagers. Let's escort them back to the village first.",
+    "cfgArmyId": 10105
+  },
+  {
+    "recordId": 24,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Hey Coby, where's Alvida? I'm starving...I need meat! ",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 25,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 2,
+    "content": "The storage room is right over there. Maybe we can find some food there.",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 26,
+    "name": "0",
+    "order": 0,
+    "dialog": 5,
+    "face": 0,
+    "idx": 3,
+    "content": "Someone's here!",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 27,
+    "name": "Heppoko",
+    "order": 0,
+    "dialog": 2,
+    "face": 10009,
+    "idx": 4,
+    "content": "Who are you, boy? How dare you intrude on the Alvida Pirates' ship!",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 28,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 5,
+    "content": "Don't stop me from eating meat!",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 29,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Great, done! Now which one shall I choose...I'll start with this! ",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 30,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Luffy, be quick. We still need to deal with Alvida.",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 31,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 3,
+    "face": 10024,
+    "idx": 3,
+    "content": "Mmmm...Okay....",
+    "cfgArmyId": 10205
+  },
+  {
+    "recordId": 32,
+    "name": "Rene",
+    "order": 0,
+    "dialog": 1,
+    "face": 10061,
+    "idx": 1,
+    "content": "Wait, -0- . Let me join you! ",
+    "cfgArmyId": 10301
+  },
+  {
+    "recordId": 33,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Great! We can save a lot of time with Miss Rene here.",
+    "cfgArmyId": 10301
+  },
+  {
+    "recordId": 34,
+    "name": "Rene",
+    "order": 0,
+    "dialog": 1,
+    "face": 10061,
+    "idx": 3,
+    "content": "Fufufu, I'm a rather skilled swordsman. My skill can greatly decrease an enemy's attack, so leave the defense to me!",
+    "cfgArmyId": 10301
+  },
+  {
+    "recordId": 35,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 4,
+    "content": "What a relief. Thanks for your help, Rene!",
+    "cfgArmyId": 10301
+  },
+  {
+    "recordId": 36,
+    "name": "Alvida",
+    "order": 0,
+    "dialog": 5,
+    "face": 10012,
+    "idx": 1,
+    "content": "Who did you say you are going to arrest, Coby? Did you think you can escape from me? ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 37,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 4,
+    "face": 10079,
+    "idx": 2,
+    "content": "I...I...",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 38,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "Coby, tell her who you're going to arrest! ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 39,
+    "name": "Coby",
+    "order": 0,
+    "dialog": 6,
+    "face": 10079,
+    "idx": 4,
+    "content": "I...I'll become a Marine and arrest you, you fat and ugly hag!!!",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 40,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 5,
+    "content": "Haha!",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 41,
+    "name": "Alvida",
+    "order": 0,
+    "dialog": 6,
+    "face": 10012,
+    "idx": 6,
+    "content": "(Angry) Do you know what you're saying?! You're dead, you brat! ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 42,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 7,
+    "content": "Coby, get behind me. Let me deal with this \"fat and ugly hag\"!",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 43,
+    "name": "Heppoko",
+    "order": 1,
+    "dialog": 1,
+    "face": 10009,
+    "idx": 1,
+    "content": "His arm extended...Captain Alvida was beaten...",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 44,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "Prepare a boat for us. Coby wants to join the Marines, so stay out of his way! ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 45,
+    "name": "Heppoko",
+    "order": 1,
+    "dialog": 3,
+    "face": 10009,
+    "idx": 3,
+    "content": "Y...Yes",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 46,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 4,
+    "content": "You actually ate the Devil Fruit. That's surprising...",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 47,
+    "name": "0",
+    "order": 1,
+    "dialog": 5,
+    "face": 0,
+    "idx": 5,
+    "content": "Devil Fruit...",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 48,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 2,
+    "face": 10079,
+    "idx": 6,
+    "content": "But, you have to get into the Grand Line if you're looking for the [One Piece]...",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 49,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 7,
+    "content": "Yes, that's why I need friends.",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 50,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 8,
+    "content": "Er...Luffy, can we adventure together?",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 51,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 9,
+    "content": "Sure, you're pretty good! I'm looking for someone in Shells Town, come with me.",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 52,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 10,
+    "content": "Someone... You don't mean the pirate hunter Zoro? ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 53,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 11,
+    "content": "Yup. If he's a good guy, I'd ask him to join me. ",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 54,
+    "name": "？？",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 12,
+    "content": "You ate the Devil Fruit. You guys seem quite strong.",
+    "cfgArmyId": 10310
+  },
+  {
+    "recordId": 55,
+    "name": "Marine Enforcement Team Leader",
+    "order": 0,
+    "dialog": 5,
+    "face": 10076,
+    "idx": 1,
+    "content": "Invaders!",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 56,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "( Luffy and -0- rescued Zoro successfully) I heard that you're quite strong. Where's your sword?",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 57,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "Taken away by Lieutenant Morgan's bastard son Helmeppo.",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 58,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 3,
+    "content": "Then how about this? I'll get your sword back and then you join me! I'm the man who will become the Pirate King!",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 59,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "A pirate? ...I'll never join you.",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 60,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "Hey...Straw Hat, can you pick that rice roll up for me? ",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 61,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 6,
+    "content": "It's all muddy. You want to eat this?! ",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 62,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 7,
+    "content": "Shut up.",
+    "cfgArmyId": 10403
+  },
+  {
+    "recordId": 63,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "Give Zoro's swords back!",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 64,
+    "name": "Helmeppo",
+    "order": 0,
+    "dialog": 6,
+    "face": 10073,
+    "idx": 2,
+    "content": "I won't make it easy for you!",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 65,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 3,
+    "content": "Then I'll let you taste my fists!",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 66,
+    "name": "？？",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 1,
+    "content": "Ignoring the treasure for some broken swords. What an idiot. Lucky me!",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 67,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 2,
+    "content": "(Luffy got Zoro's sword back) Which one is your sword? I couldn't figure it out, so I brought all three of them.",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 68,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 3,
+    "content": "All three belong to me. I use three swords.",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 69,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 4,
+    "content": "Now will you accept my proposal? Although defying the Marines together with me will make you an outlaw. Or you want to die here? ",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 70,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "What a troublesome man...",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 71,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 6,
+    "content": "Anyway, let's go back first. Rika must be worried about us.",
+    "cfgArmyId": 10405
+  },
+  {
+    "recordId": 72,
+    "name": "Commander Ripper",
+    "order": 0,
+    "dialog": 1,
+    "face": 10076,
+    "idx": 1,
+    "content": "You're stronger than I thought… no matter, prepare to die!",
+    "cfgArmyId": 10505
+  },
+  {
+    "recordId": 73,
+    "name": "Marine",
+    "order": 1,
+    "dialog": 1,
+    "face": 10075,
+    "idx": 1,
+    "content": "(Panic with cold sweat) That guy is unbelievable... How did he manage to repel those bullets?! ",
+    "cfgArmyId": 10505
+  },
+  {
+    "recordId": 74,
+    "name": "Commander Ripper",
+    "order": 1,
+    "dialog": 2,
+    "face": 10076,
+    "idx": 2,
+    "content": "He doesn't seem normal. He must have eaten some kind of Devil Fruit. ",
+    "cfgArmyId": 10505
+  },
+  {
+    "recordId": 75,
+    "name": "Marine",
+    "order": 1,
+    "dialog": 5,
+    "face": 10075,
+    "idx": 3,
+    "content": "Devil fruit? He ate the ocean's secret treasure?",
+    "cfgArmyId": 10505
+  },
+  {
+    "recordId": 76,
+    "name": "Marine",
+    "order": 0,
+    "dialog": 5,
+    "face": 10075,
+    "idx": 1,
+    "content": "Capture him!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 77,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 1,
+    "content": "You...I'd say you are the offspring of the devil. Anyway, after this incident with the marines, I'll agree to...become a pirate!  ",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 78,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 2,
+    "content": "But...I have my own ambition! ",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 79,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "Yes! You're now one of our companions!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 80,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 4,
+    "content": "(Sweat) Ambition? What kind of ambition? ",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 81,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "I'm going to be the world's greatest swordsman! If you do something that ends up in the way of my goal, I'll have you cut your stomach open to say sorry! ",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 82,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 6,
+    "content": "The world's greatest swordsman, good! Since you're the pirate king's crew member, you have to accomplish something like this!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 83,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 7,
+    "content": "Heh, well said. Good or bad no longer matters as long as my name is known worldwide!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 84,
+    "name": "Marine",
+    "order": 1,
+    "dialog": 3,
+    "face": 10075,
+    "idx": 8,
+    "content": "Lieutenant...They're too strong. We can't defeat them!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 85,
+    "name": "Morgan",
+    "order": 1,
+    "dialog": 6,
+    "face": 10010,
+    "idx": 9,
+    "content": "This is an order: Whoever just said that, shoot and kill yourself!",
+    "cfgArmyId": 10606
+  },
+  {
+    "recordId": 86,
+    "name": "Morgan",
+    "order": 0,
+    "dialog": 5,
+    "face": 10010,
+    "idx": 1,
+    "content": "What are you waiting for? Go kill them!",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 87,
+    "name": "Marine",
+    "order": 0,
+    "dialog": 4,
+    "face": 10075,
+    "idx": 2,
+    "content": "(Scared and stepping back) They're too strong. We can't even defeat Zoro alone! Not to mention a man who ate the devil fruit…",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 88,
+    "name": "Morgan",
+    "order": 0,
+    "dialog": 1,
+    "face": 10010,
+    "idx": 3,
+    "content": "Humph, useless trash. I'll kill you myself!",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 89,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "You're someone who only knows how to boast about himself. I'll beat you down in one hit.",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 90,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 1,
+    "face": 10079,
+    "idx": 1,
+    "content": "Morgan has been defeated. Great!",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 91,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 5,
+    "face": 10079,
+    "idx": 2,
+    "content": "Luffy, Zoro, and -0-, thank you all...You give me courage! I'm going to Marine Headquarters with the ship! ",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 92,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 3,
+    "content": "Haha. Once you're a marine, please be lenient on us, Coby!",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 93,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 3,
+    "face": 10079,
+    "idx": 4,
+    "content": "(Crying loudly) I'll miss you…",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 94,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 5,
+    "content": "Stop crying. That's why I don't like him. Let's go, -0-, Zoro.",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 95,
+    "name": "Coby",
+    "order": 1,
+    "dialog": 5,
+    "face": 10079,
+    "idx": 6,
+    "content": "(Excited) We'll meet again on the Grand Line someday! ",
+    "cfgArmyId": 10610
+  },
+  {
+    "recordId": 96,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 1,
+    "content": "Ah, boss, you're finally here to save me. ",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 97,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Huh? Who are you?",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 98,
+    "name": "Pirate Swordsman",
+    "order": 0,
+    "dialog": 1,
+    "face": 10004,
+    "idx": 3,
+    "content": "Hey, hand out the nautical chart!",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 99,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 1,
+    "content": "I'm Nami, a thief who only steals treasure from pirates. ",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 100,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Pirate burglar? Why did you steal nautical map? Do you know how to navigate?",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 101,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 3,
+    "content": "I'm a navigator. My skill is first class!",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 102,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 4,
+    "content": "Then you can come join in as my navigator.",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 103,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 5,
+    "content": "No problem, as long as you take me to find captain Buggy.",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 104,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 6,
+    "content": "Sure, deal!",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 105,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 7,
+    "content": "(Nami bound -0- and went to see Buggy) I came into an argument with my boss, so I'll give him to you. Please let me join your crew, Mister Buggy!",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 106,
+    "name": "Buggy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10011,
+    "idx": 8,
+    "content": "Hahaha, sure, I'll let you join my crew…",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 107,
+    "name": "Buggy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10011,
+    "idx": 9,
+    "content": "But first, use this Buggy Cannonball to get rid of your old boss and swear to me your loyalty! ",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 108,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 10,
+    "content": "Ah...Boss, drink, let's drink. Just ignore that guy.",
+    "cfgArmyId": 10705
+  },
+  {
+    "recordId": 109,
+    "name": "Buggy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 1,
+    "content": "Nami, are you disobeying my order? Do you want to betray me? ",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 110,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "Please let me explain!",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 111,
+    "name": "Buggy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10011,
+    "idx": 3,
+    "content": "There's nothing to explain. Mohji, go kill Nami and this boy.",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 112,
+    "name": "Mohji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10078,
+    "idx": 4,
+    "content": "Lying to the great captain Buggy. Go die!",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 113,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "(Luffy and others arrived) -0-, how did you get captured? ",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 114,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "And you are?",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 115,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "They are my friends. This is Nami, my new navigator! ",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 116,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "Let me clarify first, I never said I was going to join you. ",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 117,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 3,
+    "content": "You're injured -0-. Let's get back to the town first.",
+    "cfgArmyId": 10710
+  },
+  {
+    "recordId": 118,
+    "name": "Cabaji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10074,
+    "idx": 1,
+    "content": "So you are the pirate hunter Zoro. Let's see if you're as strong as they say!",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 119,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "I'd suggest you not. Otherwise you'll die.",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 120,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 3,
+    "content": "Zoro, let me help you.",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 121,
+    "name": "Cabaji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10074,
+    "idx": 4,
+    "content": "Then I'll slay you two together!",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 122,
+    "name": "Pirate Swordsman",
+    "order": 1,
+    "dialog": 3,
+    "face": 10004,
+    "idx": 1,
+    "content": "Ahhh, Mohji and Cabaji are all beaten. Run, everybody! ",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 123,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "Cabaji the Acrobat is too weak. Boring!",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 124,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 3,
+    "content": "Hey, don't just try to act cool. Let's head back to town and rest before dealing with Buggy next. ",
+    "cfgArmyId": 10810
+  },
+  {
+    "recordId": 125,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "That damned red nose!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 126,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 4,
+    "face": 10030,
+    "idx": 2,
+    "content": "(Frightened) You can't say that name. I know you're strong, but Buggy's not weak either!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 127,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "Huh, why should we be afraid of that red nose?",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 128,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "Mmmm, that red nose will be a good object for me to test my sword on.",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 129,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 5,
+    "content": "I heard you talking and I'm really angry! It's time to show you my real strength! ",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 130,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 6,
+    "content": "Humph...Red nose, watch out my Gum-Gum Pistol!!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 131,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 3,
+    "face": 10024,
+    "idx": 1,
+    "content": "(Luffy's hat was damaged during the fight) I promised Shanks that I would return this hat to him…",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 132,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "The hat means so much to you? I can fix it for you, Luffy.",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 133,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "Really? Thank you so much, Nami!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 134,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 4,
+    "content": "Here's your hat.",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 135,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 5,
+    "content": "Awesome!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 136,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 6,
+    "content": "Nami, would you like to be our navigator?",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 137,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 7,
+    "content": "No no, this was just a one-time cooperation. I only like money and oranges! ",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 138,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 8,
+    "content": "That's fine. Let's go!",
+    "cfgArmyId": 10915
+  },
+  {
+    "recordId": 139,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 5,
+    "face": 10029,
+    "idx": 1,
+    "content": "I can't just let people get killed. I'm going to stop these pirates! ",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 140,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "I didn't know you were this brave.",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 141,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 3,
+    "content": "Well, let us lend you a hand.",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 142,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 4,
+    "content": "I don't need your pity!",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 143,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "I won't fight out of pity!",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 144,
+    "name": "Chief Swordsman",
+    "order": 0,
+    "dialog": 5,
+    "face": 10004,
+    "idx": 6,
+    "content": "You want to stop us? Hahahahaha! ",
+    "cfgArmyId": 11104
+  },
+  {
+    "recordId": 145,
+    "name": "Jango",
+    "order": 0,
+    "dialog": 1,
+    "face": 10083,
+    "idx": 1,
+    "content": "You think that is the end? (Jango hypnotizes his crew, increasing their strength.)",
+    "cfgArmyId": 11108
+  },
+  {
+    "recordId": 146,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "Zzzzzzzzz",
+    "cfgArmyId": 11108
+  },
+  {
+    "recordId": 147,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "(Sweat) Shoot, Luffy's been hypnotized too.",
+    "cfgArmyId": 11108
+  },
+  {
+    "recordId": 148,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "That idiot. Never mind, he won't die! ",
+    "cfgArmyId": 11108
+  },
+  {
+    "recordId": 149,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 1,
+    "content": "Who are those men?",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 150,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 2,
+    "content": "They are not as strong as people think.",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 151,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 3,
+    "content": "Hey! Can't you stop irritating them! ",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 152,
+    "name": "Jango",
+    "order": 0,
+    "dialog": 5,
+    "face": 10083,
+    "idx": 4,
+    "content": "Well, I still have a trump card. Get down here, Nyaban Brothers!",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 153,
+    "name": "Buchi",
+    "order": 0,
+    "dialog": 4,
+    "face": 10089,
+    "idx": 5,
+    "content": "Sham, these two guys are strong. You go first. ",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 154,
+    "name": "Sham",
+    "order": 0,
+    "dialog": 3,
+    "face": 10090,
+    "idx": 6,
+    "content": "Buchi, I can't do it. You go first. ",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 155,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 7,
+    "content": "Hehehe, le me send you home.",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 156,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 8,
+    "content": "Be careful, Usopp. Don't be fooled by their appearance. ",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 157,
+    "name": "Buchi",
+    "order": 0,
+    "dialog": 6,
+    "face": 10089,
+    "idx": 9,
+    "content": "Let me show you the real strength of the Nyaban Brothers!",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 158,
+    "name": "Sham",
+    "order": 1,
+    "dialog": 3,
+    "face": 10090,
+    "idx": 1,
+    "content": "Ouch...Buchi, I'm doomed. Captain Kuro will kill us.",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 159,
+    "name": "Buchi",
+    "order": 1,
+    "dialog": 4,
+    "face": 10089,
+    "idx": 2,
+    "content": "Sham, we can't beat them... Better run away!",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 160,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 3,
+    "content": "Stop running, you two! Taste my Marble Shot!",
+    "cfgArmyId": 11115
+  },
+  {
+    "recordId": 161,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "Captain Kuro went to the seashore as the agreed time has passed. ",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 162,
+    "name": "Kuro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10022,
+    "idx": 2,
+    "content": "Don't tell me you were stopped by these kids? Since when have the Black Cat Pirates been a bunch of weaklings?!",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 163,
+    "name": "Pirate Swordsman",
+    "order": 0,
+    "dialog": 4,
+    "face": 10004,
+    "idx": 3,
+    "content": "Ca...Captain!",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 164,
+    "name": "Jango",
+    "order": 0,
+    "dialog": 4,
+    "face": 10083,
+    "idx": 4,
+    "content": "Captain, they're not normal kids. ",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 165,
+    "name": "Kuro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10022,
+    "idx": 5,
+    "content": "Five minutes! If you can't defeat them in 5 minutes, I'll kill you with my own hands! ",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 166,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 6,
+    "content": "I'll finish all of you in less than 5 minutes! ",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 167,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 7,
+    "content": "Be careful of his hypnosis. Those pirates no longer feel pain.",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 168,
+    "name": "Jango",
+    "order": 0,
+    "dialog": 2,
+    "face": 10083,
+    "idx": 8,
+    "content": "Seems like I have to do it myself!",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 169,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 1,
+    "content": "You guys take care and don't get killed! I'll be leaving now…",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 170,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "Nami, where are you going!",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 171,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 3,
+    "content": "(Fierce) My treasure is still on the ship! Hurry and deal with them, I'll go protect my treasure! ",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 172,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 4,
+    "content": "(Sweat) That's so like you…",
+    "cfgArmyId": 11215
+  },
+  {
+    "recordId": 173,
+    "name": "Kuro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10022,
+    "idx": 1,
+    "content": "You think you can stop me? My plan will never fail. I don't need trash like this to help me.",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 174,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 2,
+    "content": "Kuro starts to attack his own crew members.",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 175,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "(Angry) This is how you treat your own crew?! ",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 176,
+    "name": "0",
+    "order": 0,
+    "dialog": 5,
+    "face": 0,
+    "idx": 4,
+    "content": "Stop! They're dying! ",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 177,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 5,
+    "content": "Kaya and Merry went to the beach and saw everything in disbelief. ",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 178,
+    "name": "Kaya",
+    "order": 0,
+    "dialog": 2,
+    "face": 10081,
+    "idx": 6,
+    "content": "Kurahadol...What's all this about? You used to be so gentle...Tell me this isn't true!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 179,
+    "name": "Merry",
+    "order": 0,
+    "dialog": 3,
+    "face": 10082,
+    "idx": 7,
+    "content": "Miss...",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 180,
+    "name": "Kuro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10022,
+    "idx": 8,
+    "content": "Hehe, what an ignorant lady. Let me wake you up from your sweet dream!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 181,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 9,
+    "content": "Don't touch Kaya! You'll need to beat me first! ",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 182,
+    "name": "Kuro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10022,
+    "idx": 1,
+    "content": "Ugh...I just wanted to stop being a pirate and live a peaceful life...",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 183,
+    "name": "Kaya",
+    "order": 1,
+    "dialog": 1,
+    "face": 10081,
+    "idx": 2,
+    "content": "Thank you, Usopp. Thank you, everyone.",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 184,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 3,
+    "content": "That's nothing, haha. I am the great Captain Usopp!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 185,
+    "name": "Merry",
+    "order": 1,
+    "dialog": 1,
+    "face": 10082,
+    "idx": 4,
+    "content": "This is a small gift from me. Thank you!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 186,
+    "name": "Kaya",
+    "order": 1,
+    "dialog": 1,
+    "face": 10081,
+    "idx": 5,
+    "content": "Food and some necessities are already on the ship.",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 187,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 6,
+    "content": "(Admiring) Wow, this ship is so cool, especially the bow...",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 188,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 7,
+    "content": "What's the name of the ship?",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 189,
+    "name": "Kaya",
+    "order": 1,
+    "dialog": 1,
+    "face": 10081,
+    "idx": 8,
+    "content": "This ship is especially designed by Merry. The name is Going Merry!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 190,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 6,
+    "face": 10030,
+    "idx": 9,
+    "content": "(Admiring) Cool! ",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 191,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 10,
+    "content": "Usopp, off to the sea with us! You'll meet your father some day!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 192,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 11,
+    "content": "(Crying) Okay...I'm the captain, right?",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 193,
+    "name": "People",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 12,
+    "content": "To the new ship and new member! Cheers!",
+    "cfgArmyId": 11320
+  },
+  {
+    "recordId": 194,
+    "name": "Fullbody",
+    "order": 0,
+    "dialog": 1,
+    "face": 10084,
+    "idx": 1,
+    "content": "Waiter, why is there an insect in my soup! ",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 195,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "Oh, let me just take out that out for you.",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 196,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 3,
+    "content": "By the way (smoking) I'm Sanji, the assistant head chef of this restaurant. Now here's your soup. ",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 197,
+    "name": "Fullbody",
+    "order": 0,
+    "dialog": 5,
+    "face": 10084,
+    "idx": 4,
+    "content": "Do you know who I am? How can I have something like this! (Throws the soup to the ground)",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 198,
+    "name": "Fullbody",
+    "order": 0,
+    "dialog": 2,
+    "face": 10084,
+    "idx": 5,
+    "content": "Arrest this chef! ",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 199,
+    "name": "Marine officer",
+    "order": 0,
+    "dialog": 1,
+    "face": 10076,
+    "idx": 6,
+    "content": "Yes, sir!",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 200,
+    "name": "Fullbody",
+    "order": 1,
+    "dialog": 5,
+    "face": 10084,
+    "idx": 1,
+    "content": "You brat, how dare you attack the Marines. Arrest them all! ",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 201,
+    "name": "0",
+    "order": 1,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "Seems like we can't just stand by.",
+    "cfgArmyId": 11406
+  },
+  {
+    "recordId": 202,
+    "name": "Fullbody",
+    "order": 0,
+    "dialog": 5,
+    "face": 10084,
+    "idx": 1,
+    "content": "What are you doing! So this restaurant has been working with pirates! I'll finish you all with my own hands!",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 203,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 2,
+    "content": "Whoever messes with a chef in the middle of the sea, that person has committed suicide. Remember this!",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 204,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "The fierce battle has damaged many tables and chairs in the Baratie.",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 205,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 2,
+    "content": "Alas, we must compensate a lot of money! My treasure...",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 206,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 3,
+    "content": "Nami is so cute!",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 207,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 1,
+    "face": 10085,
+    "idx": 4,
+    "content": "(Humming) Today I have to treat them nicely. Customers are gods! ",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 208,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 5,
+    "face": 10085,
+    "idx": 5,
+    "content": "What is this...!!! A...a customer!? It's you again, Sanji!? What are you doing to our customer!",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 209,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 6,
+    "content": "Tut (smoking) So what? He just insulted the chef by playing with food. ",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 210,
+    "name": "Fullbody",
+    "order": 1,
+    "dialog": 5,
+    "face": 10084,
+    "idx": 7,
+    "content": "What kind of restaurant treats customers like this...I will tell the Marines to destroy this place!",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 211,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 8,
+    "content": "You want to destroy this place? Well then, I can't let you live now. ",
+    "cfgArmyId": 11420
+  },
+  {
+    "recordId": 212,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 3,
+    "face": 10023,
+    "idx": 1,
+    "content": "Sorry… Could you give me some food and water? Money is not a problem.",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 213,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 2,
+    "face": 10087,
+    "idx": 2,
+    "content": "Mr. Sanji...I know I shouldn't come back. But please, save our captain. Or he'll die!",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 214,
+    "name": "Patty",
+    "order": 0,
+    "dialog": 1,
+    "face": 10085,
+    "idx": 3,
+    "content": "This is impossible. He's Krieg. If he regains his strength, he'll destroy us! We must contact the Marines now!",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 215,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 4,
+    "content": "Get out of my way, Patty (Kicks Patty aside and brings a plate of fried rice)! Give this to him, Gin! ",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 216,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 5,
+    "content": "After finishing the rice, Krieg beats Sanji and tries to occupy Baratie. ",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 217,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 1,
+    "face": 10087,
+    "idx": 6,
+    "content": "You...What about the promise! Captain Krieg! That man just saved our lives!",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 218,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 2,
+    "face": 10023,
+    "idx": 7,
+    "content": "This feeling is really great! It's a very nice restaurant. So I'll take it! ",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 219,
+    "name": "Patty",
+    "order": 0,
+    "dialog": 1,
+    "face": 10085,
+    "idx": 8,
+    "content": "What! How can you do this! Look what you've done, Sanji! ",
+    "cfgArmyId": 11508
+  },
+  {
+    "recordId": 220,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 2,
+    "face": 10023,
+    "idx": 1,
+    "content": "Prepare 100 servings of food! I have many starving crewmen! ",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 221,
+    "name": "Zeff",
+    "order": 0,
+    "dialog": 1,
+    "face": 10086,
+    "idx": 2,
+    "content": "Here you go...Take this to your crew...",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 222,
+    "name": "Patty",
+    "order": 0,
+    "dialog": 2,
+    "face": 10085,
+    "idx": 3,
+    "content": "Zeff! What do you mean! If we give the pirates food, they'll take our restaurant! ",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 223,
+    "name": "Zeff",
+    "order": 0,
+    "dialog": 1,
+    "face": 10086,
+    "idx": 4,
+    "content": "That will depend on their spirit...Isn't that right? Fugitives from the Grand Line!  ",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 224,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 6,
+    "face": 10023,
+    "idx": 5,
+    "content": "Zeff...You are Zeff the Red Leg! ",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 225,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 2,
+    "face": 10023,
+    "idx": 6,
+    "content": "I heard that you got into an accident. Though you're still alive, you lost your leg!  ",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 226,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 6,
+    "face": 10023,
+    "idx": 7,
+    "content": "Excellent, I want to have your journal of the Grand Line!",
+    "cfgArmyId": 11516
+  },
+  {
+    "recordId": 227,
+    "name": "Zeff",
+    "order": 0,
+    "dialog": 1,
+    "face": 10086,
+    "idx": 1,
+    "content": "My journal… It's too much for someone like you.",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 228,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "Zeff, step back, leave it to me!",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 229,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 1,
+    "face": 10023,
+    "idx": 3,
+    "content": "Hey, Gin, you deal with that chef!",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 230,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 4,
+    "face": 10087,
+    "idx": 4,
+    "content": "Captain...I can't do this...",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 231,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 5,
+    "content": "Gin?",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 232,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 2,
+    "face": 10087,
+    "idx": 6,
+    "content": "Captain Krieg, this is too much!",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 233,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 5,
+    "face": 10023,
+    "idx": 7,
+    "content": "This is an order from your captain!",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 234,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 4,
+    "face": 10087,
+    "idx": 8,
+    "content": "Sorry, Sanji.",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 235,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "Krieg takes the food back to his ship.",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 236,
+    "name": "Gin",
+    "order": 1,
+    "dialog": 1,
+    "face": 10087,
+    "idx": 2,
+    "content": "Sanji… I'm so sorry! I never thought that it would turn out like this, I...",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 237,
+    "name": "Zeff",
+    "order": 1,
+    "dialog": 2,
+    "face": 10086,
+    "idx": 3,
+    "content": "Hey! You don't need to apologize. Every chef here does what they want for their own sake.",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 238,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 1,
+    "face": 10085,
+    "idx": 4,
+    "content": "Boss, you're still protecting Sanji… but those pirates want to destroy our restaurant! ",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 239,
+    "name": "Zeff",
+    "order": 1,
+    "dialog": 2,
+    "face": 10086,
+    "idx": 5,
+    "content": "Shut up, you idiot! (Angry) Have you even been through a situation where you had no food to eat and no water to drink? Have you ever known the suffering of being without food or drink in the middle of the sea?",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 240,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 1,
+    "face": 10085,
+    "idx": 6,
+    "content": "Eh… what do you mean, Boss? ",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 241,
+    "name": "Zeff",
+    "order": 1,
+    "dialog": 2,
+    "face": 10086,
+    "idx": 7,
+    "content": "I don't have time to talk about this. If you have time, why don't you just get out of here through the back door?",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 242,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 5,
+    "face": 10085,
+    "idx": 8,
+    "content": "I will stay here and fight! This place is where I work!",
+    "cfgArmyId": 11520
+  },
+  {
+    "recordId": 243,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 1,
+    "face": 10087,
+    "idx": 1,
+    "content": "What...What are you thinking! Krieg will come with his ship soon. You'd better get out of here! ",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 244,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "(Smoking) I must tell you that it is my duty as a chef to give food to starving people.",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 245,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 3,
+    "content": "But if the man dares to take this restaurant (angry), even you, I will kill that person without mercy!! Understand?",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 246,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 4,
+    "content": "See? He's a good man, right?",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 247,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 5,
+    "content": "I don't care bout him! We'd better get out of here first!",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 248,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 6,
+    "content": "By the way, Gin, you told us you went to the Grand Line once. Tell us something! ",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 249,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 2,
+    "face": 10087,
+    "idx": 7,
+    "content": "(In Pain) I still can't believe what happened to us… A man suddenly appeared in the sea...and destroyed a fleet of 50 ships by himself!",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 250,
+    "name": "Crowds",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 8,
+    "content": "What… No way! Only one person did that?",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 251,
+    "name": "Gin",
+    "order": 0,
+    "dialog": 2,
+    "face": 10087,
+    "idx": 9,
+    "content": "I don't know whether the other ships made it or not. When we saw the man's eyes, we felt that we were dead already. I don't want to think about it...",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 252,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 10,
+    "content": "What!?",
+    "cfgArmyId": 11608
+  },
+  {
+    "recordId": 253,
+    "name": "Zeff",
+    "order": 0,
+    "dialog": 1,
+    "face": 10086,
+    "idx": 1,
+    "content": "No doubt, that had to be the work of the Hawk-Eye.",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 254,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 2,
+    "content": "Hawk...Hawk-Eye? Who is that? ",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 255,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "(Absent minded) Dunno...",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 256,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "He's the man I'm looking for. Well, my destination seems clear. I'm going to the Grand Line!",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 257,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 5,
+    "content": "Krieg came back to Baratie with his men who had eaten all the food.",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 258,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 1,
+    "face": 10023,
+    "idx": 6,
+    "content": "Pearl, finish these annoying ones first.",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 259,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 7,
+    "content": "Don't come closer! I am Captain Usopp with a crew of 80 million! ",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 260,
+    "name": "Pearl",
+    "order": 0,
+    "dialog": 1,
+    "face": 10088,
+    "idx": 8,
+    "content": "Oh, really? Then I'll start with you!",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 261,
+    "name": "Pearl",
+    "order": 1,
+    "dialog": 5,
+    "face": 10088,
+    "idx": 1,
+    "content": "What is this? Blood...Blood! Ahhhhhhhh!!!",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 262,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "What's going on? Is he mad?",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 263,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "Whatever. Let's finish him, Luffy!",
+    "cfgArmyId": 11616
+  },
+  {
+    "recordId": 264,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 1,
+    "face": 10023,
+    "idx": 1,
+    "content": "Useless trash. Shall I finish you myself?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 265,
+    "name": "Krieg's follower",
+    "order": 0,
+    "dialog": 4,
+    "face": 10021,
+    "idx": 2,
+    "content": "Captain, they are strong...They don't seem like ordinary pirates...",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 266,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 5,
+    "face": 10023,
+    "idx": 3,
+    "content": "What did you say?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 267,
+    "name": "Krieg's follower",
+    "order": 0,
+    "dialog": 4,
+    "face": 10021,
+    "idx": 4,
+    "content": "No...Nothing",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 268,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 5,
+    "content": "Bring it on! I'll protect this restaurant! ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 269,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 6,
+    "content": "Well, we're already involved in this mess. Let's fight together!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 270,
+    "name": "Krieg",
+    "order": 0,
+    "dialog": 5,
+    "face": 10023,
+    "idx": 7,
+    "content": "You won't beat me!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 271,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "A mysterious man showed up just as the battle on Baratie ended.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 272,
+    "name": "Gin",
+    "order": 1,
+    "dialog": 5,
+    "face": 10087,
+    "idx": 2,
+    "content": "It's him! The one who destroyed our fleet!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 273,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 2,
+    "face": 10085,
+    "idx": 3,
+    "content": "What? He looks like a normal guy… and it doesn't seem like he's carrying any special weapons...",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 274,
+    "name": "Zeff",
+    "order": 1,
+    "dialog": 5,
+    "face": 10086,
+    "idx": 4,
+    "content": "The weapon is on his back! And he is the most renowned swordsman in the world… People call him \"Hawk-Eyes\" Mihawk!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 275,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "No wonder you are the  strongest...You cut 50 ships with one swords? I set sail to meet you!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 276,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 6,
+    "content": "Oh? What do you aim for?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 277,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 7,
+    "content": "To be the strongest! You're free, right? So let's have a duel! ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 278,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 8,
+    "content": "Ignorant weakling...I don't need to draw out my sword to see the clear difference between you and I. ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 279,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 9,
+    "content": "This is my ambition...and a promise to a friend!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 280,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 10,
+    "content": "Hehe...ambition? I can just use this small blade. Now then, show me your ambition! ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 281,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 11,
+    "content": "Why do you refuse to step back?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 282,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 12,
+    "content": "(Laugh) I'd much rather die than step back!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 283,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 5,
+    "face": 10069,
+    "idx": 13,
+    "content": "Kid, tell me your name!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 284,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 14,
+    "content": "Roronoa Zoro.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 285,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 15,
+    "content": "Good. You are definitely not an ordinary swordsman. And to pay my respect to you as a fellow swordsman, I shall end your life with my black sword, the world's strongest sword!  ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 286,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 16,
+    "content": "Realizing his defeat, Zoro spread his arms and faces Hawk-Eye with his chest.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 287,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 17,
+    "content": "Kid, what do you think you're doing?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 288,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 18,
+    "content": "A wound on one's back is the shame of a swordsman!!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 289,
+    "name": "0",
+    "order": 1,
+    "dialog": 5,
+    "face": 0,
+    "idx": 19,
+    "content": "Zoro!!!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 290,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 20,
+    "content": "A friend of the swordsman? Relax, that man... is still alive.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 291,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 6,
+    "face": 10029,
+    "idx": 21,
+    "content": "Zoro! Hurry! Somebody save him!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 292,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 22,
+    "content": "Be strong, Roronoa Zoro! I shall stand at the top of the world and wait for you!  Try to surpass me!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 293,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 23,
+    "content": "(Turns to face Luffy) Boy, what do you aim for?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 294,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 24,
+    "content": "Pirate King!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 295,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 1,
+    "face": 10069,
+    "idx": 25,
+    "content": "A tough path indeed. Even tougher than surpassing me! ",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 296,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 26,
+    "content": "I'm going to be the Pirate King even if it costs me my life!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 297,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 27,
+    "content": "Zoro wakes up and raises his sword.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 298,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 28,
+    "content": "Can you hear me?",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 299,
+    "name": "0",
+    "order": 1,
+    "dialog": 4,
+    "face": 0,
+    "idx": 29,
+    "content": "Zoro...",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 300,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 30,
+    "content": "Sorry for worrying you...-0- . I...If I don't become the world's greatest swordsman, it will embarrass you.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 301,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 31,
+    "content": "Zoro! Please don't talk any more. You're still bleeding!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 302,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 32,
+    "content": "I'm never...going to lose again!! (Crying) Until the day I become the world's greatest swordsman, I'll never lose again!! Any problems, Pirate King?!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 303,
+    "name": "Hawk Eye",
+    "order": 1,
+    "dialog": 2,
+    "face": 10069,
+    "idx": 33,
+    "content": "Hehe, Zoro. You make a good team. I'd like to see you again sometime in the Grand Line.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 304,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 34,
+    "content": "At this point, a noise comes out from the restaurant. Patty rushes out.",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 305,
+    "name": "Patty",
+    "order": 1,
+    "dialog": 5,
+    "face": 10085,
+    "idx": 35,
+    "content": "Bad...bad news! Nami has gone to Cocoyasi Village with the Going Merry!",
+    "cfgArmyId": 11620
+  },
+  {
+    "recordId": 306,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "Usopp, Arlong Park is around there, right? Nami must be heading there.",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 307,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 2,
+    "content": "Yep. Those chefs saw Nami taking Arlong's wanted poster and left.",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 308,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "Ah...Nami's really good at picking places...",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 309,
+    "name": "Fishman Pirate",
+    "order": 0,
+    "dialog": 6,
+    "face": 10077,
+    "idx": 4,
+    "content": "Who are you! How dare you come to Arlong Park! ",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 310,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 5,
+    "content": "Shoot, there are guards!",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 311,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "You! Answer me, is Nami in Arlong Park? ",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 312,
+    "name": "Fishman Pirate",
+    "order": 1,
+    "dialog": 2,
+    "face": 10077,
+    "idx": 2,
+    "content": "Ye...Yes. Nami is inside…",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 313,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "Let's hurry and find Nami. ",
+    "cfgArmyId": 11701
+  },
+  {
+    "recordId": 314,
+    "name": "Kuroobi",
+    "order": 0,
+    "dialog": 1,
+    "face": 10092,
+    "idx": 1,
+    "content": "Wait, where are you going? I can't let you in unless you tell me what are you up to!",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 315,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "Where is Nami?",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 316,
+    "name": "Kuroobi",
+    "order": 0,
+    "dialog": 1,
+    "face": 10092,
+    "idx": 3,
+    "content": "So you're here for that human. I won't let you in! ",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 317,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Nami, hurry, come with me!",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 318,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "You...why are you here? ",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 319,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "We're here for you. You're our navigator! ",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 320,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 4,
+    "content": "I won't leave with you. I have my reasons to stay here! You should leave now. Arlong will come back soon.",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 321,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 5,
+    "content": "The reason you staying here is you want to protect the village. We'll help you defeat Arlong and his men.",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 322,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 6,
+    "face": 10030,
+    "idx": 6,
+    "content": "Who needs your help? Hurry up and leave! (Nami runs away)",
+    "cfgArmyId": 11720
+  },
+  {
+    "recordId": 323,
+    "name": "Hatchan",
+    "order": 0,
+    "dialog": 1,
+    "face": 10091,
+    "idx": 1,
+    "content": "You are not Arlong's guests. Who are you?",
+    "cfgArmyId": 11816
+  },
+  {
+    "recordId": 324,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "We're pirates!",
+    "cfgArmyId": 11816
+  },
+  {
+    "recordId": 325,
+    "name": "Hatchan",
+    "order": 0,
+    "dialog": 1,
+    "face": 10091,
+    "idx": 3,
+    "content": "And you, green hair, you must be pirate hunter Roronoa Zoro. I'll let you taste my six swords!",
+    "cfgArmyId": 11816
+  },
+  {
+    "recordId": 326,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 4,
+    "content": "Hmph, bring it on!",
+    "cfgArmyId": 11816
+  },
+  {
+    "recordId": 327,
+    "name": "Hatchan",
+    "order": 0,
+    "dialog": 5,
+    "face": 10091,
+    "idx": 5,
+    "content": "Come on, guys!",
+    "cfgArmyId": 11816
+  },
+  {
+    "recordId": 328,
+    "name": "Hatchan",
+    "order": 0,
+    "dialog": 1,
+    "face": 10091,
+    "idx": 1,
+    "content": "Roronoa Zoro, you can't kill me. Because I have 6 arms! ",
+    "cfgArmyId": 11820
+  },
+  {
+    "recordId": 329,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "You octopus!",
+    "cfgArmyId": 11820
+  },
+  {
+    "recordId": 330,
+    "name": "0",
+    "order": 0,
+    "dialog": 6,
+    "face": 0,
+    "idx": 3,
+    "content": "Zoro! Your injury hasn't healed yet! Don't push yourself too hard! ",
+    "cfgArmyId": 11820
+  },
+  {
+    "recordId": 331,
+    "name": "Hatchan",
+    "order": 0,
+    "dialog": 5,
+    "face": 10091,
+    "idx": 4,
+    "content": "You want to pretend you're sick? I won't be fooled. Let me show you my true strength!",
+    "cfgArmyId": 11820
+  },
+  {
+    "recordId": 332,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "So you're Arlong?",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 333,
+    "name": "Arlong",
+    "order": 0,
+    "dialog": 6,
+    "face": 10013,
+    "idx": 2,
+    "content": "Boy, you still don't know who am I? ",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 334,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 3,
+    "content": "Luffy sends Arlong flying.",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 335,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 4,
+    "content": "Don't you dare make my navigator cry! ",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 336,
+    "name": "Fishman Pirate",
+    "order": 0,
+    "dialog": 6,
+    "face": 10077,
+    "idx": 5,
+    "content": "You brat, how could you beat captain Arlong!",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 337,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 6,
+    "content": "Ahah, you shouldn't hog all the glory for yourself.",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 338,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 7,
+    "content": "They won't lose without you. ",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 339,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 8,
+    "content": "What did you say, seaweed head! ",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 340,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 9,
+    "content": "What? You spiral eyebrow! ",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 341,
+    "name": "Fishman Pirate",
+    "order": 0,
+    "dialog": 1,
+    "face": 10077,
+    "idx": 10,
+    "content": "How dare you ignore us!",
+    "cfgArmyId": 11908
+  },
+  {
+    "recordId": 342,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 1,
+    "content": "I...I don't particularly mind if you want so, Luffy...",
+    "cfgArmyId": 11916
+  },
+  {
+    "recordId": 343,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "You sure are brave.",
+    "cfgArmyId": 11916
+  },
+  {
+    "recordId": 344,
+    "name": "Chew",
+    "order": 0,
+    "dialog": 6,
+    "face": 10097,
+    "idx": 3,
+    "content": "Eh? That long-nose is still alive? You should be dead! ",
+    "cfgArmyId": 11916
+  },
+  {
+    "recordId": 345,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 5,
+    "face": 10029,
+    "idx": 4,
+    "content": "Want to beat me? Stop dreaming! ",
+    "cfgArmyId": 11916
+  },
+  {
+    "recordId": 346,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 1,
+    "content": "Damn...Damn...Damn!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 347,
+    "name": "Arlong",
+    "order": 0,
+    "dialog": 2,
+    "face": 10013,
+    "idx": 2,
+    "content": "Your money is stolen? That's quite unfortunate of you. But a promise is a promise. You have to pay me 100 million beli again. ",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 348,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 3,
+    "face": 10030,
+    "idx": 3,
+    "content": "You vile monster...",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 349,
+    "name": "Arlong",
+    "order": 0,
+    "dialog": 2,
+    "face": 10013,
+    "idx": 4,
+    "content": "Shahahaha. It's only 100 million beli. All you need to do is to save up that much again!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 350,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 5,
+    "content": "Damn. Let go of Nami! ",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 351,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 6,
+    "content": "(Cry)-0-…Luffy...every one...sorry. Help me! ",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 352,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 7,
+    "content": "Of course we will help you!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 353,
+    "name": "0",
+    "order": 0,
+    "dialog": 6,
+    "face": 0,
+    "idx": 8,
+    "content": "How dare you make our navigator cry!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 354,
+    "name": "Arlong",
+    "order": 0,
+    "dialog": 1,
+    "face": 10013,
+    "idx": 9,
+    "content": "You think you can beat me? Have a try! ",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 355,
+    "name": "0",
+    "order": 0,
+    "dialog": 6,
+    "face": 0,
+    "idx": 10,
+    "content": "Luffy, Zoro, every one!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 356,
+    "name": "Nojiko",
+    "order": 1,
+    "dialog": 1,
+    "face": 10094,
+    "idx": 1,
+    "content": "Hey, Nami, why not come back and live with us?",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 357,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "Hehheh. -0-, take off now!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 358,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 3,
+    "content": "Ah, what's the hurry?",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 359,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 4,
+    "content": "Going Merry left Cocoyasi Village. Nami reveals that she stole all of the money from the village.",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 360,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 5,
+    "content": "Goodbye, everyone! I'll be off now! ",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 361,
+    "name": "Genzo",
+    "order": 1,
+    "dialog": 6,
+    "face": 10095,
+    "idx": 6,
+    "content": "You thieving cat!",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 362,
+    "name": "Nojiko",
+    "order": 1,
+    "dialog": 1,
+    "face": 10094,
+    "idx": 7,
+    "content": "I should have known better from my own sister.",
+    "cfgArmyId": 11920
+  },
+  {
+    "recordId": 363,
+    "name": "Tashigi",
+    "order": 0,
+    "dialog": 5,
+    "face": 10098,
+    "idx": 1,
+    "content": "Pirate hunter Roronoa Zoro. To think you're now a pirate. I'm going to arrest you!",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 364,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 2,
+    "content": "And you are? ",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 365,
+    "name": "Tashigi",
+    "order": 0,
+    "dialog": 1,
+    "face": 10098,
+    "idx": 3,
+    "content": "I am Sergeant Tashigi. You don't deserve the named sword, Sungdai Kitetsu!",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 366,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "Oh? Then have a try.",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 367,
+    "name": "Tashigi",
+    "order": 0,
+    "dialog": 5,
+    "face": 10098,
+    "idx": 5,
+    "content": "Attention, arrest all the pirates! ",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 368,
+    "name": "Marine",
+    "order": 0,
+    "dialog": 2,
+    "face": 10076,
+    "idx": 6,
+    "content": "Yes, Sergeant Tashigi!",
+    "cfgArmyId": 12001
+  },
+  {
+    "recordId": 369,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "That was close. Loguetown really has high security! ",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 370,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "We should avoid problems.",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 371,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 3,
+    "content": "These guys can't even stand a single blow!",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 372,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 4,
+    "content": "Be careful, we've been exposed. And that Marine girl is chasing us. ",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 373,
+    "name": "Tashigi",
+    "order": 0,
+    "dialog": 5,
+    "face": 10098,
+    "idx": 5,
+    "content": "There you are!",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 374,
+    "name": "Tashigi",
+    "order": 0,
+    "dialog": 5,
+    "face": 10098,
+    "idx": 6,
+    "content": "Roronoa Zoro, I will defeat you with my own hands!",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 375,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 7,
+    "content": "You go first. Leave it to me!",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 376,
+    "name": "Tashigi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10098,
+    "idx": 1,
+    "content": "Roronoa Zoro! Don't you dare run away!",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 377,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "Don't you understand? You can't defeat me! ",
+    "cfgArmyId": 12020
+  },
+  {
+    "recordId": 378,
+    "name": "Mohji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10078,
+    "idx": 1,
+    "content": "Aren't they with that rubber boy? He's going to be executed by Captain Buggy.",
+    "cfgArmyId": 12108
+  },
+  {
+    "recordId": 379,
+    "name": "Mohji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10078,
+    "idx": 2,
+    "content": "Go Richie! Bite them!",
+    "cfgArmyId": 12108
+  },
+  {
+    "recordId": 380,
+    "name": "Richie",
+    "order": 0,
+    "dialog": 6,
+    "face": 10080,
+    "idx": 3,
+    "content": "Grrr!",
+    "cfgArmyId": 12108
+  },
+  {
+    "recordId": 381,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 4,
+    "content": "They're indeed the Buggy Pirates.",
+    "cfgArmyId": 12108
+  },
+  {
+    "recordId": 382,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 5,
+    "content": "We must save Luffy!",
+    "cfgArmyId": 12108
+  },
+  {
+    "recordId": 383,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 1,
+    "content": "Lucky, we can see Luffy already.",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 384,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "I'm so excited!",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 385,
+    "name": "Alvida",
+    "order": 0,
+    "dialog": 1,
+    "face": 10099,
+    "idx": 3,
+    "content": "Aren't you -0- and Luffy?",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 386,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 4,
+    "content": "Who are you?",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 387,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 5,
+    "content": "-0-, how do know such pretty lady!",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 388,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 6,
+    "content": "I don't remember knowing someone this pretty.",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 389,
+    "name": "Alvida",
+    "order": 0,
+    "dialog": 5,
+    "face": 10099,
+    "idx": 7,
+    "content": "How could you forget? You were the first man to ever hit me. I am the beautiful lady Alvida!",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 390,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 8,
+    "content": "Ah, how'd you change so much? Did you eat a devil fruit? ",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 391,
+    "name": "Alvida",
+    "order": 0,
+    "dialog": 2,
+    "face": 10099,
+    "idx": 9,
+    "content": "Hehe… The devil fruit I ate is the Slip-Slip Fruit. Now, it's time for me to take revenge by cutting off your head!",
+    "cfgArmyId": 12116
+  },
+  {
+    "recordId": 392,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 1,
+    "content": "Gyahahahaha. You should be proud of dying in the same place as the Pirate King!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 393,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 2,
+    "content": "Guilty! Pirate Monkey D. Luffy, for the crime of angering me…",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 394,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 3,
+    "content": "I sentence you to a flashy execution!!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 395,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 4,
+    "content": "Wow, this is the first time I've seen an execution.",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 396,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 5,
+    "content": "Hey, you're the one who's being executed here!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 397,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 6,
+    "content": "What! Are you kidding me!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 398,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 5,
+    "face": 10011,
+    "idx": 7,
+    "content": "No! You're the one joking around!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 399,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 1,
+    "face": 10011,
+    "idx": 8,
+    "content": "Anyway… Any last words? There's quite a crowd here.",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 400,
+    "name": "Buggy the Clown",
+    "order": 0,
+    "dialog": 1,
+    "face": 10011,
+    "idx": 9,
+    "content": "Well, whatever. Whether you have any last words or not, no one would care about. ",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 401,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 10,
+    "content": "I'm the man who'll become the Pirate King!!!",
+    "cfgArmyId": 12120
+  },
+  {
+    "recordId": 402,
+    "name": "Smoker",
+    "order": 0,
+    "dialog": 5,
+    "face": 10039,
+    "idx": 1,
+    "content": "Hey, what are you doing here in my territory? Capture them!",
+    "cfgArmyId": 12208
+  },
+  {
+    "recordId": 403,
+    "name": "Marine",
+    "order": 0,
+    "dialog": 6,
+    "face": 10075,
+    "idx": 2,
+    "content": "Yes, sir!",
+    "cfgArmyId": 12208
+  },
+  {
+    "recordId": 404,
+    "name": "0",
+    "order": 0,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "Let's head back to the Going Merry!",
+    "cfgArmyId": 12208
+  },
+  {
+    "recordId": 405,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 4,
+    "content": "There's going to be a big fight here!",
+    "cfgArmyId": 12208
+  },
+  {
+    "recordId": 406,
+    "name": "Smoker",
+    "order": 0,
+    "dialog": 1,
+    "face": 10039,
+    "idx": 1,
+    "content": "Trying to run away, Straw Hat Luffy? No pirate has ever gotten away from me in Loguetown. ",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 407,
+    "name": "Smoker",
+    "order": 0,
+    "dialog": 5,
+    "face": 10039,
+    "idx": 2,
+    "content": "I won't let you escape from here!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 408,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "What?! Ahh!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 409,
+    "name": "Smoker",
+    "order": 1,
+    "dialog": 2,
+    "face": 10039,
+    "idx": 2,
+    "content": "You finally ran out of luck.",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 410,
+    "name": "0",
+    "order": 1,
+    "dialog": 1,
+    "face": 0,
+    "idx": 3,
+    "content": "I don't think so!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 411,
+    "name": "Smoker",
+    "order": 1,
+    "dialog": 6,
+    "face": 10039,
+    "idx": 4,
+    "content": "What!?",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 412,
+    "name": "0",
+    "order": 1,
+    "dialog": 5,
+    "face": 0,
+    "idx": 5,
+    "content": "Now, Luffy, hurry! ",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 413,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 6,
+    "content": "It begins raining heavily with strong winds.",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 414,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 7,
+    "content": "Hurry up, let's leave under the cover of the rain!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 415,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 8,
+    "content": "I'll go prepare the ship!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 416,
+    "name": "Smoker",
+    "order": 1,
+    "dialog": 6,
+    "face": 10039,
+    "idx": 9,
+    "content": "I won't let you get away so easily! Catch them!",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 417,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 10,
+    "content": "-0- and others successfully escaped. However, they've caught the eye of Smoker.",
+    "cfgArmyId": 12220
+  },
+  {
+    "recordId": 418,
+    "name": "",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "So everyone has decided to go to an island and find a doctor to cure Nami first.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 419,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 2,
+    "content": "Wow! An island!!",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 420,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 3,
+    "content": "It's white. So it must be a snow island!",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 421,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 4,
+    "content": "Hey, Luffy, I must tell you that we won't have time to play.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 422,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 5,
+    "content": "We have to find doctor to cure Nami and then set sail again.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 423,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 6,
+    "content": "Snow is so beautiful.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 424,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 7,
+    "content": "He didn't hear a single word... Everyone get ready!",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 425,
+    "name": "Dalton",
+    "order": 0,
+    "dialog": 5,
+    "face": 10105,
+    "idx": 8,
+    "content": "Don't move, pirates!",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 426,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 9,
+    "content": "Hey, there are people here.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 427,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 10,
+    "content": "They don't look friendly.",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 428,
+    "name": "Dalton",
+    "order": 0,
+    "dialog": 1,
+    "face": 10105,
+    "idx": 11,
+    "content": "Get off of this island...now!",
+    "cfgArmyId": 12307
+  },
+  {
+    "recordId": 429,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "We're looking for a doctor!",
+    "cfgArmyId": 12314
+  },
+  {
+    "recordId": 430,
+    "name": "Vivi",
+    "order": 0,
+    "dialog": 6,
+    "face": 10065,
+    "idx": 2,
+    "content": "We have a sick person on board!",
+    "cfgArmyId": 12314
+  },
+  {
+    "recordId": 431,
+    "name": "Guard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10063,
+    "idx": 3,
+    "content": "That trick won't work, you evil pirates!",
+    "cfgArmyId": 12314
+  },
+  {
+    "recordId": 432,
+    "name": "Guard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10063,
+    "idx": 4,
+    "content": "This is our country, and we won't let you in!",
+    "cfgArmyId": 12314
+  },
+  {
+    "recordId": 433,
+    "name": "Guard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10063,
+    "idx": 5,
+    "content": "Get out, or we'll shoot you!",
+    "cfgArmyId": 12314
+  },
+  {
+    "recordId": 434,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 1,
+    "content": "They act as if they've hated us for a long time.",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 435,
+    "name": "Dalton",
+    "order": 0,
+    "dialog": 6,
+    "face": 10105,
+    "idx": 2,
+    "content": "Cut the crap. I won't let you enter!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 436,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 5,
+    "face": 10029,
+    "idx": 1,
+    "content": "What are you doing!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 437,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 2,
+    "content": "Are you trying to mess with us?",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 438,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 3,
+    "content": "Stop, Sanji! Aaah!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 439,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 4,
+    "content": "While Vivi was try to stop Sanji, she was hurt by a bullet.",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 440,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 5,
+    "content": "Vivi!! How dare you!!!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 441,
+    "name": "Guard",
+    "order": 1,
+    "dialog": 5,
+    "face": 10063,
+    "idx": 6,
+    "content": "Get ready!!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 442,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 2,
+    "face": 10065,
+    "idx": 7,
+    "content": "Wait, Luffy, don't fight them! I'm ok. The bullet missed me.",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 443,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 2,
+    "face": 10065,
+    "idx": 8,
+    "content": "If you fight them, we may all get hurt. What will happen to Nami then?",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 444,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 9,
+    "content": "I'm sorry...It's my fault!! Please call a doctor. Please help my friend.",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 445,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 10,
+    "content": "Luffy and Vivi get down on their knees",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 446,
+    "name": "Dalton",
+    "order": 1,
+    "dialog": 4,
+    "face": 10105,
+    "idx": 11,
+    "content": "(Shocked)...",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 447,
+    "name": "Dalton",
+    "order": 1,
+    "dialog": 2,
+    "face": 10105,
+    "idx": 12,
+    "content": "I...will show you the way to our village. Follow me!",
+    "cfgArmyId": 12320
+  },
+  {
+    "recordId": 448,
+    "name": "Kuromarimo",
+    "order": 0,
+    "dialog": 5,
+    "face": 10034,
+    "idx": 1,
+    "content": "Dr. Kureha, how dare you stay in the castle while we're away!",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 449,
+    "name": "Dr. Kureha",
+    "order": 0,
+    "dialog": 2,
+    "face": 10106,
+    "idx": 2,
+    "content": "Heeheeheehee...I have no interest in this shabby castle. But he...",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 450,
+    "name": "Dr. Kureha",
+    "order": 0,
+    "dialog": 2,
+    "face": 10106,
+    "idx": 3,
+    "content": "He wants to have Hiluluk's cemetery here.",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 451,
+    "name": "Kuromarimo",
+    "order": 0,
+    "dialog": 5,
+    "face": 10034,
+    "idx": 4,
+    "content": "Lord Wapol, he's that monster! ",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 452,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 5,
+    "content": "Doctor just wanted to help this country! That's why I can't allow you to get into the castle!",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 453,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 6,
+    "content": "I will never allow anyone to take doctor's faith down from here!!",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 454,
+    "name": "Wapol",
+    "order": 0,
+    "dialog": 5,
+    "face": 10103,
+    "idx": 7,
+    "content": "Maaahahahaha, if all of you wanted to die, why didn't you just ask? I'll kill you all!",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 455,
+    "name": "Kuromarimo",
+    "order": 0,
+    "dialog": 6,
+    "face": 10034,
+    "idx": 8,
+    "content": "How dare you to use this sacred castle as that charlatan's cemetery! Watch out, Electric Marimo!",
+    "cfgArmyId": 12420
+  },
+  {
+    "recordId": 456,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 5,
+    "face": 10026,
+    "idx": 1,
+    "content": "Get out of this country!!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 457,
+    "name": "Wapol",
+    "order": 0,
+    "dialog": 6,
+    "face": 10103,
+    "idx": 2,
+    "content": "Get out of the way, Chess! (Wapol opens his mouth, trying to swallow Chopper)",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 458,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 3,
+    "content": "Look out!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 459,
+    "name": "Dr. Kureha",
+    "order": 0,
+    "dialog": 6,
+    "face": 10106,
+    "idx": 4,
+    "content": "Chopper!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 460,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 5,
+    "content": "Luffy, grab my leg now!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 461,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 6,
+    "content": "Your leg? Like this?",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 462,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 7,
+    "content": "Ok, don't let go. [Air Force - Rubber Shot]!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 463,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 8,
+    "content": "Sanji kicks Luffy towards Wapol and saves Chopper from being swallowed.",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 464,
+    "name": "Wapol",
+    "order": 0,
+    "dialog": 6,
+    "face": 10103,
+    "idx": 9,
+    "content": "Ugh!!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 465,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 10,
+    "content": "Phew...not bad at all.",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 466,
+    "name": "Wapol",
+    "order": 0,
+    "dialog": 6,
+    "face": 10103,
+    "idx": 11,
+    "content": "I'll kill them all! I'll show them the power of the Munch-Munch Fruit!!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 467,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 1,
+    "content": "Luffy, what are you doing at the top of the castle?",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 468,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "I just kicked that king away.",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 469,
+    "name": "Dalton",
+    "order": 1,
+    "dialog": 5,
+    "face": 10105,
+    "idx": 3,
+    "content": "So...the thing that just flew away is Wapol!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 470,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 4,
+    "content": "How about the other two?",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 471,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 5,
+    "content": "That reindeer has beaten them down! Hey, listen up, I found a new crew member!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 472,
+    "name": "Dalton",
+    "order": 1,
+    "dialog": 5,
+    "face": 10105,
+    "idx": 6,
+    "content": "Reindeer...beat them down? Anyway, thank you very much! I'm sure Drum Kingdom will become better from now on!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 473,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 7,
+    "content": "Reindeer! Let's set sail together!!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 474,
+    "name": "Chopper",
+    "order": 1,
+    "dialog": 1,
+    "face": 10026,
+    "idx": 8,
+    "content": "I...thank you. But I can't go with you!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 475,
+    "name": "Chopper",
+    "order": 1,
+    "dialog": 5,
+    "face": 10026,
+    "idx": 9,
+    "content": "Because...I am a reindeer! I have hooves and horns! I also have a blue nose!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 476,
+    "name": "Chopper",
+    "order": 1,
+    "dialog": 5,
+    "face": 10026,
+    "idx": 10,
+    "content": "Though I want to be a pirate... But I can't be friends with humans! I'm a monster!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 477,
+    "name": "Chopper",
+    "order": 1,
+    "dialog": 5,
+    "face": 10026,
+    "idx": 11,
+    "content": "So...I...only want to say thank you for asking me!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 478,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 12,
+    "content": "Just shut up and come with us!!!",
+    "cfgArmyId": 12520
+  },
+  {
+    "recordId": 479,
+    "name": "MR.3",
+    "order": 0,
+    "dialog": 5,
+    "face": 10101,
+    "idx": 1,
+    "content": "Welcome to my Candle Feast!",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 480,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "There's something turning around over our heads.",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 481,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 3,
+    "content": "Feels like the candle on a cake.",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 482,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 4,
+    "content": "I can't move my legs...",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 483,
+    "name": "Vivi",
+    "order": 0,
+    "dialog": 1,
+    "face": 10065,
+    "idx": 5,
+    "content": "Something's falling from above… what is that?",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 484,
+    "name": "MR.3",
+    "order": 0,
+    "dialog": 6,
+    "face": 10101,
+    "idx": 6,
+    "content": "Hahaha! How's the taste of my Candle Feast?",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 485,
+    "name": "MR.3",
+    "order": 0,
+    "dialog": 2,
+    "face": 10101,
+    "idx": 7,
+    "content": "The candle mist that falls from above will soon turn you into candle toys!",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 486,
+    "name": "MR.3",
+    "order": 0,
+    "dialog": 6,
+    "face": 10101,
+    "idx": 8,
+    "content": "Die for the sake of my art, you should feel honored!",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 487,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 9,
+    "content": "No way! Why should I die for your art?",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 488,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 10,
+    "content": "Usopp...don't you think these people are unforgivable?",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 489,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 11,
+    "content": "Sure. I'll finish them...",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 490,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 12,
+    "content": "Good! Let's go together and crush all of them!!",
+    "cfgArmyId": 12620
+  },
+  {
+    "recordId": 491,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 1,
+    "content": "It seems like I have to defeat this okama if I want to get by...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 492,
+    "name": "MR.2",
+    "order": 0,
+    "dialog": 2,
+    "face": 10100,
+    "idx": 2,
+    "content": "Show all your skills… because I've trained hard everyday!",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 493,
+    "name": "MR.2",
+    "order": 0,
+    "dialog": 6,
+    "face": 10100,
+    "idx": 3,
+    "content": "There's no one can crush my Okama Kenpo!",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 494,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 4,
+    "content": "Damn that okama bastard... I even used the Mutton Shot...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 495,
+    "name": "MR.2",
+    "order": 0,
+    "dialog": 2,
+    "face": 10100,
+    "idx": 5,
+    "content": "Stop joking around! I even used the Swan Wind Wing Open against that loser chef...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 496,
+    "name": "MR.2",
+    "order": 0,
+    "dialog": 6,
+    "face": 10100,
+    "idx": 6,
+    "content": "I'm being serious from now on!  ",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 497,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 7,
+    "content": "Just go ahead...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 498,
+    "name": "MR.2",
+    "order": 1,
+    "dialog": 3,
+    "face": 10100,
+    "idx": 1,
+    "content": "I...I lost...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 499,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "What? If you change into Nami now, I wouldn't be able to kill you.",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 500,
+    "name": "MR.2",
+    "order": 1,
+    "dialog": 1,
+    "face": 10100,
+    "idx": 3,
+    "content": "Ha...How funny...I can't even move now. ",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 501,
+    "name": "MR.2",
+    "order": 1,
+    "dialog": 1,
+    "face": 10100,
+    "idx": 4,
+    "content": "You win! Kill me now! My life will be ended by the organization any way...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 502,
+    "name": "MR.2",
+    "order": 1,
+    "dialog": 5,
+    "face": 10100,
+    "idx": 5,
+    "content": "What are you waiting for? Hurry and finish me off!!",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 503,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 6,
+    "content": "That was a good fight. The rest doesn't really need to be said...",
+    "cfgArmyId": 12720
+  },
+  {
+    "recordId": 504,
+    "name": "Vivi",
+    "order": 0,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 1,
+    "content": "Kohza!!",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 505,
+    "name": "Kohza",
+    "order": 0,
+    "dialog": 2,
+    "face": 10104,
+    "idx": 2,
+    "content": "Am I seeing things?!",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 506,
+    "name": "Kohza",
+    "order": 0,
+    "dialog": 2,
+    "face": 10104,
+    "idx": 3,
+    "content": "I came here...to persuade the Royal Army.",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 507,
+    "name": "Kohza",
+    "order": 0,
+    "dialog": 2,
+    "face": 10104,
+    "idx": 4,
+    "content": "Why would the king nearly get killed by the hero of the country? I...I won't believe this...",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 508,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 1,
+    "face": 10065,
+    "idx": 1,
+    "content": "Kohza, in fact...",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 509,
+    "name": "Kohza",
+    "order": 1,
+    "dialog": 6,
+    "face": 10104,
+    "idx": 2,
+    "content": "The person who took away the rain from this country---who the hell is he?",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 510,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 1,
+    "face": 10065,
+    "idx": 3,
+    "content": "It was all...",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 511,
+    "name": "Crocodile",
+    "order": 1,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 4,
+    "content": "Me. Kohza! Everything you thought the king did was done by me!",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 512,
+    "name": "Crocodile",
+    "order": 1,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 5,
+    "content": "It would be better if you hadn't known about this.",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 513,
+    "name": "Crocodile",
+    "order": 1,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 6,
+    "content": "Cause you would have died much easier. Kuhahaha!",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 514,
+    "name": "Kohza",
+    "order": 1,
+    "dialog": 5,
+    "face": 10104,
+    "idx": 7,
+    "content": "Crocodile!!",
+    "cfgArmyId": 12820
+  },
+  {
+    "recordId": 515,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 1,
+    "content": "Your body is hard to cut...It's not normal...",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 516,
+    "name": "MR.1",
+    "order": 0,
+    "dialog": 2,
+    "face": 10102,
+    "idx": 2,
+    "content": "Yes...I ate the Dice-Dice Fruit...and become a Blade Man!",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 517,
+    "name": "MR.1",
+    "order": 0,
+    "dialog": 2,
+    "face": 10102,
+    "idx": 3,
+    "content": "The man who defeated 100 men in the Whiskey Peak is you, right?",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 518,
+    "name": "MR.1",
+    "order": 0,
+    "dialog": 2,
+    "face": 10102,
+    "idx": 4,
+    "content": "The man who refused to join Baroque Works and killed Mr.7 is also you, right?",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 519,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 5,
+    "content": "Ha...That is a long time ago.",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 520,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 6,
+    "content": "But that was all your fault. Why didn't you accept my condition?",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 521,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 7,
+    "content": "I said to that agent \"I'll join you if you made me the boss\",",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 522,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 8,
+    "content": "But that guy didn't agree and attacked me. So I had to kill him. ",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 523,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 9,
+    "content": "Are you going to persuade me? Tell your boss to get lost.",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 524,
+    "name": "MR.1",
+    "order": 0,
+    "dialog": 6,
+    "face": 10102,
+    "idx": 10,
+    "content": "Don't look down upon others! You are just a pirate swordsman!",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 525,
+    "name": "MR.1",
+    "order": 1,
+    "dialog": 3,
+    "face": 10102,
+    "idx": 1,
+    "content": "In this battle, he grew so much...",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 526,
+    "name": "MR.1",
+    "order": 1,
+    "dialog": 1,
+    "face": 10102,
+    "idx": 2,
+    "content": "Next time...Are you going to cut through diamonds?",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 527,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 3,
+    "content": "I don't know yet...",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 528,
+    "name": "MR.1",
+    "order": 1,
+    "dialog": 1,
+    "face": 10102,
+    "idx": 4,
+    "content": "Haha...I accept my failure...",
+    "cfgArmyId": 12920
+  },
+  {
+    "recordId": 529,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "I caught up! Crocodile!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 530,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 2,
+    "content": "Why are you still alive? Why do you come back every time I kill you!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 531,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 3,
+    "content": "Why? Straw hat?",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 532,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 4,
+    "content": "How many times do I need to kill you?",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 533,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 5,
+    "content": "Because you still haven't returned something you took away.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 534,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 2,
+    "face": 10016,
+    "idx": 6,
+    "content": "The thing I took away? Is it money, fame, life, or rain? Do you want me to give back?",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 535,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 7,
+    "content": "It's the country!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 536,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 2,
+    "face": 10016,
+    "idx": 8,
+    "content": "Country? Don't be ridiculous. I've just obtained this country, and soon I'll be the king to rule this land!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 537,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 9,
+    "content": "From the time we came here, her country was already gone.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 538,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 10,
+    "content": "If this is truly her country… why does she never laugh?",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 539,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 2,
+    "face": 10016,
+    "idx": 11,
+    "content": "You look like you really want to defeat me.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 540,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 12,
+    "content": "Then I have to regard you as a real enemy!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 541,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 13,
+    "content": "Really....",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 542,
+    "name": "Crocodile",
+    "order": 0,
+    "dialog": 6,
+    "face": 10016,
+    "idx": 14,
+    "content": "This is the last time. We'll battle it out!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 543,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "After successfully defeating Crocodile, everyone decide to meet Vivi at the Eastern coast---",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 544,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 2,
+    "content": "Let's go, it's almost time...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 545,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "She's definitely coming. I'll look for her!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 546,
+    "name": "Usopp",
+    "order": 1,
+    "dialog": 5,
+    "face": 10029,
+    "idx": 4,
+    "content": "Hey, bad news! The marines caught up with us again!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 547,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 5,
+    "content": "How many are there? Let's sail now.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 548,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 6,
+    "content": "Forget it, Luffy. She's not the same Vivi that was with us now.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 549,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 4,
+    "face": 10024,
+    "idx": 7,
+    "content": "(Not convinced) ...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 550,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 8,
+    "content": "Everyone!!!!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 551,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 9,
+    "content": "(Excited) Vivi!!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 552,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 3,
+    "face": 10065,
+    "idx": 10,
+    "content": "I'm here to say goodbye...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 553,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 11,
+    "content": "Sorry, but I can't go with you! Thank you all for what you have done for me!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 554,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 12,
+    "content": "Even though I still want to go with you, but right now I can't.",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 555,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 13,
+    "content": "Because I really love my country!! So I can't come along!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 556,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 14,
+    "content": "...Really?!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 557,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 3,
+    "face": 10065,
+    "idx": 15,
+    "content": "Even though I...I decided to stay here, but...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 558,
+    "name": "Vivi",
+    "order": 1,
+    "dialog": 5,
+    "face": 10065,
+    "idx": 16,
+    "content": "But if there's one day we meet each other again, will you still take me as a friend?",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 559,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 17,
+    "content": "You're always....",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 560,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 18,
+    "content": "We shouldn't answer her. The marines already noticed Vivi...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 561,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 3,
+    "face": 10030,
+    "idx": 19,
+    "content": "Let's just part quietly...",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 562,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 20,
+    "content": "Everyone raises their left arm to reveal the sign of their friendship!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 563,
+    "name": "0",
+    "order": 1,
+    "dialog": 6,
+    "face": 0,
+    "idx": 21,
+    "content": "Let's sail!!",
+    "cfgArmyId": 13020
+  },
+  {
+    "recordId": 564,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 1,
+    "content": "After leaving Alabasta, the journey to Skypiea has started. However, no one knows where Skypiea is. Therefore, they decide to go to Mock Town and look for some information first.",
+    "cfgArmyId": 13101
+  },
+  {
+    "recordId": 565,
+    "name": "Salvage King Masira",
+    "order": 0,
+    "dialog": 5,
+    "face": 10107,
+    "idx": 1,
+    "content": "Listen to me, every sunken ship around here is mine!",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 566,
+    "name": "0",
+    "order": 0,
+    "dialog": 2,
+    "face": 0,
+    "idx": 2,
+    "content": "We're not here to salvage. ..",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 567,
+    "name": "Salvage King Masira",
+    "order": 0,
+    "dialog": 5,
+    "face": 10107,
+    "idx": 3,
+    "content": "Then you're after the gold? I won't let!",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 568,
+    "name": "Salvage King Masira",
+    "order": 1,
+    "dialog": 5,
+    "face": 10107,
+    "idx": 1,
+    "content": "Don't mess with me in my territory!",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 569,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "We don't have time to talk with you, you monkey! ",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 570,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 3,
+    "content": "Humph…",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 571,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 4,
+    "content": "Get out of the way! (Kick Masira away)",
+    "cfgArmyId": 13120
+  },
+  {
+    "recordId": 572,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Another weirdo?",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 573,
+    "name": "Sonar King Shoujou",
+    "order": 0,
+    "dialog": 6,
+    "face": 10108,
+    "idx": 2,
+    "content": "How dare you hurt our father!!",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 574,
+    "name": "Sonar King Shoujou",
+    "order": 0,
+    "dialog": 2,
+    "face": 10108,
+    "idx": 3,
+    "content": "Jeez...and I thought it was somebody dangerous. It was making me a little bit edgy.",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 575,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 4,
+    "content": "You have a very strange face. What species are you?",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 576,
+    "name": "Sonar King Shoujou",
+    "order": 0,
+    "dialog": 6,
+    "face": 10108,
+    "idx": 5,
+    "content": "I'm a human! You punk!",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 577,
+    "name": "Sonar King Shoujou",
+    "order": 0,
+    "dialog": 2,
+    "face": 10108,
+    "idx": 6,
+    "content": "You really don't know how strong I am?",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 578,
+    "name": "Sonar King Shoujou",
+    "order": 0,
+    "dialog": 2,
+    "face": 10108,
+    "idx": 7,
+    "content": "Ever since I was born, I have never had a hair cut. That's 25 years without a haircut! Did I surprise you?",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 579,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 8,
+    "content": "Don't talk nonsense with him. Let me finish him.",
+    "cfgArmyId": 13213
+  },
+  {
+    "recordId": 580,
+    "name": "Cricket",
+    "order": 0,
+    "dialog": 1,
+    "face": 10111,
+    "idx": 1,
+    "content": "You're all after the gold, right? Go die!",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 581,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 1,
+    "content": "Whoa!",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 582,
+    "name": "Chopper",
+    "order": 1,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 2,
+    "content": "Sanji! AHHHHHH!",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 583,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 3,
+    "content": "Don't worry. He missed! Hey, wait a minute! ",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 584,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "You idiot, that's what you get for taking him on. Uh?",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 585,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 5,
+    "content": "Cricket suddenly fell to the ground, twitching.",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 586,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 6,
+    "content": "Hey!?",
+    "cfgArmyId": 13220
+  },
+  {
+    "recordId": 587,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "Bellamy, where are you!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 588,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10110,
+    "idx": 2,
+    "content": "Calling for me like that… We were just talking about you. Do you have something to say to me?",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 589,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 3,
+    "content": "Yes. Return diamond-head mister's gold back to him!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 590,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10110,
+    "idx": 4,
+    "content": "Gold? You mean Cricket's treasure?  ",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 591,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10110,
+    "idx": 5,
+    "content": "I shouldn't have to do that. It's my loot as a pirate. ",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 592,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10110,
+    "idx": 6,
+    "content": "You're a pirate too. You don't have the right to say stuff like that to me.",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 593,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 7,
+    "content": "Yes, I do! They're my friends. So I will take the gold back to them!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 594,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10110,
+    "idx": 8,
+    "content": "Hahahahah! Can you fight? Do you know how to punch? Hahahah!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 595,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10110,
+    "idx": 9,
+    "content": "If you stand here like an idiot just like in the morning, you won't be able to take anything from me, wimp!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 596,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 10,
+    "content": "What happened in the morning is a different matter.",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 597,
+    "name": "Bellamy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10110,
+    "idx": 11,
+    "content": "This time, I'll beat you up until you won't ever have the chance to bluff like that again! ",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 598,
+    "name": "Bellamy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10110,
+    "idx": 1,
+    "content": "Golden City, Sky Island… The age for daydreams is over! ",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 599,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 2,
+    "content": "You asked if I know how to punch, right?",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 600,
+    "name": "Bellamy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10110,
+    "idx": 3,
+    "content": "Farewell! Straw hat!",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 601,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 4,
+    "content": "Boom! One hit KO against Bellamy! ",
+    "cfgArmyId": 13320
+  },
+  {
+    "recordId": 602,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 1,
+    "content": "Look, that man fell off his horse. ",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 603,
+    "name": "Doc Q",
+    "order": 0,
+    "dialog": 4,
+    "face": 10122,
+    "idx": 2,
+    "content": "Excuse me, can you two help me up...?",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 604,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 3,
+    "content": "You just don't want to pick yourself up, right?",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 605,
+    "name": "Doc Q",
+    "order": 0,
+    "dialog": 4,
+    "face": 10122,
+    "idx": 4,
+    "content": "Ah, sorry, I have been weak physically since childhood...",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 606,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10024,
+    "idx": 5,
+    "content": "Even the horse is weak...",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 607,
+    "name": "Doc Q",
+    "order": 0,
+    "dialog": 4,
+    "face": 10122,
+    "idx": 6,
+    "content": "A token of my gratitude… please have an apple...",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 608,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 1,
+    "face": 10025,
+    "idx": 7,
+    "content": "No thanks… Just hurry up and leave...",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 609,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 8,
+    "content": "Ah! Apples! Thanks!",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 610,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 9,
+    "content": "Hey! Hey! Luffy, Don't eat them! ",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 611,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 10,
+    "content": "A sound of explosion came from afar. Someone exploded after they ate an apple. ",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 612,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 11,
+    "content": "What are you trying to pull here?!",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 613,
+    "name": "Doc Q",
+    "order": 0,
+    "dialog": 6,
+    "face": 10122,
+    "idx": 12,
+    "content": "Hahah...Cough...Don't worry...He's fine. If he took the wrong one, he would have been dead on the first bite.",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 614,
+    "name": "Doc Q",
+    "order": 0,
+    "dialog": 2,
+    "face": 10122,
+    "idx": 13,
+    "content": "That kid is safe… Haha… Cough… You're really lucky!",
+    "cfgArmyId": 13420
+  },
+  {
+    "recordId": 615,
+    "name": "Blackbeard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10067,
+    "idx": 1,
+    "content": "You are… a pirate?",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 616,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "Yes!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 617,
+    "name": "Blackbeard",
+    "order": 0,
+    "dialog": 1,
+    "face": 10067,
+    "idx": 3,
+    "content": "Bounty?",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 618,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 4,
+    "content": "30 million!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 619,
+    "name": "Blackbeard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10067,
+    "idx": 5,
+    "content": "30 million? You...? You're lying!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 620,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 6,
+    "content": "I'm not lying! It's true!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 621,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 7,
+    "content": "Knock it off!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 622,
+    "name": "Blackbeard",
+    "order": 0,
+    "dialog": 5,
+    "face": 10067,
+    "idx": 8,
+    "content": "Hey… Don't fight in the bar!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 623,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 9,
+    "content": "Go ahead!",
+    "cfgArmyId": 13520
+  },
+  {
+    "recordId": 624,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 1,
+    "content": "You're the third one to get here today.",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 625,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 2,
+    "face": 10026,
+    "idx": 2,
+    "content": "I… I was too full of myself!——I should go back first! Now I'm dead!",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 626,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 3,
+    "content": "Don't be so afraid. That dog's name is Holy. He is my pet… He won't bite you.",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 627,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 4,
+    "content": "B… But this man is covered in blood! ",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 628,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 5,
+    "content": "That man was chopped by me.",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 629,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 6,
+    "content": "That's even worse! Who are you!?",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 630,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 7,
+    "content": "My name is Ohm… You should be quiet… Right now, I'm...",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 631,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 8,
+    "content": "Busy feeling sorrowful for these mortals. Life is nothing but a dream..",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 632,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 9,
+    "content": "Why are they in such a hurry to die in a battle?",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 633,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 4,
+    "face": 10026,
+    "idx": 10,
+    "content": "Huh? What...?",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 634,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 11,
+    "content": "People live for prosperity, yet for prosperity they fight and die...",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 635,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 12,
+    "content": "Thus, wouldn't it be better if they hadn't done anything to begin with?",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 636,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 13,
+    "content": "Oh sorrow... But, there's still a way to salvation...",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 637,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 5,
+    "face": 10128,
+    "idx": 14,
+    "content": "All they need to do is to die!!",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 638,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 15,
+    "content": "This guy is a super psycho!",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 639,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 16,
+    "content": "Why are you here?",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 640,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 4,
+    "face": 10026,
+    "idx": 17,
+    "content": "I...I'm here to find gold...",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 641,
+    "name": "Ohm",
+    "order": 0,
+    "dialog": 1,
+    "face": 10128,
+    "idx": 18,
+    "content": "If you want that, you must fight. (Pulls out a sword) Allow me to save you.",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 642,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 19,
+    "content": "I don't want to be saved by you!",
+    "cfgArmyId": 13620
+  },
+  {
+    "recordId": 643,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 1,
+    "face": 10127,
+    "idx": 1,
+    "content": "First you tell me not to attack your friends, then you tell me not to destroy this ship...",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 644,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 5,
+    "face": 10127,
+    "idx": 2,
+    "content": "Then you say you don't want to die...",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 645,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 1,
+    "face": 10127,
+    "idx": 3,
+    "content": "You selfish animal, you really piss me off.",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 646,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 5,
+    "face": 10127,
+    "idx": 4,
+    "content": "Why are you so weak!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 647,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 5,
+    "content": "Whoa! Stop… That lance burns stuff!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 648,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 1,
+    "face": 10127,
+    "idx": 6,
+    "content": "You want to live without any sacrifice?",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 649,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 1,
+    "face": 10127,
+    "idx": 7,
+    "content": "If someone wants to survive… then someone else must die… This is reality...",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 650,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 5,
+    "face": 10127,
+    "idx": 8,
+    "content": "You must give your life to god!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 651,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 9,
+    "content": "No!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 652,
+    "name": "1",
+    "order": 0,
+    "dialog": 0,
+    "face": 1,
+    "idx": 10,
+    "content": "When Chopper is about to be hit by Shura, Knight of the Sky Gan Fall appears! ",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 653,
+    "name": "Gan Fall",
+    "order": 0,
+    "dialog": 1,
+    "face": 10114,
+    "idx": 11,
+    "content": "Thanks for waiting!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 654,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 12,
+    "content": "Knight of the Sky!!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 655,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 5,
+    "face": 10127,
+    "idx": 13,
+    "content": "Gan Fall! Huh… A rare guest! ",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 656,
+    "name": "Gan Fall",
+    "order": 0,
+    "dialog": 6,
+    "face": 10114,
+    "idx": 14,
+    "content": "Let's fight harder, Pierre.",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 657,
+    "name": "Shura",
+    "order": 0,
+    "dialog": 5,
+    "face": 10127,
+    "idx": 15,
+    "content": "Old men like you are useless! Let's play with him, Fuza!",
+    "cfgArmyId": 13720
+  },
+  {
+    "recordId": 658,
+    "name": "Satori",
+    "order": 0,
+    "dialog": 1,
+    "face": 10125,
+    "idx": 1,
+    "content": "Huhuhuhu! Welcome to my Ordeal of Balls! ",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 659,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "This is your Ordeal of Balls? Are you a ball?",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 660,
+    "name": "Satori",
+    "order": 0,
+    "dialog": 1,
+    "face": 10125,
+    "idx": 3,
+    "content": "Hoh hoh hooooo ",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 661,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 4,
+    "content": "Stop dancing! Who are you?",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 662,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 2,
+    "face": 10029,
+    "idx": 5,
+    "content": "Looks like another idiot...",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 663,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 6,
+    "content": "Hey, Octopus, are Nami and the others alright? ",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 664,
+    "name": "Satori",
+    "order": 0,
+    "dialog": 1,
+    "face": 10125,
+    "idx": 7,
+    "content": "I don't care...They'll probably die anyway.",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 665,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 8,
+    "content": "What did you say!!",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 666,
+    "name": "Satori",
+    "order": 0,
+    "dialog": 1,
+    "face": 10125,
+    "idx": 9,
+    "content": "You should worry about yourselves. If you can't beat me, you can't move forward.",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 667,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 6,
+    "face": 10029,
+    "idx": 10,
+    "content": "He's coming, Luffy! Go kick his ass!",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 668,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 11,
+    "content": "Ok! I'll knock him down!",
+    "cfgArmyId": 13820
+  },
+  {
+    "recordId": 669,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 3,
+    "face": 10126,
+    "idx": 1,
+    "content": "Where did he disappear to? Does he has the ability to turn invisible...?",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 670,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 6,
+    "face": 10026,
+    "idx": 2,
+    "content": "Ah! He's making white eyes! So scary!",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 671,
+    "name": "Priest Guardian",
+    "order": 0,
+    "dialog": 5,
+    "face": 10133,
+    "idx": 3,
+    "content": "Gedatsu, if you do that eye thing, you can't see the enemy!",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 672,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 1,
+    "face": 10126,
+    "idx": 4,
+    "content": "Ah! I was careless!",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 673,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 2,
+    "face": 10026,
+    "idx": 5,
+    "content": "Is this guy an idiot? Enemy! Are you a… priest?",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 674,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 3,
+    "face": 10126,
+    "idx": 6,
+    "content": "(Bite lips) That's right! I am the Sky Boss Gedatsu! ",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 675,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 3,
+    "face": 10126,
+    "idx": 7,
+    "content": "I am also one of the mighty Enel's priests! ",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 676,
+    "name": "Chopper",
+    "order": 0,
+    "dialog": 2,
+    "face": 10026,
+    "idx": 8,
+    "content": "......?",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 677,
+    "name": "Priest Guardian",
+    "order": 0,
+    "dialog": 5,
+    "face": 10133,
+    "idx": 9,
+    "content": "Gedatsu! You have to say it loud!",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 678,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 5,
+    "face": 10126,
+    "idx": 10,
+    "content": "Hunh! Take a look at where you're standing! You're in my territory!",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 679,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 5,
+    "face": 10126,
+    "idx": 11,
+    "content": "Swamp clouds are planted everywhere. Once you're trapped by the swamp, you'll never get out! ",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 680,
+    "name": "Gedatsu",
+    "order": 0,
+    "dialog": 3,
+    "face": 10126,
+    "idx": 12,
+    "content": "The survival rate is...",
+    "cfgArmyId": 13920
+  },
+  {
+    "recordId": 681,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 1,
+    "content": "Are you the bastard Enel?",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 682,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 6,
+    "face": 10030,
+    "idx": 2,
+    "content": "Luffy!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 683,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 3,
+    "content": "What did you do to my friends!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 684,
+    "name": "Enel",
+    "order": 0,
+    "dialog": 2,
+    "face": 10017,
+    "idx": 4,
+    "content": "Show some respect… I am god!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 685,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 5,
+    "content": "You don't look like god!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 686,
+    "name": "Enel",
+    "order": 0,
+    "dialog": 2,
+    "face": 10017,
+    "idx": 6,
+    "content": "I hear the cheers of the party...",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 687,
+    "name": "Enel",
+    "order": 0,
+    "dialog": 2,
+    "face": 10017,
+    "idx": 7,
+    "content": "The citizens seem to know about the fate of Skypiea...Yahaha...",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 688,
+    "name": "Enel",
+    "order": 0,
+    "dialog": 2,
+    "face": 10017,
+    "idx": 8,
+    "content": "I wonder where are they running to?",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 689,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 9,
+    "content": "I said, you don't look like god!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 690,
+    "name": "Enel",
+    "order": 0,
+    "dialog": 2,
+    "face": 10017,
+    "idx": 10,
+    "content": "I will show you soon enough.",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 691,
+    "name": "Enel",
+    "order": 1,
+    "dialog": 1,
+    "face": 10017,
+    "idx": 1,
+    "content": "I see… So you are not a simple mortal… However...",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 692,
+    "name": "Enel",
+    "order": 1,
+    "dialog": 1,
+    "face": 10017,
+    "idx": 2,
+    "content": "Paramecia type makes no difference to me!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 693,
+    "name": "Enel",
+    "order": 1,
+    "dialog": 5,
+    "face": 10017,
+    "idx": 3,
+    "content": "Because... I am god!!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 694,
+    "name": "Enel",
+    "order": 1,
+    "dialog": 5,
+    "face": 10017,
+    "idx": 4,
+    "content": "God's judgment! 100 million volts!!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 695,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 5,
+    "content": "Luffy was not hurt at all after being hit by the thunder.",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 696,
+    "name": "Enel",
+    "order": 1,
+    "dialog": 1,
+    "face": 10017,
+    "idx": 6,
+    "content": "What?",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 697,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 4,
+    "face": 10030,
+    "idx": 7,
+    "content": "Immune to thunder? Can it be because of... his rubber body?",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 698,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 8,
+    "content": "Stop it, you are annoying! (Beat down Enel with one hit)",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 699,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 4,
+    "face": 10030,
+    "idx": 9,
+    "content": "Thunder has no effect on Luffy! ",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 700,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 4,
+    "face": 10030,
+    "idx": 10,
+    "content": "The one man who can fight against thunder. Enel probably never thought that such a man existed!",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 701,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 4,
+    "face": 10030,
+    "idx": 11,
+    "content": "Maybe Luffy is Enel's one and only natural enemy! ",
+    "cfgArmyId": 14020
+  },
+  {
+    "recordId": 702,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 1,
+    "content": "Hey, that horse is mine. I shot it. Don't touch it! ",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 703,
+    "name": "Porche",
+    "order": 0,
+    "dialog": 6,
+    "face": 10143,
+    "idx": 2,
+    "content": "Yeah! That's my boss's horse!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 704,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10024,
+    "idx": 3,
+    "content": "(Angry) Who the hell… are you?",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 705,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10139,
+    "idx": 4,
+    "content": "Who am I? He actually doesn't recognize my face!!!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 706,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 5,
+    "content": "Damn! Are they the shooters?",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 707,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 6,
+    "content": "I don't care about your face! But I'll kick your ass and send you flying!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 708,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 7,
+    "content": "I am Foxy and I always get what I want!!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 709,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 8,
+    "content": "You bastard!! \"Rubber\"…",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 710,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10139,
+    "idx": 9,
+    "content": "Hold it! Straw-hat Luffy? ",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 711,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 10,
+    "content": "Eh? How do you know my name?  ",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 712,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 11,
+    "content": "We Foxy Pirates will challenge you Straw Hat pirates…",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 713,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 12,
+    "content": "...to an official Davy Back Fight!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 714,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 13,
+    "content": "What are you gabbling about? Just bring it on! If you want a fight, I accept it!",
+    "cfgArmyId": 14120
+  },
+  {
+    "recordId": 715,
+    "name": "Porche",
+    "order": 0,
+    "dialog": 1,
+    "face": 10143,
+    "idx": 1,
+    "content": "Better not go far away from the island if you don't want to get lost in the sea. Good Luck! ",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 716,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 2,
+    "face": 10030,
+    "idx": 2,
+    "content": "What does that mean? Who will do that?",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 717,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 3,
+    "content": "No, it isn't that simple (They are attacked from the shore) ",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 718,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 6,
+    "face": 10030,
+    "idx": 4,
+    "content": "How dirty, being stopped by the audience!",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 719,
+    "name": "Porche",
+    "order": 0,
+    "dialog": 1,
+    "face": 10143,
+    "idx": 5,
+    "content": "Ahaha…See ya! ",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 720,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 6,
+    "content": "What do you want to do with my Nami? Damn! Bastard! I'll kick your head off!",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 721,
+    "name": "Porche",
+    "order": 0,
+    "dialog": 1,
+    "face": 10143,
+    "idx": 7,
+    "content": "Sinking their ship will be much easier.",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 722,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10139,
+    "idx": 8,
+    "content": "I have…a naughty idea. Fuehehehe… \"White Smoke Attack\".",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 723,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 9,
+    "content": "This place is the maze of currents. If we find the right path, the current will take the ship forward.",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 724,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 10,
+    "content": "Smoke is useless to us. See, that's the navigator!",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 725,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 11,
+    "content": "（Close to the finish line）Great! Nami and others are taking the lead! ",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 726,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 3,
+    "face": 10139,
+    "idx": 12,
+    "content": "Slowmo Beam…",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 727,
+    "name": "Porche",
+    "order": 0,
+    "dialog": 2,
+    "face": 10143,
+    "idx": 13,
+    "content": "Thanks for your support. Our victory was guaranteed.",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 728,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 1,
+    "face": 10139,
+    "idx": 14,
+    "content": "Haha..Great! Now hand over one of your friends. ",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 729,
+    "name": "Foxy",
+    "order": 0,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 15,
+    "content": "The first crew I'd like to have is you - Doctor Tony Tony Chopper! (Chopper is taken away)",
+    "cfgArmyId": 14220
+  },
+  {
+    "recordId": 730,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 1,
+    "content": "Stop crying, Chopper! ",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 731,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 5,
+    "face": 10025,
+    "idx": 2,
+    "content": "Be like a man! Sit tight and quietly watch the game. ",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 732,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 3,
+    "content": "We still have two rounds. That's enough for us to get back our emergency ration.",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 733,
+    "name": "Hamburg ",
+    "order": 1,
+    "dialog": 1,
+    "face": 10144,
+    "idx": 1,
+    "content": "Boss asks me to battle. I thought the opponent would be some tough guy.",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 734,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "Who the hell are you?",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 735,
+    "name": "Hamburg ",
+    "order": 1,
+    "dialog": 5,
+    "face": 10144,
+    "idx": 3,
+    "content": "Hahahaha, Gorilla Throw, Hamburger Hammer, Size Attack S-M-L! I win!",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 736,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 4,
+    "content": "In your dreams! I'm not done yet! It'll be a shame if I ask Zoro for help.  ",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 737,
+    "name": "Hamburg ",
+    "order": 1,
+    "dialog": 1,
+    "face": 10144,
+    "idx": 5,
+    "content": "Heehee, ready ---(The groggy Monsters takes Sanji and Zoro Down)",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 738,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 6,
+    "content": "Hey… Chef, give me 10 seconds.",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 739,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 7,
+    "content": "10 seconds? Not a problem. (Stands up) ",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 740,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10139,
+    "idx": 8,
+    "content": "Hey, you, I'd like to have a \"Monster Burger\"",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 741,
+    "name": "Hamburg ",
+    "order": 1,
+    "dialog": 5,
+    "face": 10144,
+    "idx": 9,
+    "content": "Hahaha, I'll smash you and make you a hamburger. Heehee, chop you into pieces like chopping vegetables!",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 742,
+    "name": "Hamburg ",
+    "order": 1,
+    "dialog": 5,
+    "face": 10144,
+    "idx": 10,
+    "content": "Heehee, and finally flatter you with a huge iron pan. A \"Monster Burger\" is made.",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 743,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 11,
+    "content": "You can't make good food with such lousy skills! Anti-Manner Kick! (Win)",
+    "cfgArmyId": 14320
+  },
+  {
+    "recordId": 744,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10139,
+    "idx": 1,
+    "content": "Oh, not bad! We're enemies, yet you are still worth my respect. Come on!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 745,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "Rubber gun!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 746,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 3,
+    "content": "Slowmo Beam!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 747,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 4,
+    "content": "Ah, my hand is slowing down!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 748,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10139,
+    "idx": 5,
+    "content": "What, are you all bark and no bite?",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 749,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 6,
+    "content": "Damn! His Slowmo Beam is harder to deal with than I thought.  ",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 750,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 7,
+    "content": "(After an intense battle, Luffy and Foxy are on the deck. Luffy is taken down again and again but stands up every time) ",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 751,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 8,
+    "content": "I'd rather die than give you my friends!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 752,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 9,
+    "content": "What are you talking about!! I'll finish you off right away! ",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 753,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 10,
+    "content": "I---will win!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 754,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 1,
+    "face": 10139,
+    "idx": 11,
+    "content": "What nonsense are you talking about? You can barely stand up. ",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 755,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 12,
+    "content": "However, if you want to go on, I will take you down until you're unable to stand up. Megaton Nine-Tails Rush!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 756,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 13,
+    "content": "Rubber Gatling (Luffy uses a mirror shard in his hand to reflect the Slowmo Beam, which hits Foxy)",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 757,
+    "name": "Foxy",
+    "order": 1,
+    "dialog": 5,
+    "face": 10139,
+    "idx": 14,
+    "content": "Damn… Damn..you!",
+    "cfgArmyId": 14420
+  },
+  {
+    "recordId": 758,
+    "name": "Kuzan",
+    "order": 0,
+    "dialog": 5,
+    "face": 10140,
+    "idx": 1,
+    "content": "Great, shore. Please step back. Ice Age!",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 759,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "Devil fruit!! The sea is frozen!",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 760,
+    "name": "Robin",
+    "order": 0,
+    "dialog": 1,
+    "face": 10031,
+    "idx": 3,
+    "content": "He's the logia-type.. Hie Hie Fruit user. This is the ability of a supreme admiral from Marine headquarter!",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 761,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 1,
+    "content": "I'm just here…to see you Nico Robin…",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 762,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 5,
+    "face": 10140,
+    "idx": 2,
+    "content": "You…better die here and now! ",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 763,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "Don't fight. I want a one-on-one fight with him. Let's settle this, just you and me! ",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 764,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 4,
+    "content": "Cool with me...but I have no ship to take my prisoners away, so I have to kill you.",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 765,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 5,
+    "content": "Rubber Bullet!!",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 766,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 5,
+    "face": 10140,
+    "idx": 6,
+    "content": "Ice Age!! (Luffy is frozen)",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 767,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 7,
+    "content": "I was cheated. I win, but I accepted your 1v1 battle..",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 768,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 8,
+    "content": "so if I do anything to others.. I break the promise.",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 769,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 9,
+    "content": "Isn’t it, captain? Or … you really think you can defeat me?",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 770,
+    "name": "Kuzan",
+    "order": 1,
+    "dialog": 1,
+    "face": 10140,
+    "idx": 10,
+    "content": "I have something to tell you. You will not be able to…cope with Nico Robin in the future.",
+    "cfgArmyId": 14520
+  },
+  {
+    "recordId": 771,
+    "name": "Blueno",
+    "order": 0,
+    "dialog": 1,
+    "face": 10145,
+    "idx": 1,
+    "content": "Seems like the report is not true. I really thought we only had lost 5 men.",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 772,
+    "name": "Blueno",
+    "order": 0,
+    "dialog": 1,
+    "face": 10145,
+    "idx": 2,
+    "content": "It's the first time in the history that some one is able to break into the world government. You won't stop, will you?",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 773,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "Yes, unless I die! Robin is behind the door right? Back off, dumb ox!  ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 774,
+    "name": "Blueno",
+    "order": 0,
+    "dialog": 5,
+    "face": 10145,
+    "idx": 4,
+    "content": "You --seem don't realize what you are doing now constitutes an international crime!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 775,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 5,
+    "content": "What are you trying to say?",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 776,
+    "name": "Blueno",
+    "order": 0,
+    "dialog": 1,
+    "face": 10145,
+    "idx": 6,
+    "content": "You are numbered and too weak to fight against World Government.  ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 777,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 7,
+    "content": "Back off!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 778,
+    "name": "Blueno",
+    "order": 0,
+    "dialog": 1,
+    "face": 10145,
+    "idx": 8,
+    "content": "Fighting against us is useless.",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 779,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 9,
+    "content": "Maybe, but now it's different. I won't lose!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 780,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 10,
+    "content": "I don't care about the world or the government---We are coming to get Robin back! ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 781,
+    "name": "Blueno",
+    "order": 1,
+    "dialog": 5,
+    "face": 10145,
+    "idx": 1,
+    "content": "Gear Two?! Evolved skill?! ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 782,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 2,
+    "content": "I'm so lucky to meet you here. Rubber---! ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 783,
+    "name": "Blueno",
+    "order": 1,
+    "dialog": 5,
+    "face": 10145,
+    "idx": 3,
+    "content": "You want to deliver something big? The bigger it is, the easier it is to avoid. Go ahead!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 784,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 4,
+    "content": "Rubber Jet Rifle!!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 785,
+    "name": "Blueno",
+    "order": 1,
+    "dialog": 1,
+    "face": 10145,
+    "idx": 5,
+    "content": "So fast... impossible…  ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 786,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 6,
+    "content": "You're pretty strong. Then, let me show you something more interesting. ",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 787,
+    "name": "1",
+    "order": 1,
+    "dialog": 0,
+    "face": 1,
+    "idx": 7,
+    "content": "(Blueno falls down)",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 788,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 8,
+    "content": "Robin ~~~~~~~~~!!! I'm picking you up~~~~~~~~~~~!!!",
+    "cfgArmyId": 14620
+  },
+  {
+    "recordId": 789,
+    "name": "Usopp",
+    "order": 0,
+    "dialog": 1,
+    "face": 10029,
+    "idx": 1,
+    "content": "Sorry.. Sanji…",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 790,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "It's ok. Everyone has both weaknesses and strengths. I'll get the key.",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 791,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 3,
+    "content": "Let me do what you are incapable of.",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 792,
+    "name": "Jabra",
+    "order": 0,
+    "dialog": 6,
+    "face": 10146,
+    "idx": 4,
+    "content": "Wahaha! Changed the opponent! But it won't make a difference!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 793,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 5,
+    "content": "Analyze! You can do it. Robin will be saved as long as you are here.",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 794,
+    "name": "Jabra",
+    "order": 0,
+    "dialog": 6,
+    "face": 10146,
+    "idx": 6,
+    "content": "Wahahaha, better crush you. It's useless! ",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 795,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 1,
+    "face": 10032,
+    "idx": 1,
+    "content": "Your iron mass skill is really troublesome!!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 796,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 2,
+    "face": 10146,
+    "idx": 2,
+    "content": "Heehee!! Your kick is useless to me… ",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 797,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 3,
+    "content": "We'll see! (Sanji gives an angry kick that sends Jabra away) ",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 798,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 4,
+    "content": "It works, Jabra. Thanks for the key!! Bye!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 799,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 2,
+    "face": 10146,
+    "idx": 5,
+    "content": "Wait, how foolish of you to think that you can steal the key and run away!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 800,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 6,
+    "face": 10146,
+    "idx": 6,
+    "content": "Like a wolf, I'll chase you to exhaustion and then devour you!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 801,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 7,
+    "content": "I didn't think I would run away, but I will not be killed, nor will I spare you!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 802,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 2,
+    "face": 10146,
+    "idx": 8,
+    "content": "Spare me? Hahaha, worry about yourself!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 803,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 6,
+    "face": 10146,
+    "idx": 9,
+    "content": "Better think about how to get away rather than think of that ominous woman!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 804,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 10,
+    "content": "Haha! You won't laugh for long! Diable Jambe! The destructive power is as strong as the devil!",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 805,
+    "name": "Jabra",
+    "order": 1,
+    "dialog": 6,
+    "face": 10146,
+    "idx": 11,
+    "content": "Hot! My bones are blazing hot and feel like they're going to break! What kind of kick is that?",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 806,
+    "name": "Sanji",
+    "order": 1,
+    "dialog": 5,
+    "face": 10032,
+    "idx": 12,
+    "content": "It's made by a God and a Devil. A bit spicy, huh? ",
+    "cfgArmyId": 14720
+  },
+  {
+    "recordId": 807,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 1,
+    "content": "Get serious, ok? Are you going to lose your life to the so-called chivalry?",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 808,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 2,
+    "face": 10032,
+    "idx": 2,
+    "content": "I..I don't want to die… but I don't kick girls. I was brought up this way. So..",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 809,
+    "name": "Sanji",
+    "order": 0,
+    "dialog": 6,
+    "face": 10032,
+    "idx": 3,
+    "content": "So, I won't kick girls even it means it'll kill me…!!!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 810,
+    "name": "Nami",
+    "order": 0,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 4,
+    "content": "Idiot!!! I'll take care of that woman! You and your chivalry…",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 811,
+    "name": "Kalifa",
+    "order": 0,
+    "dialog": 2,
+    "face": 10147,
+    "idx": 5,
+    "content": "We meet again, huh?",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 812,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 1,
+    "content": "Thunderbolt Tempo! ----?! What is it? The thunder was blocked.. And turned into bubbles!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 813,
+    "name": "Kalifa",
+    "order": 1,
+    "dialog": 2,
+    "face": 10147,
+    "idx": 2,
+    "content": "If you can't figure it out… you won't win!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 814,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 3,
+    "content": "It turns into bubbles like soap… Could she have eaten the bubble-bubble fruit?",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 815,
+    "name": "Kalifa",
+    "order": 1,
+    "dialog": 6,
+    "face": 10147,
+    "idx": 4,
+    "content": "Even if…you figure it out, you are doomed to lose!! ",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 816,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 5,
+    "content": "Is it useful in a fight? Looks weak!!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 817,
+    "name": "Kalifa",
+    "order": 1,
+    "dialog": 6,
+    "face": 10147,
+    "idx": 6,
+    "content": "Don't forget, I'm still a killer for the assassin group. My nickname is \"Golden Bubble\"!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 818,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 3,
+    "face": 10030,
+    "idx": 7,
+    "content": "I can't even hold my Climate Baton… my legs are mushy… I can't stand up…!!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 819,
+    "name": "Kalifa",
+    "order": 1,
+    "dialog": 6,
+    "face": 10147,
+    "idx": 8,
+    "content": "If you want to stop that monster, go ahead, but my mission is to kill you. Bow to your fate!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 820,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 9,
+    "content": "Climate Baton \"Cloudy Tempo\"——Rain and Cloud Combo!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 821,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 5,
+    "face": 10030,
+    "idx": 10,
+    "content": "I've seen through your ability including your CP9 power, so --- Electric Bubble!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 822,
+    "name": "Kalifa",
+    "order": 1,
+    "dialog": 6,
+    "face": 10147,
+    "idx": 11,
+    "content": "Even if you can control the weather, so what? Six Powers are beyond the human extremity!",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 823,
+    "name": "Nami",
+    "order": 1,
+    "dialog": 1,
+    "face": 10030,
+    "idx": 12,
+    "content": "No matter how strong you are, my weather forecast won't fail me. My friends are waiting for me. If I were you, I would take it.",
+    "cfgArmyId": 14820
+  },
+  {
+    "recordId": 824,
+    "name": "Kaku",
+    "order": 0,
+    "dialog": 1,
+    "face": 10148,
+    "idx": 1,
+    "content": "Anyway, I said I like meat! ",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 825,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 2,
+    "content": "I don't give a shit on what you like. Give me the key. If I can't catch up, I lose. ",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 826,
+    "name": "Kaku",
+    "order": 0,
+    "dialog": 1,
+    "face": 10148,
+    "idx": 3,
+    "content": "Are you stronger with that headscarf on?",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 827,
+    "name": "Zoro",
+    "order": 0,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "Who knows？",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 828,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 5,
+    "face": 10148,
+    "idx": 1,
+    "content": "（Turns into a square）Iron mass without dead ends!  Square without dead ends!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 829,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 2,
+    "content": "Shut up! What are you doing, bastard? Are you gonna fight or not?",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 830,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 1,
+    "face": 10148,
+    "idx": 3,
+    "content": "Where are you staring at? Have a taste of my attack!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 831,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 4,
+    "content": "Er? Slashes! Damn! Santoryu!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 832,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 1,
+    "face": 10148,
+    "idx": 5,
+    "content": "What power!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 833,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 6,
+    "content": "If you're always look at things above, you won't notice what it's like being  beaten down… You hold your head too high!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 834,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 5,
+    "face": 10148,
+    "idx": 7,
+    "content": "There's more you don't see. Giraffe's Wild Power!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 835,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 8,
+    "content": "Show me!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 836,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 5,
+    "face": 10148,
+    "idx": 9,
+    "content": "Thanks for the reminder. Giraffe Fort--- ",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 837,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 10,
+    "content": "What kind of creature are you?",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 838,
+    "name": "Kaku",
+    "order": 1,
+    "dialog": 5,
+    "face": 10148,
+    "idx": 11,
+    "content": "Tempest Kick Sky Slicer! Give up! You have nowhere to flee!",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 839,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 6,
+    "face": 10025,
+    "idx": 12,
+    "content": "It's you who should give up! Demon Aura Nine Sword Style --- Asura! (Kaku is defeated)",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 840,
+    "name": "Zoro",
+    "order": 1,
+    "dialog": 2,
+    "face": 10025,
+    "idx": 13,
+    "content": "Ah, right! The boss of Galley-La Company asked me to give you a message - \"You're fired!\"",
+    "cfgArmyId": 14920
+  },
+  {
+    "recordId": 841,
+    "name": "Rob Lucci ",
+    "order": 0,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 1,
+    "content": "Did you forget, Straw-hat Luffy? I gave you a blow with this stance back in the Galley-La Company...",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 842,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 2,
+    "content": "Oh, that! I recovered after eating some meat. Jet Bazooka --- Frankie, go save Robin!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 843,
+    "name": "Rob Lucci ",
+    "order": 0,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 3,
+    "content": "…I should have been more careful. Never expected you have such great power.",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 844,
+    "name": "Rob Lucci ",
+    "order": 0,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 4,
+    "content": "But you look like you're out of breath. Is that because of the steam? ",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 845,
+    "name": "Luffy",
+    "order": 0,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 5,
+    "content": "I don't care what it takes, as long as I can defeat you!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 846,
+    "name": "Rob Lucci ",
+    "order": 0,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 6,
+    "content": "What happened… how scary.",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 847,
+    "name": "Rob Lucci ",
+    "order": 1,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 1,
+    "content": "So it is… Indeed, your physical ability has been boosted. ",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 848,
+    "name": "Rob Lucci ",
+    "order": 1,
+    "dialog": 5,
+    "face": 10033,
+    "idx": 2,
+    "content": "But your body can't bear it. You are risking your life! ",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 849,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 3,
+    "content": "Compared with losing something important, I'd rather bear it myself!! ",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 850,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 4,
+    "content": "If there's something that I can do, I will do it! ",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 851,
+    "name": "Rob Lucci ",
+    "order": 1,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 5,
+    "content": "Get all of them out? What a pathetic wish! Show me!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 852,
+    "name": "Rob Lucci ",
+    "order": 1,
+    "dialog": 5,
+    "face": 10033,
+    "idx": 6,
+    "content": "(Smash the wall) Soon the room will filled with water. You must be worried about them. Go save them!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 853,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 7,
+    "content": "I won't let you go!!! They will live through no matter how difficult it may be!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 854,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 8,
+    "content": "If I let you go, you'll go and kill them!",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 855,
+    "name": "Rob Lucci ",
+    "order": 1,
+    "dialog": 1,
+    "face": 10033,
+    "idx": 9,
+    "content": "That's honorable, but it won't change anything if you die. Can you defeat me?",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 856,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 2,
+    "face": 10024,
+    "idx": 10,
+    "content": "Want a head-on battle? OK, let me show you another skill ---",
+    "cfgArmyId": 15020
+  },
+  {
+    "recordId": 857,
+    "name": "Luffy",
+    "order": 1,
+    "dialog": 6,
+    "face": 10024,
+    "idx": 11,
+    "content": "Gear Three---Bone Balloon! Check out my left hand! (Sends Rob Lucci flying) ",
+    "cfgArmyId": 15020
+  }
+]

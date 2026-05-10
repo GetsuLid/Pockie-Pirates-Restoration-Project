@@ -1,0 +1,162 @@
+# arena
+getArenaRank
+getArenaRankRewards
+
+# army
+getArmyMessage
+
+# battle
+enterQuarryBattle
+getEmbattle
+getUpgrateEmbattle
+
+# campagin
+getCampaginConfig
+
+# exp
+getComplexProperty
+getExplicitOrMeasuredHeight
+getExplicitOrMeasuredWidth
+levelExp
+levelUpNeedExp
+setExp
+
+# forge
+getForgeData
+
+# gold
+getGoldPresent
+setGold
+
+# item
+createItem
+createItemEditor
+createItemMask
+createItemRenderer
+doNextQueueItem
+getFailedItems
+getFilteredItemIndex
+getItem
+getItemAt
+getItemConfig
+getItemCount
+getItemIndex
+getItemRendererForMouseEvent
+getItemUID
+getNotLoadedItems
+getPreparedItemRenderer
+getProgressForItems
+getRepeaterItem
+getReservedOrFreeItemRenderer
+getUniqueItemWrapper
+getWrappedItemUsingCursor
+moveItemInView
+sellItem
+setEditedItemPosition
+setItemAt
+setSelectedItem
+updateEventItems
+useItem
+
+# legion
+getBelongLegion
+getLegionBattleRank
+getLegionWarReward
+
+# movie
+getAVM1Movie
+getMovieClip
+
+# npc
+getNpc
+setTargetNPCChange
+setTargetNPCId
+
+# port
+getPort
+getPortExtend
+getServerNameWithPort
+leavePort
+
+# quest
+createModalWindowRequest
+createModalWindowRequestHandler
+createRequestTimeoutErrorMessage
+getSizeRequest
+getSizeRequestHandler
+getVisibleRectRequest
+getVisibleRectRequestHandler
+moveFocusRequest
+resetMouseCursorRequest
+resetMouseCursorRequestHandler
+setActualSizeRequest
+setActualSizeRequestHandler
+setShowFocusIndicatorRequest
+
+# rank
+getGeneralRank
+getRoleRank
+
+# ring
+getDebugString
+getLevelString
+getMeasuringRenderer
+getOperationAsString
+getString
+getStringArray
+queryString
+setBorderColorForErrorString
+
+# role
+createRole
+setRolePosition
+
+# scene
+enterSercetScene
+getSceneImageInfo
+getSceneInfo
+getScenePoint
+leaveSercetScene
+setTargetScene
+
+# select
+moveSelection
+moveSelectionHorizontally
+moveSelectionVertically
+setSelected
+setSelection
+setSelectionDataLoop
+setSelectionIndicesLoop
+
+# sell
+buyOrSell
+
+# ship
+getShipProductAmount
+
+# skill
+getSkill
+getSkillList
+
+# soul
+moveSoulData
+
+# step
+enterStepId
+
+# vip
+setVipLevel
+
+# war
+getOfferReward
+getReward
+getReward1
+getReward2
+getReward3
+getReward4
+getWarConfig
+getWarReward
+setReward
+setRewardInfo
+setTeamwarShow
+

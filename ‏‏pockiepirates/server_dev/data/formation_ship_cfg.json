@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Miss Love Duck",
+    "cfgFormationId": 1
+  },
+  {
+    "name": "Marine Battleships",
+    "cfgFormationId": 2
+  },
+  {
+    "name": "Moby Dick",
+    "cfgFormationId": 3
+  },
+  {
+    "name": "Going Merry",
+    "cfgFormationId": 4
+  },
+  {
+    "name": "Thousand Sunny",
+    "cfgFormationId": 5
+  },
+  {
+    "name": "Ark Maxim",
+    "cfgFormationId": 6
+  },
+  {
+    "name": "Red Force",
+    "cfgFormationId": 7
+  },
+  {
+    "name": "Golden Lion",
+    "cfgFormationId": 8
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "enhanceValue": 300,
+    "desc": "Physical and magical attack +300 per level",
+    "maxLevel": 10,
+    "cfgTalentId": 1,
+    "enhanceType": 1
+  },
+  {
+    "enhanceValue": 1000,
+    "desc": "Max HP +1000 per level",
+    "maxLevel": 10,
+    "cfgTalentId": 2,
+    "enhanceType": 2
+  },
+  {
+    "enhanceValue": 15,
+    "desc": "Hit rate +1.5% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 3,
+    "enhanceType": 4
+  },
+  {
+    "enhanceValue": 10,
+    "desc": "Critical Hit rate+1% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 4,
+    "enhanceType": 5
+  },
+  {
+    "enhanceValue": 150,
+    "desc": "Block Break rate +1.5% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 5,
+    "enhanceType": 6
+  },
+  {
+    "enhanceValue": 200,
+    "desc": "Speed +200 per level",
+    "maxLevel": 10,
+    "cfgTalentId": 6,
+    "enhanceType": 7
+  },
+  {
+    "enhanceValue": 100,
+    "desc": "Critical Hit Resist rate+1% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 7,
+    "enhanceType": 8
+  },
+  {
+    "enhanceValue": 3000,
+    "desc": "Max HP+3000 per level",
+    "maxLevel": 10,
+    "cfgTalentId": 8,
+    "enhanceType": 9
+  },
+  {
+    "enhanceValue": 10,
+    "desc": "Dodge Resist rate+1% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 9,
+    "enhanceType": 10
+  },
+  {
+    "enhanceValue": 100,
+    "desc": "Block Resist rate+1% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 10,
+    "enhanceType": 11
+  },
+  {
+    "enhanceValue": 50,
+    "desc": "Physical and magical pierce+0.5% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 11,
+    "enhanceType": 12
+  },
+  {
+    "enhanceValue": 2000,
+    "desc": "Max Strength Growth +30% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 12,
+    "enhanceType": 21
+  },
+  {
+    "enhanceValue": 2000,
+    "desc": "Max Intelligence Growth +30% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 13,
+    "enhanceType": 24
+  },
+  {
+    "enhanceValue": 2000,
+    "desc": "Max Constitution Growth +30% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 14,
+    "enhanceType": 23
+  },
+  {
+    "enhanceValue": 2000,
+    "desc": "Max Agility Growth +30% per level",
+    "maxLevel": 10,
+    "cfgTalentId": 15,
+    "enhanceType": 22
+  }
+]

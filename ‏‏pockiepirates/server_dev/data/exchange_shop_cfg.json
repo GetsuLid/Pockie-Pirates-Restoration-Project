@@ -1,0 +1,562 @@
+[
+  {
+    "needAmount": 500,
+    "productId": 1,
+    "cfgItemId": 300162,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 500,
+    "productId": 2,
+    "cfgItemId": 300163,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 900,
+    "productId": 3,
+    "cfgItemId": 300166,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 900,
+    "productId": 4,
+    "cfgItemId": 300167,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 20,
+    "productId": 5,
+    "cfgItemId": 300002,
+    "needItem": 300186,
+    "type": 1
+  },
+  {
+    "needAmount": 8,
+    "productId": 6,
+    "cfgItemId": 300061,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 3,
+    "productId": 7,
+    "cfgItemId": 300159,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 14,
+    "productId": 8,
+    "cfgItemId": 300160,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 25,
+    "productId": 9,
+    "cfgItemId": 300161,
+    "needItem": 300186,
+    "type": 1
+  },
+  {
+    "needAmount": 20,
+    "productId": 10,
+    "cfgItemId": 300156,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 60,
+    "productId": 11,
+    "cfgItemId": 300157,
+    "needItem": 300186,
+    "type": 1
+  },
+  {
+    "needAmount": 30,
+    "productId": 12,
+    "cfgItemId": 300048,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 1,
+    "productId": 13,
+    "cfgItemId": 300055,
+    "needItem": 300184,
+    "type": 1
+  },
+  {
+    "needAmount": 2,
+    "productId": 14,
+    "cfgItemId": 300056,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 3,
+    "productId": 15,
+    "cfgItemId": 300057,
+    "needItem": 300186,
+    "type": 1
+  },
+  {
+    "needAmount": 1,
+    "productId": 17,
+    "cfgItemId": 300185,
+    "needItem": 300186,
+    "type": 1
+  },
+  {
+    "needAmount": 1,
+    "productId": 16,
+    "cfgItemId": 300184,
+    "needItem": 300185,
+    "type": 1
+  },
+  {
+    "needAmount": 100,
+    "productId": 19,
+    "cfgItemId": 300192,
+    "needItem": 300187,
+    "type": 1
+  },
+  {
+    "needAmount": 1,
+    "productId": 18,
+    "cfgItemId": 300186,
+    "needItem": 300187,
+    "type": 1
+  },
+  {
+    "needAmount": 100,
+    "productId": 21,
+    "cfgItemId": 300096,
+    "needItem": 300187,
+    "type": 1
+  },
+  {
+    "needAmount": 20,
+    "productId": 20,
+    "cfgItemId": 300195,
+    "needItem": 300187,
+    "type": 1
+  },
+  {
+    "needAmount": 2,
+    "productId": 23,
+    "cfgItemId": 600002,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 2,
+    "productId": 22,
+    "cfgItemId": 600001,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 8,
+    "productId": 25,
+    "cfgItemId": 600004,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 4,
+    "productId": 24,
+    "cfgItemId": 600003,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 20,
+    "productId": 27,
+    "cfgItemId": 600006,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 10,
+    "productId": 26,
+    "cfgItemId": 600005,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 2,
+    "productId": 29,
+    "cfgItemId": 600013,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 50,
+    "productId": 28,
+    "cfgItemId": 600007,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 2,
+    "productId": 31,
+    "cfgItemId": 600010,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 1,
+    "productId": 30,
+    "cfgItemId": 600009,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 5,
+    "productId": 34,
+    "cfgItemId": 600036,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 10,
+    "productId": 35,
+    "cfgItemId": 600037,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 4,
+    "productId": 32,
+    "cfgItemId": 600011,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 6,
+    "productId": 33,
+    "cfgItemId": 600012,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 1,
+    "productId": 38,
+    "cfgItemId": 600035,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 500,
+    "productId": 39,
+    "cfgItemId": 300226,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 15,
+    "productId": 36,
+    "cfgItemId": 600038,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 20,
+    "productId": 37,
+    "cfgItemId": 600039,
+    "needItem": 600051,
+    "type": 2
+  },
+  {
+    "needAmount": 300,
+    "productId": 42,
+    "cfgItemId": 300059,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 50,
+    "productId": 43,
+    "cfgItemId": 300136,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 500,
+    "productId": 40,
+    "cfgItemId": 300231,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 41,
+    "cfgItemId": 300204,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 46,
+    "cfgItemId": 300001,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 47,
+    "cfgItemId": 300077,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 44,
+    "cfgItemId": 300078,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 500,
+    "productId": 45,
+    "cfgItemId": 300058,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 51,
+    "cfgItemId": 211234,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 50,
+    "cfgItemId": 211212,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 49,
+    "cfgItemId": 211190,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 48,
+    "cfgItemId": 211168,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 55,
+    "cfgItemId": 211196,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 54,
+    "cfgItemId": 211174,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 53,
+    "cfgItemId": 211310,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 100,
+    "productId": 52,
+    "cfgItemId": 211256,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 59,
+    "cfgItemId": 211316,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 58,
+    "cfgItemId": 211262,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 57,
+    "cfgItemId": 211240,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 150,
+    "productId": 56,
+    "cfgItemId": 211218,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 63,
+    "cfgItemId": 211245,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 62,
+    "cfgItemId": 211223,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 61,
+    "cfgItemId": 211201,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 60,
+    "cfgItemId": 211179,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 30,
+    "productId": 68,
+    "cfgItemId": 300221,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 40,
+    "productId": 69,
+    "cfgItemId": 300222,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 50,
+    "productId": 70,
+    "cfgItemId": 300223,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 60,
+    "productId": 71,
+    "cfgItemId": 300257,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 200,
+    "productId": 64,
+    "cfgItemId": 211267,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 200,
+    "productId": 65,
+    "cfgItemId": 211321,
+    "needItem": 0,
+    "type": 3
+  },
+  {
+    "needAmount": 10,
+    "productId": 66,
+    "cfgItemId": 300219,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 20,
+    "productId": 67,
+    "cfgItemId": 300220,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 1000,
+    "productId": 76,
+    "cfgItemId": 300230,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 100,
+    "productId": 77,
+    "cfgItemId": 300232,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 200,
+    "productId": 78,
+    "cfgItemId": 300233,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 500,
+    "productId": 79,
+    "cfgItemId": 300234,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 10,
+    "productId": 72,
+    "cfgItemId": 300224,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 100,
+    "productId": 73,
+    "cfgItemId": 300227,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 200,
+    "productId": 74,
+    "cfgItemId": 300228,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 500,
+    "productId": 75,
+    "cfgItemId": 300229,
+    "needItem": 0,
+    "type": 4
+  },
+  {
+    "needAmount": 1000,
+    "productId": 80,
+    "cfgItemId": 300235,
+    "needItem": 0,
+    "type": 4
+  }
+]

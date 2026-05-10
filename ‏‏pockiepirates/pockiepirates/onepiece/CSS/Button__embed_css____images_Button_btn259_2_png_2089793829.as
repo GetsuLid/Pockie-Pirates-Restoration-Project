@@ -1,0 +1,15 @@
+package
+{
+   import mx.core.BitmapAsset;
+   
+   [Embed(source="/_assets/457_Button__embed_css____images_Button_btn259_2_png_2089793829.png")]
+   public class Button__embed_css____images_Button_btn259_2_png_2089793829 extends BitmapAsset
+   {
+      
+      public function Button__embed_css____images_Button_btn259_2_png_2089793829()
+      {
+         super();
+      }
+   }
+}
+

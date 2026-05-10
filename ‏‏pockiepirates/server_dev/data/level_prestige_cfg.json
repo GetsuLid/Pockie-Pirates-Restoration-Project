@@ -1,0 +1,902 @@
+[
+  {
+    "name": "见习水手一阶",
+    "generalAmount": 1,
+    "officium": 1,
+    "trainingExp": 1020
+  },
+  {
+    "name": "见习水手二阶",
+    "generalAmount": 1,
+    "officium": 2,
+    "trainingExp": 1140
+  },
+  {
+    "name": "见习水手三阶",
+    "generalAmount": 1,
+    "officium": 3,
+    "trainingExp": 1260
+  },
+  {
+    "name": "见习水手四阶",
+    "generalAmount": 1,
+    "officium": 4,
+    "trainingExp": 1440
+  },
+  {
+    "name": "见习水手五阶",
+    "generalAmount": 2,
+    "officium": 5,
+    "trainingExp": 1560
+  },
+  {
+    "name": "见习水手六阶",
+    "generalAmount": 2,
+    "officium": 6,
+    "trainingExp": 1740
+  },
+  {
+    "name": "见习水手七阶",
+    "generalAmount": 2,
+    "officium": 7,
+    "trainingExp": 1860
+  },
+  {
+    "name": "见习水手八阶",
+    "generalAmount": 2,
+    "officium": 8,
+    "trainingExp": 1980
+  },
+  {
+    "name": "见习水手九阶",
+    "generalAmount": 2,
+    "officium": 9,
+    "trainingExp": 2160
+  },
+  {
+    "name": "见习水手十阶",
+    "generalAmount": 2,
+    "officium": 10,
+    "trainingExp": 2280
+  },
+  {
+    "name": "初级海员一阶",
+    "generalAmount": 3,
+    "officium": 11,
+    "trainingExp": 2460
+  },
+  {
+    "name": "初级海员二阶",
+    "generalAmount": 3,
+    "officium": 12,
+    "trainingExp": 2580
+  },
+  {
+    "name": "初级海员三阶",
+    "generalAmount": 3,
+    "officium": 13,
+    "trainingExp": 2700
+  },
+  {
+    "name": "初级海员四阶",
+    "generalAmount": 3,
+    "officium": 14,
+    "trainingExp": 2880
+  },
+  {
+    "name": "初级海员五阶",
+    "generalAmount": 3,
+    "officium": 15,
+    "trainingExp": 3000
+  },
+  {
+    "name": "初级海员七阶",
+    "generalAmount": 3,
+    "officium": 17,
+    "trainingExp": 3300
+  },
+  {
+    "name": "初级海员六阶",
+    "generalAmount": 3,
+    "officium": 16,
+    "trainingExp": 3180
+  },
+  {
+    "name": "初级海员九阶",
+    "generalAmount": 3,
+    "officium": 19,
+    "trainingExp": 3600
+  },
+  {
+    "name": "初级海员八阶",
+    "generalAmount": 3,
+    "officium": 18,
+    "trainingExp": 3420
+  },
+  {
+    "name": "见习海贼一阶",
+    "generalAmount": 3,
+    "officium": 21,
+    "trainingExp": 3900
+  },
+  {
+    "name": "初级海员十阶",
+    "generalAmount": 3,
+    "officium": 20,
+    "trainingExp": 3720
+  },
+  {
+    "name": "见习海贼三阶",
+    "generalAmount": 3,
+    "officium": 23,
+    "trainingExp": 4140
+  },
+  {
+    "name": "见习海贼二阶",
+    "generalAmount": 3,
+    "officium": 22,
+    "trainingExp": 4020
+  },
+  {
+    "name": "见习海贼五阶",
+    "generalAmount": 4,
+    "officium": 25,
+    "trainingExp": 4440
+  },
+  {
+    "name": "见习海贼四阶",
+    "generalAmount": 4,
+    "officium": 24,
+    "trainingExp": 4320
+  },
+  {
+    "name": "见习海贼七阶",
+    "generalAmount": 4,
+    "officium": 27,
+    "trainingExp": 4740
+  },
+  {
+    "name": "见习海贼六阶",
+    "generalAmount": 4,
+    "officium": 26,
+    "trainingExp": 4620
+  },
+  {
+    "name": "见习海贼九阶",
+    "generalAmount": 4,
+    "officium": 29,
+    "trainingExp": 5040
+  },
+  {
+    "name": "见习海贼八阶",
+    "generalAmount": 4,
+    "officium": 28,
+    "trainingExp": 4860
+  },
+  {
+    "name": "海贼新星一阶",
+    "generalAmount": 4,
+    "officium": 31,
+    "trainingExp": 5340
+  },
+  {
+    "name": "见习海贼十阶",
+    "generalAmount": 4,
+    "officium": 30,
+    "trainingExp": 5160
+  },
+  {
+    "name": "海贼新星四阶",
+    "generalAmount": 4,
+    "officium": 34,
+    "trainingExp": 5760
+  },
+  {
+    "name": "海贼新星五阶",
+    "generalAmount": 5,
+    "officium": 35,
+    "trainingExp": 5880
+  },
+  {
+    "name": "海贼新星二阶",
+    "generalAmount": 4,
+    "officium": 32,
+    "trainingExp": 5460
+  },
+  {
+    "name": "海贼新星三阶",
+    "generalAmount": 4,
+    "officium": 33,
+    "trainingExp": 5580
+  },
+  {
+    "name": "海贼新星八阶",
+    "generalAmount": 5,
+    "officium": 38,
+    "trainingExp": 6300
+  },
+  {
+    "name": "海贼新星九阶",
+    "generalAmount": 5,
+    "officium": 39,
+    "trainingExp": 6480
+  },
+  {
+    "name": "海贼新星六阶",
+    "generalAmount": 5,
+    "officium": 36,
+    "trainingExp": 6060
+  },
+  {
+    "name": "海贼新星七阶",
+    "generalAmount": 5,
+    "officium": 37,
+    "trainingExp": 6180
+  },
+  {
+    "name": "海贼队长二阶",
+    "generalAmount": 6,
+    "officium": 42,
+    "trainingExp": 6900
+  },
+  {
+    "name": "海贼队长三阶",
+    "generalAmount": 6,
+    "officium": 43,
+    "trainingExp": 7020
+  },
+  {
+    "name": "海贼新星十阶",
+    "generalAmount": 6,
+    "officium": 40,
+    "trainingExp": 6600
+  },
+  {
+    "name": "海贼队长一阶",
+    "generalAmount": 6,
+    "officium": 41,
+    "trainingExp": 6780
+  },
+  {
+    "name": "海贼队长六阶",
+    "generalAmount": 6,
+    "officium": 46,
+    "trainingExp": 7500
+  },
+  {
+    "name": "海贼队长七阶",
+    "generalAmount": 6,
+    "officium": 47,
+    "trainingExp": 7620
+  },
+  {
+    "name": "海贼队长四阶",
+    "generalAmount": 6,
+    "officium": 44,
+    "trainingExp": 7200
+  },
+  {
+    "name": "海贼队长五阶",
+    "generalAmount": 6,
+    "officium": 45,
+    "trainingExp": 7320
+  },
+  {
+    "name": "海贼副官一阶",
+    "generalAmount": 7,
+    "officium": 51,
+    "trainingExp": 8220
+  },
+  {
+    "name": "海贼队长十阶",
+    "generalAmount": 7,
+    "officium": 50,
+    "trainingExp": 8040
+  },
+  {
+    "name": "海贼队长九阶",
+    "generalAmount": 6,
+    "officium": 49,
+    "trainingExp": 7920
+  },
+  {
+    "name": "海贼队长八阶",
+    "generalAmount": 6,
+    "officium": 48,
+    "trainingExp": 7740
+  },
+  {
+    "name": "海贼副官五阶",
+    "generalAmount": 7,
+    "officium": 55,
+    "trainingExp": 8760
+  },
+  {
+    "name": "海贼副官四阶",
+    "generalAmount": 7,
+    "officium": 54,
+    "trainingExp": 8640
+  },
+  {
+    "name": "海贼副官三阶",
+    "generalAmount": 7,
+    "officium": 53,
+    "trainingExp": 8460
+  },
+  {
+    "name": "海贼副官二阶",
+    "generalAmount": 7,
+    "officium": 52,
+    "trainingExp": 8340
+  },
+  {
+    "name": "海贼副官九阶",
+    "generalAmount": 7,
+    "officium": 59,
+    "trainingExp": 9360
+  },
+  {
+    "name": "海贼副官八阶",
+    "generalAmount": 7,
+    "officium": 58,
+    "trainingExp": 9180
+  },
+  {
+    "name": "海贼副官七阶",
+    "generalAmount": 7,
+    "officium": 57,
+    "trainingExp": 9060
+  },
+  {
+    "name": "海贼副官六阶",
+    "generalAmount": 7,
+    "officium": 56,
+    "trainingExp": 8940
+  },
+  {
+    "name": "海贼首领三阶",
+    "generalAmount": 8,
+    "officium": 63,
+    "trainingExp": 9900
+  },
+  {
+    "name": "海贼首领二阶",
+    "generalAmount": 8,
+    "officium": 62,
+    "trainingExp": 9780
+  },
+  {
+    "name": "海贼首领一阶",
+    "generalAmount": 8,
+    "officium": 61,
+    "trainingExp": 9660
+  },
+  {
+    "name": "海贼副官十阶",
+    "generalAmount": 8,
+    "officium": 60,
+    "trainingExp": 9480
+  },
+  {
+    "name": "海贼首领八阶",
+    "generalAmount": 8,
+    "officium": 68,
+    "trainingExp": 10620
+  },
+  {
+    "name": "海贼首领九阶",
+    "generalAmount": 8,
+    "officium": 69,
+    "trainingExp": 10800
+  },
+  {
+    "name": "海贼首领十阶",
+    "generalAmount": 9,
+    "officium": 70,
+    "trainingExp": 10920
+  },
+  {
+    "name": "见习船长一阶",
+    "generalAmount": 9,
+    "officium": 71,
+    "trainingExp": 11100
+  },
+  {
+    "name": "海贼首领四阶",
+    "generalAmount": 8,
+    "officium": 64,
+    "trainingExp": 10080
+  },
+  {
+    "name": "海贼首领五阶",
+    "generalAmount": 8,
+    "officium": 65,
+    "trainingExp": 10200
+  },
+  {
+    "name": "海贼首领六阶",
+    "generalAmount": 8,
+    "officium": 66,
+    "trainingExp": 10380
+  },
+  {
+    "name": "海贼首领七阶",
+    "generalAmount": 8,
+    "officium": 67,
+    "trainingExp": 10500
+  },
+  {
+    "name": "见习船长六阶",
+    "generalAmount": 9,
+    "officium": 76,
+    "trainingExp": 11820
+  },
+  {
+    "name": "见习船长七阶",
+    "generalAmount": 9,
+    "officium": 77,
+    "trainingExp": 11940
+  },
+  {
+    "name": "见习船长八阶",
+    "generalAmount": 9,
+    "officium": 78,
+    "trainingExp": 12060
+  },
+  {
+    "name": "见习船长九阶",
+    "generalAmount": 9,
+    "officium": 79,
+    "trainingExp": 12240
+  },
+  {
+    "name": "见习船长二阶",
+    "generalAmount": 9,
+    "officium": 72,
+    "trainingExp": 11220
+  },
+  {
+    "name": "见习船长三阶",
+    "generalAmount": 9,
+    "officium": 73,
+    "trainingExp": 11340
+  },
+  {
+    "name": "见习船长四阶",
+    "generalAmount": 9,
+    "officium": 74,
+    "trainingExp": 11520
+  },
+  {
+    "name": "见习船长五阶",
+    "generalAmount": 9,
+    "officium": 75,
+    "trainingExp": 11640
+  },
+  {
+    "name": "海贼提督五阶",
+    "generalAmount": 10,
+    "officium": 85,
+    "trainingExp": 13080
+  },
+  {
+    "name": "海贼提督四阶",
+    "generalAmount": 10,
+    "officium": 84,
+    "trainingExp": 12960
+  },
+  {
+    "name": "海贼提督七阶",
+    "generalAmount": 10,
+    "officium": 87,
+    "trainingExp": 13380
+  },
+  {
+    "name": "海贼提督六阶",
+    "generalAmount": 10,
+    "officium": 86,
+    "trainingExp": 13260
+  },
+  {
+    "name": "海贼提督一阶",
+    "generalAmount": 10,
+    "officium": 81,
+    "trainingExp": 12540
+  },
+  {
+    "name": "见习船长十阶",
+    "generalAmount": 10,
+    "officium": 80,
+    "trainingExp": 12360
+  },
+  {
+    "name": "海贼提督三阶",
+    "generalAmount": 10,
+    "officium": 83,
+    "trainingExp": 12780
+  },
+  {
+    "name": "海贼提督二阶",
+    "generalAmount": 10,
+    "officium": 82,
+    "trainingExp": 12660
+  },
+  {
+    "name": "海上领主三阶",
+    "generalAmount": 11,
+    "officium": 93,
+    "trainingExp": 14220
+  },
+  {
+    "name": "海上领主二阶",
+    "generalAmount": 11,
+    "officium": 92,
+    "trainingExp": 14100
+  },
+  {
+    "name": "海上领主五阶",
+    "generalAmount": 11,
+    "officium": 95,
+    "trainingExp": 14520
+  },
+  {
+    "name": "海上领主四阶",
+    "generalAmount": 11,
+    "officium": 94,
+    "trainingExp": 14400
+  },
+  {
+    "name": "海贼提督九阶",
+    "generalAmount": 10,
+    "officium": 89,
+    "trainingExp": 13680
+  },
+  {
+    "name": "海贼提督八阶",
+    "generalAmount": 10,
+    "officium": 88,
+    "trainingExp": 13500
+  },
+  {
+    "name": "海上领主一阶",
+    "generalAmount": 11,
+    "officium": 91,
+    "trainingExp": 13980
+  },
+  {
+    "name": "海贼提督十阶",
+    "generalAmount": 11,
+    "officium": 90,
+    "trainingExp": 13800
+  },
+  {
+    "name": "海域霸主二阶",
+    "generalAmount": 12,
+    "officium": 102,
+    "trainingExp": 15540
+  },
+  {
+    "name": "海域霸主三阶",
+    "generalAmount": 12,
+    "officium": 103,
+    "trainingExp": 15660
+  },
+  {
+    "name": "海上领主十阶",
+    "generalAmount": 12,
+    "officium": 100,
+    "trainingExp": 15240
+  },
+  {
+    "name": "海域霸主一阶",
+    "generalAmount": 12,
+    "officium": 101,
+    "trainingExp": 15420
+  },
+  {
+    "name": "海上领主八阶",
+    "generalAmount": 11,
+    "officium": 98,
+    "trainingExp": 14940
+  },
+  {
+    "name": "海上领主九阶",
+    "generalAmount": 11,
+    "officium": 99,
+    "trainingExp": 15120
+  },
+  {
+    "name": "海上领主六阶",
+    "generalAmount": 11,
+    "officium": 96,
+    "trainingExp": 14700
+  },
+  {
+    "name": "海上领主七阶",
+    "generalAmount": 11,
+    "officium": 97,
+    "trainingExp": 14820
+  },
+  {
+    "name": "海域霸主十阶",
+    "generalAmount": 13,
+    "officium": 110,
+    "trainingExp": 16680
+  },
+  {
+    "name": "海域王者一阶",
+    "generalAmount": 13,
+    "officium": 111,
+    "trainingExp": 16860
+  },
+  {
+    "name": "海域霸主八阶",
+    "generalAmount": 12,
+    "officium": 108,
+    "trainingExp": 16380
+  },
+  {
+    "name": "海域霸主九阶",
+    "generalAmount": 12,
+    "officium": 109,
+    "trainingExp": 16560
+  },
+  {
+    "name": "海域霸主六阶",
+    "generalAmount": 12,
+    "officium": 106,
+    "trainingExp": 16140
+  },
+  {
+    "name": "海域霸主七阶",
+    "generalAmount": 12,
+    "officium": 107,
+    "trainingExp": 16260
+  },
+  {
+    "name": "海域霸主四阶",
+    "generalAmount": 12,
+    "officium": 104,
+    "trainingExp": 15840
+  },
+  {
+    "name": "海域霸主五阶",
+    "generalAmount": 12,
+    "officium": 105,
+    "trainingExp": 15960
+  },
+  {
+    "name": "海域王者九阶",
+    "generalAmount": 13,
+    "officium": 119,
+    "trainingExp": 18000
+  },
+  {
+    "name": "海域王者八阶",
+    "generalAmount": 13,
+    "officium": 118,
+    "trainingExp": 17820
+  },
+  {
+    "name": "海域王者七阶",
+    "generalAmount": 13,
+    "officium": 117,
+    "trainingExp": 17700
+  },
+  {
+    "name": "海域王者六阶",
+    "generalAmount": 13,
+    "officium": 116,
+    "trainingExp": 17580
+  },
+  {
+    "name": "海域王者五阶",
+    "generalAmount": 13,
+    "officium": 115,
+    "trainingExp": 17400
+  },
+  {
+    "name": "海域王者四阶",
+    "generalAmount": 13,
+    "officium": 114,
+    "trainingExp": 17280
+  },
+  {
+    "name": "海域王者三阶",
+    "generalAmount": 13,
+    "officium": 113,
+    "trainingExp": 17100
+  },
+  {
+    "name": "海域王者二阶",
+    "generalAmount": 13,
+    "officium": 112,
+    "trainingExp": 16980
+  },
+  {
+    "name": "海皇七阶",
+    "generalAmount": 14,
+    "officium": 127,
+    "trainingExp": 19140
+  },
+  {
+    "name": "海皇六阶",
+    "generalAmount": 14,
+    "officium": 126,
+    "trainingExp": 19020
+  },
+  {
+    "name": "海皇五阶",
+    "generalAmount": 14,
+    "officium": 125,
+    "trainingExp": 18840
+  },
+  {
+    "name": "海皇四阶",
+    "generalAmount": 14,
+    "officium": 124,
+    "trainingExp": 18720
+  },
+  {
+    "name": "海皇三阶",
+    "generalAmount": 14,
+    "officium": 123,
+    "trainingExp": 18540
+  },
+  {
+    "name": "海皇二阶",
+    "generalAmount": 14,
+    "officium": 122,
+    "trainingExp": 18420
+  },
+  {
+    "name": "海皇一阶",
+    "generalAmount": 14,
+    "officium": 121,
+    "trainingExp": 18300
+  },
+  {
+    "name": "海域王者十阶",
+    "generalAmount": 14,
+    "officium": 120,
+    "trainingExp": 18120
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 137,
+    "trainingExp": 20580
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 136,
+    "trainingExp": 20460
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 139,
+    "trainingExp": 20880
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 138,
+    "trainingExp": 20700
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 141,
+    "trainingExp": 21180
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 140,
+    "trainingExp": 21000
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 143,
+    "trainingExp": 21420
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 142,
+    "trainingExp": 21300
+  },
+  {
+    "name": "海皇九阶",
+    "generalAmount": 14,
+    "officium": 129,
+    "trainingExp": 19440
+  },
+  {
+    "name": "海皇八阶",
+    "generalAmount": 14,
+    "officium": 128,
+    "trainingExp": 19260
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 131,
+    "trainingExp": 19740
+  },
+  {
+    "name": "海皇十阶",
+    "generalAmount": 15,
+    "officium": 130,
+    "trainingExp": 19560
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 133,
+    "trainingExp": 19980
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 132,
+    "trainingExp": 19860
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 135,
+    "trainingExp": 20280
+  },
+  {
+    "name": "0",
+    "generalAmount": 15,
+    "officium": 134,
+    "trainingExp": 20160
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 144,
+    "trainingExp": 21600
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 145,
+    "trainingExp": 21720
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 146,
+    "trainingExp": 21900
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 147,
+    "trainingExp": 22020
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 148,
+    "trainingExp": 22140
+  },
+  {
+    "name": "0",
+    "generalAmount": 16,
+    "officium": 149,
+    "trainingExp": 22320
+  },
+  {
+    "name": "0",
+    "generalAmount": 17,
+    "officium": 150,
+    "trainingExp": 22440
+  }
+]

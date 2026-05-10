@@ -1,0 +1,3802 @@
+[
+  {
+    "recordId": 1,
+    "chestId": 400001,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 5000,
+    "ratio": 1
+  },
+  {
+    "recordId": 2,
+    "chestId": 400002,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 10000,
+    "ratio": 1
+  },
+  {
+    "recordId": 3,
+    "chestId": 400003,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 20000,
+    "ratio": 1
+  },
+  {
+    "recordId": 4,
+    "chestId": 400004,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 50000,
+    "ratio": 1
+  },
+  {
+    "recordId": 5,
+    "chestId": 400005,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 100000,
+    "ratio": 1
+  },
+  {
+    "recordId": 6,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500001,
+    "amount": 1,
+    "ratio": 0.075
+  },
+  {
+    "recordId": 7,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500011,
+    "amount": 1,
+    "ratio": 0.15
+  },
+  {
+    "recordId": 8,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500021,
+    "amount": 1,
+    "ratio": 0.22
+  },
+  {
+    "recordId": 9,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500031,
+    "amount": 1,
+    "ratio": 0.29
+  },
+  {
+    "recordId": 10,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500041,
+    "amount": 1,
+    "ratio": 0.36
+  },
+  {
+    "recordId": 11,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500051,
+    "amount": 1,
+    "ratio": 0.43
+  },
+  {
+    "recordId": 12,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500061,
+    "amount": 1,
+    "ratio": 0.5
+  },
+  {
+    "recordId": 13,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500071,
+    "amount": 1,
+    "ratio": 0.57
+  },
+  {
+    "recordId": 14,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500081,
+    "amount": 1,
+    "ratio": 0.64
+  },
+  {
+    "recordId": 15,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500091,
+    "amount": 1,
+    "ratio": 0.71
+  },
+  {
+    "recordId": 17,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500111,
+    "amount": 1,
+    "ratio": 0.85
+  },
+  {
+    "recordId": 16,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500101,
+    "amount": 1,
+    "ratio": 0.78
+  },
+  {
+    "recordId": 19,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500003,
+    "amount": 1,
+    "ratio": 0.083
+  },
+  {
+    "recordId": 18,
+    "chestId": 400006,
+    "type": 1,
+    "cfgItemId": 500121,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 21,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500033,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 20,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500013,
+    "amount": 1,
+    "ratio": 0.166
+  },
+  {
+    "recordId": 23,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500053,
+    "amount": 1,
+    "ratio": 0.415
+  },
+  {
+    "recordId": 22,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500043,
+    "amount": 1,
+    "ratio": 0.332
+  },
+  {
+    "recordId": 25,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500073,
+    "amount": 1,
+    "ratio": 0.581
+  },
+  {
+    "recordId": 24,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500063,
+    "amount": 1,
+    "ratio": 0.498
+  },
+  {
+    "recordId": 27,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500093,
+    "amount": 1,
+    "ratio": 0.747
+  },
+  {
+    "recordId": 26,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500083,
+    "amount": 1,
+    "ratio": 0.664
+  },
+  {
+    "recordId": 29,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500113,
+    "amount": 1,
+    "ratio": 0.913
+  },
+  {
+    "recordId": 28,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500103,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 31,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.3
+  },
+  {
+    "recordId": 30,
+    "chestId": 400007,
+    "type": 1,
+    "cfgItemId": 500123,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 34,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300055,
+    "amount": 1,
+    "ratio": 0.512
+  },
+  {
+    "recordId": 35,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300050,
+    "amount": 1,
+    "ratio": 0.578
+  },
+  {
+    "recordId": 32,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 1,
+    "ratio": 0.375
+  },
+  {
+    "recordId": 33,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 1,
+    "ratio": 0.445
+  },
+  {
+    "recordId": 38,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300047,
+    "amount": 1,
+    "ratio": 0.746
+  },
+  {
+    "recordId": 39,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300051,
+    "amount": 1,
+    "ratio": 0.781
+  },
+  {
+    "recordId": 36,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300001,
+    "amount": 1,
+    "ratio": 0.638
+  },
+  {
+    "recordId": 37,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300056,
+    "amount": 1,
+    "ratio": 0.695
+  },
+  {
+    "recordId": 42,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300057,
+    "amount": 1,
+    "ratio": 0.855
+  },
+  {
+    "recordId": 43,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 1,
+    "ratio": 0.872
+  },
+  {
+    "recordId": 40,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 1,
+    "ratio": 0.809
+  },
+  {
+    "recordId": 41,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 1,
+    "ratio": 0.837
+  },
+  {
+    "recordId": 46,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300048,
+    "amount": 1,
+    "ratio": 0.9
+  },
+  {
+    "recordId": 47,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300136,
+    "amount": 1,
+    "ratio": 0.92
+  },
+  {
+    "recordId": 44,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.885
+  },
+  {
+    "recordId": 45,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 500023,
+    "amount": 1,
+    "ratio": 0.895
+  },
+  {
+    "recordId": 51,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300160,
+    "amount": 1,
+    "ratio": 0.99
+  },
+  {
+    "recordId": 50,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300159,
+    "amount": 1,
+    "ratio": 0.98
+  },
+  {
+    "recordId": 49,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300158,
+    "amount": 1,
+    "ratio": 0.96
+  },
+  {
+    "recordId": 48,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.93
+  },
+  {
+    "recordId": 55,
+    "chestId": 400009,
+    "type": 1,
+    "cfgItemId": 200482,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 54,
+    "chestId": 400009,
+    "type": 1,
+    "cfgItemId": 200481,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 53,
+    "chestId": 400009,
+    "type": 1,
+    "cfgItemId": 300064,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 52,
+    "chestId": 400008,
+    "type": 1,
+    "cfgItemId": 300195,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 59,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 30,
+    "ratio": 1
+  },
+  {
+    "recordId": 58,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 300065,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 57,
+    "chestId": 400009,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 56,
+    "chestId": 400009,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 63,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200087,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 62,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200065,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 61,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200043,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 60,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200011,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 68,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 40,
+    "ratio": 1
+  },
+  {
+    "recordId": 69,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 70,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 200048,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 71,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 200070,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 64,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200109,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 65,
+    "chestId": 400010,
+    "type": 1,
+    "cfgItemId": 200283,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 66,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 300066,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 67,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 76,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 40,
+    "ratio": 1
+  },
+  {
+    "recordId": 77,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 78,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300003,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 79,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300004,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 72,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 200092,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 73,
+    "chestId": 400011,
+    "type": 1,
+    "cfgItemId": 200114,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 74,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300067,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 75,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 85,
+    "chestId": 400013,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 84,
+    "chestId": 400013,
+    "type": 1,
+    "cfgItemId": 300068,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 87,
+    "chestId": 400013,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 86,
+    "chestId": 400013,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 81,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300041,
+    "amount": 16,
+    "ratio": 1
+  },
+  {
+    "recordId": 80,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300033,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 83,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300039,
+    "amount": 8,
+    "ratio": 1
+  },
+  {
+    "recordId": 82,
+    "chestId": 400012,
+    "type": 1,
+    "cfgItemId": 300038,
+    "amount": 8,
+    "ratio": 1
+  },
+  {
+    "recordId": 93,
+    "chestId": 400015,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 92,
+    "chestId": 400015,
+    "type": 1,
+    "cfgItemId": 300070,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 95,
+    "chestId": 400015,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 94,
+    "chestId": 400015,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 89,
+    "chestId": 400014,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 88,
+    "chestId": 400014,
+    "type": 1,
+    "cfgItemId": 300069,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 91,
+    "chestId": 400014,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 90,
+    "chestId": 400014,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 102,
+    "chestId": 400017,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 100,
+    "ratio": 1
+  },
+  {
+    "recordId": 103,
+    "chestId": 400017,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 100,
+    "chestId": 400017,
+    "type": 1,
+    "cfgItemId": 300072,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 101,
+    "chestId": 400017,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 98,
+    "chestId": 400016,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 99,
+    "chestId": 400016,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 96,
+    "chestId": 400016,
+    "type": 1,
+    "cfgItemId": 300071,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 97,
+    "chestId": 400016,
+    "type": 1,
+    "cfgItemId": 300053,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 110,
+    "chestId": 400019,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 111,
+    "chestId": 400020,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 108,
+    "chestId": 400019,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 100,
+    "ratio": 1
+  },
+  {
+    "recordId": 109,
+    "chestId": 400019,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 100,
+    "ratio": 1
+  },
+  {
+    "recordId": 106,
+    "chestId": 400018,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 100,
+    "ratio": 1
+  },
+  {
+    "recordId": 107,
+    "chestId": 400018,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 104,
+    "chestId": 400018,
+    "type": 1,
+    "cfgItemId": 300073,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 105,
+    "chestId": 400018,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 100,
+    "ratio": 1
+  },
+  {
+    "recordId": 119,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211194,
+    "amount": 1,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 118,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211193,
+    "amount": 1,
+    "ratio": 0.15
+  },
+  {
+    "recordId": 117,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211192,
+    "amount": 1,
+    "ratio": 0.1
+  },
+  {
+    "recordId": 116,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211191,
+    "amount": 1,
+    "ratio": 0.05
+  },
+  {
+    "recordId": 115,
+    "chestId": 400020,
+    "type": 1,
+    "cfgItemId": 200495,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 114,
+    "chestId": 400020,
+    "type": 1,
+    "cfgItemId": 300049,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 113,
+    "chestId": 400020,
+    "type": 1,
+    "cfgItemId": 300084,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 112,
+    "chestId": 400020,
+    "type": 1,
+    "cfgItemId": 300057,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 127,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211238,
+    "amount": 1,
+    "ratio": 0.6
+  },
+  {
+    "recordId": 126,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211237,
+    "amount": 1,
+    "ratio": 0.55
+  },
+  {
+    "recordId": 125,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211236,
+    "amount": 1,
+    "ratio": 0.5
+  },
+  {
+    "recordId": 124,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211235,
+    "amount": 1,
+    "ratio": 0.45
+  },
+  {
+    "recordId": 123,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211216,
+    "amount": 1,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 122,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211215,
+    "amount": 1,
+    "ratio": 0.35
+  },
+  {
+    "recordId": 121,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211214,
+    "amount": 1,
+    "ratio": 0.3
+  },
+  {
+    "recordId": 120,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211213,
+    "amount": 1,
+    "ratio": 0.25
+  },
+  {
+    "recordId": 137,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300033,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 136,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300041,
+    "amount": 1,
+    "ratio": 0.95
+  },
+  {
+    "recordId": 139,
+    "chestId": 400023,
+    "type": 1,
+    "cfgItemId": 200496,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 138,
+    "chestId": 400022,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 141,
+    "chestId": 400024,
+    "type": 1,
+    "cfgItemId": 200497,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 140,
+    "chestId": 400023,
+    "type": 1,
+    "cfgItemId": 300085,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 143,
+    "chestId": 400025,
+    "type": 1,
+    "cfgItemId": 200498,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 142,
+    "chestId": 400024,
+    "type": 1,
+    "cfgItemId": 300086,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 129,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211258,
+    "amount": 1,
+    "ratio": 0.7
+  },
+  {
+    "recordId": 128,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211257,
+    "amount": 1,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 131,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211260,
+    "amount": 1,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 130,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 211259,
+    "amount": 1,
+    "ratio": 0.75
+  },
+  {
+    "recordId": 133,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300038,
+    "amount": 1,
+    "ratio": 0.86
+  },
+  {
+    "recordId": 132,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300034,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 135,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300040,
+    "amount": 1,
+    "ratio": 0.92
+  },
+  {
+    "recordId": 134,
+    "chestId": 400021,
+    "type": 1,
+    "cfgItemId": 300039,
+    "amount": 1,
+    "ratio": 0.89
+  },
+  {
+    "recordId": 152,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500031,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 153,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500041,
+    "amount": 1,
+    "ratio": 0.332
+  },
+  {
+    "recordId": 154,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500051,
+    "amount": 1,
+    "ratio": 0.415
+  },
+  {
+    "recordId": 155,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500061,
+    "amount": 1,
+    "ratio": 0.498
+  },
+  {
+    "recordId": 156,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500071,
+    "amount": 1,
+    "ratio": 0.581
+  },
+  {
+    "recordId": 157,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500081,
+    "amount": 1,
+    "ratio": 0.664
+  },
+  {
+    "recordId": 158,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500091,
+    "amount": 1,
+    "ratio": 0.747
+  },
+  {
+    "recordId": 159,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500101,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 144,
+    "chestId": 400025,
+    "type": 1,
+    "cfgItemId": 300087,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 145,
+    "chestId": 400026,
+    "type": 1,
+    "cfgItemId": 200499,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 146,
+    "chestId": 400026,
+    "type": 1,
+    "cfgItemId": 300088,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 147,
+    "chestId": 400027,
+    "type": 1,
+    "cfgItemId": 200500,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 148,
+    "chestId": 400027,
+    "type": 1,
+    "cfgItemId": 300089,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 149,
+    "chestId": 400028,
+    "type": 1,
+    "cfgItemId": 200501,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 150,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500001,
+    "amount": 1,
+    "ratio": 0.083
+  },
+  {
+    "recordId": 151,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500011,
+    "amount": 1,
+    "ratio": 0.166
+  },
+  {
+    "recordId": 171,
+    "chestId": 400033,
+    "type": 1,
+    "cfgItemId": 300038,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 170,
+    "chestId": 400033,
+    "type": 1,
+    "cfgItemId": 300035,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 169,
+    "chestId": 400032,
+    "type": 1,
+    "cfgItemId": 300041,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 168,
+    "chestId": 400032,
+    "type": 1,
+    "cfgItemId": 300038,
+    "amount": 4,
+    "ratio": 1
+  },
+  {
+    "recordId": 175,
+    "chestId": 400034,
+    "type": 1,
+    "cfgItemId": 300094,
+    "amount": 2,
+    "ratio": 0.9
+  },
+  {
+    "recordId": 174,
+    "chestId": 400034,
+    "type": 1,
+    "cfgItemId": 300093,
+    "amount": 2,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 173,
+    "chestId": 400034,
+    "type": 1,
+    "cfgItemId": 300092,
+    "amount": 2,
+    "ratio": 0.35
+  },
+  {
+    "recordId": 172,
+    "chestId": 400033,
+    "type": 1,
+    "cfgItemId": 300041,
+    "amount": 8,
+    "ratio": 1
+  },
+  {
+    "recordId": 163,
+    "chestId": 400030,
+    "type": 1,
+    "cfgItemId": 300081,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 162,
+    "chestId": 400030,
+    "type": 1,
+    "cfgItemId": 0,
+    "amount": 100000,
+    "ratio": 1
+  },
+  {
+    "recordId": 161,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500121,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 160,
+    "chestId": 400029,
+    "type": 1,
+    "cfgItemId": 500111,
+    "amount": 1,
+    "ratio": 0.913
+  },
+  {
+    "recordId": 167,
+    "chestId": 400032,
+    "type": 1,
+    "cfgItemId": 300034,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 166,
+    "chestId": 400031,
+    "type": 1,
+    "cfgItemId": 300041,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 165,
+    "chestId": 400031,
+    "type": 1,
+    "cfgItemId": 300038,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 164,
+    "chestId": 400031,
+    "type": 1,
+    "cfgItemId": 300033,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 186,
+    "chestId": 400037,
+    "type": 1,
+    "cfgItemId": 500095,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 187,
+    "chestId": 400037,
+    "type": 1,
+    "cfgItemId": 500125,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 184,
+    "chestId": 400037,
+    "type": 1,
+    "cfgItemId": 500006,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 185,
+    "chestId": 400037,
+    "type": 1,
+    "cfgItemId": 500035,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 190,
+    "chestId": 400038,
+    "type": 1,
+    "cfgItemId": 500075,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 191,
+    "chestId": 400038,
+    "type": 1,
+    "cfgItemId": 500015,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 188,
+    "chestId": 400038,
+    "type": 1,
+    "cfgItemId": 500026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 189,
+    "chestId": 400038,
+    "type": 1,
+    "cfgItemId": 500066,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 178,
+    "chestId": 400035,
+    "type": 1,
+    "cfgItemId": 300057,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 179,
+    "chestId": 400035,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 176,
+    "chestId": 400034,
+    "type": 1,
+    "cfgItemId": 300095,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 177,
+    "chestId": 400035,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 182,
+    "chestId": 400036,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 183,
+    "chestId": 400037,
+    "type": 1,
+    "cfgItemId": 500026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 180,
+    "chestId": 400036,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 4,
+    "ratio": 1
+  },
+  {
+    "recordId": 181,
+    "chestId": 400036,
+    "type": 1,
+    "cfgItemId": 300057,
+    "amount": 22,
+    "ratio": 1
+  },
+  {
+    "recordId": 205,
+    "chestId": 400041,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 204,
+    "chestId": 400041,
+    "type": 1,
+    "cfgItemId": 500026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 207,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.334
+  },
+  {
+    "recordId": 206,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300077,
+    "amount": 1,
+    "ratio": 0.167
+  },
+  {
+    "recordId": 201,
+    "chestId": 400040,
+    "type": 1,
+    "cfgItemId": 500035,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 200,
+    "chestId": 400040,
+    "type": 1,
+    "cfgItemId": 500055,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 203,
+    "chestId": 400041,
+    "type": 1,
+    "cfgItemId": 500027,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 202,
+    "chestId": 400040,
+    "type": 1,
+    "cfgItemId": 500045,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 197,
+    "chestId": 400039,
+    "type": 1,
+    "cfgItemId": 500085,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 196,
+    "chestId": 400039,
+    "type": 1,
+    "cfgItemId": 500015,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 199,
+    "chestId": 400040,
+    "type": 1,
+    "cfgItemId": 500006,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 198,
+    "chestId": 400040,
+    "type": 1,
+    "cfgItemId": 500026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 193,
+    "chestId": 400039,
+    "type": 1,
+    "cfgItemId": 500026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 192,
+    "chestId": 400038,
+    "type": 1,
+    "cfgItemId": 500085,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 195,
+    "chestId": 400039,
+    "type": 1,
+    "cfgItemId": 500075,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 194,
+    "chestId": 400039,
+    "type": 1,
+    "cfgItemId": 500056,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 220,
+    "chestId": 400043,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 6,
+    "ratio": 1
+  },
+  {
+    "recordId": 221,
+    "chestId": 400043,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 222,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 5,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 223,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 3,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 216,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300076,
+    "amount": 1,
+    "ratio": 0.835
+  },
+  {
+    "recordId": 217,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300056,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 218,
+    "chestId": 400042,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 219,
+    "chestId": 400042,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 212,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.167
+  },
+  {
+    "recordId": 213,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 0.334
+  },
+  {
+    "recordId": 214,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 1,
+    "ratio": 0.501
+  },
+  {
+    "recordId": 215,
+    "chestId": 410002,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.668
+  },
+  {
+    "recordId": 208,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300078,
+    "amount": 1,
+    "ratio": 0.501
+  },
+  {
+    "recordId": 209,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 1,
+    "ratio": 0.668
+  },
+  {
+    "recordId": 210,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.835
+  },
+  {
+    "recordId": 211,
+    "chestId": 410001,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 239,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 500015,
+    "amount": 1,
+    "ratio": 0.899
+  },
+  {
+    "recordId": 238,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300161,
+    "amount": 1,
+    "ratio": 0.894
+  },
+  {
+    "recordId": 237,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.874
+  },
+  {
+    "recordId": 236,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.674
+  },
+  {
+    "recordId": 235,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300091,
+    "amount": 1,
+    "ratio": 0.66
+  },
+  {
+    "recordId": 234,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300092,
+    "amount": 1,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 233,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 2,
+    "amount": 3000,
+    "ratio": 0.35
+  },
+  {
+    "recordId": 232,
+    "chestId": 400045,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 231,
+    "chestId": 400045,
+    "type": 1,
+    "cfgItemId": 300076,
+    "amount": 1,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 230,
+    "chestId": 400045,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 1,
+    "ratio": 0.6
+  },
+  {
+    "recordId": 229,
+    "chestId": 400045,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 228,
+    "chestId": 400045,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 227,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 226,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300091,
+    "amount": 2,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 225,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.7
+  },
+  {
+    "recordId": 224,
+    "chestId": 400044,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 5,
+    "ratio": 0.6
+  },
+  {
+    "recordId": 254,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500004,
+    "amount": 1,
+    "ratio": 0.083
+  },
+  {
+    "recordId": 255,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500014,
+    "amount": 1,
+    "ratio": 0.166
+  },
+  {
+    "recordId": 252,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300051,
+    "amount": 1,
+    "ratio": 0.835
+  },
+  {
+    "recordId": 253,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 250,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300076,
+    "amount": 1,
+    "ratio": 0.501
+  },
+  {
+    "recordId": 251,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.668
+  },
+  {
+    "recordId": 248,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.167
+  },
+  {
+    "recordId": 249,
+    "chestId": 400047,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 0.334
+  },
+  {
+    "recordId": 246,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300076,
+    "amount": 1,
+    "ratio": 0.81
+  },
+  {
+    "recordId": 247,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 244,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.57
+  },
+  {
+    "recordId": 245,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.62
+  },
+  {
+    "recordId": 242,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300051,
+    "amount": 1,
+    "ratio": 0.19
+  },
+  {
+    "recordId": 243,
+    "chestId": 410003,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.38
+  },
+  {
+    "recordId": 240,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 500025,
+    "amount": 1,
+    "ratio": 0.9
+  },
+  {
+    "recordId": 241,
+    "chestId": 400046,
+    "type": 1,
+    "cfgItemId": 300096,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 275,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500105,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 274,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500095,
+    "amount": 1,
+    "ratio": 0.747
+  },
+  {
+    "recordId": 273,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500085,
+    "amount": 1,
+    "ratio": 0.664
+  },
+  {
+    "recordId": 272,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500075,
+    "amount": 1,
+    "ratio": 0.581
+  },
+  {
+    "recordId": 279,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500016,
+    "amount": 1,
+    "ratio": 0.166
+  },
+  {
+    "recordId": 278,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500006,
+    "amount": 1,
+    "ratio": 0.083
+  },
+  {
+    "recordId": 277,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500125,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 276,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500115,
+    "amount": 1,
+    "ratio": 0.913
+  },
+  {
+    "recordId": 283,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500066,
+    "amount": 1,
+    "ratio": 0.498
+  },
+  {
+    "recordId": 282,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500056,
+    "amount": 1,
+    "ratio": 0.415
+  },
+  {
+    "recordId": 281,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500046,
+    "amount": 1,
+    "ratio": 0.332
+  },
+  {
+    "recordId": 280,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500036,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 287,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500106,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 286,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500096,
+    "amount": 1,
+    "ratio": 0.747
+  },
+  {
+    "recordId": 285,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500086,
+    "amount": 1,
+    "ratio": 0.664
+  },
+  {
+    "recordId": 284,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500076,
+    "amount": 1,
+    "ratio": 0.581
+  },
+  {
+    "recordId": 258,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500054,
+    "amount": 1,
+    "ratio": 0.415
+  },
+  {
+    "recordId": 259,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500064,
+    "amount": 1,
+    "ratio": 0.498
+  },
+  {
+    "recordId": 256,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500034,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 257,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500044,
+    "amount": 1,
+    "ratio": 0.332
+  },
+  {
+    "recordId": 262,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500094,
+    "amount": 1,
+    "ratio": 0.747
+  },
+  {
+    "recordId": 263,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500104,
+    "amount": 1,
+    "ratio": 0.83
+  },
+  {
+    "recordId": 260,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500074,
+    "amount": 1,
+    "ratio": 0.581
+  },
+  {
+    "recordId": 261,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500084,
+    "amount": 1,
+    "ratio": 0.664
+  },
+  {
+    "recordId": 266,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500005,
+    "amount": 1,
+    "ratio": 0.083
+  },
+  {
+    "recordId": 267,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500015,
+    "amount": 1,
+    "ratio": 0.166
+  },
+  {
+    "recordId": 264,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500114,
+    "amount": 1,
+    "ratio": 0.913
+  },
+  {
+    "recordId": 265,
+    "chestId": 400048,
+    "type": 1,
+    "cfgItemId": 500124,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 270,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500055,
+    "amount": 1,
+    "ratio": 0.415
+  },
+  {
+    "recordId": 271,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500065,
+    "amount": 1,
+    "ratio": 0.498
+  },
+  {
+    "recordId": 268,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500035,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 269,
+    "chestId": 400049,
+    "type": 1,
+    "cfgItemId": 500045,
+    "amount": 1,
+    "ratio": 0.332
+  },
+  {
+    "recordId": 305,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600022,
+    "amount": 3,
+    "ratio": 0.72
+  },
+  {
+    "recordId": 304,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600051,
+    "amount": 3,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 307,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600024,
+    "amount": 3,
+    "ratio": 0.86
+  },
+  {
+    "recordId": 306,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600023,
+    "amount": 3,
+    "ratio": 0.79
+  },
+  {
+    "recordId": 309,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600026,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 308,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600025,
+    "amount": 3,
+    "ratio": 0.93
+  },
+  {
+    "recordId": 311,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600011,
+    "amount": 3,
+    "ratio": 0.1
+  },
+  {
+    "recordId": 310,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600005,
+    "amount": 3,
+    "ratio": 0.05
+  },
+  {
+    "recordId": 313,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600051,
+    "amount": 3,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 312,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600050,
+    "amount": 3,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 315,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600027,
+    "amount": 3,
+    "ratio": 0.57
+  },
+  {
+    "recordId": 314,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600038,
+    "amount": 3,
+    "ratio": 0.45
+  },
+  {
+    "recordId": 317,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600029,
+    "amount": 3,
+    "ratio": 0.81
+  },
+  {
+    "recordId": 316,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600028,
+    "amount": 3,
+    "ratio": 0.69
+  },
+  {
+    "recordId": 319,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600040,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 318,
+    "chestId": 400053,
+    "type": 1,
+    "cfgItemId": 600030,
+    "amount": 3,
+    "ratio": 0.93
+  },
+  {
+    "recordId": 288,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500116,
+    "amount": 1,
+    "ratio": 0.913
+  },
+  {
+    "recordId": 289,
+    "chestId": 400050,
+    "type": 1,
+    "cfgItemId": 500126,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 290,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600001,
+    "amount": 3,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 291,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600009,
+    "amount": 3,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 292,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600036,
+    "amount": 3,
+    "ratio": 0.45
+  },
+  {
+    "recordId": 293,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600050,
+    "amount": 3,
+    "ratio": 0.55
+  },
+  {
+    "recordId": 294,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600051,
+    "amount": 3,
+    "ratio": 0.75
+  },
+  {
+    "recordId": 295,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600016,
+    "amount": 3,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 296,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600017,
+    "amount": 3,
+    "ratio": 0.85
+  },
+  {
+    "recordId": 297,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600018,
+    "amount": 3,
+    "ratio": 0.9
+  },
+  {
+    "recordId": 298,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600019,
+    "amount": 3,
+    "ratio": 0.95
+  },
+  {
+    "recordId": 299,
+    "chestId": 400051,
+    "type": 1,
+    "cfgItemId": 600021,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 300,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600003,
+    "amount": 3,
+    "ratio": 0.15
+  },
+  {
+    "recordId": 301,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600010,
+    "amount": 3,
+    "ratio": 0.3
+  },
+  {
+    "recordId": 302,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600037,
+    "amount": 3,
+    "ratio": 0.35
+  },
+  {
+    "recordId": 303,
+    "chestId": 400052,
+    "type": 1,
+    "cfgItemId": 600050,
+    "amount": 3,
+    "ratio": 0.45
+  },
+  {
+    "recordId": 343,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 500021,
+    "amount": 1,
+    "ratio": 0.7
+  },
+  {
+    "recordId": 342,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 1,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 341,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 1,
+    "ratio": 0.6
+  },
+  {
+    "recordId": 340,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 1,
+    "ratio": 0.55
+  },
+  {
+    "recordId": 339,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 1,
+    "ratio": 0.5
+  },
+  {
+    "recordId": 338,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 1,
+    "ratio": 0.45
+  },
+  {
+    "recordId": 337,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300051,
+    "amount": 1,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 336,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300050,
+    "amount": 1,
+    "ratio": 0.35
+  },
+  {
+    "recordId": 351,
+    "chestId": 400059,
+    "type": 1,
+    "cfgItemId": 300153,
+    "amount": 1,
+    "ratio": 0.5
+  },
+  {
+    "recordId": 350,
+    "chestId": 400059,
+    "type": 1,
+    "cfgItemId": 300152,
+    "amount": 1,
+    "ratio": 0.25
+  },
+  {
+    "recordId": 349,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300160,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 348,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300159,
+    "amount": 1,
+    "ratio": 0.95
+  },
+  {
+    "recordId": 347,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300158,
+    "amount": 1,
+    "ratio": 0.9
+  },
+  {
+    "recordId": 346,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.85
+  },
+  {
+    "recordId": 345,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 344,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300156,
+    "amount": 1,
+    "ratio": 0.75
+  },
+  {
+    "recordId": 326,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600042,
+    "amount": 3,
+    "ratio": 0.64
+  },
+  {
+    "recordId": 327,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600043,
+    "amount": 3,
+    "ratio": 0.76
+  },
+  {
+    "recordId": 324,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600051,
+    "amount": 3,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 325,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600040,
+    "amount": 3,
+    "ratio": 0.52
+  },
+  {
+    "recordId": 322,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600039,
+    "amount": 3,
+    "ratio": 0.1
+  },
+  {
+    "recordId": 323,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600050,
+    "amount": 3,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 320,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600007,
+    "amount": 3,
+    "ratio": 0.02
+  },
+  {
+    "recordId": 321,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600012,
+    "amount": 3,
+    "ratio": 0.06
+  },
+  {
+    "recordId": 334,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300055,
+    "amount": 1,
+    "ratio": 0.25
+  },
+  {
+    "recordId": 335,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300056,
+    "amount": 1,
+    "ratio": 0.3
+  },
+  {
+    "recordId": 332,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.15
+  },
+  {
+    "recordId": 333,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 1,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 330,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.05
+  },
+  {
+    "recordId": 331,
+    "chestId": 400056,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 0.1
+  },
+  {
+    "recordId": 328,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600044,
+    "amount": 3,
+    "ratio": 0.88
+  },
+  {
+    "recordId": 329,
+    "chestId": 400054,
+    "type": 1,
+    "cfgItemId": 600045,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 373,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300001,
+    "amount": 10,
+    "ratio": 0.479
+  },
+  {
+    "recordId": 372,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300136,
+    "amount": 5,
+    "ratio": 0.368
+  },
+  {
+    "recordId": 375,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 4,
+    "ratio": 0.68
+  },
+  {
+    "recordId": 374,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 10,
+    "ratio": 0.582
+  },
+  {
+    "recordId": 369,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 368,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300076,
+    "amount": 1,
+    "ratio": 0.81
+  },
+  {
+    "recordId": 371,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300192,
+    "amount": 1,
+    "ratio": 0.249
+  },
+  {
+    "recordId": 370,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.126
+  },
+  {
+    "recordId": 381,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 500027,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 380,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 500025,
+    "amount": 1,
+    "ratio": 0.999
+  },
+  {
+    "recordId": 383,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 0.334
+  },
+  {
+    "recordId": 382,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.167
+  },
+  {
+    "recordId": 377,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300091,
+    "amount": 5,
+    "ratio": 0.864
+  },
+  {
+    "recordId": 376,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300139,
+    "amount": 1,
+    "ratio": 0.774
+  },
+  {
+    "recordId": 379,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 300190,
+    "amount": 1,
+    "ratio": 0.981
+  },
+  {
+    "recordId": 378,
+    "chestId": 400062,
+    "type": 1,
+    "cfgItemId": 500023,
+    "amount": 1,
+    "ratio": 0.937
+  },
+  {
+    "recordId": 356,
+    "chestId": 400060,
+    "type": 1,
+    "cfgItemId": 600014,
+    "amount": 3,
+    "ratio": 1
+  },
+  {
+    "recordId": 357,
+    "chestId": 400060,
+    "type": 1,
+    "cfgItemId": 700002,
+    "amount": 8,
+    "ratio": 1
+  },
+  {
+    "recordId": 358,
+    "chestId": 400060,
+    "type": 1,
+    "cfgItemId": 700045,
+    "amount": 8,
+    "ratio": 1
+  },
+  {
+    "recordId": 359,
+    "chestId": 400061,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 1,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 352,
+    "chestId": 400059,
+    "type": 1,
+    "cfgItemId": 300154,
+    "amount": 1,
+    "ratio": 0.75
+  },
+  {
+    "recordId": 353,
+    "chestId": 400059,
+    "type": 1,
+    "cfgItemId": 300155,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 354,
+    "chestId": 400060,
+    "type": 1,
+    "cfgItemId": 600020,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 355,
+    "chestId": 400060,
+    "type": 1,
+    "cfgItemId": 600021,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 364,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300052,
+    "amount": 1,
+    "ratio": 0.19
+  },
+  {
+    "recordId": 365,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300048,
+    "amount": 1,
+    "ratio": 0.38
+  },
+  {
+    "recordId": 366,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.57
+  },
+  {
+    "recordId": 367,
+    "chestId": 410004,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.62
+  },
+  {
+    "recordId": 360,
+    "chestId": 400061,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 361,
+    "chestId": 400061,
+    "type": 1,
+    "cfgItemId": 600021,
+    "amount": 1,
+    "ratio": 0.65
+  },
+  {
+    "recordId": 362,
+    "chestId": 400061,
+    "type": 1,
+    "cfgItemId": 300051,
+    "amount": 1,
+    "ratio": 0.85
+  },
+  {
+    "recordId": 363,
+    "chestId": 400061,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 410,
+    "chestId": 400070,
+    "type": 1,
+    "cfgItemId": 500036,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 411,
+    "chestId": 400071,
+    "type": 1,
+    "cfgItemId": 500044,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 408,
+    "chestId": 400070,
+    "type": 1,
+    "cfgItemId": 500034,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 409,
+    "chestId": 400070,
+    "type": 1,
+    "cfgItemId": 500035,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 414,
+    "chestId": 400072,
+    "type": 1,
+    "cfgItemId": 500124,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 415,
+    "chestId": 400072,
+    "type": 1,
+    "cfgItemId": 500125,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 412,
+    "chestId": 400071,
+    "type": 1,
+    "cfgItemId": 500045,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 413,
+    "chestId": 400071,
+    "type": 1,
+    "cfgItemId": 500046,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 402,
+    "chestId": 400068,
+    "type": 1,
+    "cfgItemId": 500064,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 403,
+    "chestId": 400068,
+    "type": 1,
+    "cfgItemId": 500065,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 400,
+    "chestId": 400067,
+    "type": 1,
+    "cfgItemId": 500055,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 401,
+    "chestId": 400067,
+    "type": 1,
+    "cfgItemId": 500056,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 406,
+    "chestId": 400069,
+    "type": 1,
+    "cfgItemId": 500095,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 407,
+    "chestId": 400069,
+    "type": 1,
+    "cfgItemId": 500096,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 404,
+    "chestId": 400068,
+    "type": 1,
+    "cfgItemId": 500066,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 405,
+    "chestId": 400069,
+    "type": 1,
+    "cfgItemId": 500094,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 395,
+    "chestId": 400065,
+    "type": 1,
+    "cfgItemId": 500006,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 394,
+    "chestId": 400065,
+    "type": 1,
+    "cfgItemId": 500005,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 393,
+    "chestId": 400065,
+    "type": 1,
+    "cfgItemId": 500004,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 392,
+    "chestId": 400064,
+    "type": 1,
+    "cfgItemId": 300207,
+    "amount": 2,
+    "ratio": 1
+  },
+  {
+    "recordId": 399,
+    "chestId": 400067,
+    "type": 1,
+    "cfgItemId": 500054,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 398,
+    "chestId": 400066,
+    "type": 1,
+    "cfgItemId": 500016,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 397,
+    "chestId": 400066,
+    "type": 1,
+    "cfgItemId": 500015,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 396,
+    "chestId": 400066,
+    "type": 1,
+    "cfgItemId": 500014,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 387,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300059,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 386,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300060,
+    "amount": 1,
+    "ratio": 0.835
+  },
+  {
+    "recordId": 385,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300054,
+    "amount": 1,
+    "ratio": 0.668
+  },
+  {
+    "recordId": 384,
+    "chestId": 400063,
+    "type": 1,
+    "cfgItemId": 300055,
+    "amount": 1,
+    "ratio": 0.501
+  },
+  {
+    "recordId": 391,
+    "chestId": 400064,
+    "type": 1,
+    "cfgItemId": 300207,
+    "amount": 1,
+    "ratio": 0.8
+  },
+  {
+    "recordId": 390,
+    "chestId": 400064,
+    "type": 1,
+    "cfgItemId": 110001,
+    "amount": 1,
+    "ratio": 0.6
+  },
+  {
+    "recordId": 389,
+    "chestId": 400064,
+    "type": 1,
+    "cfgItemId": 300001,
+    "amount": 2,
+    "ratio": 0.4
+  },
+  {
+    "recordId": 388,
+    "chestId": 400064,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 1,
+    "ratio": 0.2
+  },
+  {
+    "recordId": 440,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300017,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 441,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300018,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 442,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300019,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 443,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300020,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 444,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300021,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 445,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300022,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 446,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300023,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 447,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300024,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 432,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300009,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 433,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300010,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 434,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300011,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 435,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300012,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 436,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300013,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 437,
+    "chestId": 400077,
+    "type": 1,
+    "cfgItemId": 300014,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 438,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300015,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 439,
+    "chestId": 400078,
+    "type": 1,
+    "cfgItemId": 300016,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 425,
+    "chestId": 400075,
+    "type": 1,
+    "cfgItemId": 500116,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 424,
+    "chestId": 400075,
+    "type": 1,
+    "cfgItemId": 500115,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 427,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300004,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 426,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300003,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 429,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300006,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 428,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300005,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 431,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300008,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 430,
+    "chestId": 400076,
+    "type": 1,
+    "cfgItemId": 300007,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 417,
+    "chestId": 400073,
+    "type": 1,
+    "cfgItemId": 500074,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 416,
+    "chestId": 400072,
+    "type": 1,
+    "cfgItemId": 500126,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 419,
+    "chestId": 400073,
+    "type": 1,
+    "cfgItemId": 500076,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 418,
+    "chestId": 400073,
+    "type": 1,
+    "cfgItemId": 500075,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 421,
+    "chestId": 400074,
+    "type": 1,
+    "cfgItemId": 500107,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 420,
+    "chestId": 400074,
+    "type": 1,
+    "cfgItemId": 500106,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 423,
+    "chestId": 400075,
+    "type": 1,
+    "cfgItemId": 500114,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 422,
+    "chestId": 400074,
+    "type": 1,
+    "cfgItemId": 500108,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 474,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320024,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 475,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320028,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 472,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320016,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 473,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320020,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 470,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320008,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 471,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320012,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 468,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300227,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 469,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 320004,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 466,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300203,
+    "amount": 25,
+    "ratio": 1
+  },
+  {
+    "recordId": 467,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300226,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 464,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300157,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 465,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300160,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 463,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300136,
+    "amount": 20,
+    "ratio": 1
+  },
+  {
+    "recordId": 462,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300135,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 461,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300134,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 460,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300133,
+    "amount": 5,
+    "ratio": 1
+  },
+  {
+    "recordId": 459,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300091,
+    "amount": 50,
+    "ratio": 1
+  },
+  {
+    "recordId": 458,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300061,
+    "amount": 30,
+    "ratio": 1
+  },
+  {
+    "recordId": 457,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300058,
+    "amount": 30,
+    "ratio": 1
+  },
+  {
+    "recordId": 456,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300057,
+    "amount": 30,
+    "ratio": 1
+  },
+  {
+    "recordId": 455,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300248,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 454,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300247,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 453,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300246,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 452,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300245,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 451,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 300002,
+    "amount": 10,
+    "ratio": 1
+  },
+  {
+    "recordId": 450,
+    "chestId": 400080,
+    "type": 1,
+    "cfgItemId": 1,
+    "amount": 1000,
+    "ratio": 1
+  },
+  {
+    "recordId": 449,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300026,
+    "amount": 1,
+    "ratio": 1
+  },
+  {
+    "recordId": 448,
+    "chestId": 400079,
+    "type": 1,
+    "cfgItemId": 300025,
+    "amount": 1,
+    "ratio": 1
+  }
+]

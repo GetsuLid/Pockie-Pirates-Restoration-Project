@@ -1,0 +1,216 @@
+package mx.logging
+{
+   import mx.core.mx_internal;
+   import mx.logging.errors.InvalidCategoryError;
+   import mx.resources.IResourceManager;
+   import mx.resources.ResourceManager;
+   
+   use namespace mx_internal;
+   
+   public class Log
+   {
+      
+      private static var _resourceManager:IResourceManager;
+      
+      private static var _loggers:Array;
+      
+      mx_internal static const VERSION:String = "3.2.0.3958";
+      
+      private static var NONE:int = int.MAX_VALUE;
+      
+      private static var _targetLevel:int = NONE;
+      
+      private static var _targets:Array = [];
+      
+      public function Log()
+      {
+         super();
+      }
+      
+      private static function categoryMatchInFilterList(category:String, filters:Array) : Boolean
+      {
+         var filter:String = null;
+         var result:Boolean = false;
+         var index:int = -1;
+         for(var i:uint = 0; i < filters.length; i++)
+         {
+            filter = filters[i];
+            index = filter.indexOf("*");
+            if(index == 0)
+            {
+               return true;
+            }
+            index = category.length;
+            index = index < 0 ? (index) : int(index - 1);
+            if(category.substring(0,index) == filter.substring(0,index))
+            {
+               return true;
+            }
+         }
+         return false;
+      }
+      
+      public static function flush() : void
+      {
+         _loggers = [];
+         _targets = [];
+         _targetLevel = NONE;
+      }
+      
+      public static function isDebug() : Boolean
+      {
+         return _targetLevel <= LogEventLevel.DEBUG ? true : false;
+      }
+      
+      public static function getLogger(category:String) : ILogger
+      {
+         var target:ILoggingTarget = null;
+         checkCategory(category);
+         if(!_loggers)
+         {
+            _loggers = [];
+         }
+         var result:ILogger = _loggers[category];
+         if(result == null)
+         {
+            result = new LogLogger(category);
+            _loggers[category] = result;
+         }
+         for(var i:int = 0; i < _targets.length; i++)
+         {
+            target = ILoggingTarget(_targets[i]);
+            if(categoryMatchInFilterList(category,target.filters))
+            {
+               target.addLogger(result);
+            }
+         }
+         return result;
+      }
+      
+      public static function isWarn() : Boolean
+      {
+         return _targetLevel <= LogEventLevel.WARN ? true : false;
+      }
+      
+      public static function addTarget(target:ILoggingTarget) : void
+      {
+         var filters:Array = null;
+         var logger:ILogger = null;
+         var i:String = null;
+         var message:String = null;
+         if(target)
+         {
+            filters = target.filters;
+            for(i in _loggers)
+            {
+               if(categoryMatchInFilterList(i,filters))
+               {
+                  target.addLogger(ILogger(_loggers[i]));
+               }
+            }
+            _targets.push(target);
+            if(_targetLevel == NONE)
+            {
+               _targetLevel = target.level;
+            }
+            else if(target.level < _targetLevel)
+            {
+               _targetLevel = target.level;
+            }
+            return;
+         }
+         message = resourceManager.getString("logging","invalidTarget");
+         throw new ArgumentError(message);
+      }
+      
+      public static function hasIllegalCharacters(value:String) : Boolean
+      {
+         return value.search(/[\[\]\~\$\^\&\\(\)\{\}\+\?\/=`!@#%,:;'"<>\s]/) != -1;
+      }
+      
+      private static function checkCategory(category:String) : void
+      {
+         var message:String = null;
+         if(category == null || category.length == 0)
+         {
+            message = resourceManager.getString("logging","invalidLen");
+            throw new InvalidCategoryError(message);
+         }
+         if(hasIllegalCharacters(category) || category.indexOf("*") != -1)
+         {
+            message = resourceManager.getString("logging","invalidChars");
+            throw new InvalidCategoryError(message);
+         }
+      }
+      
+      private static function resetTargetLevel() : void
+      {
+         var minLevel:int = NONE;
+         for(var i:int = 0; i < _targets.length; i++)
+         {
+            if(minLevel == NONE || _targets[i].level < minLevel)
+            {
+               minLevel = int(_targets[i].level);
+            }
+         }
+         _targetLevel = minLevel;
+      }
+      
+      public static function removeTarget(target:ILoggingTarget) : void
+      {
+         var filters:Array = null;
+         var logger:ILogger = null;
+         var i:String = null;
+         var j:* = 0;
+         var message:String = null;
+         if(target)
+         {
+            filters = target.filters;
+            for(i in _loggers)
+            {
+               if(categoryMatchInFilterList(i,filters))
+               {
+                  target.removeLogger(ILogger(_loggers[i]));
+               }
+            }
+            for(j = 0; j < _targets.length; j++)
+            {
+               if(target == _targets[j])
+               {
+                  _targets.splice(j,1);
+                  j--;
+               }
+            }
+            resetTargetLevel();
+            return;
+         }
+         message = resourceManager.getString("logging","invalidTarget");
+         throw new ArgumentError(message);
+      }
+      
+      public static function isInfo() : Boolean
+      {
+         return _targetLevel <= LogEventLevel.INFO ? true : false;
+      }
+      
+      public static function isFatal() : Boolean
+      {
+         return _targetLevel <= LogEventLevel.FATAL ? true : false;
+      }
+      
+      public static function isError() : Boolean
+      {
+         return _targetLevel <= LogEventLevel.ERROR ? true : false;
+      }
+      
+      private static function get resourceManager() : IResourceManager
+      {
+         if(!_resourceManager)
+         {
+            _resourceManager = ResourceManager.getInstance();
+         }
+         return _resourceManager;
+      }
+   }
+}
+

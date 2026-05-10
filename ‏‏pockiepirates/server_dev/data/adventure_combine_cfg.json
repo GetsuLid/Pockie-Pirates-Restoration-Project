@@ -1,0 +1,250 @@
+[
+  {
+    "rewardValue": 10000,
+    "combine": "1+8",
+    "rewardType": 1,
+    "des": "Amazon Lily→Sand Island＝<font color='#49fb8b'>10000 EXP</font>",
+    "cfgCombineId": 1,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 10000,
+    "combine": "2+9",
+    "rewardType": 1,
+    "des": "Fishman Island→Rock Island＝<font color='#49fb8b'>10000 EXP</font>",
+    "cfgCombineId": 2,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 10000,
+    "combine": "3+10",
+    "rewardType": 1,
+    "des": "The Judicial Island→Giants' Island＝<font color='#49fb8b'>10000 EXP</font>",
+    "cfgCombineId": 3,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 15000,
+    "combine": "4+11",
+    "rewardType": 1,
+    "des": "Island of Women→Wind Island＝<font color='#49fb8b'>15000 EXP</font>",
+    "cfgCombineId": 4,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 15000,
+    "combine": "5+12",
+    "rewardType": 1,
+    "des": "Sabaody→Water Island＝<font color='#49fb8b'>15000 EXP</font>",
+    "cfgCombineId": 5,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 15000,
+    "combine": "6+13",
+    "rewardType": 1,
+    "des": "Jaya→Rainbow Island＝<font color='#49fb8b'>15000 EXP</font>",
+    "cfgCombineId": 6,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 20000,
+    "combine": "7+14",
+    "rewardType": 1,
+    "des": "Ice Island→Gold Island＝<font color='#49fb8b'>20000 EXP</font>",
+    "cfgCombineId": 7,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 20000,
+    "combine": "8+15",
+    "rewardType": 1,
+    "des": "Sand Island→Long Island＝<font color='#49fb8b'>20000 EXP</font>",
+    "cfgCombineId": 8,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 20000,
+    "combine": "9+16",
+    "rewardType": 1,
+    "des": "Rock Island→Drum Island＝<font color='#49fb8b'>20000 EXP</font>",
+    "cfgCombineId": 9,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "10+1+2",
+    "rewardType": 300157,
+    "des": "Giants' Island→Amazon Lily→Fishman Island＝<font color='#c149fb'>Advanced Energy Ball</font>",
+    "cfgCombineId": 10,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "11+2+3",
+    "rewardType": 300156,
+    "des": "Wind Island→Fishman Island→The Judicial Island＝<font color='#c149fb'>Primary Energy Ball</font>",
+    "cfgCombineId": 11,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "12+3+4",
+    "rewardType": 300157,
+    "des": "Water Island→The Judicial Island→Island of Women＝<font color='#c149fb'>Advanced Energy Ball</font>",
+    "cfgCombineId": 12,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "14+4+5",
+    "rewardType": 300157,
+    "des": "Gold Island→Island of Women→Sabaody＝<font color='#c149fb'>Advanced Energy Ball</font>",
+    "cfgCombineId": 13,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "15+5+6",
+    "rewardType": 300156,
+    "des": "Long Island→Sabaody→Jaya＝<font color='#c149fb'>Primary Energy Ball</font>",
+    "cfgCombineId": 14,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "16+6+7",
+    "rewardType": 300156,
+    "des": "Drum Island→Jaya→Ice Island＝<font color='#c149fb'>Primary Energy Ball</font>",
+    "cfgCombineId": 15,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 80000,
+    "combine": "2+8+9",
+    "rewardType": 1,
+    "des": "Fishman Island→Sand Island→Rock Island＝<font color='#497dfb'>80000 EXP</font>",
+    "cfgCombineId": 17,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 80000,
+    "combine": "1+7+8",
+    "rewardType": 1,
+    "des": "Amazon Lily→Ice Island→Sand Island＝<font color='#497dfb'>80000 EXP</font>",
+    "cfgCombineId": 16,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 200000,
+    "combine": "4+10+11+12",
+    "rewardType": 1,
+    "des": "Island of Women→Giants' Island→Wind Island→Water Island＝<font color='#ff8145'>200,000 EXP</font>",
+    "cfgCombineId": 19,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 80000,
+    "combine": "3+9+10",
+    "rewardType": 1,
+    "des": "The Judicial Island→Rock Island→Giants' Island＝<font color='#497dfb'>80000 EXP</font>",
+    "cfgCombineId": 18,
+    "tip": "0"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "6+14+15+16",
+    "rewardType": 300150,
+    "des": "Jaya→Gold Island→Long Island→Drum Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 21,
+    "tip": "Guardian Beast Skill Book·Elimination"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "5+12+13+14",
+    "rewardType": 300149,
+    "des": "Sabaody→Water Island→Rainbow Island→Gold Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 20,
+    "tip": "Guardian Beast Skill Book·Seawave Blessing"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "8+2+3+4",
+    "rewardType": 300152,
+    "des": "Sand Island→Fishman Island→The Judicial Island→Island of Women＝<font color='#ff283f'>Passive Skill Book</font>",
+    "cfgCombineId": 23,
+    "tip": "Guardian Beast Skill Book·Bull's Eye"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "7+16+1+2",
+    "rewardType": 300151,
+    "des": "Ice Island→Drum Island→Amazon Lily→Fishman Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 22,
+    "tip": "Guardian Beast Skill Book·Enrage"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "10+6+7+8",
+    "rewardType": 300154,
+    "des": "Giants' Island→Jaya→Ice Island→Sand Island＝<font color='#ff283f'>Passive Skill Book</font>",
+    "cfgCombineId": 25,
+    "tip": "Guardian Beast Skill Book·Destruction"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "9+4+5+6",
+    "rewardType": 300153,
+    "des": "Rock Island→Island of Women→Sabaody→Jaya＝<font color='#ff283f'>Passive Skill Book</font>",
+    "cfgCombineId": 24,
+    "tip": "Guardian Beast Skill Book·Inspiration"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "12+10+11+12",
+    "rewardType": 300148,
+    "des": "Water Island→Giants' Island→Wind Island→Water Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 27,
+    "tip": "Guardian Beast Skill Book·Life Chain"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "11+8+9+10",
+    "rewardType": 300155,
+    "des": "Wind Island→Sand Island→Rock Island→Giants' Island＝<font color='#ff283f'>Passive Skill Book</font>",
+    "cfgCombineId": 26,
+    "tip": "Guardian Beast Skill Book·Guardian's Domain"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "5+6+7+8",
+    "rewardType": 300169,
+    "des": "Sabaody →Jaya→Ice Island→Sand Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 29,
+    "tip": "Guardian Beast Skill Book·Arms On Fire"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "1+2+3+4",
+    "rewardType": 300168,
+    "des": "Amazon Lily→Fishman Island→The Judicial Island →Island of Women＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 28,
+    "tip": "Guardian Beast Skill Book·All-out Strike"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "3+6+9+12",
+    "rewardType": 300171,
+    "des": "The Judicial Island →Jaya→Rock Island→Water Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 31,
+    "tip": "Guardian Beast Skill Book·Medusa's Eye"
+  },
+  {
+    "rewardValue": 1,
+    "combine": "9+10+11+12",
+    "rewardType": 300170,
+    "des": "Rock Island→Giants' Island→Wind Island→Water Island＝<font color='#ff283f'>Active Skill Book</font>",
+    "cfgCombineId": 30,
+    "tip": "Guardian Beast Skill Book·Joint Will Strike"
+  }
+]

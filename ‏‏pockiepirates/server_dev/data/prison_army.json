@@ -1,0 +1,702 @@
+[
+  {
+    "order": 1,
+    "floor": 1,
+    "cfgArmyId": 60801,
+    "rewardExploit": 500,
+    "pos": 1
+  },
+  {
+    "order": 2,
+    "floor": 1,
+    "cfgArmyId": 60802,
+    "rewardExploit": 500,
+    "pos": 2
+  },
+  {
+    "order": 3,
+    "floor": 1,
+    "cfgArmyId": 60803,
+    "rewardExploit": 500,
+    "pos": 3
+  },
+  {
+    "order": 4,
+    "floor": 1,
+    "cfgArmyId": 60804,
+    "rewardExploit": 500,
+    "pos": 4
+  },
+  {
+    "order": 5,
+    "floor": 1,
+    "cfgArmyId": 60805,
+    "rewardExploit": 500,
+    "pos": 5
+  },
+  {
+    "order": 6,
+    "floor": 1,
+    "cfgArmyId": 60806,
+    "rewardExploit": 500,
+    "pos": 6
+  },
+  {
+    "order": 7,
+    "floor": 1,
+    "cfgArmyId": 60807,
+    "rewardExploit": 500,
+    "pos": 7
+  },
+  {
+    "order": 8,
+    "floor": 1,
+    "cfgArmyId": 60808,
+    "rewardExploit": 500,
+    "pos": 8
+  },
+  {
+    "order": 9,
+    "floor": 1,
+    "cfgArmyId": 60809,
+    "rewardExploit": 500,
+    "pos": 9
+  },
+  {
+    "order": 10,
+    "floor": 1,
+    "cfgArmyId": 60810,
+    "rewardExploit": 500,
+    "pos": 10
+  },
+  {
+    "order": 11,
+    "floor": 2,
+    "cfgArmyId": 60901,
+    "rewardExploit": 550,
+    "pos": 1
+  },
+  {
+    "order": 12,
+    "floor": 2,
+    "cfgArmyId": 60902,
+    "rewardExploit": 550,
+    "pos": 2
+  },
+  {
+    "order": 13,
+    "floor": 2,
+    "cfgArmyId": 60903,
+    "rewardExploit": 550,
+    "pos": 3
+  },
+  {
+    "order": 14,
+    "floor": 2,
+    "cfgArmyId": 60904,
+    "rewardExploit": 550,
+    "pos": 4
+  },
+  {
+    "order": 15,
+    "floor": 2,
+    "cfgArmyId": 60905,
+    "rewardExploit": 550,
+    "pos": 5
+  },
+  {
+    "order": 17,
+    "floor": 2,
+    "cfgArmyId": 60907,
+    "rewardExploit": 550,
+    "pos": 7
+  },
+  {
+    "order": 16,
+    "floor": 2,
+    "cfgArmyId": 60906,
+    "rewardExploit": 550,
+    "pos": 6
+  },
+  {
+    "order": 19,
+    "floor": 2,
+    "cfgArmyId": 60909,
+    "rewardExploit": 550,
+    "pos": 9
+  },
+  {
+    "order": 18,
+    "floor": 2,
+    "cfgArmyId": 60908,
+    "rewardExploit": 550,
+    "pos": 8
+  },
+  {
+    "order": 21,
+    "floor": 3,
+    "cfgArmyId": 61001,
+    "rewardExploit": 600,
+    "pos": 1
+  },
+  {
+    "order": 20,
+    "floor": 2,
+    "cfgArmyId": 60910,
+    "rewardExploit": 550,
+    "pos": 10
+  },
+  {
+    "order": 23,
+    "floor": 3,
+    "cfgArmyId": 61003,
+    "rewardExploit": 600,
+    "pos": 3
+  },
+  {
+    "order": 22,
+    "floor": 3,
+    "cfgArmyId": 61002,
+    "rewardExploit": 600,
+    "pos": 2
+  },
+  {
+    "order": 25,
+    "floor": 3,
+    "cfgArmyId": 61005,
+    "rewardExploit": 600,
+    "pos": 5
+  },
+  {
+    "order": 24,
+    "floor": 3,
+    "cfgArmyId": 61004,
+    "rewardExploit": 600,
+    "pos": 4
+  },
+  {
+    "order": 27,
+    "floor": 3,
+    "cfgArmyId": 61007,
+    "rewardExploit": 600,
+    "pos": 7
+  },
+  {
+    "order": 26,
+    "floor": 3,
+    "cfgArmyId": 61006,
+    "rewardExploit": 600,
+    "pos": 6
+  },
+  {
+    "order": 29,
+    "floor": 3,
+    "cfgArmyId": 61009,
+    "rewardExploit": 600,
+    "pos": 9
+  },
+  {
+    "order": 28,
+    "floor": 3,
+    "cfgArmyId": 61008,
+    "rewardExploit": 600,
+    "pos": 8
+  },
+  {
+    "order": 31,
+    "floor": 4,
+    "cfgArmyId": 60101,
+    "rewardExploit": 650,
+    "pos": 1
+  },
+  {
+    "order": 30,
+    "floor": 3,
+    "cfgArmyId": 61010,
+    "rewardExploit": 600,
+    "pos": 10
+  },
+  {
+    "order": 34,
+    "floor": 4,
+    "cfgArmyId": 60104,
+    "rewardExploit": 650,
+    "pos": 4
+  },
+  {
+    "order": 35,
+    "floor": 4,
+    "cfgArmyId": 60105,
+    "rewardExploit": 650,
+    "pos": 5
+  },
+  {
+    "order": 32,
+    "floor": 4,
+    "cfgArmyId": 60102,
+    "rewardExploit": 650,
+    "pos": 2
+  },
+  {
+    "order": 33,
+    "floor": 4,
+    "cfgArmyId": 60103,
+    "rewardExploit": 650,
+    "pos": 3
+  },
+  {
+    "order": 38,
+    "floor": 4,
+    "cfgArmyId": 60108,
+    "rewardExploit": 650,
+    "pos": 8
+  },
+  {
+    "order": 39,
+    "floor": 4,
+    "cfgArmyId": 60109,
+    "rewardExploit": 650,
+    "pos": 9
+  },
+  {
+    "order": 36,
+    "floor": 4,
+    "cfgArmyId": 60106,
+    "rewardExploit": 650,
+    "pos": 6
+  },
+  {
+    "order": 37,
+    "floor": 4,
+    "cfgArmyId": 60107,
+    "rewardExploit": 650,
+    "pos": 7
+  },
+  {
+    "order": 42,
+    "floor": 5,
+    "cfgArmyId": 60202,
+    "rewardExploit": 700,
+    "pos": 2
+  },
+  {
+    "order": 43,
+    "floor": 5,
+    "cfgArmyId": 60203,
+    "rewardExploit": 700,
+    "pos": 3
+  },
+  {
+    "order": 40,
+    "floor": 4,
+    "cfgArmyId": 60110,
+    "rewardExploit": 650,
+    "pos": 10
+  },
+  {
+    "order": 41,
+    "floor": 5,
+    "cfgArmyId": 60201,
+    "rewardExploit": 700,
+    "pos": 1
+  },
+  {
+    "order": 46,
+    "floor": 5,
+    "cfgArmyId": 60206,
+    "rewardExploit": 700,
+    "pos": 6
+  },
+  {
+    "order": 47,
+    "floor": 5,
+    "cfgArmyId": 60207,
+    "rewardExploit": 700,
+    "pos": 7
+  },
+  {
+    "order": 44,
+    "floor": 5,
+    "cfgArmyId": 60204,
+    "rewardExploit": 700,
+    "pos": 4
+  },
+  {
+    "order": 45,
+    "floor": 5,
+    "cfgArmyId": 60205,
+    "rewardExploit": 700,
+    "pos": 5
+  },
+  {
+    "order": 51,
+    "floor": 6,
+    "cfgArmyId": 60301,
+    "rewardExploit": 750,
+    "pos": 1
+  },
+  {
+    "order": 50,
+    "floor": 5,
+    "cfgArmyId": 60210,
+    "rewardExploit": 700,
+    "pos": 10
+  },
+  {
+    "order": 49,
+    "floor": 5,
+    "cfgArmyId": 60209,
+    "rewardExploit": 700,
+    "pos": 9
+  },
+  {
+    "order": 48,
+    "floor": 5,
+    "cfgArmyId": 60208,
+    "rewardExploit": 700,
+    "pos": 8
+  },
+  {
+    "order": 55,
+    "floor": 6,
+    "cfgArmyId": 60305,
+    "rewardExploit": 750,
+    "pos": 5
+  },
+  {
+    "order": 54,
+    "floor": 6,
+    "cfgArmyId": 60304,
+    "rewardExploit": 750,
+    "pos": 4
+  },
+  {
+    "order": 53,
+    "floor": 6,
+    "cfgArmyId": 60303,
+    "rewardExploit": 750,
+    "pos": 3
+  },
+  {
+    "order": 52,
+    "floor": 6,
+    "cfgArmyId": 60302,
+    "rewardExploit": 750,
+    "pos": 2
+  },
+  {
+    "order": 59,
+    "floor": 6,
+    "cfgArmyId": 60309,
+    "rewardExploit": 750,
+    "pos": 9
+  },
+  {
+    "order": 58,
+    "floor": 6,
+    "cfgArmyId": 60308,
+    "rewardExploit": 750,
+    "pos": 8
+  },
+  {
+    "order": 57,
+    "floor": 6,
+    "cfgArmyId": 60307,
+    "rewardExploit": 750,
+    "pos": 7
+  },
+  {
+    "order": 56,
+    "floor": 6,
+    "cfgArmyId": 60306,
+    "rewardExploit": 750,
+    "pos": 6
+  },
+  {
+    "order": 63,
+    "floor": 7,
+    "cfgArmyId": 60403,
+    "rewardExploit": 800,
+    "pos": 3
+  },
+  {
+    "order": 62,
+    "floor": 7,
+    "cfgArmyId": 60402,
+    "rewardExploit": 800,
+    "pos": 2
+  },
+  {
+    "order": 61,
+    "floor": 7,
+    "cfgArmyId": 60401,
+    "rewardExploit": 800,
+    "pos": 1
+  },
+  {
+    "order": 60,
+    "floor": 6,
+    "cfgArmyId": 60310,
+    "rewardExploit": 750,
+    "pos": 10
+  },
+  {
+    "order": 68,
+    "floor": 7,
+    "cfgArmyId": 60408,
+    "rewardExploit": 800,
+    "pos": 8
+  },
+  {
+    "order": 69,
+    "floor": 7,
+    "cfgArmyId": 60409,
+    "rewardExploit": 800,
+    "pos": 9
+  },
+  {
+    "order": 70,
+    "floor": 7,
+    "cfgArmyId": 60410,
+    "rewardExploit": 800,
+    "pos": 10
+  },
+  {
+    "order": 71,
+    "floor": 8,
+    "cfgArmyId": 60501,
+    "rewardExploit": 850,
+    "pos": 1
+  },
+  {
+    "order": 64,
+    "floor": 7,
+    "cfgArmyId": 60404,
+    "rewardExploit": 800,
+    "pos": 4
+  },
+  {
+    "order": 65,
+    "floor": 7,
+    "cfgArmyId": 60405,
+    "rewardExploit": 800,
+    "pos": 5
+  },
+  {
+    "order": 66,
+    "floor": 7,
+    "cfgArmyId": 60406,
+    "rewardExploit": 800,
+    "pos": 6
+  },
+  {
+    "order": 67,
+    "floor": 7,
+    "cfgArmyId": 60407,
+    "rewardExploit": 800,
+    "pos": 7
+  },
+  {
+    "order": 76,
+    "floor": 8,
+    "cfgArmyId": 60506,
+    "rewardExploit": 850,
+    "pos": 6
+  },
+  {
+    "order": 77,
+    "floor": 8,
+    "cfgArmyId": 60507,
+    "rewardExploit": 850,
+    "pos": 7
+  },
+  {
+    "order": 78,
+    "floor": 8,
+    "cfgArmyId": 60508,
+    "rewardExploit": 850,
+    "pos": 8
+  },
+  {
+    "order": 79,
+    "floor": 8,
+    "cfgArmyId": 60509,
+    "rewardExploit": 850,
+    "pos": 9
+  },
+  {
+    "order": 72,
+    "floor": 8,
+    "cfgArmyId": 60502,
+    "rewardExploit": 850,
+    "pos": 2
+  },
+  {
+    "order": 73,
+    "floor": 8,
+    "cfgArmyId": 60503,
+    "rewardExploit": 850,
+    "pos": 3
+  },
+  {
+    "order": 74,
+    "floor": 8,
+    "cfgArmyId": 60504,
+    "rewardExploit": 850,
+    "pos": 4
+  },
+  {
+    "order": 75,
+    "floor": 8,
+    "cfgArmyId": 60505,
+    "rewardExploit": 850,
+    "pos": 5
+  },
+  {
+    "order": 85,
+    "floor": 9,
+    "cfgArmyId": 60605,
+    "rewardExploit": 900,
+    "pos": 5
+  },
+  {
+    "order": 84,
+    "floor": 9,
+    "cfgArmyId": 60604,
+    "rewardExploit": 900,
+    "pos": 4
+  },
+  {
+    "order": 87,
+    "floor": 9,
+    "cfgArmyId": 60607,
+    "rewardExploit": 900,
+    "pos": 7
+  },
+  {
+    "order": 86,
+    "floor": 9,
+    "cfgArmyId": 60606,
+    "rewardExploit": 900,
+    "pos": 6
+  },
+  {
+    "order": 81,
+    "floor": 9,
+    "cfgArmyId": 60601,
+    "rewardExploit": 900,
+    "pos": 1
+  },
+  {
+    "order": 80,
+    "floor": 8,
+    "cfgArmyId": 60510,
+    "rewardExploit": 850,
+    "pos": 10
+  },
+  {
+    "order": 83,
+    "floor": 9,
+    "cfgArmyId": 60603,
+    "rewardExploit": 900,
+    "pos": 3
+  },
+  {
+    "order": 82,
+    "floor": 9,
+    "cfgArmyId": 60602,
+    "rewardExploit": 900,
+    "pos": 2
+  },
+  {
+    "order": 93,
+    "floor": 10,
+    "cfgArmyId": 60703,
+    "rewardExploit": 1000,
+    "pos": 3
+  },
+  {
+    "order": 92,
+    "floor": 10,
+    "cfgArmyId": 60702,
+    "rewardExploit": 1000,
+    "pos": 2
+  },
+  {
+    "order": 95,
+    "floor": 10,
+    "cfgArmyId": 60705,
+    "rewardExploit": 1000,
+    "pos": 5
+  },
+  {
+    "order": 94,
+    "floor": 10,
+    "cfgArmyId": 60704,
+    "rewardExploit": 1000,
+    "pos": 4
+  },
+  {
+    "order": 89,
+    "floor": 9,
+    "cfgArmyId": 60609,
+    "rewardExploit": 900,
+    "pos": 9
+  },
+  {
+    "order": 88,
+    "floor": 9,
+    "cfgArmyId": 60608,
+    "rewardExploit": 900,
+    "pos": 8
+  },
+  {
+    "order": 91,
+    "floor": 10,
+    "cfgArmyId": 60701,
+    "rewardExploit": 1000,
+    "pos": 1
+  },
+  {
+    "order": 90,
+    "floor": 9,
+    "cfgArmyId": 60610,
+    "rewardExploit": 900,
+    "pos": 10
+  },
+  {
+    "order": 100,
+    "floor": 10,
+    "cfgArmyId": 60710,
+    "rewardExploit": 1000,
+    "pos": 10
+  },
+  {
+    "order": 98,
+    "floor": 10,
+    "cfgArmyId": 60708,
+    "rewardExploit": 1000,
+    "pos": 8
+  },
+  {
+    "order": 99,
+    "floor": 10,
+    "cfgArmyId": 60709,
+    "rewardExploit": 1000,
+    "pos": 9
+  },
+  {
+    "order": 96,
+    "floor": 10,
+    "cfgArmyId": 60706,
+    "rewardExploit": 1000,
+    "pos": 6
+  },
+  {
+    "order": 97,
+    "floor": 10,
+    "cfgArmyId": 60707,
+    "rewardExploit": 1000,
+    "pos": 7
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "recordId": 1,
+    "price": 40000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200011
+  },
+  {
+    "recordId": 2,
+    "price": 30000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200043
+  },
+  {
+    "recordId": 3,
+    "price": 36000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200065
+  },
+  {
+    "recordId": 4,
+    "price": 30000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200087
+  },
+  {
+    "recordId": 5,
+    "price": 36000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200109
+  },
+  {
+    "recordId": 6,
+    "price": 40000,
+    "cfgNpcId": 5,
+    "cfgItemId": 200283
+  },
+  {
+    "recordId": 7,
+    "price": 40000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200011
+  },
+  {
+    "recordId": 8,
+    "price": 30000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200043
+  },
+  {
+    "recordId": 9,
+    "price": 36000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200065
+  },
+  {
+    "recordId": 10,
+    "price": 30000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200087
+  },
+  {
+    "recordId": 11,
+    "price": 36000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200109
+  },
+  {
+    "recordId": 12,
+    "price": 40000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200283
+  },
+  {
+    "recordId": 13,
+    "price": 60000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200012
+  },
+  {
+    "recordId": 14,
+    "price": 45000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200044
+  },
+  {
+    "recordId": 15,
+    "price": 54000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200066
+  },
+  {
+    "recordId": 17,
+    "price": 54000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200110
+  },
+  {
+    "recordId": 16,
+    "price": 45000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200088
+  },
+  {
+    "recordId": 19,
+    "price": 60000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200012
+  },
+  {
+    "recordId": 18,
+    "price": 60000,
+    "cfgNpcId": 16,
+    "cfgItemId": 200284
+  },
+  {
+    "recordId": 21,
+    "price": 54000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200066
+  },
+  {
+    "recordId": 20,
+    "price": 45000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200044
+  },
+  {
+    "recordId": 23,
+    "price": 54000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200110
+  },
+  {
+    "recordId": 22,
+    "price": 45000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200088
+  },
+  {
+    "recordId": 25,
+    "price": 80000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200013
+  },
+  {
+    "recordId": 24,
+    "price": 60000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200284
+  },
+  {
+    "recordId": 27,
+    "price": 72000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200067
+  },
+  {
+    "recordId": 26,
+    "price": 60000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200045
+  },
+  {
+    "recordId": 29,
+    "price": 72000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200111
+  },
+  {
+    "recordId": 28,
+    "price": 60000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200089
+  },
+  {
+    "recordId": 31,
+    "price": 60000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200012
+  },
+  {
+    "recordId": 30,
+    "price": 80000,
+    "cfgNpcId": 20,
+    "cfgItemId": 200285
+  },
+  {
+    "recordId": 34,
+    "price": 45000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200088
+  },
+  {
+    "recordId": 35,
+    "price": 54000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200110
+  },
+  {
+    "recordId": 32,
+    "price": 45000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200044
+  },
+  {
+    "recordId": 33,
+    "price": 54000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200066
+  },
+  {
+    "recordId": 38,
+    "price": 45000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200045
+  },
+  {
+    "recordId": 39,
+    "price": 54000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200067
+  },
+  {
+    "recordId": 36,
+    "price": 60000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200284
+  },
+  {
+    "recordId": 37,
+    "price": 60000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200013
+  },
+  {
+    "recordId": 42,
+    "price": 60000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200285
+  },
+  {
+    "recordId": 43,
+    "price": 60000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200013
+  },
+  {
+    "recordId": 40,
+    "price": 45000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200089
+  },
+  {
+    "recordId": 41,
+    "price": 54000,
+    "cfgNpcId": 24,
+    "cfgItemId": 200111
+  },
+  {
+    "recordId": 46,
+    "price": 45000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200089
+  },
+  {
+    "recordId": 47,
+    "price": 54000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200111
+  },
+  {
+    "recordId": 44,
+    "price": 45000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200045
+  },
+  {
+    "recordId": 45,
+    "price": 54000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200067
+  },
+  {
+    "recordId": 51,
+    "price": 108000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200068
+  },
+  {
+    "recordId": 50,
+    "price": 90000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200046
+  },
+  {
+    "recordId": 49,
+    "price": 120000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200014
+  },
+  {
+    "recordId": 48,
+    "price": 60000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200285
+  },
+  {
+    "recordId": 55,
+    "price": 60000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200013
+  },
+  {
+    "recordId": 54,
+    "price": 120000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200286
+  },
+  {
+    "recordId": 53,
+    "price": 108000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200112
+  },
+  {
+    "recordId": 52,
+    "price": 90000,
+    "cfgNpcId": 28,
+    "cfgItemId": 200090
+  },
+  {
+    "recordId": 59,
+    "price": 54000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200111
+  },
+  {
+    "recordId": 58,
+    "price": 45000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200089
+  },
+  {
+    "recordId": 57,
+    "price": 54000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200067
+  },
+  {
+    "recordId": 56,
+    "price": 45000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200045
+  },
+  {
+    "recordId": 63,
+    "price": 108000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200068
+  },
+  {
+    "recordId": 62,
+    "price": 90000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200046
+  },
+  {
+    "recordId": 61,
+    "price": 120000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200014
+  },
+  {
+    "recordId": 60,
+    "price": 60000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200285
+  },
+  {
+    "recordId": 68,
+    "price": 90000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200046
+  },
+  {
+    "recordId": 69,
+    "price": 108000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200068
+  },
+  {
+    "recordId": 70,
+    "price": 90000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200090
+  },
+  {
+    "recordId": 71,
+    "price": 108000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200112
+  },
+  {
+    "recordId": 64,
+    "price": 90000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200090
+  },
+  {
+    "recordId": 65,
+    "price": 108000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200112
+  },
+  {
+    "recordId": 66,
+    "price": 120000,
+    "cfgNpcId": 32,
+    "cfgItemId": 200286
+  },
+  {
+    "recordId": 67,
+    "price": 120000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200014
+  },
+  {
+    "recordId": 76,
+    "price": 90000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 77,
+    "price": 108000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 78,
+    "price": 120000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 79,
+    "price": 120000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 72,
+    "price": 120000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200286
+  },
+  {
+    "recordId": 73,
+    "price": 120000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 74,
+    "price": 90000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 75,
+    "price": 108000,
+    "cfgNpcId": 36,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 85,
+    "price": 120000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 84,
+    "price": 120000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 87,
+    "price": 108000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 86,
+    "price": 90000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 81,
+    "price": 108000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 80,
+    "price": 90000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 83,
+    "price": 108000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 82,
+    "price": 90000,
+    "cfgNpcId": 40,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 93,
+    "price": 108000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 92,
+    "price": 90000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 95,
+    "price": 108000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 94,
+    "price": 90000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 89,
+    "price": 108000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 88,
+    "price": 90000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 91,
+    "price": 120000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 90,
+    "price": 120000,
+    "cfgNpcId": 45,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 102,
+    "price": 120000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 103,
+    "price": 120000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 100,
+    "price": 90000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 101,
+    "price": 108000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 98,
+    "price": 90000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 99,
+    "price": 108000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 96,
+    "price": 120000,
+    "cfgNpcId": 59,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 97,
+    "price": 120000,
+    "cfgNpcId": 96,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 110,
+    "price": 90000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 111,
+    "price": 108000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 108,
+    "price": 120000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 109,
+    "price": 120000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 106,
+    "price": 90000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 107,
+    "price": 108000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 104,
+    "price": 90000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 105,
+    "price": 108000,
+    "cfgNpcId": 100,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 119,
+    "price": 108000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 118,
+    "price": 90000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 117,
+    "price": 108000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200069
+  },
+  {
+    "recordId": 116,
+    "price": 90000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200047
+  },
+  {
+    "recordId": 115,
+    "price": 120000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200015
+  },
+  {
+    "recordId": 114,
+    "price": 120000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200287
+  },
+  {
+    "recordId": 113,
+    "price": 108000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200113
+  },
+  {
+    "recordId": 112,
+    "price": 90000,
+    "cfgNpcId": 104,
+    "cfgItemId": 200091
+  },
+  {
+    "recordId": 120,
+    "price": 120000,
+    "cfgNpcId": 108,
+    "cfgItemId": 200287
+  }
+]

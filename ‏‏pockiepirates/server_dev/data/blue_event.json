@@ -1,0 +1,317 @@
+[
+  {
+    "desc": "Find Poneglyphs in the Underground Palace of the Sand Island. Gain Fame*5.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 5,
+    "cfgEventId": 1
+  },
+  {
+    "desc": "Win the trust of the Sand Island's king. Gain Fame*6.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 6,
+    "cfgEventId": 2
+  },
+  {
+    "desc": "Helped the Sand Island achieve independence, embraced by people there. Gain Fame*7.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 7,
+    "cfgEventId": 3
+  },
+  {
+    "desc": "Win the heart of the princess of Amazon Lily. Gain Fame*5.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 5,
+    "cfgEventId": 4
+  },
+  {
+    "desc": "Have a date with the princess of Amazon Lily. Gain Fame*6.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 6,
+    "cfgEventId": 5
+  },
+  {
+    "desc": "Welcomed by all islanders of Amazon Lily. Gain Fame*7.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 7,
+    "cfgEventId": 6
+  },
+  {
+    "desc": "Help Skypiea dwellers to find the Golden Bell. Gain Fame*5.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 5,
+    "cfgEventId": 7
+  },
+  {
+    "desc": "Defeat the four priests in Skypiea. Gain Fame*6.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 6,
+    "cfgEventId": 8
+  },
+  {
+    "desc": "Free Skypiea dwellers from the thunder god. Gain Fame*7.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 7,
+    "cfgEventId": 9
+  },
+  {
+    "desc": "Arrive at Rainbow Island's Adventure Park. Gain #1 Fame.",
+    "param2": 3,
+    "eventType": 4,
+    "param1": 1,
+    "cfgEventId": 10
+  },
+  {
+    "desc": "Find a medicine that can heal every illness in Rainbow Island. Gain #1 Fame.",
+    "param2": 6,
+    "eventType": 4,
+    "param1": 3,
+    "cfgEventId": 11
+  },
+  {
+    "desc": "Defeat pirates group who's attacking the Rainbow Island. Gain #1 Fame.",
+    "param2": 9,
+    "eventType": 4,
+    "param1": 6,
+    "cfgEventId": 12
+  },
+  {
+    "desc": "Help to solve the Rock Island's civil war. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 13
+  },
+  {
+    "desc": "In Rock Island, tame rock beast successfully. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 14
+  },
+  {
+    "desc": "Find rare Devil Fruit in Rock Island. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 15
+  },
+  {
+    "desc": "Escaped from marine's pursue in Sabaody Archipelago. Gain Fame*6.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 6,
+    "cfgEventId": 17
+  },
+  {
+    "desc": "Meet Rayleigh in Sabaody Archipelago. Gain Fame*5.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 5,
+    "cfgEventId": 16
+  },
+  {
+    "desc": "Help Island of Women's dwellers defeat Celestial Dragons. Gain Fame*5.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 5,
+    "cfgEventId": 19
+  },
+  {
+    "desc": "Win the title of Supernova in the Grand Line. Gain Fame*7.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 7,
+    "cfgEventId": 18
+  },
+  {
+    "desc": "Get new high level crew in the Island of Women. Gain Fame*7.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 7,
+    "cfgEventId": 21
+  },
+  {
+    "desc": "Make friends with Sanji in the Island of Women. Gain Fame*6.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 6,
+    "cfgEventId": 20
+  },
+  {
+    "desc": "Fight side by side with the whitebeard pirates. Gain Fame*6.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 6,
+    "cfgEventId": 23
+  },
+  {
+    "desc": "Go to Judicial Island, prepare to save Ace. Gain Fame*5.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 5,
+    "cfgEventId": 22
+  },
+  {
+    "desc": "Enter the Ice Island's center. Gain #1 Fame.",
+    "param2": 5,
+    "eventType": 4,
+    "param1": 1,
+    "cfgEventId": 25
+  },
+  {
+    "desc": "Successfully stop the chase of the Marine Generals. Gain Fame*7.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 7,
+    "cfgEventId": 24
+  },
+  {
+    "desc": "Get new type weapon in the Ice Island. Gain #1 Fame.",
+    "param2": 15,
+    "eventType": 4,
+    "param1": 10,
+    "cfgEventId": 27
+  },
+  {
+    "desc": "Meet Franky in the Ice Island. Gain #1 Fame.",
+    "param2": 10,
+    "eventType": 4,
+    "param1": 5,
+    "cfgEventId": 26
+  },
+  {
+    "desc": "Find mysterious healing potion on the Wind Island. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 29
+  },
+  {
+    "desc": "Get one aircraft from the Wind Island's dwellers. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 28
+  },
+  {
+    "desc": "Defeat high bounty pirate in Jaya. Gain Fame*6.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 6,
+    "cfgEventId": 31
+  },
+  {
+    "desc": "Help Wind Island defeat sea kings. Gain extra Adventure*1.",
+    "param2": 0,
+    "eventType": 5,
+    "param1": 1,
+    "cfgEventId": 30
+  },
+  {
+    "desc": "Ally with giants on the Giants' Island. Gain Fame*6.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 6,
+    "cfgEventId": 34
+  },
+  {
+    "desc": "Free the giants from Celestial Dragons' rules. Gain Fame*7.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 7,
+    "cfgEventId": 35
+  },
+  {
+    "desc": "Meet new crew in Jaya's bar. Gain Fame*7.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 7,
+    "cfgEventId": 32
+  },
+  {
+    "desc": "Find hidden treasure in Jaya. Gain Fame*8.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 8,
+    "cfgEventId": 33
+  },
+  {
+    "desc": "Escape marine's chase on Long Island. Gain Fame*10.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 10,
+    "cfgEventId": 38
+  },
+  {
+    "desc": "Defeat Marine Vice Admiral on Long Island. Gain Fame*15.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 15,
+    "cfgEventId": 39
+  },
+  {
+    "desc": "Win the trust of giants leader. Gain Fame*8.",
+    "param2": 3,
+    "eventType": 2,
+    "param1": 8,
+    "cfgEventId": 36
+  },
+  {
+    "desc": "Defeat Lieutenant Junior Grade on Long Island. Gain Fame*5.",
+    "param2": 8,
+    "eventType": 3,
+    "param1": 5,
+    "cfgEventId": 37
+  },
+  {
+    "desc": "Protect Water 7 safely from hurricane. Gain #1 Fame.",
+    "param2": 15,
+    "eventType": 4,
+    "param1": 5,
+    "cfgEventId": 42
+  },
+  {
+    "desc": "Make friends with Chopper on Drum Island. Gain Fame*6.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 6,
+    "cfgEventId": 43
+  },
+  {
+    "desc": "Work with foremen of Water 7. Gain #1 Fame.",
+    "param2": 8,
+    "eventType": 4,
+    "param1": 5,
+    "cfgEventId": 40
+  },
+  {
+    "desc": "Get a new warship at Water 7. Gain #1 Fame.",
+    "param2": 10,
+    "eventType": 4,
+    "param1": 5,
+    "cfgEventId": 41
+  },
+  {
+    "desc": "Defeat Fishman Pirates on Drum Island. Gain Fame*7.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 7,
+    "cfgEventId": 44
+  },
+  {
+    "desc": "Find new navigation tools on Drum Island. Gain Fame*8.",
+    "param2": 0,
+    "eventType": 1,
+    "param1": 8,
+    "cfgEventId": 45
+  }
+]

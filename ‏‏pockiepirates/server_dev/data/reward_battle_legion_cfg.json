@@ -1,0 +1,130 @@
+[
+  {
+    "honorPoints": 10,
+    "rankPoint": 10,
+    "exploit": 12000,
+    "prestige": 5000,
+    "copper": 500000,
+    "rankId": 1
+  },
+  {
+    "honorPoints": 9,
+    "rankPoint": 9,
+    "exploit": 10000,
+    "prestige": 4000,
+    "copper": 300000,
+    "rankId": 2
+  },
+  {
+    "honorPoints": 8,
+    "rankPoint": 8,
+    "exploit": 8000,
+    "prestige": 3000,
+    "copper": 200000,
+    "rankId": 3
+  },
+  {
+    "honorPoints": 8,
+    "rankPoint": 8,
+    "exploit": 8000,
+    "prestige": 3000,
+    "copper": 200000,
+    "rankId": 4
+  },
+  {
+    "honorPoints": 6,
+    "rankPoint": 6,
+    "exploit": 5000,
+    "prestige": 2000,
+    "copper": 100000,
+    "rankId": 5
+  },
+  {
+    "honorPoints": 6,
+    "rankPoint": 6,
+    "exploit": 5000,
+    "prestige": 2000,
+    "copper": 100000,
+    "rankId": 6
+  },
+  {
+    "honorPoints": 6,
+    "rankPoint": 6,
+    "exploit": 5000,
+    "prestige": 2000,
+    "copper": 100000,
+    "rankId": 7
+  },
+  {
+    "honorPoints": 6,
+    "rankPoint": 6,
+    "exploit": 5000,
+    "prestige": 2000,
+    "copper": 100000,
+    "rankId": 8
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 9
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 10
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 11
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 12
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 13
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 14
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 15
+  },
+  {
+    "honorPoints": 3,
+    "rankPoint": 3,
+    "exploit": 3000,
+    "prestige": 1000,
+    "copper": 80000,
+    "rankId": 16
+  }
+]

@@ -1,0 +1,1478 @@
+<root>
+		<part id='soldier1001'>
+				<height>184</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+			        </part>
+                        <part id='soldier1002'>
+				<height>180</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>26</frame4>
+			</part>
+       <part id='soldier1003'>
+				<height>180</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+			        </part>
+                       <part id='soldier1004'>
+				<height>197</height>
+				<frame1>6</frame1>
+				<frame2>16</frame2>
+				<frame3>25</frame3>
+				<frame4>29</frame4>
+			        </part>
+ 						<part id='soldier1005'>
+				<height>200</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>26</frame4>
+			        </part>
+                        <part id='soldier1006'>
+				<height>170</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+				<frame3>24</frame3>
+				<frame4>28</frame4>
+			</part>
+        <part id='soldier1007'>
+				<height>110</height>
+				<frame1>8</frame1>
+				<frame2>16</frame2>
+				<frame3>21</frame3>
+				<frame4>25</frame4>
+			        </part>
+           <part id='soldier1008'>
+				<height>180</height>
+				<frame1>6</frame1>
+				<frame2>15</frame2>
+				<frame3>24</frame3>
+				<frame4>28</frame4>
+			        </part>
+                                  			        <part id='soldier10004'>
+				<height>145</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                        <part id='soldier10005'>
+				<height>140</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>17</frame4>
+			</part>
+                        <part id='soldier10006'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			</part>
+                        <part id='soldier10007'>
+				<height>168</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                        <part id='soldier10008'>
+				<height>158</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>18</frame4>
+			</part>
+                        <part id='soldier10009'>
+				<height>178</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                        <part id='soldier10010'>
+				<height>177</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			</part>
+                        <part id='soldier10011'>
+				<height>137</height>
+				<frame1>5</frame1>
+				<frame2>11</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			</part>
+                        <part id='soldier10012'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>17</frame4>
+			</part>
+				<part id='soldier10013'>
+				<height>165</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                        <part id='soldier10014'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                        <part id='soldier10015'>
+				<height>143</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                        <part id='soldier10016'>
+				<height>160</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			</part>
+                        <part id='soldier10017'>
+				<height>189</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>17</frame3>
+				<frame4>18</frame4>
+			</part>
+			
+                        <part id='soldier10018'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                        <part id='soldier10019'>
+				<height>158</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                                <part id='soldier10020'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>15</frame2>
+				<frame3>26</frame3>
+				<frame4>27</frame4>
+			</part>
+                                <part id='soldier10021'>
+				<height>142</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			</part>
+                                <part id='soldier10022'>
+				<height>146</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+				<frame3>26</frame3>
+				<frame4>27</frame4>
+			</part>
+                                <part id='soldier10023'>
+				<height>179</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                                <part id='soldier10024'>
+				<height>145</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>24</frame3>
+				<frame4>25</frame4>
+			</part>
+                                <part id='soldier10025'>
+				<height>154</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                                <part id='soldier10026'>
+				<height>90</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                                <part id='soldier10027'>
+				<height>174</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>17</frame3>
+				<frame4>18</frame4>
+			</part>
+                                <part id='soldier10028'>
+				<height>161</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			</part>
+                                <part id='soldier10029'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			</part>
+                                <part id='soldier10030'>
+				<height>149</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			</part>
+                                <part id='soldier10031'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                                <part id='soldier10032'>
+				<height>160</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+                                <part id='soldier10033'>
+				<height>162</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			</part>
+                                <part id='soldier10034'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			</part>
+                                <part id='soldier10035'>
+				<height>171</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+				<frame3>23</frame3>
+				<frame4>24</frame4>
+			</part>
+                                <part id='soldier10036'>
+				<height>144</height>
+				<frame1>6</frame1>
+				<frame2>16</frame2>
+				<frame3>24</frame3>
+				<frame4>25</frame4>
+			</part>
+                                <part id='soldier10037'>
+				<height>151</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			</part>
+			 		        <part id='soldier10038'>
+				<height>172</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>22</frame3>
+				<frame4>26</frame4>
+			</part>    
+                        <part id='soldier10039'>
+				<height>164</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>25</frame4>
+			</part>
+                        <part id='soldier10040'>
+				<height>166</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			</part>
+                        <part id='soldier10041'>
+				<height>148</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+			</part>
+                        <part id='soldier10042'>
+				<height>142</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+                        </part>
+                        <part id='soldier10043'>
+				<height>142</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>20</frame4>
+</part>
+                        <part id='soldier10044'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10045'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+</part>
+                        <part id='soldier10046'>
+				<height>156</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10047'>
+				<height>151</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+</part>
+                        <part id='soldier10048'>
+				<height>149</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+</part>
+                        <part id='soldier10049'>
+				<height>165</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+</part>
+                        <part id='soldier10050'>
+				<height>179</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+</part>
+                        <part id='soldier10051'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10052'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+</part>
+                        <part id='soldier10053'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+</part>
+                        <part id='soldier10054'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10055'>
+				<height>157</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10056'>
+				<height>163</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+</part>
+                        <part id='soldier10057'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>25</frame4>
+</part>
+                        <part id='soldier10058'>
+				<height>140</height>
+				<frame1>8</frame1>
+				<frame2>16</frame2>
+				<frame3>24</frame3>
+				<frame4>28</frame4>
+</part>
+                        <part id='soldier10059'>
+				<height>147</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10060'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+</part>
+                        <part id='soldier10061'>
+				<height>154</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10062'>
+				<height>153</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+</part>
+                        <part id='soldier10063'>
+				<height>159</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>20</frame4>
+</part>
+<part id='soldier10064'>
+				<height>164</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+				<frame3>27</frame3>
+				<frame4>28</frame4>
+			        </part>
+<part id='soldier10065'>
+				<height>157</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>25</frame4>
+			        </part>
+<part id='soldier10066'>
+				<height>241</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10067'>
+				<height>172</height>
+				<frame1>6</frame1>
+				<frame2>15</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10068'>
+				<height>162</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+			        </part>
+<part id='soldier10069'>
+				<height>183</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10070'>
+				<height>148</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10071'>
+				<height>171</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10073'>
+				<height>159</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10074'>
+				<height>170</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>24</frame3>
+				<frame4>25</frame4>
+			        </part>
+<part id='soldier10075'>
+				<height>161</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10076'>
+				<height>164</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10077'>
+				<height>187</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10078'>
+				<height>164</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10080'>
+				<height>162</height>
+				<frame1>5</frame1>
+				<frame2>11</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10083'>
+				<height>155</height>
+				<frame1>6</frame1>
+				<frame2>15</frame2>
+				<frame3>27</frame3>
+				<frame4>28</frame4>
+			        </part>
+<part id='soldier10084'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>17</frame4>
+			        </part>
+<part id='soldier10087'>
+				<height>159</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+				<frame3>26</frame3>
+				<frame4>27</frame4>
+			        </part>
+<part id='soldier10088'>
+				<height>179</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>16</frame3>
+				<frame4>17</frame4>
+			        </part>
+<part id='soldier10089'>
+				<height>166</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10090'>
+				<height>162</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10091'>
+				<height>214</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>17</frame4>
+			        </part>
+<part id='soldier10092'>
+				<height>192</height>
+				<frame1>6</frame1>
+				<frame2>15</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10097'>
+				<height>182</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10098'>
+				<height>162</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10099'>
+				<height>156</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10100'>
+				<height>177</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10101'>
+				<height>184</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+				<frame3>25</frame3>
+				<frame4>26</frame4>
+			        </part>
+<part id='soldier10102'>
+				<height>169</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10103'>
+				<height>162</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10104'>
+				<height>182</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10105'>
+				<height>174</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10107'>
+				<height>178</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10108'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10109'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10110'>
+				<height>173</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10111'>
+				<height>173</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10112'>
+				<height>209</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10113'>
+				<height>189</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10116'>
+				<height>177</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10120'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10121'>
+				<height>170</height>
+				<frame1>11</frame1>
+				<frame2>18</frame2>
+				<frame3>24</frame3>
+				<frame4>25</frame4>
+			        </part>
+<part id='soldier10122'>
+				<height>201</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10123'>
+				<height>187</height>
+				<frame1>12</frame1>
+				<frame2>18</frame2>
+				<frame3>29</frame3>
+				<frame4>30</frame4>
+			        </part>
+<part id='soldier10124'>
+				<height>185</height>
+				<frame1>12</frame1>
+				<frame2>17</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10125'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10126'>
+				<height>200</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10127'>
+				<height>200</height>
+				<frame1>7</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10128'>
+				<height>188</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>19</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10129'>
+				<height>135</height>
+				<frame1>6</frame1>
+				<frame2>17</frame2>
+			        </part>
+<part id='soldier10130'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+			        </part>
+<part id='soldier10131'>
+				<height>80</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+			        </part>
+<part id='soldier10132'>
+				<height>100</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+			        </part>
+<part id='soldier10133'>
+				<height>171</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10134'>
+				<height>179</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+			        </part>
+<part id='soldier10135'>
+				<height>187</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>16</frame3>
+				<frame4>20</frame4>
+			        </part>
+<part id='soldier10136'>
+				<height>187</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10137'>
+				<height>193</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>23</frame3>
+				<frame4>24</frame4>
+			        </part>
+<part id='soldier10138'>
+				<height>177</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+				<frame3>21</frame3>
+				<frame4>22</frame4>
+			        </part>
+<part id='soldier10139'>
+				<height>152</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>18</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10140'>
+				<height>220</height>
+				<frame1>6</frame1>
+				<frame2>18</frame2>
+				<frame3>33</frame3>
+				<frame4>34</frame4>
+			        </part>
+<part id='soldier10142'>
+				<height>130</height>
+				<frame1>9</frame1>
+				     </part>
+<part id='soldier10143'>
+				<height>191</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10144'>
+				<height>205</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>21</frame3>
+				<frame4>25</frame4>
+			        </part>
+<part id='soldier10145'>
+				<height>190</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>15</frame3>
+				<frame4>19</frame4>
+			        </part>
+<part id='soldier10146'>
+				<height>185</height>
+				<frame1>6</frame1>
+				<frame2>12</frame2>
+				<frame3>22</frame3>
+				<frame4>26</frame4>
+			        </part>
+<part id='soldier10147'>
+				<height>176</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10148'>
+				<height>182</height>
+				<frame1>6</frame1>
+				<frame2>11</frame2>
+				<frame3>17</frame3>
+				<frame4>21</frame4>
+			        </part>
+<part id='soldier10151'>
+				<height>150</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+					</part>
+<part id='soldier10152'>
+				<height>80</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+					</part>
+					<part id='soldier10153'>
+				<height>234</height>
+				<frame1>12</frame1>
+				<frame2>25</frame2>
+				<frame3>42</frame3>
+				<frame4>47</frame4>
+			        </part>
+<part id='soldier10154'>
+				<height>219</height>
+				<frame1>12</frame1>
+				<frame2>23</frame2>
+				<frame3>53</frame3>
+				<frame4>58</frame4>
+			        </part>
+<part id='soldier10155'>
+				<height>285</height>
+				<frame1>12</frame1>
+				<frame2>21</frame2>
+				<frame3>35</frame3>
+				<frame4>40</frame4>
+			        </part>
+<part id='soldier10156'>
+				<height>195</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>19</frame3>
+				<frame4>23</frame4>
+			        </part>
+<part id='soldier10157'>
+				<height>228</height>
+				<frame1>12</frame1>
+				<frame2>25</frame2>
+				<frame3>49</frame3>
+				<frame4>54</frame4>
+			        </part>
+<part id='soldier10158'>
+				<height>224</height>
+				<frame1>12</frame1>
+				<frame2>23</frame2>
+				<frame3>45</frame3>
+				<frame4>50</frame4>
+			        </part>
+<part id='soldier10159'>
+				<height>203</height>
+				<frame1>12</frame1>
+				<frame2>28</frame2>
+				<frame3>52</frame3>
+				<frame4>57</frame4>
+			        </part>
+<part id='soldier10160'>
+				<height>260</height>
+				<frame1>12</frame1>
+				<frame2>22</frame2>
+				<frame3>49</frame3>
+				<frame4>54</frame4>
+			        </part>
+<part id='soldier10161'>
+				<height>208</height>
+				<frame1>12</frame1>
+				<frame2>22</frame2>
+				<frame3>58</frame3>
+				<frame4>63</frame4>
+			        </part>
+<part id='soldier10162'>
+				<height>195</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>24</frame4>
+			        </part>
+<part id='soldier10163'>
+				<height>192</height>
+				<frame1>12</frame1>
+				<frame2>21</frame2>
+				<frame3>69</frame3>
+				<frame4>74</frame4>
+			        </part>
+<part id='soldier10164'>
+				<height>230</height>
+				<frame1>12</frame1>
+				<frame2>23</frame2>
+				<frame3>49</frame3>
+				<frame4>54</frame4>
+			        </part>
+<part id='soldier10165'>
+				<height>107</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+			        </part>
+<part id='soldier10166'>
+				<height>100</height>
+				<frame1>6</frame1>
+				<frame2>10</frame2>
+			        </part>
+<part id='soldier10167'>
+				<height>140</height>
+				<frame1>12</frame1>
+				<frame2>23</frame2>
+				<frame3>54</frame3>
+				<frame4>59</frame4>
+			        </part>
+<part id='soldier10168'>
+				<height>190</height>
+				<frame1>12</frame1>
+				<frame2>24</frame2>
+				<frame3>93</frame3>
+				<frame4>98</frame4>
+			        </part>
+<part id='soldier10169'>
+				<height>223</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+				<frame3>23</frame3>
+				<frame4>27</frame4>
+			        </part>
+<part id='soldier10170'>
+				<height>170</height>
+				<frame1>12</frame1>
+				<frame2>27</frame2>
+				<frame3>47</frame3>
+				<frame4>52</frame4>
+				<frame5>69</frame5>
+			        </part>
+<part id='soldier101702'>
+				<height>170</height>
+				<frame1>12</frame1>
+				<frame2>30</frame2>
+				<frame3>82</frame3>
+				<frame4>87</frame4>
+			        </part>
+<part id='soldier101703'>
+				<height>170</height>
+				<frame1>12</frame1>
+				<frame2>30</frame2>
+				<frame3>89</frame3>
+				<frame4>94</frame4>
+			        </part>
+<part id='soldier10176'>
+				<height>108</height>
+				<frame1>6</frame1>
+				<frame2>10</frame2>
+			        </part>
+<part id='soldier10177'>
+				<height>104</height>
+				<frame1>6</frame1>
+				<frame2>14</frame2>
+			        </part>
+					<part id='soldier40002'>
+				<height>100</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>17</frame3>
+				<frame4>22</frame4>
+				<frame5>31</frame5>
+			        </part>
+<part id='soldier40003'>
+				<height>124</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>25</frame4>
+				<frame5>30</frame5>
+			        </part>
+<part id='soldier40004'>
+				<height>100</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>18</frame3>
+				<frame4>23</frame4>
+				<frame5>31</frame5>
+			        </part>
+<part id='soldier40005'>
+				<height>100</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>17</frame3>
+				<frame4>22</frame4>
+				<frame5>31</frame5>
+			        </part>
+<part id='soldier40006'>
+				<height>124</height>
+				<frame1>6</frame1>
+				<frame2>13</frame2>
+				<frame3>20</frame3>
+				<frame4>25</frame4>
+				<frame5>30</frame5>
+			        </part>
+					
+			
+			<part id='small11001'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small10003'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>3</frame2>
+			</part>
+                        <part id='small10002'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20001'>
+				<height>27</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small10005'>
+				<height>47</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                <part id='small20039'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                <part id='small13003'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small13009'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13010'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small10010'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small11009'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small12008'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13004'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13005'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13006'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13007'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small13008'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small11007'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small11008'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small12009'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small12010'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small10008'>
+				<height>57</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small10009'>
+				<height>46</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small11002'>
+				<height>49</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small11003'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                <part id='small11004'>
+				<height>46</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small11005'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small11006'>
+				<height>41</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small12004'>
+				<height>44</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small12003'>
+				<height>46</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small12005'>
+				<height>44</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small12006'>
+				<height>44</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small12007'>
+				<height>50</height>
+				<frame1>1</frame1>
+				<frame2>6</frame2>
+			</part>
+                <part id='small20011'>
+				<height>27</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                <part id='small20013'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                <part id='small20041'>
+				<height>42</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small20014'>
+				<height>36</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small10035'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small10020'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20005'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20006'>
+				<height>38</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20008'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small20030'>
+				<height>41</height>
+				<frame1>1</frame1>
+				<frame2>3</frame2>
+			</part>
+                        <part id='small20004'>
+				<height>42</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small13001'>
+				<height>42</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20003'>
+				<height>37</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small10007'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20012'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small1004'>
+				<height>41</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small1001'>
+				<height>42</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small1002'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>3</frame2>
+			</part>
+                        <part id='small1005'>
+				<height>38</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small1003'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small1006'>
+				<height>38</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20002'>
+				<height>42</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20007'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>3</frame2>
+			</part>
+                        <part id='small20015'>
+				<height>51</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small12001'>
+				<height>41</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small12002'>
+				<height>41</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small20021'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small10006'>
+				<height>40</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20033'>
+				<height>52</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small20023'>
+				<height>38</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small13002'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small10004'>
+				<height>43</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+                        <part id='small20009'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>5</frame2>
+			</part>
+                        <part id='small20010'>
+				<height>45</height>
+				<frame1>1</frame1>
+				<frame2>4</frame2>
+			</part>
+		</root>

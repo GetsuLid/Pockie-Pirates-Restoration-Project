@@ -1,0 +1,26 @@
+<root>
+    <version>12072101</version>
+    <configVersion>12072101</configVersion>
+    <WalkScene>12072101</WalkScene>
+    <LandPanel>12072101</LandPanel>
+    <CreatRolePanel>12072101</CreatRolePanel>
+    <MapPanel>12072101</MapPanel>
+    <SelectCountryPanel>12072101</SelectCountryPanel>
+    <BattleField>12072101</BattleField>
+    <GuozhanField>12072101</GuozhanField>
+    <WarScene>12072101</WarScene>
+    <Leitai>12072101</Leitai>
+    <GameMainUIContainer>12072101</GameMainUIContainer>
+    <GameMainUIPanel>12072101</GameMainUIPanel>
+    <GameTopUIContainer>12072101</GameTopUIContainer>
+    <SeaPanel>12072101</SeaPanel>
+    <CampaginPanel>12072101</CampaginPanel>
+    <TeamWarField>12072101</TeamWarField>
+    <MoviePanel>12072101</MoviePanel>
+    <SeaPanel>12072101</SeaPanel>
+    <TavernField>12072101</TavernField>
+    <CgPanel>12072101</CgPanel>
+    <UnderSeaPanel>12072101</UnderSeaPanel>
+    <contendField>12072101</contendField>  
+    <FruitField>12072101</FruitField> 
+</root>

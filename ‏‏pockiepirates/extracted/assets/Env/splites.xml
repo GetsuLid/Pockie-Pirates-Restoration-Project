@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Files>
+<SplitFile Path="conf/onepiece.dll" cnt="4"></SplitFile>
+<SplitFile Path="data.tpd" cnt="56"></SplitFile>
+</Files>

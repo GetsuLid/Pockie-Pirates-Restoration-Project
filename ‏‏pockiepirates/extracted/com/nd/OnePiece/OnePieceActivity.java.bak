@@ -1,0 +1,33 @@
+package com.nd.OnePiece;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+import com.TQFramework.*;
+
+public class OnePieceActivity extends TQFrameworkActivity {
+    /** Called when the activity is first created. */
+	private  String sAssetsRes="OnePiece";
+	private  String sDestResPath="/sdcard/OnePiece";
+	private static  String sLibName="OnePiece";
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+       // if (!CheckNewVersion(sAssetsRes,sDestResPath,"http://192.168.213.228/update/NDChannelId.xml"))
+        {
+        	if(!ExtractRes(sAssetsRes,sDestResPath))
+           {
+        		//目录下必须有TqUpdate.ver文件		   
+		    	NDLoginAdapter.sharedInstance().Use91Sdk(this);
+		    	//进入游戏
+		    	EnterGame( sDestResPath);
+        	}
+        }
+	    
+    }
+    
+	static {
+        System.loadLibrary(sLibName);
+    }
+}

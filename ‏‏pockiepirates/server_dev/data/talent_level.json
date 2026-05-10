@@ -1,0 +1,1202 @@
+[
+  {
+    "recordId": 1,
+    "costValue": 10000,
+    "cfgTalentId": 1,
+    "requireLevel": 0,
+    "level": 1,
+    "requireTalent": 0
+  },
+  {
+    "recordId": 2,
+    "costValue": 15000,
+    "cfgTalentId": 1,
+    "requireLevel": 1,
+    "level": 2,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 3,
+    "costValue": 25000,
+    "cfgTalentId": 1,
+    "requireLevel": 2,
+    "level": 3,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 4,
+    "costValue": 40000,
+    "cfgTalentId": 1,
+    "requireLevel": 3,
+    "level": 4,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 5,
+    "costValue": 65000,
+    "cfgTalentId": 1,
+    "requireLevel": 4,
+    "level": 5,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 6,
+    "costValue": 105000,
+    "cfgTalentId": 1,
+    "requireLevel": 5,
+    "level": 6,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 7,
+    "costValue": 170000,
+    "cfgTalentId": 1,
+    "requireLevel": 6,
+    "level": 7,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 8,
+    "costValue": 275000,
+    "cfgTalentId": 1,
+    "requireLevel": 7,
+    "level": 8,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 9,
+    "costValue": 445000,
+    "cfgTalentId": 1,
+    "requireLevel": 8,
+    "level": 9,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 10,
+    "costValue": 720000,
+    "cfgTalentId": 1,
+    "requireLevel": 9,
+    "level": 10,
+    "requireTalent": 6
+  },
+  {
+    "recordId": 11,
+    "costValue": 10000,
+    "cfgTalentId": 2,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 12,
+    "costValue": 15000,
+    "cfgTalentId": 2,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 13,
+    "costValue": 25000,
+    "cfgTalentId": 2,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 14,
+    "costValue": 40000,
+    "cfgTalentId": 2,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 15,
+    "costValue": 65000,
+    "cfgTalentId": 2,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 17,
+    "costValue": 170000,
+    "cfgTalentId": 2,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 16,
+    "costValue": 105000,
+    "cfgTalentId": 2,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 19,
+    "costValue": 445000,
+    "cfgTalentId": 2,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 18,
+    "costValue": 275000,
+    "cfgTalentId": 2,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 21,
+    "costValue": 10000,
+    "cfgTalentId": 3,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 20,
+    "costValue": 720000,
+    "cfgTalentId": 2,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 1
+  },
+  {
+    "recordId": 23,
+    "costValue": 25000,
+    "cfgTalentId": 3,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 22,
+    "costValue": 15000,
+    "cfgTalentId": 3,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 25,
+    "costValue": 65000,
+    "cfgTalentId": 3,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 24,
+    "costValue": 40000,
+    "cfgTalentId": 3,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 27,
+    "costValue": 170000,
+    "cfgTalentId": 3,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 26,
+    "costValue": 105000,
+    "cfgTalentId": 3,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 29,
+    "costValue": 445000,
+    "cfgTalentId": 3,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 28,
+    "costValue": 275000,
+    "cfgTalentId": 3,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 31,
+    "costValue": 10000,
+    "cfgTalentId": 4,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 30,
+    "costValue": 720000,
+    "cfgTalentId": 3,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 2
+  },
+  {
+    "recordId": 34,
+    "costValue": 40000,
+    "cfgTalentId": 4,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 35,
+    "costValue": 65000,
+    "cfgTalentId": 4,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 32,
+    "costValue": 15000,
+    "cfgTalentId": 4,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 33,
+    "costValue": 25000,
+    "cfgTalentId": 4,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 38,
+    "costValue": 275000,
+    "cfgTalentId": 4,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 39,
+    "costValue": 445000,
+    "cfgTalentId": 4,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 36,
+    "costValue": 105000,
+    "cfgTalentId": 4,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 37,
+    "costValue": 170000,
+    "cfgTalentId": 4,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 42,
+    "costValue": 15000,
+    "cfgTalentId": 5,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 43,
+    "costValue": 25000,
+    "cfgTalentId": 5,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 40,
+    "costValue": 720000,
+    "cfgTalentId": 4,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 3
+  },
+  {
+    "recordId": 41,
+    "costValue": 10000,
+    "cfgTalentId": 5,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 46,
+    "costValue": 105000,
+    "cfgTalentId": 5,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 47,
+    "costValue": 170000,
+    "cfgTalentId": 5,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 44,
+    "costValue": 40000,
+    "cfgTalentId": 5,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 45,
+    "costValue": 65000,
+    "cfgTalentId": 5,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 51,
+    "costValue": 10000,
+    "cfgTalentId": 6,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 50,
+    "costValue": 720000,
+    "cfgTalentId": 5,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 49,
+    "costValue": 445000,
+    "cfgTalentId": 5,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 48,
+    "costValue": 275000,
+    "cfgTalentId": 5,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 4
+  },
+  {
+    "recordId": 55,
+    "costValue": 65000,
+    "cfgTalentId": 6,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 54,
+    "costValue": 40000,
+    "cfgTalentId": 6,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 53,
+    "costValue": 25000,
+    "cfgTalentId": 6,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 52,
+    "costValue": 15000,
+    "cfgTalentId": 6,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 59,
+    "costValue": 445000,
+    "cfgTalentId": 6,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 58,
+    "costValue": 275000,
+    "cfgTalentId": 6,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 57,
+    "costValue": 170000,
+    "cfgTalentId": 6,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 56,
+    "costValue": 105000,
+    "cfgTalentId": 6,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 63,
+    "costValue": 375000,
+    "cfgTalentId": 7,
+    "requireLevel": 2,
+    "level": 3,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 62,
+    "costValue": 250000,
+    "cfgTalentId": 7,
+    "requireLevel": 1,
+    "level": 2,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 61,
+    "costValue": 125000,
+    "cfgTalentId": 7,
+    "requireLevel": 0,
+    "level": 1,
+    "requireTalent": 0
+  },
+  {
+    "recordId": 60,
+    "costValue": 720000,
+    "cfgTalentId": 6,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 5
+  },
+  {
+    "recordId": 68,
+    "costValue": 1000000,
+    "cfgTalentId": 7,
+    "requireLevel": 7,
+    "level": 8,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 69,
+    "costValue": 1125000,
+    "cfgTalentId": 7,
+    "requireLevel": 8,
+    "level": 9,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 70,
+    "costValue": 1250000,
+    "cfgTalentId": 7,
+    "requireLevel": 9,
+    "level": 10,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 71,
+    "costValue": 125000,
+    "cfgTalentId": 8,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 64,
+    "costValue": 500000,
+    "cfgTalentId": 7,
+    "requireLevel": 3,
+    "level": 4,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 65,
+    "costValue": 625000,
+    "cfgTalentId": 7,
+    "requireLevel": 4,
+    "level": 5,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 66,
+    "costValue": 750000,
+    "cfgTalentId": 7,
+    "requireLevel": 5,
+    "level": 6,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 67,
+    "costValue": 875000,
+    "cfgTalentId": 7,
+    "requireLevel": 6,
+    "level": 7,
+    "requireTalent": 11
+  },
+  {
+    "recordId": 76,
+    "costValue": 750000,
+    "cfgTalentId": 8,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 77,
+    "costValue": 875000,
+    "cfgTalentId": 8,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 78,
+    "costValue": 1000000,
+    "cfgTalentId": 8,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 79,
+    "costValue": 1125000,
+    "cfgTalentId": 8,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 72,
+    "costValue": 250000,
+    "cfgTalentId": 8,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 73,
+    "costValue": 375000,
+    "cfgTalentId": 8,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 74,
+    "costValue": 500000,
+    "cfgTalentId": 8,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 75,
+    "costValue": 625000,
+    "cfgTalentId": 8,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 85,
+    "costValue": 625000,
+    "cfgTalentId": 9,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 84,
+    "costValue": 500000,
+    "cfgTalentId": 9,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 87,
+    "costValue": 875000,
+    "cfgTalentId": 9,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 86,
+    "costValue": 750000,
+    "cfgTalentId": 9,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 81,
+    "costValue": 125000,
+    "cfgTalentId": 9,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 80,
+    "costValue": 1250000,
+    "cfgTalentId": 8,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 7
+  },
+  {
+    "recordId": 83,
+    "costValue": 375000,
+    "cfgTalentId": 9,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 82,
+    "costValue": 250000,
+    "cfgTalentId": 9,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 93,
+    "costValue": 375000,
+    "cfgTalentId": 10,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 92,
+    "costValue": 250000,
+    "cfgTalentId": 10,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 95,
+    "costValue": 625000,
+    "cfgTalentId": 10,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 94,
+    "costValue": 500000,
+    "cfgTalentId": 10,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 89,
+    "costValue": 1125000,
+    "cfgTalentId": 9,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 88,
+    "costValue": 1000000,
+    "cfgTalentId": 9,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 91,
+    "costValue": 125000,
+    "cfgTalentId": 10,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 90,
+    "costValue": 1250000,
+    "cfgTalentId": 9,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 8
+  },
+  {
+    "recordId": 102,
+    "costValue": 250000,
+    "cfgTalentId": 11,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 103,
+    "costValue": 375000,
+    "cfgTalentId": 11,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 100,
+    "costValue": 1250000,
+    "cfgTalentId": 10,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 101,
+    "costValue": 125000,
+    "cfgTalentId": 11,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 98,
+    "costValue": 1000000,
+    "cfgTalentId": 10,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 99,
+    "costValue": 1125000,
+    "cfgTalentId": 10,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 96,
+    "costValue": 750000,
+    "cfgTalentId": 10,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 97,
+    "costValue": 875000,
+    "cfgTalentId": 10,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 9
+  },
+  {
+    "recordId": 110,
+    "costValue": 1250000,
+    "cfgTalentId": 11,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 111,
+    "costValue": 80000,
+    "cfgTalentId": 12,
+    "requireLevel": 0,
+    "level": 1,
+    "requireTalent": 0
+  },
+  {
+    "recordId": 108,
+    "costValue": 1000000,
+    "cfgTalentId": 11,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 109,
+    "costValue": 1125000,
+    "cfgTalentId": 11,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 106,
+    "costValue": 750000,
+    "cfgTalentId": 11,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 107,
+    "costValue": 875000,
+    "cfgTalentId": 11,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 104,
+    "costValue": 500000,
+    "cfgTalentId": 11,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 105,
+    "costValue": 625000,
+    "cfgTalentId": 11,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 10
+  },
+  {
+    "recordId": 119,
+    "costValue": 720000,
+    "cfgTalentId": 12,
+    "requireLevel": 8,
+    "level": 9,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 118,
+    "costValue": 640000,
+    "cfgTalentId": 12,
+    "requireLevel": 7,
+    "level": 8,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 117,
+    "costValue": 560000,
+    "cfgTalentId": 12,
+    "requireLevel": 6,
+    "level": 7,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 116,
+    "costValue": 480000,
+    "cfgTalentId": 12,
+    "requireLevel": 5,
+    "level": 6,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 115,
+    "costValue": 400000,
+    "cfgTalentId": 12,
+    "requireLevel": 4,
+    "level": 5,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 114,
+    "costValue": 320000,
+    "cfgTalentId": 12,
+    "requireLevel": 3,
+    "level": 4,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 113,
+    "costValue": 240000,
+    "cfgTalentId": 12,
+    "requireLevel": 2,
+    "level": 3,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 112,
+    "costValue": 160000,
+    "cfgTalentId": 12,
+    "requireLevel": 1,
+    "level": 2,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 127,
+    "costValue": 560000,
+    "cfgTalentId": 13,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 126,
+    "costValue": 480000,
+    "cfgTalentId": 13,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 125,
+    "costValue": 400000,
+    "cfgTalentId": 13,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 124,
+    "costValue": 320000,
+    "cfgTalentId": 13,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 123,
+    "costValue": 240000,
+    "cfgTalentId": 13,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 122,
+    "costValue": 160000,
+    "cfgTalentId": 13,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 121,
+    "costValue": 80000,
+    "cfgTalentId": 13,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 120,
+    "costValue": 800000,
+    "cfgTalentId": 12,
+    "requireLevel": 9,
+    "level": 10,
+    "requireTalent": 15
+  },
+  {
+    "recordId": 137,
+    "costValue": 560000,
+    "cfgTalentId": 14,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 136,
+    "costValue": 480000,
+    "cfgTalentId": 14,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 139,
+    "costValue": 720000,
+    "cfgTalentId": 14,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 138,
+    "costValue": 640000,
+    "cfgTalentId": 14,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 141,
+    "costValue": 80000,
+    "cfgTalentId": 15,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 140,
+    "costValue": 800000,
+    "cfgTalentId": 14,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 143,
+    "costValue": 240000,
+    "cfgTalentId": 15,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 142,
+    "costValue": 160000,
+    "cfgTalentId": 15,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 129,
+    "costValue": 720000,
+    "cfgTalentId": 13,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 128,
+    "costValue": 640000,
+    "cfgTalentId": 13,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 131,
+    "costValue": 80000,
+    "cfgTalentId": 14,
+    "requireLevel": 1,
+    "level": 1,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 130,
+    "costValue": 800000,
+    "cfgTalentId": 13,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 12
+  },
+  {
+    "recordId": 133,
+    "costValue": 240000,
+    "cfgTalentId": 14,
+    "requireLevel": 3,
+    "level": 3,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 132,
+    "costValue": 160000,
+    "cfgTalentId": 14,
+    "requireLevel": 2,
+    "level": 2,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 135,
+    "costValue": 400000,
+    "cfgTalentId": 14,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 134,
+    "costValue": 320000,
+    "cfgTalentId": 14,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 13
+  },
+  {
+    "recordId": 144,
+    "costValue": 320000,
+    "cfgTalentId": 15,
+    "requireLevel": 4,
+    "level": 4,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 145,
+    "costValue": 400000,
+    "cfgTalentId": 15,
+    "requireLevel": 5,
+    "level": 5,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 146,
+    "costValue": 480000,
+    "cfgTalentId": 15,
+    "requireLevel": 6,
+    "level": 6,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 147,
+    "costValue": 560000,
+    "cfgTalentId": 15,
+    "requireLevel": 7,
+    "level": 7,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 148,
+    "costValue": 640000,
+    "cfgTalentId": 15,
+    "requireLevel": 8,
+    "level": 8,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 149,
+    "costValue": 720000,
+    "cfgTalentId": 15,
+    "requireLevel": 9,
+    "level": 9,
+    "requireTalent": 14
+  },
+  {
+    "recordId": 150,
+    "costValue": 800000,
+    "cfgTalentId": 15,
+    "requireLevel": 10,
+    "level": 10,
+    "requireTalent": 14
+  }
+]

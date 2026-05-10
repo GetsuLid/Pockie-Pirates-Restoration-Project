@@ -1,0 +1,7002 @@
+[
+  {
+    "rewardExploit": 5000,
+    "arenaRankId": 1,
+    "rewardItem": 300075,
+    "itemAmount": 3,
+    "rewardCopper": 2000000
+  },
+  {
+    "rewardExploit": 5000,
+    "arenaRankId": 2,
+    "rewardItem": 300075,
+    "itemAmount": 2,
+    "rewardCopper": 1500000
+  },
+  {
+    "rewardExploit": 5000,
+    "arenaRankId": 3,
+    "rewardItem": 300075,
+    "itemAmount": 1,
+    "rewardCopper": 1200000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 4,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 5,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 6,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 7,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 8,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 9,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 10,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 900000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 11,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 12,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 13,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 14,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 15,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 17,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 16,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 19,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 18,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 21,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 20,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 23,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 22,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 25,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 24,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 27,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 26,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 29,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 28,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 31,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 4000,
+    "arenaRankId": 30,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 750000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 34,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 35,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 32,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 33,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 38,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 39,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 36,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 37,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 42,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 43,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 40,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 41,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 46,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 47,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 44,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 45,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 51,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 50,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 49,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 48,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 600000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 55,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 54,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 53,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 52,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 59,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 58,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 57,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 56,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 63,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 62,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 61,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 60,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 68,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 69,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 70,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 71,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 64,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 65,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 66,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 67,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 450000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 76,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 77,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 78,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 79,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 72,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 73,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 74,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 75,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 85,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 84,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 87,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 86,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 81,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 80,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 83,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 82,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 93,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 92,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 95,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 94,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 89,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 88,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 91,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 90,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 102,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 103,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 100,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 101,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 98,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 99,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 96,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 3000,
+    "arenaRankId": 97,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 300000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 110,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 111,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 108,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 109,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 106,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 107,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 104,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 105,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 119,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 118,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 117,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 116,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 115,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 114,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 113,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 112,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 127,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 126,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 125,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 124,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 123,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 122,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 121,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 120,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 137,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 136,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 139,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 138,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 141,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 140,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 143,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 142,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 129,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 128,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 131,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 130,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 133,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 132,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 135,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 134,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 152,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 153,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 154,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 155,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 156,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 157,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 158,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 159,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 144,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 145,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 146,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 147,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 148,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 149,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 150,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 151,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 171,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 170,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 169,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 168,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 175,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 174,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 173,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 172,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 163,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 162,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 161,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 160,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 167,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 166,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 165,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 164,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 186,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 187,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 184,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 185,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 190,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 191,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 188,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 189,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 178,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 179,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 176,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 177,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 182,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 183,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 180,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 181,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 205,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 204,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 207,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 206,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 201,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 200,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 203,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 202,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 197,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 196,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 199,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 198,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 193,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 192,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 195,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 2000,
+    "arenaRankId": 194,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 100000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 220,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 221,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 222,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 223,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 216,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 217,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 218,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 219,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 212,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 213,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 214,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 215,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 208,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 209,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 210,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 211,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 239,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 238,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 237,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 236,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 235,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 234,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 233,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 232,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 231,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 230,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 229,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 228,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 227,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 226,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 225,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 224,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 254,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 255,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 252,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 253,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 250,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 251,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 248,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 249,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 246,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 247,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 244,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 245,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 242,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 243,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 240,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 241,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 275,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 274,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 273,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 272,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 279,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 278,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 277,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 276,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 283,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 282,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 281,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 280,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 287,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 286,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 285,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 284,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 258,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 259,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 256,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 257,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 262,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 263,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 260,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 261,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 266,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 267,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 264,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 265,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 270,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 271,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 268,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 269,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 305,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 304,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 307,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 306,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 309,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 308,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 311,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 310,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 313,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 312,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 315,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 314,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 317,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 316,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 319,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 318,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 288,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 289,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 290,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 291,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 292,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 293,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 294,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 295,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 296,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 297,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 298,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 299,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 300,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 301,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 302,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 303,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 343,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 342,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 341,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 340,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 339,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 338,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 337,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 336,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 351,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 350,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 349,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 348,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 347,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 346,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 345,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 344,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 326,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 327,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 324,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 325,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 322,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 323,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 320,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 321,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 334,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 335,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 332,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 333,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 330,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 331,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 328,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 329,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 373,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 372,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 375,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 374,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 369,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 368,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 371,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 370,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 381,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 380,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 383,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 382,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 377,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 376,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 379,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 378,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 356,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 357,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 358,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 359,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 352,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 353,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 354,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 355,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 364,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 365,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 366,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 367,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 360,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 361,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 362,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 363,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 410,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 411,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 408,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 409,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 414,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 415,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 412,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 413,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 402,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 403,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 400,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 401,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 406,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 407,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 404,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 405,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 395,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 394,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 393,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 392,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 399,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 398,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 397,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 396,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 387,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 386,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 385,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 384,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 391,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 390,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 389,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 388,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 440,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 441,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 442,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 443,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 444,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 445,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 446,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 447,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 432,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 433,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 434,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 435,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 436,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 437,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 438,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 439,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 425,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 424,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 427,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 426,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 429,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 428,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 431,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 430,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 417,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 416,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 419,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 418,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 421,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 420,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 423,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 422,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 478,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 479,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 476,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 477,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 474,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 475,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 472,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 473,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 470,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 471,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 468,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 469,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 466,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 467,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 464,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 465,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 463,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 462,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 461,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 460,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 459,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 458,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 457,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 456,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 455,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 454,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 453,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 452,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 451,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 450,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 449,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 448,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 508,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 509,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 510,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 511,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 504,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 505,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 506,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 507,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 500,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 501,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 502,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 503,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 496,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 497,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 498,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 499,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 493,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 492,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 495,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 494,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 489,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 488,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 491,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 490,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 485,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 484,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 487,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 486,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 481,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 480,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 483,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 482,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 550,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 551,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 548,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 549,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 546,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 547,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 544,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 545,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 558,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 559,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 556,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 557,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 554,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 555,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 552,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 553,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 567,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 566,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 565,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 564,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 563,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 562,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 561,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 560,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 575,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 574,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 573,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 572,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 571,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 570,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 569,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 568,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 516,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 517,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 518,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 519,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 512,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 513,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 514,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 515,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 524,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 525,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 526,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 527,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 520,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 521,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 522,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 523,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 533,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 532,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 535,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 534,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 529,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 528,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 531,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 530,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 541,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 540,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 543,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 542,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 537,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 536,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 539,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 538,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 610,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 611,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 608,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 609,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 614,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 615,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 612,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 613,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 618,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 619,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 616,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 617,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 622,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 623,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 620,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 621,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 627,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 626,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 625,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 624,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 631,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 630,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 629,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 628,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 635,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 634,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 633,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 632,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 639,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 638,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 637,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 636,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 576,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 577,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 578,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 579,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 580,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 581,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 582,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 583,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 584,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 585,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 586,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 587,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 588,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 589,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 590,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 591,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 593,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 592,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 595,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 594,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 597,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 596,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 599,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 598,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 601,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 600,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 603,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 602,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 605,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 604,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 607,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 606,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 687,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 686,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 685,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 684,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 683,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 682,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 681,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 680,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 679,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 678,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 677,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 676,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 675,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 674,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 673,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 672,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 702,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 703,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 700,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 701,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 698,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 699,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 696,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 697,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 694,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 695,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 692,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 693,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 690,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 691,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 688,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 689,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 653,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 652,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 655,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 654,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 649,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 648,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 651,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 650,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 645,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 644,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 647,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 646,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 641,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 640,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 643,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 642,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 668,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 669,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 670,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 671,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 664,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 665,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 666,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 667,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 660,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 661,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 662,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 663,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 656,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 657,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 658,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 659,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 747,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 746,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 745,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 744,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 751,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 750,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 749,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 748,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 739,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 738,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 737,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 736,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 743,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 742,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 741,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 740,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 762,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 763,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 760,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 761,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 766,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 767,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 764,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 765,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 754,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 755,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 752,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 753,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 758,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 759,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 756,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 757,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 713,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 712,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 715,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 714,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 717,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 716,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 719,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 718,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 705,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 704,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 707,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 706,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 709,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 708,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 711,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 710,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 728,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 729,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 730,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 731,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 732,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 733,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 734,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 735,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 720,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 721,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 722,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 723,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 724,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 725,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 726,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 727,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 821,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 820,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 823,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 822,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 817,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 816,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 819,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 818,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 829,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 828,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 831,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 830,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 825,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 824,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 827,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 826,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 804,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 805,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 806,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 807,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 800,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 801,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 802,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 803,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 812,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 813,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 814,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 815,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 808,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 809,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 810,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 811,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 791,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 790,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 789,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 788,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 787,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 786,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 785,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 784,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 799,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 798,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 797,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 796,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 795,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 794,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 793,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 792,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 774,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 775,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 772,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 773,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 770,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 771,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 768,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 769,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 782,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 783,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 780,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 781,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 778,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 779,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 776,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 777,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 881,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 880,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 883,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 882,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 885,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 884,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 887,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 886,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 889,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 888,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 891,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 890,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 893,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 892,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 895,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 894,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 864,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 865,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 866,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 867,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 868,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 869,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 870,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 871,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 872,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 873,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 874,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 875,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 876,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 877,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 878,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 879,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 851,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 850,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 849,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 848,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 855,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 854,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 853,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 852,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 859,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 858,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 857,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 856,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 863,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 862,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 861,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 860,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 834,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 835,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 832,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 833,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 838,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 839,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 836,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 837,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 842,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 843,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 840,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 841,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 846,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 847,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 844,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 845,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 956,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 957,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 958,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 959,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 952,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 953,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 954,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 955,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 948,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 949,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 950,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 951,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 944,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 945,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 946,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 947,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 941,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 940,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 943,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 942,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 937,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 936,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 939,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 938,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 933,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 932,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 935,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 934,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 929,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 928,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 931,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 930,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 926,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 927,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 924,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 925,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 922,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 923,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 920,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 921,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 918,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 919,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 916,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 917,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 914,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 915,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 912,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 913,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 911,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 910,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 909,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 908,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 907,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 906,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 905,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 904,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 903,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 902,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 901,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 900,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 899,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 898,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 897,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 896,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 1000,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 993,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 992,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 995,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 994,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 997,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 996,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 999,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 998,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 986,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 987,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 984,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 985,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 990,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 991,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 988,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 989,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 978,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 979,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 976,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 977,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 982,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 983,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 980,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 981,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 971,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 970,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 969,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 968,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 975,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 974,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 973,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 972,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 963,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 962,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 961,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 960,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 967,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 966,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 965,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  },
+  {
+    "rewardExploit": 1000,
+    "arenaRankId": 964,
+    "rewardItem": 0,
+    "itemAmount": 0,
+    "rewardCopper": 20000
+  }
+]

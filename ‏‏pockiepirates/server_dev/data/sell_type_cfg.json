@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weapon",
+    "sellType": 1
+  },
+  {
+    "name": "Cloth",
+    "sellType": 2
+  },
+  {
+    "name": "Shoes",
+    "sellType": 3
+  },
+  {
+    "name": "Cloak",
+    "sellType": 4
+  },
+  {
+    "name": "Hat",
+    "sellType": 5
+  },
+  {
+    "name": "Magic Item",
+    "sellType": 6
+  },
+  {
+    "name": "0",
+    "sellType": 7
+  },
+  {
+    "name": "0",
+    "sellType": 8
+  },
+  {
+    "name": "0",
+    "sellType": 9
+  },
+  {
+    "name": "Specialty",
+    "sellType": 10
+  },
+  {
+    "name": "Medicine",
+    "sellType": 11
+  },
+  {
+    "name": "Groceries",
+    "sellType": 12
+  },
+  {
+    "name": "Gear",
+    "sellType": 13
+  },
+  {
+    "name": "Gem",
+    "sellType": 14
+  },
+  {
+    "name": "Treasure",
+    "sellType": 15
+  }
+]

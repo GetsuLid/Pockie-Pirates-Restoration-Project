@@ -1,0 +1,422 @@
+[
+  {
+    "baseNumber": 20,
+    "cfgProductId": 700053,
+    "requireTradeLevel": 100,
+    "cfgPortId": 1025,
+    "baseBuyPrice": 3120
+  },
+  {
+    "baseNumber": 30,
+    "cfgProductId": 700052,
+    "requireTradeLevel": 90,
+    "cfgPortId": 1010,
+    "baseBuyPrice": 2048
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700055,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1020,
+    "baseBuyPrice": 365
+  },
+  {
+    "baseNumber": 20,
+    "cfgProductId": 700054,
+    "requireTradeLevel": 100,
+    "cfgPortId": 1023,
+    "baseBuyPrice": 3148
+  },
+  {
+    "baseNumber": 100,
+    "cfgProductId": 700049,
+    "requireTradeLevel": 20,
+    "cfgPortId": 1014,
+    "baseBuyPrice": 502
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700048,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1022,
+    "baseBuyPrice": 350
+  },
+  {
+    "baseNumber": 30,
+    "cfgProductId": 700051,
+    "requireTradeLevel": 90,
+    "cfgPortId": 1018,
+    "baseBuyPrice": 1996
+  },
+  {
+    "baseNumber": 60,
+    "cfgProductId": 700050,
+    "requireTradeLevel": 60,
+    "cfgPortId": 1025,
+    "baseBuyPrice": 898
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700060,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1014,
+    "baseBuyPrice": 305
+  },
+  {
+    "baseNumber": 40,
+    "cfgProductId": 700057,
+    "requireTradeLevel": 80,
+    "cfgPortId": 1021,
+    "baseBuyPrice": 1568
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700056,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1021,
+    "baseBuyPrice": 359
+  },
+  {
+    "baseNumber": 80,
+    "cfgProductId": 700059,
+    "requireTradeLevel": 40,
+    "cfgPortId": 1001,
+    "baseBuyPrice": 636
+  },
+  {
+    "baseNumber": 30,
+    "cfgProductId": 700058,
+    "requireTradeLevel": 90,
+    "cfgPortId": 1007,
+    "baseBuyPrice": 1830
+  },
+  {
+    "baseNumber": 50,
+    "cfgProductId": 700036,
+    "requireTradeLevel": 70,
+    "cfgPortId": 1027,
+    "baseBuyPrice": 1058
+  },
+  {
+    "baseNumber": 100,
+    "cfgProductId": 700037,
+    "requireTradeLevel": 20,
+    "cfgPortId": 1013,
+    "baseBuyPrice": 479
+  },
+  {
+    "baseNumber": 50,
+    "cfgProductId": 700038,
+    "requireTradeLevel": 70,
+    "cfgPortId": 1024,
+    "baseBuyPrice": 1062
+  },
+  {
+    "baseNumber": 90,
+    "cfgProductId": 700039,
+    "requireTradeLevel": 30,
+    "cfgPortId": 1006,
+    "baseBuyPrice": 531
+  },
+  {
+    "baseNumber": 60,
+    "cfgProductId": 700032,
+    "requireTradeLevel": 60,
+    "cfgPortId": 1016,
+    "baseBuyPrice": 914
+  },
+  {
+    "baseNumber": 80,
+    "cfgProductId": 700033,
+    "requireTradeLevel": 40,
+    "cfgPortId": 1018,
+    "baseBuyPrice": 638
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700034,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1015,
+    "baseBuyPrice": 356
+  },
+  {
+    "baseNumber": 50,
+    "cfgProductId": 700035,
+    "requireTradeLevel": 70,
+    "cfgPortId": 1020,
+    "baseBuyPrice": 1105
+  },
+  {
+    "baseNumber": 20,
+    "cfgProductId": 700044,
+    "requireTradeLevel": 100,
+    "cfgPortId": 1018,
+    "baseBuyPrice": 3126
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700045,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1001,
+    "baseBuyPrice": 337
+  },
+  {
+    "baseNumber": 80,
+    "cfgProductId": 700046,
+    "requireTradeLevel": 40,
+    "cfgPortId": 1002,
+    "baseBuyPrice": 636
+  },
+  {
+    "baseNumber": 60,
+    "cfgProductId": 700047,
+    "requireTradeLevel": 60,
+    "cfgPortId": 1021,
+    "baseBuyPrice": 906
+  },
+  {
+    "baseNumber": 70,
+    "cfgProductId": 700040,
+    "requireTradeLevel": 50,
+    "cfgPortId": 1019,
+    "baseBuyPrice": 718
+  },
+  {
+    "baseNumber": 70,
+    "cfgProductId": 700041,
+    "requireTradeLevel": 50,
+    "cfgPortId": 1013,
+    "baseBuyPrice": 716
+  },
+  {
+    "baseNumber": 40,
+    "cfgProductId": 700042,
+    "requireTradeLevel": 80,
+    "cfgPortId": 1025,
+    "baseBuyPrice": 1520
+  },
+  {
+    "baseNumber": 40,
+    "cfgProductId": 700043,
+    "requireTradeLevel": 80,
+    "cfgPortId": 1023,
+    "baseBuyPrice": 1480
+  },
+  {
+    "baseNumber": 110,
+    "cfgProductId": 700026,
+    "requireTradeLevel": 10,
+    "cfgPortId": 1005,
+    "baseBuyPrice": 412
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700027,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1025,
+    "baseBuyPrice": 358
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700024,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1024,
+    "baseBuyPrice": 335
+  },
+  {
+    "baseNumber": 100,
+    "cfgProductId": 700025,
+    "requireTradeLevel": 20,
+    "cfgPortId": 1007,
+    "baseBuyPrice": 461
+  },
+  {
+    "baseNumber": 90,
+    "cfgProductId": 700030,
+    "requireTradeLevel": 30,
+    "cfgPortId": 1003,
+    "baseBuyPrice": 550
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700031,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1018,
+    "baseBuyPrice": 307
+  },
+  {
+    "baseNumber": 90,
+    "cfgProductId": 700028,
+    "requireTradeLevel": 30,
+    "cfgPortId": 1004,
+    "baseBuyPrice": 563
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700029,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1027,
+    "baseBuyPrice": 356
+  },
+  {
+    "baseNumber": 90,
+    "cfgProductId": 700018,
+    "requireTradeLevel": 30,
+    "cfgPortId": 1009,
+    "baseBuyPrice": 546
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700019,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1019,
+    "baseBuyPrice": 314
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700016,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1016,
+    "baseBuyPrice": 308
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700017,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1017,
+    "baseBuyPrice": 315
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700022,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1026,
+    "baseBuyPrice": 332
+  },
+  {
+    "baseNumber": 70,
+    "cfgProductId": 700023,
+    "requireTradeLevel": 50,
+    "cfgPortId": 1010,
+    "baseBuyPrice": 760
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700020,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1010,
+    "baseBuyPrice": 302
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700021,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1012,
+    "baseBuyPrice": 367
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700011,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1011,
+    "baseBuyPrice": 340
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700010,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1007,
+    "baseBuyPrice": 298
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700009,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1006,
+    "baseBuyPrice": 323
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700008,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1008,
+    "baseBuyPrice": 360
+  },
+  {
+    "baseNumber": 100,
+    "cfgProductId": 700015,
+    "requireTradeLevel": 20,
+    "cfgPortId": 1011,
+    "baseBuyPrice": 462
+  },
+  {
+    "baseNumber": 110,
+    "cfgProductId": 700014,
+    "requireTradeLevel": 10,
+    "cfgPortId": 1010,
+    "baseBuyPrice": 378
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700013,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1013,
+    "baseBuyPrice": 368
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700012,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1009,
+    "baseBuyPrice": 302
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700003,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1003,
+    "baseBuyPrice": 360
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700002,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1002,
+    "baseBuyPrice": 348
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700001,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1023,
+    "baseBuyPrice": 316
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700007,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1005,
+    "baseBuyPrice": 367
+  },
+  {
+    "baseNumber": 110,
+    "cfgProductId": 700006,
+    "requireTradeLevel": 10,
+    "cfgPortId": 1001,
+    "baseBuyPrice": 406
+  },
+  {
+    "baseNumber": 110,
+    "cfgProductId": 700005,
+    "requireTradeLevel": 10,
+    "cfgPortId": 1002,
+    "baseBuyPrice": 406
+  },
+  {
+    "baseNumber": 120,
+    "cfgProductId": 700004,
+    "requireTradeLevel": 1,
+    "cfgPortId": 1004,
+    "baseBuyPrice": 311
+  }
+]

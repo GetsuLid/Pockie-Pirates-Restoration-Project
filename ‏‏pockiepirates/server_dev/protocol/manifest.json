@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "discovered_at": "2026-05-08",
+  "source_swf": "onepiece/main.swf",
+  "server_endpoint_in_client": "http://115.236.38.146:8080/",
+  "protocol": {
+    "wire_format": "AMF3 over BlazeDS",
+    "transport": "HTTP POST application/x-amf",
+    "common_endpoint_path": "/messagebroker/amf"
+  },
+  "destinations": [
+    "loginService",
+    "roleService",
+    "worldService",
+    "sceneService",
+    "battleService",
+    "generalService",
+    "itemService",
+    "taskService",
+    "mailService",
+    "chatService",
+    "friendAction",
+    "legionService",
+    "auctionService",
+    "rankService",
+    "matchService",
+    "voyageService",
+    "manorService",
+    "campService",
+    "activityService",
+    "dailyAction",
+    "farmAction",
+    "dealAction",
+    "fateService",
+    "skyladderService",
+    "stableAction",
+    "createService"
+  ],
+  "methods": {
+    "arena": [
+      "getArenaRank",
+      "getArenaRankRewards"
+    ],
+    "army": [
+      "getArmyMessage"
+    ],
+    "battle": [
+      "enterQuarryBattle",
+      "getEmbattle",
+      "getUpgrateEmbattle",
+      "getWarConfig",
+      "getWarReward",
+      "setReward",
+      "setRewardInfo",
+      "setTeamwarShow",
+      "getOfferReward"
+    ],
+    "item": [
+      "getItem",
+      "getItemConfig",
+      "getItemCount",
+      "createItem",
+      "buyOrSell"
+    ],
+    "role": [
+      "createRole",
+      "setRolePosition",
+      "getRoleRank"
+    ],
+    "skill": [
+      "getSkill",
+      "getSkillList"
+    ],
+    "scene": [
+      "getSceneInfo",
+      "getSceneImageInfo",
+      "getScenePoint",
+      "setTargetScene",
+      "enterSercetScene",
+      "leaveSercetScene",
+      "enterStepId"
+    ],
+    "npc": [
+      "getNpc",
+      "setTargetNPCId",
+      "setTargetNPCChange"
+    ],
+    "port": [
+      "getPort",
+      "getPortExtend",
+      "leavePort",
+      "getShipProductAmount"
+    ],
+    "legion": [
+      "getBelongLegion",
+      "getLegionBattleRank",
+      "getLegionWarReward"
+    ],
+    "currency": [
+      "setExp",
+      "levelExp",
+      "levelUpNeedExp",
+      "setGold",
+      "getGoldPresent",
+      "setVipLevel"
+    ],
+    "forge": [
+      "getForgeData"
+    ],
+    "campaign": [
+      "getCampaginConfig"
+    ]
+  },
+  "game_data_tables": 58,
+  "game_data_records": 19122,
+  "note_for_future_claude": "\n        This protocol map was extracted from main.swf ABC bytecode in May 2026.\n        Decompiled SWFs live in pockiepirates/, original server at 115.236.38.146:8080.\n        The skeleton in skeleton/server.py implements ~17 of the methods above; the rest\n        return empty acknowledgments and log to logs/unhandled_*.txt.\n        Next step: when the user sends transcript logs, parse them to identify\n        unhandled (destination, operation) pairs and add handlers using the JSON tables\n        in data/.\n    "
+}

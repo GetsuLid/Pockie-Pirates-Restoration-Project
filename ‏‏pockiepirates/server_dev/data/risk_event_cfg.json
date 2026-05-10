@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Big Sale",
+    "cfgEventId": 1,
+    "cancel": true,
+    "tip": "The sea merchants over there are selling some useful shop items at a great bargain. Go and have a look there?",
+    "exp": 36,
+    "eventType": 4,
+    "ratio": 0.3
+  },
+  {
+    "name": "Seek Treasure Chest",
+    "cfgEventId": 2,
+    "cancel": false,
+    "tip": "Mystical relics encountered! Go explore it and you may get unexpected treasures! Set off now!",
+    "exp": 36,
+    "eventType": 4,
+    "ratio": 0.6
+  },
+  {
+    "name": "Underwater Treasure",
+    "cfgEventId": 3,
+    "cancel": false,
+    "tip": "Seems like the mystery treasure chests contain fantastic treasures. Open it now!",
+    "exp": 36,
+    "eventType": 4,
+    "ratio": 0.9
+  },
+  {
+    "name": "Treasure Pointer",
+    "cfgEventId": 4,
+    "cancel": false,
+    "tip": "Captain, the treasure pointer moved! As long as we can find the place in the map, we may get rich!",
+    "exp": 36,
+    "eventType": 4,
+    "ratio": 1
+  },
+  {
+    "name": "Teleport",
+    "cfgEventId": 5,
+    "cancel": false,
+    "tip": "Captain, we've entered a mystery teleport array! Where will we be teleported to this time?",
+    "exp": 42,
+    "eventType": 3,
+    "ratio": 1
+  },
+  {
+    "name": "Divine",
+    "cfgEventId": 6,
+    "cancel": false,
+    "tip": "We run into a mystical stargazer. If we are lucky, we can get extra action times, but if not… Captain, shall we have a try?",
+    "exp": 30,
+    "eventType": 2,
+    "ratio": 0.25
+  },
+  {
+    "name": "Feast",
+    "cfgEventId": 7,
+    "cancel": false,
+    "tip": "Crews caught tons of seafoods and had a feast. Now the HP is restored by 30%!",
+    "exp": 30,
+    "eventType": 2,
+    "ratio": 0.38
+  },
+  {
+    "name": "Sea God's Magic",
+    "cfgEventId": 8,
+    "cancel": false,
+    "tip": "Captain! We're enchanted by Sea God. What will be ahead of us? ",
+    "exp": 30,
+    "eventType": 2,
+    "ratio": 0.63
+  },
+  {
+    "name": "EXP Bonus",
+    "cfgEventId": 9,
+    "cancel": false,
+    "tip": "Captain, we are now in the foggy zone. Perhaps we can get double EXP!",
+    "exp": 30,
+    "eventType": 2,
+    "ratio": 0.88
+  },
+  {
+    "name": "Tsunami",
+    "cfgEventId": 10,
+    "cancel": false,
+    "tip": "The warship is severely damaged by the tsunami. HP is reduced by 30%!",
+    "exp": 30,
+    "eventType": 2,
+    "ratio": 1
+  },
+  {
+    "name": "Pirates' Trap",
+    "cfgEventId": 11,
+    "cancel": false,
+    "tip": "Captain! We fell into pirates' trap. We shall beat them first!",
+    "exp": 48,
+    "eventType": 1,
+    "ratio": 0.45
+  },
+  {
+    "name": "Marine Attack",
+    "cfgEventId": 12,
+    "cancel": false,
+    "tip": "Captain, we're attacked by the marine headquarter fleet. It's said that they are very powerful. Better escape now!",
+    "exp": 48,
+    "eventType": 1,
+    "ratio": 0.55
+  },
+  {
+    "name": "Marine Patrol",
+    "cfgEventId": 13,
+    "cancel": false,
+    "tip": "Captain, we've met the patrolling marines. Seems like they are coming for no good. We've prepared for the battle!",
+    "exp": 48,
+    "eventType": 1,
+    "ratio": 1
+  },
+  {
+    "name": "Detection",
+    "cfgEventId": 14,
+    "cancel": false,
+    "tip": "Captain, it's a nice day! We can see everything around us very clearly!",
+    "exp": 42,
+    "eventType": 5,
+    "ratio": 1
+  },
+  {
+    "name": "Treasure Map",
+    "cfgEventId": 15,
+    "cancel": false,
+    "tip": "Captain! We find a treasure map! Now we can go to dig the treasure at sea!",
+    "exp": 36,
+    "eventType": 6,
+    "ratio": 1
+  }
+]

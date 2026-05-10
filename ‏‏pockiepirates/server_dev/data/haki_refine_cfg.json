@@ -1,0 +1,72 @@
+[
+  {
+    "refindRatio": 0.2,
+    "refineAdd": 9,
+    "cfgItemId": 120009,
+    "replaceGold": 30,
+    "costCopper": 90000
+  },
+  {
+    "refindRatio": 0.3,
+    "refineAdd": 8,
+    "cfgItemId": 120008,
+    "replaceGold": 30,
+    "costCopper": 80000
+  },
+  {
+    "refindRatio": 0.1,
+    "refineAdd": 10,
+    "cfgItemId": 120010,
+    "replaceGold": 30,
+    "costCopper": 100000
+  },
+  {
+    "refindRatio": 1,
+    "refineAdd": 1,
+    "cfgItemId": 120001,
+    "replaceGold": 10,
+    "costCopper": 10000
+  },
+  {
+    "refindRatio": 0.8,
+    "refineAdd": 3,
+    "cfgItemId": 120003,
+    "replaceGold": 20,
+    "costCopper": 30000
+  },
+  {
+    "refindRatio": 0.9,
+    "refineAdd": 2,
+    "cfgItemId": 120002,
+    "replaceGold": 15,
+    "costCopper": 20000
+  },
+  {
+    "refindRatio": 0.6,
+    "refineAdd": 5,
+    "cfgItemId": 120005,
+    "replaceGold": 30,
+    "costCopper": 50000
+  },
+  {
+    "refindRatio": 0.7,
+    "refineAdd": 4,
+    "cfgItemId": 120004,
+    "replaceGold": 25,
+    "costCopper": 40000
+  },
+  {
+    "refindRatio": 0.4,
+    "refineAdd": 7,
+    "cfgItemId": 120007,
+    "replaceGold": 30,
+    "costCopper": 70000
+  },
+  {
+    "refindRatio": 0.5,
+    "refineAdd": 6,
+    "cfgItemId": 120006,
+    "replaceGold": 30,
+    "costCopper": 60000
+  }
+]

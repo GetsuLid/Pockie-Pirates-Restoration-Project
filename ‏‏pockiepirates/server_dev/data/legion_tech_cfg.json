@@ -1,0 +1,82 @@
+[
+  {
+    "recordId": 1,
+    "name": "Territory Expansion",
+    "effectLevel": 1,
+    "effectBase": 30,
+    "desc": "Raise pirate group level and the crew number cap.",
+    "contributeBase": 50000,
+    "contributeLevel": 100000,
+    "requireLevel": 0
+  },
+  {
+    "recordId": 2,
+    "name": "Revenue Contribution",
+    "effectLevel": 0.002,
+    "effectBase": 0.102,
+    "desc": "Contribute extra silver from taxation to pirate group for territory expansion.",
+    "contributeBase": 10000,
+    "contributeLevel": 30000,
+    "requireLevel": 1
+  },
+  {
+    "recordId": 3,
+    "name": "Revenue Increase",
+    "effectLevel": 0.002,
+    "effectBase": 0,
+    "desc": "Increase silver income from taxation.",
+    "contributeBase": 15000,
+    "contributeLevel": 40000,
+    "requireLevel": 5
+  },
+  {
+    "recordId": 4,
+    "name": "Golden Voyage",
+    "effectLevel": 0.002,
+    "effectBase": 0,
+    "desc": "Increase regular income of merchant fleet.",
+    "contributeBase": 20000,
+    "contributeLevel": 50000,
+    "requireLevel": 15
+  },
+  {
+    "recordId": 5,
+    "name": "Trade Contribution",
+    "effectLevel": 0.002,
+    "effectBase": 0.102,
+    "desc": "There's a certain odds of generating extra regular income to contribute to pirate group for Gold Voyage construction when merchant fleet is open for trade.",
+    "contributeBase": 20000,
+    "contributeLevel": 50000,
+    "requireLevel": 15
+  },
+  {
+    "recordId": 6,
+    "name": "Fishing Technology",
+    "effectLevel": 0.002,
+    "effectBase": 0,
+    "desc": "Yield more silver from fishing.",
+    "contributeBase": 15000,
+    "contributeLevel": 40000,
+    "requireLevel": 30
+  },
+  {
+    "recordId": 7,
+    "name": "Construction Speedup",
+    "effectLevel": 0.01,
+    "effectBase": 0,
+    "desc": "Increase the amount of contributed silver for pirate group construction.",
+    "contributeBase": 30000,
+    "contributeLevel": 60000,
+    "requireLevel": 50
+  },
+  {
+    "recordId": 8,
+    "name": "Prestige Upgrade",
+    "effectLevel": 0.003,
+    "effectBase": 0,
+    "desc": "Obtain more Prestige in the battle.",
+    "contributeBase": 40000,
+    "contributeLevel": 80000,
+    "requireLevel": 60
+  }
+]

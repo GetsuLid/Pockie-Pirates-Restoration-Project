@@ -1,0 +1,272 @@
+[
+  {
+    "coe": 2,
+    "portName": "Marineford",
+    "cfgPortId": 1016,
+    "portX": 59,
+    "lordId": 1016,
+    "requireVoyageLevel": 28,
+    "scale": 3,
+    "portY": 54
+  },
+  {
+    "coe": 1,
+    "portName": "Thriller Bark",
+    "cfgPortId": 1017,
+    "portX": 44,
+    "lordId": 1017,
+    "requireVoyageLevel": 28,
+    "scale": 1,
+    "portY": 68
+  },
+  {
+    "coe": 3,
+    "portName": "Sabaody",
+    "cfgPortId": 1018,
+    "portX": 28,
+    "lordId": 1018,
+    "requireVoyageLevel": 38,
+    "scale": 4,
+    "portY": 55
+  },
+  {
+    "coe": 1.5,
+    "portName": "Amazon Lily",
+    "cfgPortId": 1019,
+    "portX": 8,
+    "lordId": 1019,
+    "requireVoyageLevel": 38,
+    "scale": 2,
+    "portY": 52
+  },
+  {
+    "coe": 1.5,
+    "portName": "Fishman Island",
+    "cfgPortId": 1020,
+    "portX": 38,
+    "lordId": 1020,
+    "requireVoyageLevel": 38,
+    "scale": 2,
+    "portY": 38
+  },
+  {
+    "coe": 2,
+    "portName": "Holy Land Mariejois",
+    "cfgPortId": 1021,
+    "portX": 20,
+    "lordId": 1021,
+    "requireVoyageLevel": 38,
+    "scale": 3,
+    "portY": 44
+  },
+  {
+    "coe": 1.5,
+    "portName": "Punk Hazard",
+    "cfgPortId": 1022,
+    "portX": 5,
+    "lordId": 1022,
+    "requireVoyageLevel": 38,
+    "scale": 2,
+    "portY": 28
+  },
+  {
+    "coe": 2,
+    "portName": "Torino Kingdom",
+    "cfgPortId": 1023,
+    "portX": 35,
+    "lordId": 1023,
+    "requireVoyageLevel": 38,
+    "scale": 3,
+    "portY": 28
+  },
+  {
+    "coe": 1,
+    "portName": "Little Garden",
+    "cfgPortId": 1008,
+    "portX": 55,
+    "lordId": 1008,
+    "requireVoyageLevel": 28,
+    "scale": 1,
+    "portY": 45
+  },
+  {
+    "coe": 1,
+    "portName": "Rain Island",
+    "cfgPortId": 1024,
+    "portX": 19,
+    "lordId": 1024,
+    "requireVoyageLevel": 38,
+    "scale": 1,
+    "portY": 20
+  },
+  {
+    "coe": 1.5,
+    "portName": "Drum Island",
+    "cfgPortId": 1009,
+    "portX": 64,
+    "lordId": 1009,
+    "requireVoyageLevel": 28,
+    "scale": 2,
+    "portY": 34
+  },
+  {
+    "coe": 3,
+    "portName": "Thunder God Island",
+    "cfgPortId": 1025,
+    "portX": 38,
+    "lordId": 1025,
+    "requireVoyageLevel": 38,
+    "scale": 4,
+    "portY": 10
+  },
+  {
+    "coe": 1,
+    "portName": "Mystoria Island",
+    "cfgPortId": 1026,
+    "portX": 21,
+    "lordId": 1026,
+    "requireVoyageLevel": 38,
+    "scale": 1,
+    "portY": 4
+  },
+  {
+    "coe": 3,
+    "portName": "Alabasta",
+    "cfgPortId": 1010,
+    "portX": 89,
+    "lordId": 1010,
+    "requireVoyageLevel": 28,
+    "scale": 4,
+    "portY": 40
+  },
+  {
+    "coe": 1,
+    "portName": "Risky Red Island",
+    "cfgPortId": 1027,
+    "portX": 5,
+    "lordId": 1027,
+    "requireVoyageLevel": 38,
+    "scale": 1,
+    "portY": 6
+  },
+  {
+    "coe": 1.5,
+    "portName": "Jaya",
+    "cfgPortId": 1011,
+    "portX": 105,
+    "lordId": 1011,
+    "requireVoyageLevel": 28,
+    "scale": 2,
+    "portY": 35
+  },
+  {
+    "coe": 1,
+    "portName": "Long Island",
+    "cfgPortId": 1012,
+    "portX": 116,
+    "lordId": 1012,
+    "requireVoyageLevel": 28,
+    "scale": 1,
+    "portY": 38
+  },
+  {
+    "coe": 2,
+    "portName": "Water 7",
+    "cfgPortId": 1013,
+    "portX": 114,
+    "lordId": 1013,
+    "requireVoyageLevel": 28,
+    "scale": 3,
+    "portY": 67
+  },
+  {
+    "coe": 1.5,
+    "portName": "Judicial Island",
+    "cfgPortId": 1014,
+    "portX": 83,
+    "lordId": 1014,
+    "requireVoyageLevel": 28,
+    "scale": 2,
+    "portY": 65
+  },
+  {
+    "coe": 1,
+    "portName": "Impel Down",
+    "cfgPortId": 1015,
+    "portX": 80,
+    "lordId": 1015,
+    "requireVoyageLevel": 28,
+    "scale": 1,
+    "portY": 49
+  },
+  {
+    "coe": 2,
+    "portName": "Shimotsuki Village",
+    "cfgPortId": 1001,
+    "portX": 118,
+    "lordId": 1001,
+    "requireVoyageLevel": 1,
+    "scale": 3,
+    "portY": 15
+  },
+  {
+    "coe": 1.5,
+    "portName": "Orange Town",
+    "cfgPortId": 1003,
+    "portX": 98,
+    "lordId": 1003,
+    "requireVoyageLevel": 1,
+    "scale": 2,
+    "portY": 17
+  },
+  {
+    "coe": 2,
+    "portName": "Saint Croix",
+    "cfgPortId": 1002,
+    "portX": 103,
+    "lordId": 1002,
+    "requireVoyageLevel": 1,
+    "scale": 3,
+    "portY": 3
+  },
+  {
+    "coe": 1,
+    "portName": "Baratie",
+    "cfgPortId": 1005,
+    "portX": 73,
+    "lordId": 1005,
+    "requireVoyageLevel": 1,
+    "scale": 1,
+    "portY": 22
+  },
+  {
+    "coe": 1,
+    "portName": "Syrup Village",
+    "cfgPortId": 1004,
+    "portX": 80,
+    "lordId": 1004,
+    "requireVoyageLevel": 1,
+    "scale": 1,
+    "portY": 4
+  },
+  {
+    "coe": 2,
+    "portName": "Loguetown",
+    "cfgPortId": 1007,
+    "portX": 50,
+    "lordId": 1007,
+    "requireVoyageLevel": 1,
+    "scale": 3,
+    "portY": 30
+  },
+  {
+    "coe": 1,
+    "portName": "Cocoyasi Village",
+    "cfgPortId": 1006,
+    "portX": 51,
+    "lordId": 1006,
+    "requireVoyageLevel": 1,
+    "scale": 1,
+    "portY": 5
+  }
+]

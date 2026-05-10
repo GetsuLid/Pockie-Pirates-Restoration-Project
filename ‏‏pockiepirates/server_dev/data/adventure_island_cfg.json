@@ -1,0 +1,82 @@
+[
+  {
+    "icon": 1,
+    "cfgAdventureIslandId": 1,
+    "name": "Amazon Lily"
+  },
+  {
+    "icon": 2,
+    "cfgAdventureIslandId": 2,
+    "name": "Fishman Island"
+  },
+  {
+    "icon": 3,
+    "cfgAdventureIslandId": 3,
+    "name": "The Judicial Island"
+  },
+  {
+    "icon": 4,
+    "cfgAdventureIslandId": 4,
+    "name": "Island of Women"
+  },
+  {
+    "icon": 5,
+    "cfgAdventureIslandId": 5,
+    "name": "Sabaody"
+  },
+  {
+    "icon": 6,
+    "cfgAdventureIslandId": 6,
+    "name": "Jaya"
+  },
+  {
+    "icon": 7,
+    "cfgAdventureIslandId": 7,
+    "name": "Ice Island"
+  },
+  {
+    "icon": 8,
+    "cfgAdventureIslandId": 8,
+    "name": "Sand Island"
+  },
+  {
+    "icon": 9,
+    "cfgAdventureIslandId": 9,
+    "name": "Rock Island"
+  },
+  {
+    "icon": 10,
+    "cfgAdventureIslandId": 10,
+    "name": "Giants' Island"
+  },
+  {
+    "icon": 11,
+    "cfgAdventureIslandId": 11,
+    "name": "Wind Island"
+  },
+  {
+    "icon": 12,
+    "cfgAdventureIslandId": 12,
+    "name": "Water Island"
+  },
+  {
+    "icon": 13,
+    "cfgAdventureIslandId": 13,
+    "name": "Rainbow Island"
+  },
+  {
+    "icon": 14,
+    "cfgAdventureIslandId": 14,
+    "name": "Gold Island"
+  },
+  {
+    "icon": 15,
+    "cfgAdventureIslandId": 15,
+    "name": "Long Island"
+  },
+  {
+    "icon": 16,
+    "cfgAdventureIslandId": 16,
+    "name": "Drum Island"
+  }
+]

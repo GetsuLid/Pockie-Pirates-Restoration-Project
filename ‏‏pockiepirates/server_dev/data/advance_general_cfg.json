@@ -1,0 +1,312 @@
+[
+  {
+    "recordId": 1,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 100,
+    "needExploit": 200000,
+    "generalId": 10052199,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11052199
+  },
+  {
+    "recordId": 2,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 100,
+    "needExploit": 200000,
+    "generalId": 10054264,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11054264
+  },
+  {
+    "recordId": 3,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 100,
+    "needExploit": 200000,
+    "generalId": 10052263,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11052263
+  },
+  {
+    "recordId": 4,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 100,
+    "needExploit": 200000,
+    "generalId": 10051237,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051237
+  },
+  {
+    "recordId": 5,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10051265,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051265
+  },
+  {
+    "recordId": 6,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10053266,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053266
+  },
+  {
+    "recordId": 7,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10053244,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053244
+  },
+  {
+    "recordId": 8,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10051200,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051200
+  },
+  {
+    "recordId": 9,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10051248,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051248
+  },
+  {
+    "recordId": 10,
+    "needLevel": 50,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 200,
+    "needExploit": 400000,
+    "generalId": 10052225,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11052225
+  },
+  {
+    "recordId": 11,
+    "needLevel": 70,
+    "needRedCrystal": 600,
+    "needOrangeCrystal": 0,
+    "needExploit": 1000000,
+    "generalId": 10063226,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11063226
+  },
+  {
+    "recordId": 12,
+    "needLevel": 70,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 300,
+    "needExploit": 800000,
+    "generalId": 10054216,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11054216
+  },
+  {
+    "recordId": 13,
+    "needLevel": 70,
+    "needRedCrystal": 600,
+    "needOrangeCrystal": 0,
+    "needExploit": 1000000,
+    "generalId": 10053224,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053224
+  },
+  {
+    "recordId": 14,
+    "needLevel": 70,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 300,
+    "needExploit": 800000,
+    "generalId": 10053249,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053249
+  },
+  {
+    "recordId": 15,
+    "needLevel": 70,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 300,
+    "needExploit": 800000,
+    "generalId": 10051243,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051243
+  },
+  {
+    "recordId": 17,
+    "needLevel": 80,
+    "needRedCrystal": 800,
+    "needOrangeCrystal": 0,
+    "needExploit": 2000000,
+    "generalId": 10051213,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051213
+  },
+  {
+    "recordId": 16,
+    "needLevel": 70,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 300,
+    "needExploit": 800000,
+    "generalId": 10051242,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051242
+  },
+  {
+    "recordId": 19,
+    "needLevel": 80,
+    "needRedCrystal": 800,
+    "needOrangeCrystal": 0,
+    "needExploit": 2000000,
+    "generalId": 10051215,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051215
+  },
+  {
+    "recordId": 18,
+    "needLevel": 80,
+    "needRedCrystal": 800,
+    "needOrangeCrystal": 0,
+    "needExploit": 2000000,
+    "generalId": 10053218,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053218
+  },
+  {
+    "recordId": 21,
+    "needLevel": 80,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 400,
+    "needExploit": 1500000,
+    "generalId": 10051268,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051268
+  },
+  {
+    "recordId": 20,
+    "needLevel": 80,
+    "needRedCrystal": 800,
+    "needOrangeCrystal": 0,
+    "needExploit": 2000000,
+    "generalId": 10053214,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053214
+  },
+  {
+    "recordId": 23,
+    "needLevel": 80,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 400,
+    "needExploit": 1500000,
+    "generalId": 10051273,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051273
+  },
+  {
+    "recordId": 22,
+    "needLevel": 80,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 400,
+    "needExploit": 1500000,
+    "generalId": 10054254,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11054254
+  },
+  {
+    "recordId": 25,
+    "needLevel": 80,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 400,
+    "needExploit": 1500000,
+    "generalId": 10053253,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11053253
+  },
+  {
+    "recordId": 24,
+    "needLevel": 80,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 400,
+    "needExploit": 1500000,
+    "generalId": 10051255,
+    "needBlueFame": 0,
+    "cfgGeneralId": 11051255
+  },
+  {
+    "recordId": 27,
+    "needLevel": 100,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 500,
+    "needExploit": 0,
+    "generalId": 10054261,
+    "needBlueFame": 500,
+    "cfgGeneralId": 11054261
+  },
+  {
+    "recordId": 26,
+    "needLevel": 100,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 500,
+    "needExploit": 0,
+    "generalId": 10052259,
+    "needBlueFame": 500,
+    "cfgGeneralId": 11052259
+  },
+  {
+    "recordId": 29,
+    "needLevel": 100,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 500,
+    "needExploit": 0,
+    "generalId": 10053262,
+    "needBlueFame": 500,
+    "cfgGeneralId": 11053262
+  },
+  {
+    "recordId": 28,
+    "needLevel": 100,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 500,
+    "needExploit": 0,
+    "generalId": 10051260,
+    "needBlueFame": 500,
+    "cfgGeneralId": 11051260
+  },
+  {
+    "recordId": 31,
+    "needLevel": 100,
+    "needRedCrystal": 800,
+    "needOrangeCrystal": 0,
+    "needExploit": 0,
+    "generalId": 10062208,
+    "needBlueFame": 2400,
+    "cfgGeneralId": 11062208
+  },
+  {
+    "recordId": 30,
+    "needLevel": 100,
+    "needRedCrystal": 0,
+    "needOrangeCrystal": 500,
+    "needExploit": 0,
+    "generalId": 10053270,
+    "needBlueFame": 500,
+    "cfgGeneralId": 11053270
+  }
+]

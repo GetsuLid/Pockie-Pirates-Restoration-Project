@@ -1,0 +1,2792 @@
+[
+  {
+    "recordId": 1,
+    "item1": 200327,
+    "jumpWand": 5,
+    "copper": 5000,
+    "gold": 10,
+    "cfgCampId": 1001,
+    "idx": 2,
+    "item2": 200330
+  },
+  {
+    "recordId": 2,
+    "item1": 200328,
+    "jumpWand": 5,
+    "copper": 10000,
+    "gold": 10,
+    "cfgCampId": 1001,
+    "idx": 5,
+    "item2": 200331
+  },
+  {
+    "recordId": 3,
+    "item1": 200329,
+    "jumpWand": 5,
+    "copper": 15000,
+    "gold": 10,
+    "cfgCampId": 1001,
+    "idx": 6,
+    "item2": 200332
+  },
+  {
+    "recordId": 4,
+    "item1": 200327,
+    "jumpWand": 5,
+    "copper": 20000,
+    "gold": 10,
+    "cfgCampId": 1002,
+    "idx": 2,
+    "item2": 200330
+  },
+  {
+    "recordId": 5,
+    "item1": 200328,
+    "jumpWand": 5,
+    "copper": 25000,
+    "gold": 10,
+    "cfgCampId": 1002,
+    "idx": 5,
+    "item2": 200331
+  },
+  {
+    "recordId": 6,
+    "item1": 200329,
+    "jumpWand": 5,
+    "copper": 30000,
+    "gold": 10,
+    "cfgCampId": 1002,
+    "idx": 6,
+    "item2": 200332
+  },
+  {
+    "recordId": 7,
+    "item1": 200327,
+    "jumpWand": 5,
+    "copper": 35000,
+    "gold": 10,
+    "cfgCampId": 1003,
+    "idx": 2,
+    "item2": 200330
+  },
+  {
+    "recordId": 8,
+    "item1": 200328,
+    "jumpWand": 5,
+    "copper": 40000,
+    "gold": 10,
+    "cfgCampId": 1003,
+    "idx": 5,
+    "item2": 200331
+  },
+  {
+    "recordId": 9,
+    "item1": 200329,
+    "jumpWand": 5,
+    "copper": 45000,
+    "gold": 10,
+    "cfgCampId": 1003,
+    "idx": 6,
+    "item2": 200332
+  },
+  {
+    "recordId": 10,
+    "item1": 200327,
+    "jumpWand": 5,
+    "copper": 50000,
+    "gold": 10,
+    "cfgCampId": 1004,
+    "idx": 2,
+    "item2": 200330
+  },
+  {
+    "recordId": 11,
+    "item1": 200328,
+    "jumpWand": 5,
+    "copper": 55000,
+    "gold": 10,
+    "cfgCampId": 1004,
+    "idx": 5,
+    "item2": 200331
+  },
+  {
+    "recordId": 12,
+    "item1": 200329,
+    "jumpWand": 5,
+    "copper": 60000,
+    "gold": 10,
+    "cfgCampId": 1004,
+    "idx": 6,
+    "item2": 200332
+  },
+  {
+    "recordId": 13,
+    "item1": 200327,
+    "jumpWand": 5,
+    "copper": 65000,
+    "gold": 10,
+    "cfgCampId": 1005,
+    "idx": 2,
+    "item2": 200330
+  },
+  {
+    "recordId": 14,
+    "item1": 200328,
+    "jumpWand": 5,
+    "copper": 70000,
+    "gold": 10,
+    "cfgCampId": 1005,
+    "idx": 5,
+    "item2": 200331
+  },
+  {
+    "recordId": 15,
+    "item1": 200329,
+    "jumpWand": 5,
+    "copper": 75000,
+    "gold": 10,
+    "cfgCampId": 1005,
+    "idx": 6,
+    "item2": 200332
+  },
+  {
+    "recordId": 17,
+    "item1": 200065,
+    "jumpWand": 5,
+    "copper": 85000,
+    "gold": 10,
+    "cfgCampId": 1006,
+    "idx": 5,
+    "item2": 200087
+  },
+  {
+    "recordId": 16,
+    "item1": 200011,
+    "jumpWand": 5,
+    "copper": 80000,
+    "gold": 10,
+    "cfgCampId": 1006,
+    "idx": 2,
+    "item2": 200043
+  },
+  {
+    "recordId": 19,
+    "item1": 200011,
+    "jumpWand": 5,
+    "copper": 95000,
+    "gold": 10,
+    "cfgCampId": 1007,
+    "idx": 2,
+    "item2": 200043
+  },
+  {
+    "recordId": 18,
+    "item1": 200109,
+    "jumpWand": 5,
+    "copper": 90000,
+    "gold": 10,
+    "cfgCampId": 1006,
+    "idx": 6,
+    "item2": 200437
+  },
+  {
+    "recordId": 21,
+    "item1": 200109,
+    "jumpWand": 5,
+    "copper": 105000,
+    "gold": 10,
+    "cfgCampId": 1007,
+    "idx": 6,
+    "item2": 200437
+  },
+  {
+    "recordId": 20,
+    "item1": 200065,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 1007,
+    "idx": 5,
+    "item2": 200087
+  },
+  {
+    "recordId": 23,
+    "item1": 200065,
+    "jumpWand": 5,
+    "copper": 115000,
+    "gold": 10,
+    "cfgCampId": 1008,
+    "idx": 5,
+    "item2": 200087
+  },
+  {
+    "recordId": 22,
+    "item1": 200011,
+    "jumpWand": 5,
+    "copper": 110000,
+    "gold": 10,
+    "cfgCampId": 1008,
+    "idx": 2,
+    "item2": 200043
+  },
+  {
+    "recordId": 25,
+    "item1": 200012,
+    "jumpWand": 5,
+    "copper": 125000,
+    "gold": 10,
+    "cfgCampId": 1009,
+    "idx": 2,
+    "item2": 200088
+  },
+  {
+    "recordId": 24,
+    "item1": 200109,
+    "jumpWand": 5,
+    "copper": 120000,
+    "gold": 10,
+    "cfgCampId": 1008,
+    "idx": 6,
+    "item2": 200437
+  },
+  {
+    "recordId": 27,
+    "item1": 200066,
+    "jumpWand": 5,
+    "copper": 135000,
+    "gold": 10,
+    "cfgCampId": 1009,
+    "idx": 6,
+    "item2": 200438
+  },
+  {
+    "recordId": 26,
+    "item1": 200044,
+    "jumpWand": 5,
+    "copper": 130000,
+    "gold": 10,
+    "cfgCampId": 1009,
+    "idx": 5,
+    "item2": 200284
+  },
+  {
+    "recordId": 29,
+    "item1": 200044,
+    "jumpWand": 5,
+    "copper": 145000,
+    "gold": 10,
+    "cfgCampId": 1010,
+    "idx": 5,
+    "item2": 200284
+  },
+  {
+    "recordId": 28,
+    "item1": 200012,
+    "jumpWand": 5,
+    "copper": 140000,
+    "gold": 10,
+    "cfgCampId": 1010,
+    "idx": 2,
+    "item2": 200088
+  },
+  {
+    "recordId": 31,
+    "item1": 200012,
+    "jumpWand": 5,
+    "copper": 155000,
+    "gold": 10,
+    "cfgCampId": 1011,
+    "idx": 2,
+    "item2": 200088
+  },
+  {
+    "recordId": 30,
+    "item1": 200066,
+    "jumpWand": 5,
+    "copper": 150000,
+    "gold": 10,
+    "cfgCampId": 1010,
+    "idx": 6,
+    "item2": 200438
+  },
+  {
+    "recordId": 34,
+    "item1": 200012,
+    "jumpWand": 5,
+    "copper": 170000,
+    "gold": 10,
+    "cfgCampId": 1012,
+    "idx": 2,
+    "item2": 200088
+  },
+  {
+    "recordId": 35,
+    "item1": 200044,
+    "jumpWand": 5,
+    "copper": 175000,
+    "gold": 10,
+    "cfgCampId": 1012,
+    "idx": 5,
+    "item2": 200284
+  },
+  {
+    "recordId": 32,
+    "item1": 200044,
+    "jumpWand": 5,
+    "copper": 160000,
+    "gold": 10,
+    "cfgCampId": 1011,
+    "idx": 5,
+    "item2": 200284
+  },
+  {
+    "recordId": 33,
+    "item1": 200066,
+    "jumpWand": 5,
+    "copper": 165000,
+    "gold": 10,
+    "cfgCampId": 1011,
+    "idx": 6,
+    "item2": 200438
+  },
+  {
+    "recordId": 38,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 190000,
+    "gold": 10,
+    "cfgCampId": 1013,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 39,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 195000,
+    "gold": 10,
+    "cfgCampId": 1013,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 36,
+    "item1": 200066,
+    "jumpWand": 5,
+    "copper": 180000,
+    "gold": 10,
+    "cfgCampId": 1012,
+    "idx": 6,
+    "item2": 200438
+  },
+  {
+    "recordId": 37,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 185000,
+    "gold": 10,
+    "cfgCampId": 1013,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 42,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 210000,
+    "gold": 10,
+    "cfgCampId": 1014,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 43,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 215000,
+    "gold": 10,
+    "cfgCampId": 1015,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 40,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 200000,
+    "gold": 10,
+    "cfgCampId": 1014,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 41,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 205000,
+    "gold": 10,
+    "cfgCampId": 1014,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 46,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 230000,
+    "gold": 10,
+    "cfgCampId": 1016,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 47,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 235000,
+    "gold": 10,
+    "cfgCampId": 1016,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 44,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 220000,
+    "gold": 10,
+    "cfgCampId": 1015,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 45,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 225000,
+    "gold": 10,
+    "cfgCampId": 1015,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 51,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 255000,
+    "gold": 10,
+    "cfgCampId": 1017,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 50,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 250000,
+    "gold": 10,
+    "cfgCampId": 1017,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 49,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 245000,
+    "gold": 10,
+    "cfgCampId": 1017,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 48,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 240000,
+    "gold": 10,
+    "cfgCampId": 1016,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 55,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 275000,
+    "gold": 10,
+    "cfgCampId": 1019,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 54,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 270000,
+    "gold": 10,
+    "cfgCampId": 1018,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 53,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 265000,
+    "gold": 10,
+    "cfgCampId": 1018,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 52,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 260000,
+    "gold": 10,
+    "cfgCampId": 1018,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 59,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 295000,
+    "gold": 10,
+    "cfgCampId": 1020,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 58,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 290000,
+    "gold": 10,
+    "cfgCampId": 1020,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 57,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 285000,
+    "gold": 10,
+    "cfgCampId": 1019,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 56,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 280000,
+    "gold": 10,
+    "cfgCampId": 1019,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 63,
+    "item1": 200073,
+    "jumpWand": 5,
+    "copper": 315000,
+    "gold": 10,
+    "cfgCampId": 1021,
+    "idx": 6,
+    "item2": 200445
+  },
+  {
+    "recordId": 62,
+    "item1": 200051,
+    "jumpWand": 5,
+    "copper": 310000,
+    "gold": 10,
+    "cfgCampId": 1021,
+    "idx": 5,
+    "item2": 200291
+  },
+  {
+    "recordId": 61,
+    "item1": 200019,
+    "jumpWand": 5,
+    "copper": 305000,
+    "gold": 10,
+    "cfgCampId": 1021,
+    "idx": 2,
+    "item2": 200117
+  },
+  {
+    "recordId": 60,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 300000,
+    "gold": 10,
+    "cfgCampId": 1020,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 68,
+    "item1": 200051,
+    "jumpWand": 5,
+    "copper": 340000,
+    "gold": 10,
+    "cfgCampId": 1023,
+    "idx": 5,
+    "item2": 200291
+  },
+  {
+    "recordId": 69,
+    "item1": 200073,
+    "jumpWand": 5,
+    "copper": 345000,
+    "gold": 10,
+    "cfgCampId": 1023,
+    "idx": 6,
+    "item2": 200445
+  },
+  {
+    "recordId": 70,
+    "item1": 200020,
+    "jumpWand": 5,
+    "copper": 350000,
+    "gold": 10,
+    "cfgCampId": 1024,
+    "idx": 2,
+    "item2": 200118
+  },
+  {
+    "recordId": 71,
+    "item1": 200052,
+    "jumpWand": 5,
+    "copper": 355000,
+    "gold": 10,
+    "cfgCampId": 1024,
+    "idx": 5,
+    "item2": 200292
+  },
+  {
+    "recordId": 64,
+    "item1": 200019,
+    "jumpWand": 5,
+    "copper": 320000,
+    "gold": 10,
+    "cfgCampId": 1022,
+    "idx": 2,
+    "item2": 200117
+  },
+  {
+    "recordId": 65,
+    "item1": 200051,
+    "jumpWand": 5,
+    "copper": 325000,
+    "gold": 10,
+    "cfgCampId": 1022,
+    "idx": 5,
+    "item2": 200291
+  },
+  {
+    "recordId": 66,
+    "item1": 200073,
+    "jumpWand": 5,
+    "copper": 330000,
+    "gold": 10,
+    "cfgCampId": 1022,
+    "idx": 6,
+    "item2": 200445
+  },
+  {
+    "recordId": 67,
+    "item1": 200019,
+    "jumpWand": 5,
+    "copper": 335000,
+    "gold": 10,
+    "cfgCampId": 1023,
+    "idx": 2,
+    "item2": 200117
+  },
+  {
+    "recordId": 76,
+    "item1": 200020,
+    "jumpWand": 5,
+    "copper": 380000,
+    "gold": 10,
+    "cfgCampId": 1026,
+    "idx": 2,
+    "item2": 200118
+  },
+  {
+    "recordId": 77,
+    "item1": 200052,
+    "jumpWand": 5,
+    "copper": 385000,
+    "gold": 10,
+    "cfgCampId": 1026,
+    "idx": 5,
+    "item2": 200292
+  },
+  {
+    "recordId": 78,
+    "item1": 200074,
+    "jumpWand": 5,
+    "copper": 390000,
+    "gold": 10,
+    "cfgCampId": 1026,
+    "idx": 6,
+    "item2": 200446
+  },
+  {
+    "recordId": 79,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 395000,
+    "gold": 10,
+    "cfgCampId": 1027,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 72,
+    "item1": 200074,
+    "jumpWand": 5,
+    "copper": 360000,
+    "gold": 10,
+    "cfgCampId": 1024,
+    "idx": 6,
+    "item2": 200446
+  },
+  {
+    "recordId": 73,
+    "item1": 200020,
+    "jumpWand": 5,
+    "copper": 365000,
+    "gold": 10,
+    "cfgCampId": 1025,
+    "idx": 2,
+    "item2": 200118
+  },
+  {
+    "recordId": 74,
+    "item1": 200052,
+    "jumpWand": 5,
+    "copper": 370000,
+    "gold": 10,
+    "cfgCampId": 1025,
+    "idx": 5,
+    "item2": 200292
+  },
+  {
+    "recordId": 75,
+    "item1": 200074,
+    "jumpWand": 5,
+    "copper": 375000,
+    "gold": 10,
+    "cfgCampId": 1025,
+    "idx": 6,
+    "item2": 200446
+  },
+  {
+    "recordId": 85,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 425000,
+    "gold": 10,
+    "cfgCampId": 1029,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 84,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 420000,
+    "gold": 10,
+    "cfgCampId": 1028,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 87,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 435000,
+    "gold": 10,
+    "cfgCampId": 1029,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 86,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 430000,
+    "gold": 10,
+    "cfgCampId": 1029,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 81,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 405000,
+    "gold": 10,
+    "cfgCampId": 1027,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 80,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 400000,
+    "gold": 10,
+    "cfgCampId": 1027,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 83,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 415000,
+    "gold": 10,
+    "cfgCampId": 1028,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 82,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 410000,
+    "gold": 10,
+    "cfgCampId": 1028,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 93,
+    "item1": 211493,
+    "jumpWand": 5,
+    "copper": 465000,
+    "gold": 10,
+    "cfgCampId": 1031,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 92,
+    "item1": 211487,
+    "jumpWand": 5,
+    "copper": 460000,
+    "gold": 10,
+    "cfgCampId": 1031,
+    "idx": 5,
+    "item2": 211491
+  },
+  {
+    "recordId": 95,
+    "item1": 211487,
+    "jumpWand": 5,
+    "copper": 475000,
+    "gold": 10,
+    "cfgCampId": 1032,
+    "idx": 5,
+    "item2": 211491
+  },
+  {
+    "recordId": 94,
+    "item1": 211483,
+    "jumpWand": 5,
+    "copper": 470000,
+    "gold": 10,
+    "cfgCampId": 1032,
+    "idx": 2,
+    "item2": 211485
+  },
+  {
+    "recordId": 89,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 445000,
+    "gold": 10,
+    "cfgCampId": 1030,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 88,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 440000,
+    "gold": 10,
+    "cfgCampId": 1030,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 91,
+    "item1": 211483,
+    "jumpWand": 5,
+    "copper": 455000,
+    "gold": 10,
+    "cfgCampId": 1031,
+    "idx": 2,
+    "item2": 211485
+  },
+  {
+    "recordId": 90,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 450000,
+    "gold": 10,
+    "cfgCampId": 1030,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 102,
+    "item1": 211493,
+    "jumpWand": 5,
+    "copper": 510000,
+    "gold": 10,
+    "cfgCampId": 1034,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 103,
+    "item1": 211483,
+    "jumpWand": 5,
+    "copper": 515000,
+    "gold": 10,
+    "cfgCampId": 1035,
+    "idx": 2,
+    "item2": 211485
+  },
+  {
+    "recordId": 100,
+    "item1": 211483,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 1034,
+    "idx": 2,
+    "item2": 211485
+  },
+  {
+    "recordId": 101,
+    "item1": 211487,
+    "jumpWand": 5,
+    "copper": 505000,
+    "gold": 10,
+    "cfgCampId": 1034,
+    "idx": 5,
+    "item2": 211491
+  },
+  {
+    "recordId": 98,
+    "item1": 211487,
+    "jumpWand": 5,
+    "copper": 490000,
+    "gold": 10,
+    "cfgCampId": 1033,
+    "idx": 5,
+    "item2": 211491
+  },
+  {
+    "recordId": 99,
+    "item1": 211493,
+    "jumpWand": 5,
+    "copper": 495000,
+    "gold": 10,
+    "cfgCampId": 1033,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 96,
+    "item1": 211493,
+    "jumpWand": 5,
+    "copper": 480000,
+    "gold": 10,
+    "cfgCampId": 1032,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 97,
+    "item1": 211483,
+    "jumpWand": 5,
+    "copper": 485000,
+    "gold": 10,
+    "cfgCampId": 1033,
+    "idx": 2,
+    "item2": 211485
+  },
+  {
+    "recordId": 110,
+    "item1": 211488,
+    "jumpWand": 5,
+    "copper": 550000,
+    "gold": 10,
+    "cfgCampId": 1037,
+    "idx": 5,
+    "item2": 211492
+  },
+  {
+    "recordId": 111,
+    "item1": 211494,
+    "jumpWand": 5,
+    "copper": 555000,
+    "gold": 10,
+    "cfgCampId": 1037,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 108,
+    "item1": 211494,
+    "jumpWand": 5,
+    "copper": 540000,
+    "gold": 10,
+    "cfgCampId": 1036,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 109,
+    "item1": 211484,
+    "jumpWand": 5,
+    "copper": 545000,
+    "gold": 10,
+    "cfgCampId": 1037,
+    "idx": 2,
+    "item2": 211486
+  },
+  {
+    "recordId": 106,
+    "item1": 211484,
+    "jumpWand": 5,
+    "copper": 530000,
+    "gold": 10,
+    "cfgCampId": 1036,
+    "idx": 2,
+    "item2": 211486
+  },
+  {
+    "recordId": 107,
+    "item1": 211488,
+    "jumpWand": 5,
+    "copper": 535000,
+    "gold": 10,
+    "cfgCampId": 1036,
+    "idx": 5,
+    "item2": 211492
+  },
+  {
+    "recordId": 104,
+    "item1": 211487,
+    "jumpWand": 5,
+    "copper": 520000,
+    "gold": 10,
+    "cfgCampId": 1035,
+    "idx": 5,
+    "item2": 211491
+  },
+  {
+    "recordId": 105,
+    "item1": 211493,
+    "jumpWand": 5,
+    "copper": 525000,
+    "gold": 10,
+    "cfgCampId": 1035,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 119,
+    "item1": 211488,
+    "jumpWand": 5,
+    "copper": 595000,
+    "gold": 10,
+    "cfgCampId": 1040,
+    "idx": 5,
+    "item2": 211492
+  },
+  {
+    "recordId": 118,
+    "item1": 211484,
+    "jumpWand": 5,
+    "copper": 590000,
+    "gold": 10,
+    "cfgCampId": 1040,
+    "idx": 2,
+    "item2": 211486
+  },
+  {
+    "recordId": 117,
+    "item1": 211494,
+    "jumpWand": 5,
+    "copper": 585000,
+    "gold": 10,
+    "cfgCampId": 1039,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 116,
+    "item1": 211488,
+    "jumpWand": 5,
+    "copper": 580000,
+    "gold": 10,
+    "cfgCampId": 1039,
+    "idx": 5,
+    "item2": 211492
+  },
+  {
+    "recordId": 115,
+    "item1": 211484,
+    "jumpWand": 5,
+    "copper": 575000,
+    "gold": 10,
+    "cfgCampId": 1039,
+    "idx": 2,
+    "item2": 211486
+  },
+  {
+    "recordId": 114,
+    "item1": 211494,
+    "jumpWand": 5,
+    "copper": 570000,
+    "gold": 10,
+    "cfgCampId": 1038,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 113,
+    "item1": 211488,
+    "jumpWand": 5,
+    "copper": 565000,
+    "gold": 10,
+    "cfgCampId": 1038,
+    "idx": 5,
+    "item2": 211492
+  },
+  {
+    "recordId": 112,
+    "item1": 211484,
+    "jumpWand": 5,
+    "copper": 560000,
+    "gold": 10,
+    "cfgCampId": 1038,
+    "idx": 2,
+    "item2": 211486
+  },
+  {
+    "recordId": 127,
+    "item1": 211538,
+    "jumpWand": 5,
+    "copper": 635000,
+    "gold": 10,
+    "cfgCampId": 1043,
+    "idx": 2,
+    "item2": 211539
+  },
+  {
+    "recordId": 126,
+    "item1": 211542,
+    "jumpWand": 5,
+    "copper": 630000,
+    "gold": 10,
+    "cfgCampId": 1042,
+    "idx": 6,
+    "item2": 211543
+  },
+  {
+    "recordId": 125,
+    "item1": 211540,
+    "jumpWand": 5,
+    "copper": 625000,
+    "gold": 10,
+    "cfgCampId": 1042,
+    "idx": 5,
+    "item2": 211541
+  },
+  {
+    "recordId": 124,
+    "item1": 211538,
+    "jumpWand": 5,
+    "copper": 620000,
+    "gold": 10,
+    "cfgCampId": 1042,
+    "idx": 2,
+    "item2": 211539
+  },
+  {
+    "recordId": 123,
+    "item1": 211542,
+    "jumpWand": 5,
+    "copper": 615000,
+    "gold": 10,
+    "cfgCampId": 1041,
+    "idx": 6,
+    "item2": 211543
+  },
+  {
+    "recordId": 122,
+    "item1": 211540,
+    "jumpWand": 5,
+    "copper": 610000,
+    "gold": 10,
+    "cfgCampId": 1041,
+    "idx": 5,
+    "item2": 211541
+  },
+  {
+    "recordId": 121,
+    "item1": 211538,
+    "jumpWand": 5,
+    "copper": 605000,
+    "gold": 10,
+    "cfgCampId": 1041,
+    "idx": 2,
+    "item2": 211539
+  },
+  {
+    "recordId": 120,
+    "item1": 211494,
+    "jumpWand": 5,
+    "copper": 600000,
+    "gold": 10,
+    "cfgCampId": 1040,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 137,
+    "item1": 200533,
+    "jumpWand": 5,
+    "copper": 155000,
+    "gold": 10,
+    "cfgCampId": 2008,
+    "idx": 5,
+    "item2": 200536
+  },
+  {
+    "recordId": 136,
+    "item1": 200532,
+    "jumpWand": 5,
+    "copper": 140000,
+    "gold": 10,
+    "cfgCampId": 2008,
+    "idx": 2,
+    "item2": 200535
+  },
+  {
+    "recordId": 139,
+    "item1": 200016,
+    "jumpWand": 5,
+    "copper": 185000,
+    "gold": 10,
+    "cfgCampId": 2010,
+    "idx": 2,
+    "item2": 200092
+  },
+  {
+    "recordId": 138,
+    "item1": 200534,
+    "jumpWand": 5,
+    "copper": 170000,
+    "gold": 10,
+    "cfgCampId": 2008,
+    "idx": 6,
+    "item2": 200537
+  },
+  {
+    "recordId": 141,
+    "item1": 200070,
+    "jumpWand": 5,
+    "copper": 215000,
+    "gold": 10,
+    "cfgCampId": 2010,
+    "idx": 6,
+    "item2": 200288
+  },
+  {
+    "recordId": 140,
+    "item1": 200048,
+    "jumpWand": 5,
+    "copper": 200000,
+    "gold": 10,
+    "cfgCampId": 2010,
+    "idx": 5,
+    "item2": 200114
+  },
+  {
+    "recordId": 143,
+    "item1": 200048,
+    "jumpWand": 5,
+    "copper": 245000,
+    "gold": 10,
+    "cfgCampId": 2012,
+    "idx": 5,
+    "item2": 200114
+  },
+  {
+    "recordId": 142,
+    "item1": 200016,
+    "jumpWand": 5,
+    "copper": 230000,
+    "gold": 10,
+    "cfgCampId": 2012,
+    "idx": 2,
+    "item2": 200092
+  },
+  {
+    "recordId": 129,
+    "item1": 211542,
+    "jumpWand": 5,
+    "copper": 645000,
+    "gold": 10,
+    "cfgCampId": 1043,
+    "idx": 6,
+    "item2": 211543
+  },
+  {
+    "recordId": 128,
+    "item1": 211540,
+    "jumpWand": 5,
+    "copper": 640000,
+    "gold": 10,
+    "cfgCampId": 1043,
+    "idx": 5,
+    "item2": 211541
+  },
+  {
+    "recordId": 131,
+    "item1": 211540,
+    "jumpWand": 5,
+    "copper": 655000,
+    "gold": 10,
+    "cfgCampId": 1044,
+    "idx": 5,
+    "item2": 211541
+  },
+  {
+    "recordId": 130,
+    "item1": 211538,
+    "jumpWand": 5,
+    "copper": 650000,
+    "gold": 10,
+    "cfgCampId": 1044,
+    "idx": 2,
+    "item2": 211539
+  },
+  {
+    "recordId": 133,
+    "item1": 200532,
+    "jumpWand": 5,
+    "copper": 80000,
+    "gold": 10,
+    "cfgCampId": 2006,
+    "idx": 2,
+    "item2": 200535
+  },
+  {
+    "recordId": 132,
+    "item1": 211542,
+    "jumpWand": 5,
+    "copper": 660000,
+    "gold": 10,
+    "cfgCampId": 1044,
+    "idx": 6,
+    "item2": 211543
+  },
+  {
+    "recordId": 135,
+    "item1": 200534,
+    "jumpWand": 5,
+    "copper": 200000,
+    "gold": 10,
+    "cfgCampId": 2006,
+    "idx": 6,
+    "item2": 200537
+  },
+  {
+    "recordId": 134,
+    "item1": 200533,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 2006,
+    "idx": 5,
+    "item2": 200536
+  },
+  {
+    "recordId": 152,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 380000,
+    "gold": 10,
+    "cfgCampId": 2019,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 153,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 395000,
+    "gold": 10,
+    "cfgCampId": 2019,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 154,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 410000,
+    "gold": 10,
+    "cfgCampId": 2022,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 155,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 425000,
+    "gold": 10,
+    "cfgCampId": 2022,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 156,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 440000,
+    "gold": 10,
+    "cfgCampId": 2022,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 157,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 455000,
+    "gold": 10,
+    "cfgCampId": 2024,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 158,
+    "item1": 200050,
+    "jumpWand": 5,
+    "copper": 470000,
+    "gold": 10,
+    "cfgCampId": 2024,
+    "idx": 5,
+    "item2": 200290
+  },
+  {
+    "recordId": 159,
+    "item1": 200072,
+    "jumpWand": 5,
+    "copper": 485000,
+    "gold": 10,
+    "cfgCampId": 2024,
+    "idx": 6,
+    "item2": 200444
+  },
+  {
+    "recordId": 144,
+    "item1": 200070,
+    "jumpWand": 5,
+    "copper": 260000,
+    "gold": 10,
+    "cfgCampId": 2012,
+    "idx": 6,
+    "item2": 200288
+  },
+  {
+    "recordId": 145,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 275000,
+    "gold": 10,
+    "cfgCampId": 2014,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 146,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 290000,
+    "gold": 10,
+    "cfgCampId": 2014,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 147,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 305000,
+    "gold": 10,
+    "cfgCampId": 2014,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 148,
+    "item1": 200017,
+    "jumpWand": 5,
+    "copper": 320000,
+    "gold": 10,
+    "cfgCampId": 2016,
+    "idx": 2,
+    "item2": 200115
+  },
+  {
+    "recordId": 149,
+    "item1": 200049,
+    "jumpWand": 5,
+    "copper": 335000,
+    "gold": 10,
+    "cfgCampId": 2016,
+    "idx": 5,
+    "item2": 200289
+  },
+  {
+    "recordId": 150,
+    "item1": 200071,
+    "jumpWand": 5,
+    "copper": 350000,
+    "gold": 10,
+    "cfgCampId": 2016,
+    "idx": 6,
+    "item2": 200443
+  },
+  {
+    "recordId": 151,
+    "item1": 200018,
+    "jumpWand": 5,
+    "copper": 365000,
+    "gold": 10,
+    "cfgCampId": 2019,
+    "idx": 2,
+    "item2": 200116
+  },
+  {
+    "recordId": 171,
+    "item1": 211221,
+    "jumpWand": 5,
+    "copper": 665000,
+    "gold": 10,
+    "cfgCampId": 2034,
+    "idx": 6,
+    "item2": 211473
+  },
+  {
+    "recordId": 170,
+    "item1": 211199,
+    "jumpWand": 5,
+    "copper": 650000,
+    "gold": 10,
+    "cfgCampId": 2034,
+    "idx": 5,
+    "item2": 211319
+  },
+  {
+    "recordId": 169,
+    "item1": 211177,
+    "jumpWand": 5,
+    "copper": 635000,
+    "gold": 10,
+    "cfgCampId": 2034,
+    "idx": 2,
+    "item2": 211265
+  },
+  {
+    "recordId": 168,
+    "item1": 211221,
+    "jumpWand": 5,
+    "copper": 620000,
+    "gold": 10,
+    "cfgCampId": 2032,
+    "idx": 6,
+    "item2": 211473
+  },
+  {
+    "recordId": 175,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 725000,
+    "gold": 10,
+    "cfgCampId": 2039,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 174,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 710000,
+    "gold": 10,
+    "cfgCampId": 2036,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 173,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 695000,
+    "gold": 10,
+    "cfgCampId": 2036,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 172,
+    "item1": 211178,
+    "jumpWand": 5,
+    "copper": 680000,
+    "gold": 10,
+    "cfgCampId": 2036,
+    "idx": 2,
+    "item2": 211266
+  },
+  {
+    "recordId": 163,
+    "item1": 200019,
+    "jumpWand": 5,
+    "copper": 545000,
+    "gold": 10,
+    "cfgCampId": 2029,
+    "idx": 2,
+    "item2": 200117
+  },
+  {
+    "recordId": 162,
+    "item1": 200073,
+    "jumpWand": 5,
+    "copper": 530000,
+    "gold": 10,
+    "cfgCampId": 2026,
+    "idx": 6,
+    "item2": 200445
+  },
+  {
+    "recordId": 161,
+    "item1": 200051,
+    "jumpWand": 5,
+    "copper": 515000,
+    "gold": 10,
+    "cfgCampId": 2026,
+    "idx": 5,
+    "item2": 200291
+  },
+  {
+    "recordId": 160,
+    "item1": 200019,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 2026,
+    "idx": 2,
+    "item2": 200117
+  },
+  {
+    "recordId": 167,
+    "item1": 211199,
+    "jumpWand": 5,
+    "copper": 605000,
+    "gold": 10,
+    "cfgCampId": 2032,
+    "idx": 5,
+    "item2": 211319
+  },
+  {
+    "recordId": 166,
+    "item1": 211177,
+    "jumpWand": 5,
+    "copper": 590000,
+    "gold": 10,
+    "cfgCampId": 2032,
+    "idx": 2,
+    "item2": 211265
+  },
+  {
+    "recordId": 165,
+    "item1": 200073,
+    "jumpWand": 5,
+    "copper": 575000,
+    "gold": 10,
+    "cfgCampId": 2029,
+    "idx": 6,
+    "item2": 200445
+  },
+  {
+    "recordId": 164,
+    "item1": 200051,
+    "jumpWand": 5,
+    "copper": 560000,
+    "gold": 10,
+    "cfgCampId": 2029,
+    "idx": 5,
+    "item2": 200291
+  },
+  {
+    "recordId": 186,
+    "item1": 300018,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 3003,
+    "idx": 6,
+    "item2": 300020
+  },
+  {
+    "recordId": 187,
+    "item1": 300021,
+    "jumpWand": 5,
+    "copper": 300000,
+    "gold": 10,
+    "cfgCampId": 3004,
+    "idx": 2,
+    "item2": 300023
+  },
+  {
+    "recordId": 184,
+    "item1": 300015,
+    "jumpWand": 5,
+    "copper": 300000,
+    "gold": 10,
+    "cfgCampId": 3003,
+    "idx": 2,
+    "item2": 300017
+  },
+  {
+    "recordId": 185,
+    "item1": 300016,
+    "jumpWand": 5,
+    "copper": 300000,
+    "gold": 10,
+    "cfgCampId": 3003,
+    "idx": 5,
+    "item2": 300019
+  },
+  {
+    "recordId": 190,
+    "item1": 211183,
+    "jumpWand": 5,
+    "copper": 770000,
+    "gold": 10,
+    "cfgCampId": 2040,
+    "idx": 2,
+    "item2": 211325
+  },
+  {
+    "recordId": 191,
+    "item1": 211205,
+    "jumpWand": 5,
+    "copper": 785000,
+    "gold": 10,
+    "cfgCampId": 2040,
+    "idx": 5,
+    "item2": 211227
+  },
+  {
+    "recordId": 188,
+    "item1": 300022,
+    "jumpWand": 5,
+    "copper": 300000,
+    "gold": 10,
+    "cfgCampId": 3004,
+    "idx": 5,
+    "item2": 300025
+  },
+  {
+    "recordId": 189,
+    "item1": 300024,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 3004,
+    "idx": 6,
+    "item2": 300026
+  },
+  {
+    "recordId": 178,
+    "item1": 300003,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 3001,
+    "idx": 2,
+    "item2": 300005
+  },
+  {
+    "recordId": 179,
+    "item1": 300004,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 3001,
+    "idx": 5,
+    "item2": 300007
+  },
+  {
+    "recordId": 176,
+    "item1": 211200,
+    "jumpWand": 5,
+    "copper": 740000,
+    "gold": 10,
+    "cfgCampId": 2039,
+    "idx": 5,
+    "item2": 211320
+  },
+  {
+    "recordId": 177,
+    "item1": 211222,
+    "jumpWand": 5,
+    "copper": 755000,
+    "gold": 10,
+    "cfgCampId": 2039,
+    "idx": 6,
+    "item2": 211474
+  },
+  {
+    "recordId": 182,
+    "item1": 300010,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 3002,
+    "idx": 5,
+    "item2": 300013
+  },
+  {
+    "recordId": 183,
+    "item1": 300012,
+    "jumpWand": 5,
+    "copper": 200000,
+    "gold": 10,
+    "cfgCampId": 3002,
+    "idx": 6,
+    "item2": 300014
+  },
+  {
+    "recordId": 180,
+    "item1": 300006,
+    "jumpWand": 5,
+    "copper": 200000,
+    "gold": 10,
+    "cfgCampId": 3001,
+    "idx": 6,
+    "item2": 300008
+  },
+  {
+    "recordId": 181,
+    "item1": 300009,
+    "jumpWand": 5,
+    "copper": 100000,
+    "gold": 10,
+    "cfgCampId": 3002,
+    "idx": 2,
+    "item2": 300011
+  },
+  {
+    "recordId": 205,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 680000,
+    "gold": 10,
+    "cfgCampId": 1046,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 204,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 675000,
+    "gold": 10,
+    "cfgCampId": 1045,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 207,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 690000,
+    "gold": 10,
+    "cfgCampId": 1046,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 206,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 685000,
+    "gold": 10,
+    "cfgCampId": 1046,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 201,
+    "item1": 211272,
+    "jumpWand": 5,
+    "copper": 935000,
+    "gold": 10,
+    "cfgCampId": 2043,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 200,
+    "item1": 211206,
+    "jumpWand": 5,
+    "copper": 920000,
+    "gold": 10,
+    "cfgCampId": 2043,
+    "idx": 5,
+    "item2": 211228
+  },
+  {
+    "recordId": 203,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 670000,
+    "gold": 10,
+    "cfgCampId": 1045,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 202,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 665000,
+    "gold": 10,
+    "cfgCampId": 1045,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 197,
+    "item1": 211206,
+    "jumpWand": 5,
+    "copper": 875000,
+    "gold": 10,
+    "cfgCampId": 2042,
+    "idx": 5,
+    "item2": 211228
+  },
+  {
+    "recordId": 196,
+    "item1": 211184,
+    "jumpWand": 5,
+    "copper": 860000,
+    "gold": 10,
+    "cfgCampId": 2042,
+    "idx": 2,
+    "item2": 211326
+  },
+  {
+    "recordId": 199,
+    "item1": 211184,
+    "jumpWand": 5,
+    "copper": 905000,
+    "gold": 10,
+    "cfgCampId": 2043,
+    "idx": 2,
+    "item2": 211326
+  },
+  {
+    "recordId": 198,
+    "item1": 211272,
+    "jumpWand": 5,
+    "copper": 890000,
+    "gold": 10,
+    "cfgCampId": 2042,
+    "idx": 6,
+    "item2": 211480
+  },
+  {
+    "recordId": 193,
+    "item1": 211183,
+    "jumpWand": 5,
+    "copper": 815000,
+    "gold": 10,
+    "cfgCampId": 2041,
+    "idx": 2,
+    "item2": 211325
+  },
+  {
+    "recordId": 192,
+    "item1": 211271,
+    "jumpWand": 5,
+    "copper": 800000,
+    "gold": 10,
+    "cfgCampId": 2040,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 195,
+    "item1": 211271,
+    "jumpWand": 5,
+    "copper": 845000,
+    "gold": 10,
+    "cfgCampId": 2041,
+    "idx": 6,
+    "item2": 211479
+  },
+  {
+    "recordId": 194,
+    "item1": 211205,
+    "jumpWand": 5,
+    "copper": 830000,
+    "gold": 10,
+    "cfgCampId": 2041,
+    "idx": 5,
+    "item2": 211227
+  },
+  {
+    "recordId": 220,
+    "item1": 211556,
+    "jumpWand": 5,
+    "copper": 950000,
+    "gold": 10,
+    "cfgCampId": 2044,
+    "idx": 2,
+    "item2": 211560
+  },
+  {
+    "recordId": 221,
+    "item1": 211557,
+    "jumpWand": 5,
+    "copper": 965000,
+    "gold": 10,
+    "cfgCampId": 2044,
+    "idx": 5,
+    "item2": 211559
+  },
+  {
+    "recordId": 222,
+    "item1": 211558,
+    "jumpWand": 5,
+    "copper": 980000,
+    "gold": 10,
+    "cfgCampId": 2044,
+    "idx": 6,
+    "item2": 211561
+  },
+  {
+    "recordId": 223,
+    "item1": 211556,
+    "jumpWand": 5,
+    "copper": 995000,
+    "gold": 10,
+    "cfgCampId": 2045,
+    "idx": 2,
+    "item2": 211560
+  },
+  {
+    "recordId": 216,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 735000,
+    "gold": 10,
+    "cfgCampId": 1049,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 217,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 740000,
+    "gold": 10,
+    "cfgCampId": 1050,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 218,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 745000,
+    "gold": 10,
+    "cfgCampId": 1050,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 219,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 750000,
+    "gold": 10,
+    "cfgCampId": 1050,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 212,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 715000,
+    "gold": 10,
+    "cfgCampId": 1048,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 213,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 720000,
+    "gold": 10,
+    "cfgCampId": 1048,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 214,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 725000,
+    "gold": 10,
+    "cfgCampId": 1049,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 215,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 730000,
+    "gold": 10,
+    "cfgCampId": 1049,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 208,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 695000,
+    "gold": 10,
+    "cfgCampId": 1047,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 209,
+    "item1": 211546,
+    "jumpWand": 5,
+    "copper": 700000,
+    "gold": 10,
+    "cfgCampId": 1047,
+    "idx": 5,
+    "item2": 211547
+  },
+  {
+    "recordId": 210,
+    "item1": 211548,
+    "jumpWand": 5,
+    "copper": 705000,
+    "gold": 10,
+    "cfgCampId": 1047,
+    "idx": 6,
+    "item2": 211549
+  },
+  {
+    "recordId": 211,
+    "item1": 211544,
+    "jumpWand": 5,
+    "copper": 710000,
+    "gold": 10,
+    "cfgCampId": 1048,
+    "idx": 2,
+    "item2": 211545
+  },
+  {
+    "recordId": 239,
+    "item1": 211551,
+    "jumpWand": 5,
+    "copper": 1190000,
+    "gold": 10,
+    "cfgCampId": 1052,
+    "idx": 5,
+    "item2": 211554
+  },
+  {
+    "recordId": 238,
+    "item1": 211550,
+    "jumpWand": 5,
+    "copper": 1175000,
+    "gold": 10,
+    "cfgCampId": 1052,
+    "idx": 2,
+    "item2": 211553
+  },
+  {
+    "recordId": 237,
+    "item1": 211552,
+    "jumpWand": 5,
+    "copper": 1160000,
+    "gold": 10,
+    "cfgCampId": 1051,
+    "idx": 6,
+    "item2": 211555
+  },
+  {
+    "recordId": 236,
+    "item1": 211551,
+    "jumpWand": 5,
+    "copper": 1145000,
+    "gold": 10,
+    "cfgCampId": 1051,
+    "idx": 5,
+    "item2": 211554
+  },
+  {
+    "recordId": 235,
+    "item1": 211550,
+    "jumpWand": 5,
+    "copper": 1130000,
+    "gold": 10,
+    "cfgCampId": 1051,
+    "idx": 2,
+    "item2": 211553
+  },
+  {
+    "recordId": 234,
+    "item1": 300030,
+    "jumpWand": 5,
+    "copper": 700000,
+    "gold": 10,
+    "cfgCampId": 3005,
+    "idx": 6,
+    "item2": 300032
+  },
+  {
+    "recordId": 233,
+    "item1": 300028,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 3005,
+    "idx": 5,
+    "item2": 300031
+  },
+  {
+    "recordId": 232,
+    "item1": 300027,
+    "jumpWand": 5,
+    "copper": 500000,
+    "gold": 10,
+    "cfgCampId": 3005,
+    "idx": 2,
+    "item2": 300029
+  },
+  {
+    "recordId": 231,
+    "item1": 211564,
+    "jumpWand": 5,
+    "copper": 1115000,
+    "gold": 10,
+    "cfgCampId": 2050,
+    "idx": 6,
+    "item2": 211567
+  },
+  {
+    "recordId": 230,
+    "item1": 211563,
+    "jumpWand": 5,
+    "copper": 1100000,
+    "gold": 10,
+    "cfgCampId": 2050,
+    "idx": 5,
+    "item2": 211566
+  },
+  {
+    "recordId": 229,
+    "item1": 211562,
+    "jumpWand": 5,
+    "copper": 1085000,
+    "gold": 10,
+    "cfgCampId": 2050,
+    "idx": 2,
+    "item2": 211565
+  },
+  {
+    "recordId": 228,
+    "item1": 211564,
+    "jumpWand": 5,
+    "copper": 1070000,
+    "gold": 10,
+    "cfgCampId": 2049,
+    "idx": 6,
+    "item2": 211567
+  },
+  {
+    "recordId": 227,
+    "item1": 211563,
+    "jumpWand": 5,
+    "copper": 1055000,
+    "gold": 10,
+    "cfgCampId": 2049,
+    "idx": 5,
+    "item2": 211566
+  },
+  {
+    "recordId": 226,
+    "item1": 211562,
+    "jumpWand": 5,
+    "copper": 1040000,
+    "gold": 10,
+    "cfgCampId": 2049,
+    "idx": 2,
+    "item2": 211565
+  },
+  {
+    "recordId": 225,
+    "item1": 211558,
+    "jumpWand": 5,
+    "copper": 1025000,
+    "gold": 10,
+    "cfgCampId": 2045,
+    "idx": 6,
+    "item2": 211561
+  },
+  {
+    "recordId": 224,
+    "item1": 211557,
+    "jumpWand": 5,
+    "copper": 1010000,
+    "gold": 10,
+    "cfgCampId": 2045,
+    "idx": 5,
+    "item2": 211559
+  },
+  {
+    "recordId": 254,
+    "item1": 211615,
+    "jumpWand": 5,
+    "copper": 1415000,
+    "gold": 10,
+    "cfgCampId": 1057,
+    "idx": 5,
+    "item2": 211618
+  },
+  {
+    "recordId": 255,
+    "item1": 211616,
+    "jumpWand": 5,
+    "copper": 1430000,
+    "gold": 10,
+    "cfgCampId": 1057,
+    "idx": 6,
+    "item2": 211619
+  },
+  {
+    "recordId": 252,
+    "item1": 211616,
+    "jumpWand": 5,
+    "copper": 1385000,
+    "gold": 10,
+    "cfgCampId": 1056,
+    "idx": 6,
+    "item2": 211619
+  },
+  {
+    "recordId": 253,
+    "item1": 211614,
+    "jumpWand": 5,
+    "copper": 1400000,
+    "gold": 10,
+    "cfgCampId": 1057,
+    "idx": 2,
+    "item2": 211617
+  },
+  {
+    "recordId": 250,
+    "item1": 211614,
+    "jumpWand": 5,
+    "copper": 1355000,
+    "gold": 10,
+    "cfgCampId": 1056,
+    "idx": 2,
+    "item2": 211617
+  },
+  {
+    "recordId": 251,
+    "item1": 211615,
+    "jumpWand": 5,
+    "copper": 1370000,
+    "gold": 10,
+    "cfgCampId": 1056,
+    "idx": 5,
+    "item2": 211618
+  },
+  {
+    "recordId": 248,
+    "item1": 211551,
+    "jumpWand": 5,
+    "copper": 1325000,
+    "gold": 10,
+    "cfgCampId": 1055,
+    "idx": 5,
+    "item2": 211554
+  },
+  {
+    "recordId": 249,
+    "item1": 211552,
+    "jumpWand": 5,
+    "copper": 1340000,
+    "gold": 10,
+    "cfgCampId": 1055,
+    "idx": 6,
+    "item2": 211555
+  },
+  {
+    "recordId": 246,
+    "item1": 211552,
+    "jumpWand": 5,
+    "copper": 1295000,
+    "gold": 10,
+    "cfgCampId": 1054,
+    "idx": 6,
+    "item2": 211555
+  },
+  {
+    "recordId": 247,
+    "item1": 211550,
+    "jumpWand": 5,
+    "copper": 1310000,
+    "gold": 10,
+    "cfgCampId": 1055,
+    "idx": 2,
+    "item2": 211553
+  },
+  {
+    "recordId": 244,
+    "item1": 211550,
+    "jumpWand": 5,
+    "copper": 1265000,
+    "gold": 10,
+    "cfgCampId": 1054,
+    "idx": 2,
+    "item2": 211553
+  },
+  {
+    "recordId": 245,
+    "item1": 211551,
+    "jumpWand": 5,
+    "copper": 1280000,
+    "gold": 10,
+    "cfgCampId": 1054,
+    "idx": 5,
+    "item2": 211554
+  },
+  {
+    "recordId": 242,
+    "item1": 211551,
+    "jumpWand": 5,
+    "copper": 1235000,
+    "gold": 10,
+    "cfgCampId": 1053,
+    "idx": 5,
+    "item2": 211554
+  },
+  {
+    "recordId": 243,
+    "item1": 211552,
+    "jumpWand": 5,
+    "copper": 1250000,
+    "gold": 10,
+    "cfgCampId": 1053,
+    "idx": 6,
+    "item2": 211555
+  },
+  {
+    "recordId": 240,
+    "item1": 211552,
+    "jumpWand": 5,
+    "copper": 1205000,
+    "gold": 10,
+    "cfgCampId": 1052,
+    "idx": 6,
+    "item2": 211555
+  },
+  {
+    "recordId": 241,
+    "item1": 211550,
+    "jumpWand": 5,
+    "copper": 1220000,
+    "gold": 10,
+    "cfgCampId": 1053,
+    "idx": 2,
+    "item2": 211553
+  },
+  {
+    "recordId": 275,
+    "item1": 211621,
+    "jumpWand": 5,
+    "copper": 1550000,
+    "gold": 10,
+    "cfgCampId": 2060,
+    "idx": 5,
+    "item2": 211624
+  },
+  {
+    "recordId": 274,
+    "item1": 211620,
+    "jumpWand": 5,
+    "copper": 1535000,
+    "gold": 10,
+    "cfgCampId": 2060,
+    "idx": 2,
+    "item2": 211623
+  },
+  {
+    "recordId": 273,
+    "item1": 211622,
+    "jumpWand": 5,
+    "copper": 1430000,
+    "gold": 10,
+    "cfgCampId": 2057,
+    "idx": 6,
+    "item2": 211625
+  },
+  {
+    "recordId": 272,
+    "item1": 211621,
+    "jumpWand": 5,
+    "copper": 1415000,
+    "gold": 10,
+    "cfgCampId": 2057,
+    "idx": 5,
+    "item2": 211624
+  },
+  {
+    "recordId": 279,
+    "item1": 300254,
+    "jumpWand": 5,
+    "copper": 800000,
+    "gold": 10,
+    "cfgCampId": 3006,
+    "idx": 6,
+    "item2": 300256
+  },
+  {
+    "recordId": 278,
+    "item1": 300253,
+    "jumpWand": 5,
+    "copper": 600000,
+    "gold": 10,
+    "cfgCampId": 3006,
+    "idx": 5,
+    "item2": 300255
+  },
+  {
+    "recordId": 277,
+    "item1": 300251,
+    "jumpWand": 5,
+    "copper": 600000,
+    "gold": 10,
+    "cfgCampId": 3006,
+    "idx": 2,
+    "item2": 300252
+  },
+  {
+    "recordId": 276,
+    "item1": 211622,
+    "jumpWand": 5,
+    "copper": 1565000,
+    "gold": 10,
+    "cfgCampId": 2060,
+    "idx": 6,
+    "item2": 211625
+  },
+  {
+    "recordId": 258,
+    "item1": 211616,
+    "jumpWand": 5,
+    "copper": 1475000,
+    "gold": 10,
+    "cfgCampId": 1058,
+    "idx": 6,
+    "item2": 211619
+  },
+  {
+    "recordId": 259,
+    "item1": 211614,
+    "jumpWand": 5,
+    "copper": 1490000,
+    "gold": 10,
+    "cfgCampId": 1059,
+    "idx": 2,
+    "item2": 211617
+  },
+  {
+    "recordId": 256,
+    "item1": 211614,
+    "jumpWand": 5,
+    "copper": 1445000,
+    "gold": 10,
+    "cfgCampId": 1058,
+    "idx": 2,
+    "item2": 211617
+  },
+  {
+    "recordId": 257,
+    "item1": 211615,
+    "jumpWand": 5,
+    "copper": 1460000,
+    "gold": 10,
+    "cfgCampId": 1058,
+    "idx": 5,
+    "item2": 211618
+  },
+  {
+    "recordId": 262,
+    "item1": 211614,
+    "jumpWand": 5,
+    "copper": 1535000,
+    "gold": 10,
+    "cfgCampId": 1060,
+    "idx": 2,
+    "item2": 211617
+  },
+  {
+    "recordId": 263,
+    "item1": 211615,
+    "jumpWand": 5,
+    "copper": 1550000,
+    "gold": 10,
+    "cfgCampId": 1060,
+    "idx": 5,
+    "item2": 211618
+  },
+  {
+    "recordId": 260,
+    "item1": 211615,
+    "jumpWand": 5,
+    "copper": 1505000,
+    "gold": 10,
+    "cfgCampId": 1059,
+    "idx": 5,
+    "item2": 211618
+  },
+  {
+    "recordId": 261,
+    "item1": 211616,
+    "jumpWand": 5,
+    "copper": 1520000,
+    "gold": 10,
+    "cfgCampId": 1059,
+    "idx": 6,
+    "item2": 211619
+  },
+  {
+    "recordId": 266,
+    "item1": 211569,
+    "jumpWand": 5,
+    "copper": 1235000,
+    "gold": 10,
+    "cfgCampId": 2053,
+    "idx": 5,
+    "item2": 211572
+  },
+  {
+    "recordId": 267,
+    "item1": 211570,
+    "jumpWand": 5,
+    "copper": 1250000,
+    "gold": 10,
+    "cfgCampId": 2053,
+    "idx": 6,
+    "item2": 211573
+  },
+  {
+    "recordId": 264,
+    "item1": 211616,
+    "jumpWand": 5,
+    "copper": 1565000,
+    "gold": 10,
+    "cfgCampId": 1060,
+    "idx": 6,
+    "item2": 211619
+  },
+  {
+    "recordId": 265,
+    "item1": 211568,
+    "jumpWand": 5,
+    "copper": 1220000,
+    "gold": 10,
+    "cfgCampId": 2053,
+    "idx": 2,
+    "item2": 211571
+  },
+  {
+    "recordId": 270,
+    "item1": 211570,
+    "jumpWand": 5,
+    "copper": 1340000,
+    "gold": 10,
+    "cfgCampId": 2055,
+    "idx": 6,
+    "item2": 211573
+  },
+  {
+    "recordId": 271,
+    "item1": 211620,
+    "jumpWand": 5,
+    "copper": 1400000,
+    "gold": 10,
+    "cfgCampId": 2057,
+    "idx": 2,
+    "item2": 211623
+  },
+  {
+    "recordId": 268,
+    "item1": 211568,
+    "jumpWand": 5,
+    "copper": 1310000,
+    "gold": 10,
+    "cfgCampId": 2055,
+    "idx": 2,
+    "item2": 211571
+  },
+  {
+    "recordId": 269,
+    "item1": 211569,
+    "jumpWand": 5,
+    "copper": 1325000,
+    "gold": 10,
+    "cfgCampId": 2055,
+    "idx": 5,
+    "item2": 211572
+  }
+]

@@ -1,0 +1,1827 @@
+package Scene.Config
+{
+   import Scene.Data.NPCChangeSceneData;
+   import Scene.Data.SceneConfigInfo;
+   import Scene.SceneManager;
+   import constant.Global;
+   import data.npc.NPCData;
+   import flash.utils.Dictionary;
+   import manager.DataManager;
+   import mx.collections.ArrayCollection;
+   import mx.rpc.events.ResultEvent;
+   import server.HttpServerManager;
+   
+   public class SceneConfig
+   {
+      
+      public static var STAND:int = 0;
+      
+      public static var RUN:int = 1;
+      
+      public static var TASK_SUBMIT:int = 1;
+      
+      public static var TASK_RECEIVE:int = 2;
+      
+      public static var TASK_HAS_RECEIVE:int = 3;
+      
+      public static var sceneDictionary:Dictionary = new Dictionary();
+      
+      public static var needCheckScene:ArrayCollection = new ArrayCollection();
+      
+      private static var NPCChanges:Dictionary = new Dictionary();
+      
+      private static var scenes:Dictionary = new Dictionary();
+      
+      private static var personImageInfo:XML = <root>
+			<person id="1001">
+<height>184</height>
+<node><frame>6</frame><rate>4</rate><offsetX>71</offsetX><offsetY>167</offsetY><moffsetX>65</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>72</offsetX><offsetY>155</offsetY><moffsetX>70</moffsetX><later>0</later></node>
+</person>
+			<person id="1002">
+<height>180</height>
+<node><frame>6</frame><rate>4</rate><offsetX>72</offsetX><offsetY>137</offsetY><moffsetX>65</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>4</rate><offsetX>65</offsetX><offsetY>153</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+</person>
+			<person id="1003">
+<height>200</height>
+<node><frame>6</frame><rate>4</rate><offsetX>74</offsetX><offsetY>169</offsetY><moffsetX>80</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>66</offsetX><offsetY>172</offsetY><moffsetX>99</moffsetX><later>0</later></node>
+</person>
+			<person id="1004">
+<height>197</height>
+<node><frame>6</frame><rate>4</rate><offsetX>57</offsetX><offsetY>170</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+<node><frame>24</frame><rate>2</rate><offsetX>78</offsetX><offsetY>160</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+</person>
+<person id="1005">
+<height>200</height>
+<node><frame>8</frame><rate>4</rate><offsetX>36</offsetX><offsetY>163</offsetY><moffsetX>42</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>4</rate><offsetX>66</offsetX><offsetY>161</offsetY><moffsetX>67</moffsetX><later>0</later></node>
+</person>
+			<person id="1006">
+<height>170</height>
+<node><frame>6</frame><rate>4</rate><offsetX>120</offsetX><offsetY>150</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>124</offsetX><offsetY>147</offsetY><moffsetX>131</moffsetX><later>0</later></node>
+</person>
+			<person id="1007">
+<height>150</height>
+<node><frame>8</frame><rate>4</rate><offsetX>62</offsetX><offsetY>121</offsetY><moffsetX>61</moffsetX><later>0</later></node>
+<node><frame>16</frame><rate>2</rate><offsetX>64</offsetX><offsetY>122</offsetY><moffsetX>64</moffsetX><later>0</later></node>
+</person>
+<person id="1008">
+<height>180</height>
+<node><frame>6</frame><rate>4</rate><offsetX>35</offsetX><offsetY>159</offsetY><moffsetX>58</moffsetX><later>0</later></node>
+<node><frame>15</frame><rate>2</rate><offsetX>102</offsetX><offsetY>151</offsetY><moffsetX>72</moffsetX><later>0</later></node>
+</person>
+
+
+
+
+
+
+
+			<person id="10001">
+			<height>141</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>28</offsetX><offsetY>129</offsetY><moffsetX>29</moffsetX><later>0</later></node>
+			</person>
+			<person id="10002">
+			<height>170</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>155</offsetY><moffsetX>54</moffsetX><later>0</later></node>
+			</person>
+			<person id="10003">
+			<height>181</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>84</offsetX><offsetY>174</offsetY><moffsetX>61</moffsetX><later>0</later></node>
+			</person>
+			<person id="10004">
+			<height>180</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>59</offsetX><offsetY>164</offsetY><moffsetX>64</moffsetX><later>0</later></node>
+			</person>
+			<person id="10005">
+			<height>172</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>35</offsetX><offsetY>154</offsetY><moffsetX>33</moffsetX><later>0</later></node>
+			</person>
+			<person id="10006">
+			<height>184</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>102</offsetX><offsetY>168</offsetY><moffsetX>101</moffsetX><later>0</later></node>
+			</person>
+			<person id="10007">
+			<height>205</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>73</offsetX><offsetY>192</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+			</person>
+			<person id="10008">
+			<height>191</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>69</offsetX><offsetY>177</offsetY><moffsetX>111</moffsetX><later>0</later></node>
+			</person>
+			<person id="10009">
+			<height>230</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>110</offsetX><offsetY>212</offsetY><moffsetX>104</moffsetX><later>0</later></node>
+			</person>
+			<person id="10010">
+<height>178</height>
+<node><frame>6</frame><rate>4</rate><offsetX>90</offsetX><offsetY>168</offsetY><moffsetX>103</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>82</offsetX><offsetY>184</offsetY><moffsetX>142</moffsetX><later>0</later></node>
+</person>
+			<person id="10011">
+<height>136</height>
+<node><frame>6</frame><rate>4</rate><offsetX>58</offsetX><offsetY>115</offsetY><moffsetX>56</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>37</offsetX><offsetY>118</offsetY><moffsetX>75</moffsetX><later>0</later></node>
+</person>
+			<person id="10012">
+<height>150</height>
+<node><frame>6</frame><rate>4</rate><offsetX>54</offsetX><offsetY>131</offsetY><moffsetX>95</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>70</offsetX><offsetY>139</offsetY><moffsetX>116</moffsetX><later>0</later></node>
+</person>
+<person id="10013">
+<height>180</height>
+<node><frame>6</frame><rate>4</rate><offsetX>50</offsetX><offsetY>147</offsetY><moffsetX>132</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>56</offsetX><offsetY>157</offsetY><moffsetX>207</moffsetX><later>0</later></node>
+</person>
+			<person id="10014">
+			<height>155</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>71</offsetX><offsetY>141</offsetY><moffsetX>35</moffsetX><later>0</later></node>
+			</person>
+			<person id="10015">
+			<height>179</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>126</offsetX><offsetY>157</offsetY><moffsetX>41</moffsetX><later>0</later></node>
+			</person>
+<person id="10016">
+<height>197</height>
+<node><frame>6</frame><rate>4</rate><offsetX>99</offsetX><offsetY>177</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>94</offsetX><offsetY>170</offsetY><moffsetX>101</moffsetX><later>0</later></node>
+<x0>720</x0><y0>100</y0><x1>920</x1><y1>220</y1>
+</person>
+<person id="10017">
+<height>190</height>
+<node><frame>6</frame><rate>4</rate><offsetX>39</offsetX><offsetY>194</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>39</offsetX><offsetY>194</offsetY><moffsetX>107</moffsetX><later>0</later></node>
+</person>
+			<person id="10018">
+			<height>152</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>27</offsetX><offsetY>137</offsetY><moffsetX>32</moffsetX><later>0</later></node>
+			</person>
+			<person id="10019">
+			<height>158</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>70</offsetX><offsetY>143</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+			</person>
+<person id="10020">
+<height>178</height>
+<node><frame>6</frame><rate>4</rate><offsetX>75</offsetX><offsetY>167</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>66</offsetX><offsetY>166</offsetY><moffsetX>116</moffsetX><later>0</later></node>
+</person>
+			<person id="10021">
+			<height>173</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>65</offsetX><offsetY>159</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+			</person>
+<person id="10022">
+<height>147</height>
+<node><frame>6</frame><rate>4</rate><offsetX>35</offsetX><offsetY>134</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>59</offsetX><offsetY>144</offsetY><moffsetX>96</moffsetX><later>0</later></node>
+</person>
+<person id="10023">
+<height>182</height>
+<node><frame>6</frame><rate>4</rate><offsetX>74</offsetX><offsetY>163</offsetY><moffsetX>62</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>4</rate><offsetX>102</offsetX><offsetY>182</offsetY><moffsetX>106</moffsetX><later>0</later></node>
+</person>
+<person id="10024">
+<height>145</height>
+<node><frame>6</frame><rate>4</rate><offsetX>30</offsetX><offsetY>129</offsetY><moffsetX>33</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>48</offsetX><offsetY>116</offsetY><moffsetX>76</moffsetX><later>0</later></node>
+</person>
+			<person id="10025">
+			<height>155</height>
+<node><frame>6</frame><rate>4</rate><offsetX>45</offsetX><offsetY>142</offsetY><moffsetX>32</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>52</offsetX><offsetY>126</offsetY><moffsetX>72</moffsetX><later>0</later></node>
+</person>
+			<person id="10026">
+<height>103</height>
+<node><frame>6</frame><rate>4</rate><offsetX>34</offsetX><offsetY>78</offsetY><moffsetX>27</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>34</offsetX><offsetY>94</offsetY><moffsetX>33</moffsetX><later>0</later></node>
+</person>
+			<person id="10027">
+			<height>175</height>
+<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>161</offsetY><moffsetX>54</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>62</offsetX><offsetY>159</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+</person>
+			<person id="10028">
+			<height>163</height>
+<node><frame>6</frame><rate>4</rate><offsetX>72</offsetX><offsetY>154</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>79</offsetX><offsetY>173</offsetY><moffsetX>118</moffsetX><later>0</later></node>
+</person>
+			<person id="10029">
+			<height>153</height>
+<node><frame>6</frame><rate>4</rate><offsetX>26</offsetX><offsetY>138</offsetY><moffsetX>60</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>54</offsetX><offsetY>125</offsetY><moffsetX>61</moffsetX><later>0</later></node>
+</person>
+			<person id="10030">
+			<height>152</height>
+<node><frame>6</frame><rate>4</rate><offsetX>25</offsetX><offsetY>137</offsetY><moffsetX>38</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>53</offsetX><offsetY>129</offsetY><moffsetX>98</moffsetX><later>0</later></node>
+</person>
+			<person id="10031">
+			<height>156</height>
+<node><frame>6</frame><rate>4</rate><offsetX>25</offsetX><offsetY>143</offsetY><moffsetX>25</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>65</offsetX><offsetY>141</offsetY><moffsetX>49</moffsetX><later>0</later></node>
+</person>
+			<person id="10032">
+			<height>160</height>
+<node><frame>6</frame><rate>4</rate><offsetX>26</offsetX><offsetY>144</offsetY><moffsetX>35</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>57</offsetX><offsetY>139</offsetY><moffsetX>65</moffsetX><later>0</later></node>
+</person>
+<person id="10033">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>33</offsetX><offsetY>146</offsetY><moffsetX>27</moffsetX><later>0</later></node>
+</person>
+			<person id="10034">
+			<height>155</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>61</offsetX><offsetY>141</offsetY><moffsetX>51</moffsetX><later>0</later></node>
+			</person>
+			<person id="10035">
+<height>162</height>
+<node><frame>6</frame><rate>4</rate><offsetX>68</offsetX><offsetY>162</offsetY><moffsetX>60</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>73</offsetX><offsetY>173</offsetY><moffsetX>87</moffsetX><later>0</later></node>
+<x0>500</x0><y0>75</y0><x1>700</x1><y1>180</y1>
+</person>
+			<person id="10036">
+			<height>144</height>
+			<node><frame>8</frame><rate>4</rate><offsetX>30</offsetX><offsetY>129</offsetY><moffsetX>30</moffsetX><later>0</later></node>
+			</person>
+			<person id="10037">
+			<height>151</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>49</offsetX><offsetY>136</offsetY><moffsetX>36</moffsetX><later>0</later></node>
+			</person>
+			<person id="10038">
+			<height>172</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>33</offsetX><offsetY>154</offsetY><moffsetX>33</moffsetX><later>0</later></node>
+			<node><frame>14</frame><rate>2</rate><offsetX>59</offsetX><offsetY>142</offsetY><moffsetX>79</moffsetX><later>0</later></node>
+			</person>
+			<person id="10039">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>35</offsetX><offsetY>157</offsetY><moffsetX>91</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>58</offsetX><offsetY>148</offsetY><moffsetX>82</moffsetX><later>0</later></node>
+<x0>1040</x0><y0>100</y0><x1>1920</x1><y1>220</y1>
+</person>
+			<person id="10040">
+			<height>166</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>60</offsetX><offsetY>149</offsetY><moffsetX>60</moffsetX><later>0</later></node>
+			</person>
+			<person id="10041">
+			<height>148</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>73</offsetX><offsetY>135</offsetY><moffsetX>43</moffsetX><later>0</later></node>
+			</person>
+			<person id="10060">
+            <height>155</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>68</offsetX><offsetY>141</offsetY><moffsetX>25</moffsetX><later>0</later></node>
+			</person>
+			<person id="10061">
+			<height>154</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>85</offsetX><offsetY>137</offsetY><moffsetX>24</moffsetX><later>0</later></node>
+			</person>
+			<person id="10062">
+			<height>153</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>48</offsetX><offsetY>140</offsetY><moffsetX>26</moffsetX><later>0</later></node>
+			</person>
+			<person id="10063">
+			<height>159</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>30</offsetX><offsetY>146</offsetY><moffsetX>27</moffsetX><later>0</later></node>
+			</person>
+<person id="10064">
+<height>164</height>
+<node><frame>38</frame><rate>4</rate><offsetX>77</offsetX><offsetY>158</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+<node><frame>62</frame><rate>1</rate><offsetX>73</offsetX><offsetY>149</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+<x0>940</x0><y0>100</y0><x1>1140</x1><y1>220</y1>
+</person>
+			<person id="10065">
+<height>157</height>
+<node><frame>6</frame><rate>4</rate><offsetX>29</offsetX><offsetY>149</offsetY><moffsetX>27</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>53</offsetX><offsetY>149</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+</person>
+<person id="10066">
+<height>254</height>
+<node><frame>6</frame><rate>4</rate><offsetX>97</offsetX><offsetY>242</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>144</offsetX><offsetY>231</offsetY><moffsetX>187</moffsetX><later>0</later></node>
+<x0>1050</x0><y0>100</y0><x1>1850</x1><y1>220</y1>
+</person>
+<person id="10067">
+<height>162</height>
+<node><frame>6</frame><rate>4</rate><offsetX>78</offsetX><offsetY>163</offsetY><moffsetX>70</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>87</offsetX><offsetY>165</offsetY><moffsetX>90</moffsetX><later>0</later></node>
+<x0>1160</x0><y0>100</y0><x1>1360</x1><y1>220</y1>
+</person>
+			<person id="10068">
+<height>162</height>
+<node><frame>6</frame><rate>4</rate><offsetX>68</offsetX><offsetY>148</offsetY><moffsetX>78</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>55</offsetX><offsetY>152</offsetY><moffsetX>102</moffsetX><later>0</later></node>
+</person>
+<person id="10069">
+<height>195</height>
+<node><frame>6</frame><rate>4</rate><offsetX>45</offsetX><offsetY>189</offsetY><moffsetX>43</moffsetX><later>0</later></node>
+<node><frame>30</frame><rate>1</rate><offsetX>52</offsetX><offsetY>184</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+<x0>1300</x0><y0>75</y0><x1>1660</x1><y1>200</y1>
+</person>
+			<person id="10070">
+			<height>148</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>52</offsetX><offsetY>137</offsetY><moffsetX>34</moffsetX><later>0</later></node>
+			</person>
+			<person id="10071">
+			<height>171</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>160</offsetY><moffsetX>50</moffsetX><later>0</later></node>
+			</person>
+			<person id="10072">
+<height>165</height>
+<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>152</offsetY><moffsetX>49</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>89</offsetX><offsetY>154</offsetY><moffsetX>44</moffsetX><later>0</later></node>
+</person>
+			<person id="10073">
+<height>160</height>
+<node><frame>6</frame><rate>4</rate><offsetX>40</offsetX><offsetY>151</offsetY><moffsetX>64</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>62</offsetX><offsetY>138</offsetY><moffsetX>83</moffsetX><later>0</later></node>
+</person>
+			<person id="10074">
+<height>170</height>
+<node><frame>6</frame><rate>4</rate><offsetX>30</offsetX><offsetY>154</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>84</offsetX><offsetY>179</offsetY><moffsetX>124</moffsetX><later>0</later></node>
+</person>
+			<person id="10075">
+			<height>161</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>63</offsetX><offsetY>148</offsetY><moffsetX>35</moffsetX><later>0</later></node>
+			</person>
+			<person id="10076">
+			<height>164</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>78</offsetX><offsetY>148</offsetY><moffsetX>35</moffsetX><later>0</later></node>
+			</person>
+			<person id="10077">
+			<height>187</height>
+			<node><frame>6</frame><rate>4</rate><offsetX>61</offsetX><offsetY>171</offsetY><moffsetX>48</moffsetX><later>0</later></node>
+			</person>
+			<person id="10078">
+<height>166</height>
+<node><frame>6</frame><rate>4</rate><offsetX>31</offsetX><offsetY>155</offsetY><moffsetX>107</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>75</offsetX><offsetY>150</offsetY><moffsetX>99</moffsetX><later>0</later></node>
+</person>
+			<person id="10080">
+<height>162</height>
+<node><frame>4</frame><rate>4</rate><offsetX>95</offsetX><offsetY>148</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+</person>
+<person id="10081">
+<height>147</height>
+<node><frame>6</frame><rate>4</rate><offsetX>23</offsetX><offsetY>133</offsetY><moffsetX>24</moffsetX><later>0</later></node>
+</person>
+<person id="10082">
+<height>163</height>
+<node><frame>6</frame><rate>4</rate><offsetX>21</offsetX><offsetY>148</offsetY><moffsetX>22</moffsetX><later>0</later></node>
+</person>
+<person id="10083">
+<height>155</height>
+<node><frame>6</frame><rate>4</rate><offsetX>39</offsetX><offsetY>144</offsetY><moffsetX>21</moffsetX><later>0</later></node>
+</person>
+<person id="10084">
+<height>152</height>
+<node><frame>6</frame><rate>4</rate><offsetX>32</offsetX><offsetY>148</offsetY><moffsetX>22</moffsetX><later>0</later></node>
+</person>
+<person id="10085">
+<height>167</height>
+<node><frame>6</frame><rate>4</rate><offsetX>82</offsetX><offsetY>152</offsetY><moffsetX>42</moffsetX><later>0</later></node>
+</person>
+<person id="10086">
+<height>213</height>
+<node><frame>6</frame><rate>4</rate><offsetX>40</offsetX><offsetY>197</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+</person>
+<person id="10087">
+<height>159</height>
+<node><frame>6</frame><rate>4</rate><offsetX>39</offsetX><offsetY>145</offsetY><moffsetX>31</moffsetX><later>0</later></node>
+</person>
+<person id="10088">
+<height>179</height>
+<node><frame>6</frame><rate>4</rate><offsetX>74</offsetX><offsetY>164</offsetY><moffsetX>60</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>93</offsetX><offsetY>173</offsetY><moffsetX>75</moffsetX><later>0</later></node>
+</person>
+<person id="10089">
+<height>166</height>
+<node><frame>6</frame><rate>4</rate><offsetX>56</offsetX><offsetY>145</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>81</offsetX><offsetY>146</offsetY><moffsetX>88</moffsetX><later>0</later></node>
+</person>
+<person id="10090">
+<height>160</height>
+<node><frame>6</frame><rate>4</rate><offsetX>27</offsetX><offsetY>146</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>68</offsetX><offsetY>159</offsetY><moffsetX>86</moffsetX><later>0</later></node>
+</person>
+<person id="10091">
+<height>218</height>
+<node><frame>6</frame><rate>4</rate><offsetX>81</offsetX><offsetY>245</offsetY><moffsetX>135</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>69</offsetX><offsetY>263</offsetY><moffsetX>136</moffsetX><later>0</later></node>
+</person>
+<person id="10092">
+<height>191</height>
+<node><frame>6</frame><rate>4</rate><offsetX>60</offsetX><offsetY>171</offsetY><moffsetX>47</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>57</offsetX><offsetY>164</offsetY><moffsetX>105</moffsetX><later>0</later></node>
+</person>
+<person id="10093">
+<height>98</height>
+<node><frame>6</frame><rate>4</rate><offsetX>17</offsetX><offsetY>83</offsetY><moffsetX>19</moffsetX><later>0</later></node>
+</person>
+<person id="10094">
+<height>153</height>
+<node><frame>6</frame><rate>4</rate><offsetX>25</offsetX><offsetY>137</offsetY><moffsetX>25</moffsetX><later>0</later></node>
+</person>
+<person id="10095">
+<height>162</height>
+<node><frame>6</frame><rate>4</rate><offsetX>31</offsetX><offsetY>143</offsetY><moffsetX>26</moffsetX><later>0</later></node>
+</person>
+<person id="10096">
+<height>151</height>
+<node><frame>6</frame><rate>4</rate><offsetX>59</offsetX><offsetY>132</offsetY><moffsetX>43</moffsetX><later>0</later></node>
+</person>
+<person id="10097">
+<height>180</height>
+<node><frame>6</frame><rate>4</rate><offsetX>34</offsetX><offsetY>169</offsetY><moffsetX>36</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>71</offsetX><offsetY>161</offsetY><moffsetX>93</moffsetX><later>0</later></node>
+</person>
+<person id="10098">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>152</offsetY><moffsetX>50</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>87</offsetX><offsetY>153</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+<x0>960</x0><y0>100</y0><x1>1840</x1><y1>220</y1>
+</person>
+<person id="10099">
+<height>157</height>
+<node><frame>6</frame><rate>4</rate><offsetX>37</offsetX><offsetY>147</offsetY><moffsetX>93</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>53</offsetX><offsetY>153</offsetY><moffsetX>136</moffsetX><later>0</later></node>
+</person>
+<person id="10100">
+<height>177</height>
+<node><frame>6</frame><rate>4</rate><offsetX>57</offsetX><offsetY>164</offsetY><moffsetX>48</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>101</offsetX><offsetY>161</offsetY><moffsetX>59</moffsetX><later>0</later></node>
+</person>
+<person id="10101">
+<height>184</height>
+<node><frame>6</frame><rate>4</rate><offsetX>41</offsetX><offsetY>162</offsetY><moffsetX>24</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>53</offsetX><offsetY>155</offsetY><moffsetX>96</moffsetX><later>0</later></node>
+</person>
+<person id="10102">
+<height>167</height>
+<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>151</offsetY><moffsetX>50</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>71</offsetX><offsetY>140</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+</person>
+<person id="10103">
+<height>163</height>
+<node><frame>6</frame><rate>4</rate><offsetX>82</offsetX><offsetY>139</offsetY><moffsetX>69</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>104</offsetX><offsetY>149</offsetY><moffsetX>86</moffsetX><later>0</later></node>
+</person>
+<person id="10104">
+<height>182</height>
+<node><frame>6</frame><rate>4</rate><offsetX>35</offsetX><offsetY>171</offsetY><moffsetX>46</moffsetX><later>0</later></node>
+</person>
+<person id="10105">
+<height>173</height>
+<node><frame>6</frame><rate>4</rate><offsetX>53</offsetX><offsetY>152</offsetY><moffsetX>43</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>42</offsetX><offsetY>167</offsetY><moffsetX>93</moffsetX><later>0</later></node>
+</person>
+<person id="10106">
+<height>166</height>
+<node><frame>6</frame><rate>4</rate><offsetX>44</offsetX><offsetY>148</offsetY><moffsetX>31</moffsetX><later>0</later></node>
+</person>
+<person id="10107">
+<height>179</height>
+<node><frame>6</frame><rate>4</rate><offsetX>72</offsetX><offsetY>167</offsetY><moffsetX>76</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>99</offsetX><offsetY>186</offsetY><moffsetX>109</moffsetX><later>0</later></node>
+</person>
+<person id="10108">
+<height>177</height>
+<node><frame>6</frame><rate>4</rate><offsetX>59</offsetX><offsetY>156</offsetY><moffsetX>76</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>92</offsetX><offsetY>156</offsetY><moffsetX>128</moffsetX><later>0</later></node>
+</person>
+<person id="10109">
+<height>177</height>
+<node><frame>6</frame><rate>4</rate><offsetX>34</offsetX><offsetY>166</offsetY><moffsetX>32</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>63</offsetX><offsetY>156</offsetY><moffsetX>79</moffsetX><later>0</later></node>
+</person>
+<person id="20001">
+<height>147</height>
+<node><frame>1</frame><rate>1</rate><offsetX>79</offsetX><offsetY>124</offsetY><moffsetX>61</moffsetX><later>0</later></node>
+</person>
+<person id="20002">
+<height>88</height>
+<node><frame>1</frame><rate>1</rate><offsetX>54</offsetX><offsetY>78</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+</person>
+<person id="20003">
+<height>88</height>
+<node><frame>1</frame><rate>1</rate><offsetX>54</offsetX><offsetY>78</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+</person>
+<person id="20004">
+<height>88</height>
+<node><frame>1</frame><rate>1</rate><offsetX>54</offsetX><offsetY>78</offsetY><moffsetX>57</moffsetX><later>0</later></node>
+</person>
+<person id="10110">
+<height>170</height>
+<node><frame>6</frame><rate>4</rate><offsetX>55</offsetX><offsetY>159</offsetY><moffsetX>40</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>74</offsetX><offsetY>156</offsetY><moffsetX>80</moffsetX><later>0</later></node>
+</person>
+<person id="10111">
+<height>185</height>
+<node><frame>6</frame><rate>4</rate><offsetX>39</offsetX><offsetY>169</offsetY><moffsetX>33</moffsetX><later>0</later></node>
+</person>
+<person id="10112">
+<height>210</height>
+<node><frame>6</frame><rate>4</rate><offsetX>63</offsetX><offsetY>200</offsetY><moffsetX>76</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>78</offsetX><offsetY>186</offsetY><moffsetX>104</moffsetX><later>0</later></node>
+<x0>1380</x0><y0>100</y0><x1>1580</x1><y1>220</y1>
+</person>
+<person id="10113">
+<height>190</height>
+<node><frame>6</frame><rate>4</rate><offsetX>78</offsetX><offsetY>174</offsetY><moffsetX>83</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>129</offsetX><offsetY>195</offsetY><moffsetX>110</moffsetX><later>0</later></node>
+<x0>1600</x0><y0>100</y0><x1>1750</x1><y1>220</y1>
+</person>
+<person id="10114">
+<height>183</height>
+<node><frame>6</frame><rate>4</rate><offsetX>68</offsetX><offsetY>169</offsetY><moffsetX>49</moffsetX><later>0</later></node>
+</person>
+<person id="10115">
+<height>165</height>
+<node><frame>6</frame><rate>4</rate><offsetX>41</offsetX><offsetY>155</offsetY><moffsetX>29</moffsetX><later>0</later></node>
+</person>
+<person id="10116">
+<height>180</height>
+<node><frame>6</frame><rate>4</rate><offsetX>78</offsetX><offsetY>170</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>81</offsetX><offsetY>168</offsetY><moffsetX>96</moffsetX><later>0</later></node>
+<x0>1500</x0><y0>100</y0><x1>1800</x1><y1>220</y1>
+</person>
+<person id="10117">
+<height>146</height>
+<node><frame>6</frame><rate>4</rate><offsetX>25</offsetX><offsetY>131</offsetY><moffsetX>17</moffsetX><later>0</later></node>
+</person>
+<person id="10118">
+<height>153</height>
+<node><frame>6</frame><rate>4</rate><offsetX>16</offsetX><offsetY>141</offsetY><moffsetX>20</moffsetX><later>0</later></node>
+</person>
+<person id="10119">
+<height>162</height>
+<node><frame>6</frame><rate>4</rate><offsetX>34</offsetX><offsetY>144</offsetY><moffsetX>42</moffsetX><later>0</later></node>
+</person>
+<person id="10120">
+<height>176</height>
+<node><frame>6</frame><rate>4</rate><offsetX>61</offsetX><offsetY>161</offsetY><moffsetX>73</moffsetX><later>0</later></node>
+</person>
+<person id="20005">
+<height>176</height>
+<node><frame>1</frame><rate>4</rate><offsetX>124</offsetX><offsetY>136</offsetY><moffsetX>122</moffsetX><later>0</later></node>
+</person>
+<person id="10121">
+<height>170</height>
+<node><frame>12</frame><rate>4</rate><offsetX>103</offsetX><offsetY>211</offsetY><moffsetX>70</moffsetX><later>0</later></node>
+<node><frame>20</frame><rate>2</rate><offsetX>109</offsetX><offsetY>222</offsetY><moffsetX>79</moffsetX><later>0</later></node>
+</person>
+<person id="10122">
+<height>201</height>
+<node><frame>48</frame><rate>4</rate><offsetX>95</offsetX><offsetY>189</offsetY><moffsetX>157</moffsetX><later>0</later></node>
+<node><frame>60</frame><rate>2</rate><offsetX>93</offsetX><offsetY>149</offsetY><moffsetX>129</moffsetX><later>0</later></node>
+</person>
+<person id="10123">
+<height>185</height>
+<node><frame>12</frame><rate>4</rate><offsetX>120</offsetX><offsetY>170</offsetY><moffsetX>51</moffsetX><later>0</later></node>
+<node><frame>20</frame><rate>2</rate><offsetX>79</offsetX><offsetY>166</offsetY><moffsetX>48</moffsetX><later>0</later></node>
+</person>
+<person id="10124">
+<height>185</height>
+<node><frame>12</frame><rate>4</rate><offsetX>61</offsetX><offsetY>202</offsetY><moffsetX>70</moffsetX><later>0</later></node>
+<node><frame>20</frame><rate>2</rate><offsetX>51</offsetX><offsetY>179</offsetY><moffsetX>114</moffsetX><later>0</later></node>
+</person>
+<person id="10125">
+<height>178</height>
+<node><frame>6</frame><rate>4</rate><offsetX>65</offsetX><offsetY>163</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>62</offsetX><offsetY>159</offsetY><moffsetX>115</moffsetX><later>0</later></node>
+</person>
+<person id="10126">
+<height>200</height>
+<node><frame>6</frame><rate>4</rate><offsetX>62</offsetX><offsetY>184</offsetY><moffsetX>53</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>74</offsetX><offsetY>200</offsetY><moffsetX>92</moffsetX><later>0</later></node>
+</person>
+<person id="10127">
+<height>200</height>
+<node><frame>7</frame><rate>4</rate><offsetX>173</offsetX><offsetY>293</offsetY><moffsetX>171</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>173</offsetX><offsetY>292</offsetY><moffsetX>191</moffsetX><later>0</later></node>
+</person>
+<person id="10128">
+<height>188</height>
+<node><frame>6</frame><rate>4</rate><offsetX>71</offsetX><offsetY>171</offsetY><moffsetX>94</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>128</offsetX><offsetY>179</offsetY><moffsetX>129</moffsetX><later>0</later></node>
+</person>
+<person id="10129">
+<height>130</height>
+<node><frame>6</frame><rate>4</rate><offsetX>39</offsetX><offsetY>111</offsetY><moffsetX>44</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>4</rate><offsetX>40</offsetX><offsetY>116</offsetY><moffsetX>64</moffsetX><later>0</later></node>
+</person>
+<person id="10130">
+<height>150</height>
+<node><frame>6</frame><rate>4</rate><offsetX>83</offsetX><offsetY>135</offsetY><moffsetX>82</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>90</offsetX><offsetY>143</offsetY><moffsetX>88</moffsetX><later>0</later></node>
+</person>
+<person id="10131">
+<height>70</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>59</offsetY><moffsetX>35</moffsetX><later>0</later></node>
+<node><frame>13</frame><rate>2</rate><offsetX>40</offsetX><offsetY>63</offsetY><moffsetX>70</moffsetX><later>0</later></node>
+</person>
+<person id="10132">
+<height>100</height>
+<node><frame>6</frame><rate>4</rate><offsetX>41</offsetX><offsetY>84</offsetY><moffsetX>31</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>56</offsetX><offsetY>99</offsetY><moffsetX>34</moffsetX><later>0</later></node>
+</person>
+<person id="10137">
+<height>192</height>
+<node><frame>6</frame><rate>4</rate><offsetX>43</offsetX><offsetY>184</offsetY><moffsetX>85</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>63</offsetX><offsetY>177</offsetY><moffsetX>116</moffsetX><later>0</later></node>
+</person>
+<person id="10138">
+<height>160</height>
+<node><frame>6</frame><rate>4</rate><offsetX>62</offsetX><offsetY>167</offsetY><moffsetX>45</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>54</offsetX><offsetY>156</offsetY><moffsetX>52</moffsetX><later>0</later></node>
+</person>
+<person id="10139">
+<height>151</height>
+<node><frame>6</frame><rate>4</rate><offsetX>44</offsetX><offsetY>138</offsetY><moffsetX>40</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>68</offsetX><offsetY>144</offsetY><moffsetX>65</moffsetX><later>0</later></node>
+</person>
+<person id="10140">
+<height>210</height>
+<node><frame>6</frame><rate>4</rate><offsetX>92</offsetX><offsetY>201</offsetY><moffsetX>62</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>133</offsetX><offsetY>206</offsetY><moffsetX>164</moffsetX><later>0</later></node>
+<x0>1400</x0><y0>100</y0><x1>1800</x1><y1>220</y1>
+</person>
+<person id="10141">
+<height>131</height>
+<node><frame>6</frame><rate>4</rate><offsetX>31</offsetX><offsetY>120</offsetY><moffsetX>23</moffsetX><later>0</later></node>
+</person>
+<person id="10146">
+<node><frame>6</frame><rate>4</rate><offsetX>46</offsetX><offsetY>167</offsetY><moffsetX>36</moffsetX><later>0</later></node>
+</person>
+<person id="10153">
+<height>220</height>
+<node><frame>6</frame><rate>4</rate><offsetX>87</offsetX><offsetY>205</offsetY><moffsetX>50</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>113</offsetX><offsetY>208</offsetY><moffsetX>94</moffsetX><later>0</later></node>
+</person>
+<person id="10154">
+<height>220</height>
+<node><frame>6</frame><rate>4</rate><offsetX>82</offsetX><offsetY>202</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>127</offsetX><offsetY>203</offsetY><moffsetX>90</moffsetX><later>0</later></node>
+</person>
+<person id="10157">
+<height>207</height>
+<node><frame>6</frame><rate>4</rate><offsetX>65</offsetX><offsetY>190</offsetY><moffsetX>108</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>134</offsetX><offsetY>195</offsetY><moffsetX>157</moffsetX><later>0</later></node>
+</person>
+<person id="10158">
+<height>204</height>
+<node><frame>6</frame><rate>4</rate><offsetX>49</offsetX><offsetY>189</offsetY><moffsetX>44</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>101</offsetX><offsetY>189</offsetY><moffsetX>78</moffsetX><later>0</later></node>
+</person>
+<person id="10159">
+<height>193</height>
+<node><frame>6</frame><rate>4</rate><offsetX>64</offsetX><offsetY>180</offsetY><moffsetX>43</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>97</offsetX><offsetY>168</offsetY><moffsetX>97</moffsetX><later>0</later></node>
+</person>
+<person id="10160">
+<height>200</height>
+<node><frame>6</frame><rate>4</rate><offsetX>124</offsetX><offsetY>248</offsetY><moffsetX>97</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>194</offsetX><offsetY>188</offsetY><moffsetX>135</moffsetX><later>0</later></node>
+</person>
+<person id="10161">
+<height>190</height>
+<node><frame>6</frame><rate>4</rate><offsetX>51</offsetX><offsetY>184</offsetY><moffsetX>54</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>76</offsetX><offsetY>177</offsetY><moffsetX>100</moffsetX><later>0</later></node>
+</person>
+<person id="10163">
+<height>194</height>
+<node><frame>6</frame><rate>4</rate><offsetX>29</offsetX><offsetY>176</offsetY><moffsetX>37</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>4</rate><offsetX>106</offsetX><offsetY>194</offsetY><moffsetX>131</moffsetX><later>0</later></node>
+</person>
+<person id="10164">
+<height>230</height>
+<node><frame>6</frame><rate>4</rate><offsetX>63</offsetX><offsetY>224</offsetY><moffsetX>66</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>4</rate><offsetX>73</offsetX><offsetY>202</offsetY><moffsetX>147</moffsetX><later>0</later></node>
+</person>
+<person id="10165">
+<height>107</height>
+<node><frame>6</frame><rate>4</rate><offsetX>79</offsetX><offsetY>89</offsetY><moffsetX>55</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>117</offsetX><offsetY>87</offsetY><moffsetX>85</moffsetX><later>0</later></node>
+</person>
+<person id="10166">
+<height>100</height>
+<node><frame>6</frame><rate>4</rate><offsetX>43</offsetX><offsetY>94</offsetY><moffsetX>71</moffsetX><later>0</later></node>
+<node><frame>11</frame><rate>2</rate><offsetX>89</offsetX><offsetY>160</offsetY><moffsetX>87</moffsetX><later>0</later></node>
+</person>
+<person id="30001">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>360</x0><y0>75</y0><x1>1720</x1><y1>150</y1>
+</person>
+<person id="30002">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>420</x0><y0>75</y0><x1>1600</x1><y1>180</y1>
+</person>
+<person id="30003">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>500</x0><y0>75</y0><x1>1680</x1><y1>180</y1>
+</person>
+<person id="30004">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>580</x0><y0>75</y0><x1>1760</x1><y1>180</y1>
+</person>
+<person id="30005">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>660</x0><y0>75</y0><x1>1840</x1><y1>180</y1>
+</person>
+<person id="30006">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>740</x0><y0>75</y0><x1>1920</x1><y1>180</y1>
+</person>
+<person id="30007">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>620</x0><y0>100</y0><x1>1800</x1><y1>220</y1>
+</person>
+<person id="30008">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>700</x0><y0>100</y0><x1>1880</x1><y1>220</y1>
+</person>
+<person id="30009">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>780</x0><y0>100</y0><x1>1760</x1><y1>220</y1>
+</person>
+<person id="30010">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>660</x0><y0>100</y0><x1>1840</x1><y1>220</y1>
+</person>
+<person id="30011">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>720</x0><y0>100</y0><x1>1800</x1><y1>220</y1>
+</person>
+<person id="30012">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>680</x0><y0>100</y0><x1>1860</x1><y1>220</y1>
+</person>
+<person id="30013">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>540</x0><y0>100</y0><x1>1420</x1><y1>220</y1>
+</person>
+<person id="30014">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>600</x0><y0>100</y0><x1>1880</x1><y1>220</y1>
+</person>
+<person id="30015">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>660</x0><y0>100</y0><x1>1940</x1><y1>220</y1>
+</person>
+<person id="30016">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>720</x0><y0>100</y0><x1>1600</x1><y1>220</y1>
+</person>
+<person id="30017">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>800</x0><y0>100</y0><x1>1680</x1><y1>220</y1>
+</person>
+<person id="30018">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>780</x0><y0>100</y0><x1>1760</x1><y1>220</y1>
+</person>
+<person id="30019">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>960</x0><y0>100</y0><x1>1840</x1><y1>220</y1>
+</person>
+<person id="30020">
+<height>164</height>
+<node><frame>6</frame><rate>4</rate><offsetX>36</offsetX><offsetY>153</offsetY><moffsetX>77</moffsetX><later>0</later></node>
+<node><frame>34</frame><rate>1</rate><offsetX>49</offsetX><offsetY>157</offsetY><moffsetX>84</moffsetX><later>0</later></node>
+<x0>1040</x0><y0>100</y0><x1>1920</x1><y1>220</y1>
+</person>
+<person id="10142">
+<height>130</height>
+<node><frame>9</frame><rate>4</rate><offsetX>65</offsetX><offsetY>124</offsetY><moffsetX>49</moffsetX><later>0</later></node>
+</person>
+<person id="10148">
+<height>185</height>
+<node><frame>6</frame><rate>4</rate><offsetX>30</offsetX><offsetY>167</offsetY><moffsetX>74</moffsetX><later>0</later></node>
+<node><frame>14</frame><rate>2</rate><offsetX>65</offsetX><offsetY>161</offsetY><moffsetX>122</moffsetX><later>0</later></node>
+</person>
+<person id="10149">
+<height>173</height>
+<node><frame>6</frame><rate>4</rate><offsetX>54</offsetX><offsetY>160</offsetY><moffsetX>50</moffsetX><later>0</later></node>
+</person>
+<person id="10150">
+<height>125</height>
+<node><frame>6</frame><rate>4</rate><offsetX>30</offsetX><offsetY>117</offsetY><moffsetX>62</moffsetX><later>0</later></node>
+</person>
+<person id="10151">
+<height>150</height>
+<node><frame>8</frame><rate>4</rate><offsetX>128</offsetX><offsetY>130</offsetY><moffsetX>86</moffsetX><later>0</later></node>
+<node><frame>16</frame><rate>2</rate><offsetX>128</offsetX><offsetY>130</offsetY><moffsetX>86</moffsetX><later>0</later></node>
+</person>
+<person id="10152">
+<height>80</height>
+<node><frame>6</frame><rate>4</rate><offsetX>21</offsetX><offsetY>66</offsetY><moffsetX>22</moffsetX><later>0</later></node>
+<node><frame>12</frame><rate>2</rate><offsetX>26</offsetX><offsetY>60</offsetY><moffsetX>32</moffsetX><later>0</later></node>
+</person>
+
+
+
+
+
+
+
+
+
+			//海贼景观
+			<person id="hzjg1">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>140</offsetY><moffsetX>368</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg2">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>154</offsetY><moffsetX>576</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg3">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>128</offsetY><moffsetX>339</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg4">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>128</offsetY><moffsetX>530</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg5">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>99</offsetY><moffsetX>278</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg6">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>155</offsetY><moffsetX>351</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg7">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>87</offsetY><moffsetX>543</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg8">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>105</offsetY><moffsetX>522</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg9">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>83</offsetY><moffsetX>678</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg10">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>104</offsetY><moffsetX>308</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg11">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>124</offsetY><moffsetX>279</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg12">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>176</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg13">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>127</offsetY><moffsetX>298</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg14">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>77</offsetY><moffsetX>279</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg15">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>78</offsetY><moffsetX>268</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg16">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>102</offsetY><moffsetX>334</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg17">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>185</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg18">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>296</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg19">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>176</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg20">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>127</offsetY><moffsetX>298</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg21">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>77</offsetY><moffsetX>279</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg22">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>78</offsetY><moffsetX>268</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg23">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>102</offsetY><moffsetX>334</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg24">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>185</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg25">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>114</offsetY><moffsetX>296</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg26">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>159</offsetY><moffsetX>302</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg27">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>99</offsetY><moffsetX>403</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg28">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>128</offsetY><moffsetX>321</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg29">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>138</offsetY><moffsetX>340</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg30">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>98</offsetY><moffsetX>392</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg31">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>139</offsetY><moffsetX>669</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg32">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>139</offsetY><moffsetX>482</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg33">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>228</offsetY><moffsetX>270</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg34">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>164</offsetY><moffsetX>353</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg35">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>73</offsetY><moffsetX>363</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg36">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>290</offsetY><moffsetX>347</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg37">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>210</offsetY><moffsetX>147</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg38">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>126</offsetY><moffsetX>226</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg39">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>29</offsetY><moffsetX>333</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg40">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>65</offsetY><moffsetX>311</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg41">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>148</offsetY><moffsetX>716</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg42">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>136</offsetY><moffsetX>938</moffsetX><later>0</later></node>
+			</person>
+<person id="hzjg43">				
+				<node><noshadow>true</noshadow><frame>1</frame><rate>1</rate><offsetX>0</offsetX><offsetY>154</offsetY><moffsetX>2000</moffsetX><later>0</later></node>
+			</person>
+
+
+		</root>;
+      
+      private static var sceneInfo:XML = <root>
+		
+<scene id='2002'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2013</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>350</y><targetId>2003</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2001'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2014</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>350</y><targetId>2002</targetId><targetX>150</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2003'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2017</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>380</y><targetId>2004</targetId><targetX>150</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='3001'>
+<width>2000</width><height>600</height><x>0</x><y>240</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>3001</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1840</x><y>320</y><targetId>2003</targetId><targetX>190</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='3002'>
+<width>2000</width><height>600</height><x>0</x><y>270</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>3002</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1850</x><y>350</y><targetId>2003</targetId><targetX>100</targetX><targetY>85</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2004'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2015</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>335</y><targetId>2005</targetId><targetX>160</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2005'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2005</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>380</y><targetId>2006</targetId><targetX>160</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2006'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2016</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>350</y><targetId>2007</targetId><targetX>160</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2007'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2018</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>350</y><targetId>2008</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2008'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2006</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1840</x><y>340</y><targetId>2009</targetId><targetX>190</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+<item>
+<x>1853</x><y>270</y><id>hzjg37</id>
+</item>
+<item>
+<x>270</x><y>270</y><id>hzjg34</id>
+</item>
+<item>
+<x>0</x><y>270</y><id>hzjg33</id>
+</item>
+<item>
+<x>1143</x><y>270</y><id>hzjg35</id>
+</item>
+<item>
+<x>1506</x><y>270</y><id>hzjg36</id>
+</item>
+</object>
+<whole></whole>
+</scene>
+<scene id='2009'>
+<width>2000</width><height>600</height><x>0</x><y>360</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2019</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>400</y><targetId>2010</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2010'>
+<width>2000</width><height>600</height><x>0</x><y>270</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2020</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>320</y><targetId>2011</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2011'>
+<width>2000</width><height>600</height><x>0</x><y>240</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2009</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>330</y><targetId>2012</targetId><targetX>160</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2012'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2012</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>380</y><targetId>2013</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2013'>
+<width>2000</width><height>600</height><x>0</x><y>330</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2021</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>380</y><targetId>2014</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2014'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>2022</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>380</y><targetId>2015</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='2015'>
+<width>2000</width><height>600</height><x>0</x><y>270</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4006</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>1820</x><y>330</y><targetId>2016</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4001'>
+<width>2000</width><height>600</height><x>0</x><y>300</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4001</url></image></images>
+</node>
+</floor>
+<rects>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4002'>
+<width>1000</width><height>600</height><x>0</x><y>240</y><wwidth>1000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4002</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>880</x><y>380</y><targetId>2001</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4003'>
+<width>1000</width><height>600</height><x>0</x><y>240</y><wwidth>1000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4002</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>880</x><y>380</y><targetId>2001</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4004'>
+<width>1000</width><height>600</height><x>0</x><y>240</y><wwidth>1000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4002</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>880</x><y>380</y><targetId>2001</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4005'>
+<width>1000</width><height>600</height><x>0</x><y>240</y><wwidth>1000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4002</url></image></images>
+</node>
+</floor>
+<rects>
+<rect>
+<x>880</x><y>380</y><targetId>2001</targetId><targetX>100</targetX><targetY>100</targetY><positionX>-1</positionX><positionY>-1</positionY>
+</rect>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4006'>
+<width>2000</width><height>600</height><x>0</x><y>270</y><wwidth>2000</wwidth><wheight>600</wheight>
+<mapGrid>
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4006</url></image></images>
+</node>
+</floor>
+<rects>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+<scene id='4007'>
+<width>1000</width><height>600</height><x>0</x><y>300</y><wwidth>1000</wwidth><wheight>600</wheight>
+<mapGrid>
+0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1</mapGrid>
+<floor>
+<node>
+<speed>1</speed>
+<images><image><x>0</x><y>0</y><url>4007</url></image></images>
+</node>
+</floor>
+<rects>
+</rects>
+<object>
+</object>
+<whole></whole>
+</scene>
+		
+		</root>;
+      
+      private static var sceneImageInfo:XML = <root>
+<person id='2001'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2002'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2003'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2004'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2005'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2006'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2007'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2008'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2009'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2010'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2011'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2012'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='3001'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='3002'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='4001'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2013'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2014'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2015'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2016'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2017'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2018'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2019'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2020'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2021'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='2022'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='4002'>
+<hCount>5</hCount><vCount>3</vCount>
+</person>
+<person id='4006'>
+<hCount>10</hCount><vCount>3</vCount>
+</person>
+<person id='4007'>
+<hCount>5</hCount><vCount>3</vCount>
+</person>
+			
+		</root>;
+      
+      public function SceneConfig()
+      {
+         super();
+      }
+      
+      public static function getSceneImageInfo(url:String) : Array
+      {
+         var info:Array = null;
+         var image:XMLList = null;
+         info = new Array();
+         image = sceneImageInfo.person.(@id == url);
+         info.push(parseInt(image.hCount));
+         info.push(parseInt(image.vCount));
+         return info;
+      }
+      
+      private static function getPath(scene:SceneConfigInfo) : Array
+      {
+         var result:Array = new Array();
+         while(true)
+         {
+            result.push(scene.sceneId);
+            if(scene.preScene == 0)
+            {
+               break;
+            }
+            scene = getScenePoint(scene.preScene);
+         }
+         return result;
+      }
+      
+      public static function getPersonImageInfo(url:String) : Array
+      {
+         var info:Array = null;
+         var xml:XML = null;
+         var person:XMLList = null;
+         var shadow:Boolean = false;
+         var node:XML = null;
+         info = new Array();
+         xml = personImageInfo.person.(@id == url)[0];
+         person = xml.node;
+         for each(node in person)
+         {
+            shadow = Boolean(String(node.noshadow));
+            info.push(parseInt(node.frame));
+            info.push(parseInt(node.rate));
+            info.push(parseInt(node.offsetX));
+            info.push(parseInt(node.offsetY));
+            info.push(parseInt(node.moffsetX));
+         }
+         info.unshift(shadow);
+         info.unshift(parseInt(xml.height));
+         if(xml.x0)
+         {
+            info.push([xml.x0,xml.y0,xml.x1,xml.y1]);
+         }
+         return info;
+      }
+      
+      public static function checkScene() : void
+      {
+         HttpServerManager.getInstance().callServer("sceneService","sceneCheck",resolveCheckScene,[DataManager.Instance.role.roleId,DataManager.Instance.role.roleStatus],false);
+      }
+      
+      private static function getScenePoint(sceneId:int) : SceneConfigInfo
+      {
+         var scene:XMLList = null;
+         var rect:XML = null;
+         var npcs:Array = null;
+         var npc:NPCChangeSceneData = null;
+         var result:SceneConfigInfo = sceneDictionary[sceneId];
+         if(result == null)
+         {
+            scene = sceneInfo.scene.(@id == String(sceneId));
+            result = new SceneConfigInfo();
+            result.sceneId = sceneId;
+            for each(rect in scene.rects.children())
+            {
+               result.nexts.push(parseInt(rect.targetId));
+            }
+            npcs = NPCChanges[sceneId];
+            for each(npc in npcs)
+            {
+               result.nexts.push(npc.targetId);
+            }
+            sceneDictionary[sceneId] = result;
+            result.pointAmount = 99999;
+         }
+         return result;
+      }
+      
+      public static function resolveNPCChangeScene(infos:Object) : void
+      {
+         var info:Object = null;
+         var scene:NPCChangeSceneData = null;
+         var npc:NPCData = null;
+         var next:Array = null;
+         for each(info in infos)
+         {
+            scene = new NPCChangeSceneData();
+            npc = Global.npcs[info.cfgNpcId];
+            if(npc)
+            {
+               scene.resolveNPCChangeScene(info);
+               scene.sceneId = npc.sceneId;
+               scene.currentX = npc.posX;
+               scene.currentY = npc.posY;
+               next = NPCChanges[scene.sceneId];
+               if(!next)
+               {
+                  next = new Array();
+                  NPCChanges[scene.sceneId] = next;
+               }
+               next.push(scene);
+            }
+         }
+      }
+      
+      private static function checkPoint(stopId:int) : Array
+      {
+         var scene:SceneConfigInfo = null;
+         var sceneId:int = 0;
+         var sceneType:int = 0;
+         var next:SceneConfigInfo = null;
+         var minScene:SceneConfigInfo = new SceneConfigInfo();
+         for each(scene in needCheckScene)
+         {
+            sceneType = getSceneType(scene.sceneId);
+            if(minScene.pointAmount > scene.pointAmount && (sceneType == 1 || scene.sceneId == stopId))
+            {
+               minScene = scene;
+            }
+         }
+         if(minScene.sceneId == 0)
+         {
+            return null;
+         }
+         needCheckScene.removeItemAt(needCheckScene.getItemIndex(minScene));
+         if(minScene.sceneId == stopId)
+         {
+            return getPath(minScene).reverse();
+         }
+         for each(sceneId in minScene.nexts)
+         {
+            next = getScenePoint(sceneId);
+            if(next.pointAmount > minScene.pointAmount + 1)
+            {
+               next.pointAmount = minScene.pointAmount + 1;
+               next.preScene = minScene.sceneId;
+               needCheckScene.addItem(next);
+            }
+         }
+         return checkPoint(stopId);
+      }
+      
+      public static function getSceneType(sceneId:int) : int
+      {
+         return scenes[sceneId];
+      }
+      
+      public static function getSceneInfo(sceneId:int) : Array
+      {
+         var info:Array = null;
+         var scene:XMLList = null;
+         var floorsdata:Array = null;
+         var floors:XMLList = null;
+         var node:XML = null;
+         var rectsdata:Array = null;
+         var rects:XMLList = null;
+         var rect:XML = null;
+         var images:XMLList = null;
+         var image:XML = null;
+         var floor:Array = null;
+         var objsdata:Array = null;
+         var objs:XMLList = null;
+         var obj:XML = null;
+         var objdata:Array = null;
+         var rectdata:Array = null;
+         info = new Array();
+         scene = sceneInfo.scene.(@id == String(sceneId));
+         info.push(parseInt(scene.width));
+         info.push(parseInt(scene.height));
+         info.push(parseInt(scene.x));
+         info.push(parseInt(scene.y));
+         info.push(parseInt(scene.wwidth));
+         info.push(parseInt(scene.wheight));
+         floorsdata = new Array();
+         floors = scene.floor.node;
+         for each(node in floors)
+         {
+            images = node.images.children();
+            for each(image in images)
+            {
+               floor = new Array();
+               floor.push(parseInt(image.x));
+               floor.push(parseInt(image.y));
+               floor.push(image.url.toString());
+               floorsdata.push(floor);
+            }
+         }
+         info.push(floorsdata);
+         if(String(scene.mapGrid) != "")
+         {
+            info.push(String(scene.mapGrid));
+            objsdata = [];
+            objs = scene.object.children();
+            for each(obj in objs)
+            {
+               objdata = [];
+               objdata.push(parseInt(obj.x));
+               objdata.push(parseInt(obj.y));
+               objdata.push(String(obj.id));
+               objsdata.push(objdata);
+            }
+            info.push(objsdata);
+         }
+         rectsdata = new Array();
+         rects = scene.rects.children();
+         for each(rect in rects)
+         {
+            rectdata = new Array();
+            rectdata.push(parseInt(rect.x));
+            rectdata.push(parseInt(rect.y));
+            rectdata.push(parseInt(rect.targetId));
+            rectdata.push(parseInt(rect.targetX));
+            rectdata.push(parseInt(rect.targetY));
+            rectdata.push(parseInt(rect.positionX));
+            rectdata.push(parseInt(rect.positionY));
+            rectsdata.push(rectdata);
+         }
+         info.push(rectsdata);
+         info.push(NPCChanges[sceneId]);
+         return info;
+      }
+      
+      private static function resolveCheckScene(e:ResultEvent) : void
+      {
+         var sceneId:int = 0;
+         for each(sceneId in e.result.can_pass_list)
+         {
+            scenes[sceneId] = 1;
+         }
+         for each(sceneId in e.result.need_camp_list)
+         {
+            scenes[sceneId] = 2;
+         }
+         for each(sceneId in e.result.unavailable_list)
+         {
+            scenes[sceneId] = 3;
+         }
+         SceneManager.getInstance().refreshChangeScene();
+      }
+      
+      public static function findPath(startId:int, stopId:int) : Array
+      {
+         var scene:SceneConfigInfo = null;
+         var start:SceneConfigInfo = null;
+         needCheckScene.removeAll();
+         for each(scene in sceneDictionary)
+         {
+            scene.pointAmount = 99999;
+         }
+         start = getScenePoint(startId);
+         start.pointAmount = 0;
+         start.preScene = 0;
+         needCheckScene.addItem(start);
+         return checkPoint(stopId);
+      }
+   }
+}
+

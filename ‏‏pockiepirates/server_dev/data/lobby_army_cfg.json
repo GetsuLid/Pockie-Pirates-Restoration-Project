@@ -1,0 +1,2002 @@
+[
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80001,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 1,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80002,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 2,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80003,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 3,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80004,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 4,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80005,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 5,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80006,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 6,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80007,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 7,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80008,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 8,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80009,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 9,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80010,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 10,
+    "lobbyTitle": 1,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80011,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 11,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80012,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 12,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80013,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 13,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80014,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 14,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80015,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 15,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80017,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 17,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80016,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 16,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80019,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 19,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 900,
+    "cfgArmyId": 80018,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 18,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80021,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 21,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2000,
+    "cfgArmyId": 80020,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 20,
+    "lobbyTitle": 2,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80023,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 23,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80022,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 22,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80025,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 25,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80024,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 24,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80027,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 27,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80026,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 26,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80029,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 29,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80028,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 28,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80031,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 31,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2000,
+    "cfgArmyId": 80030,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 30,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80034,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 34,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80035,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 35,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80032,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 32,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80033,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 33,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80038,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 38,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80039,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 39,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80036,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 36,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1000,
+    "cfgArmyId": 80037,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 37,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80042,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 42,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80043,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 43,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2200,
+    "cfgArmyId": 80040,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 40,
+    "lobbyTitle": 3,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80041,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 41,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80046,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 46,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80047,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 47,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80044,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 44,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80045,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 45,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80051,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 51,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2200,
+    "cfgArmyId": 80050,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 50,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80049,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 49,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80048,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 48,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80055,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 55,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80054,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 54,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80053,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 53,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80052,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 52,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80059,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 59,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80058,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 58,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80057,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 57,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1100,
+    "cfgArmyId": 80056,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 56,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80063,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 63,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80062,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 62,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80061,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 61,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2400,
+    "cfgArmyId": 80060,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 60,
+    "lobbyTitle": 4,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80068,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 68,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80069,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 69,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2400,
+    "cfgArmyId": 80070,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 70,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80071,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 71,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80064,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 64,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80065,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 65,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80066,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 66,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80067,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 67,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80076,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 76,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80077,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 77,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80078,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 78,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80079,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 79,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80072,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 72,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80073,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 73,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80074,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 74,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1200,
+    "cfgArmyId": 80075,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 75,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80085,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 85,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80084,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 84,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80087,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 87,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80086,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 86,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80081,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 81,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2600,
+    "cfgArmyId": 80080,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 80,
+    "lobbyTitle": 5,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80083,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 83,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80082,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 82,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80093,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 93,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80092,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 92,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80095,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 95,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80094,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 94,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80089,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 89,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80088,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 88,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80091,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 91,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2600,
+    "cfgArmyId": 80090,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 90,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80102,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 102,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80103,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 103,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2800,
+    "cfgArmyId": 80100,
+    "itemAmount": 2,
+    "itemId": 300196,
+    "order": 100,
+    "lobbyTitle": 6,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80101,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 101,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80098,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 98,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80099,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 99,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80096,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 96,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1300,
+    "cfgArmyId": 80097,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 97,
+    "lobbyTitle": 0,
+    "npc": 1
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 2800,
+    "cfgArmyId": 80110,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 110,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80111,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 111,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80108,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 108,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80109,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 109,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80106,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 106,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80107,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 107,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80104,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 104,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80105,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 105,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80119,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 119,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80118,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 118,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80117,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 117,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80116,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 116,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80115,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 115,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80114,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 114,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80113,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 113,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1400,
+    "cfgArmyId": 80112,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 112,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80127,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 127,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80126,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 126,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80125,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 125,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80124,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 124,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80123,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 123,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80122,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 122,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80121,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 121,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3000,
+    "cfgArmyId": 80120,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 120,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80137,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 137,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80136,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 136,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80139,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 139,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80138,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 138,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80141,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 141,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3200,
+    "cfgArmyId": 80140,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 140,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80143,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 143,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80142,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 142,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80129,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 129,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80128,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 128,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80131,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 131,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3000,
+    "cfgArmyId": 80130,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 130,
+    "lobbyTitle": 7,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80133,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 133,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80132,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 132,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80135,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 135,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1500,
+    "cfgArmyId": 80134,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 134,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80152,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 152,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80153,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 153,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80154,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 154,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80155,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 155,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80156,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 156,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80157,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 157,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80158,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 158,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80159,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 159,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80144,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 144,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80145,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 145,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80146,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 146,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80147,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 147,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80148,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 148,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80149,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 149,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3200,
+    "cfgArmyId": 80150,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 150,
+    "lobbyTitle": 8,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1600,
+    "cfgArmyId": 80151,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 151,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80171,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 171,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3400,
+    "cfgArmyId": 80170,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 170,
+    "lobbyTitle": 9,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80169,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 169,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80168,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 168,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80175,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 175,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80174,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 174,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80173,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 173,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80172,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 172,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80163,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 163,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80162,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 162,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80161,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 161,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3400,
+    "cfgArmyId": 80160,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 160,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80167,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 167,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80166,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 166,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80165,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 165,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80164,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 164,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80186,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 186,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80187,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 187,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80184,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 184,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80185,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 185,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3600,
+    "cfgArmyId": 80190,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 190,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80191,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 191,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80188,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 188,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80189,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 189,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80178,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 178,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80179,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 179,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80176,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 176,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1700,
+    "cfgArmyId": 80177,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 177,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80182,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 182,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80183,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 183,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3600,
+    "cfgArmyId": 80180,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 180,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80181,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 181,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": true,
+    "rewardExploit": 3800,
+    "cfgArmyId": 80200,
+    "itemAmount": 4,
+    "itemId": 300196,
+    "order": 200,
+    "lobbyTitle": 10,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80197,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 197,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80196,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 196,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1900,
+    "cfgArmyId": 80199,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 199,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80198,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 198,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80193,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 193,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80192,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 192,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80195,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 195,
+    "lobbyTitle": 0,
+    "npc": 2
+  },
+  {
+    "isBoss": false,
+    "rewardExploit": 1800,
+    "cfgArmyId": 80194,
+    "itemAmount": 0,
+    "itemId": 0,
+    "order": 194,
+    "lobbyTitle": 0,
+    "npc": 2
+  }
+]

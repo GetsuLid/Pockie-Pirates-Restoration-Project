@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Pockie Pirates — חילוץ נכסים</title>
+<style>
+  body { font-family: system-ui, sans-serif; background: #1a1a2e; color: #eee; margin: 0; padding: 20px; }
+  h1 { color: #ffd166; }
+  h2 { color: #ef476f; margin-top: 40px; border-bottom: 2px solid #444; padding-bottom: 8px; }
+  .summary { background: #16213e; padding: 16px; border-radius: 8px; margin-bottom: 24px; line-height: 1.7; }
+  .grid { display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+  .grid.icons { grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); }
+  .grid img { width: 100%; height: auto; background: repeating-conic-gradient(#3a3a5e 0 25%, #444 0 50%) 50%/16px 16px; cursor: pointer; transition: transform 0.1s; border-radius: 4px; }
+  .grid img:hover { transform: scale(1.5); position: relative; z-index: 10; box-shadow: 0 8px 24px rgba(0,0,0,0.6); }
+  .tabs { display: flex; gap: 4px; margin-bottom: 16px; }
+  .tabs button { background: #16213e; color: #aaa; border: none; padding: 10px 16px; border-radius: 4px; cursor: pointer; font-size: 14px; }
+  .tabs button.active { background: #ef476f; color: white; }
+  audio { width: 100%; margin: 4px 0; }
+  .sound-item { background: #16213e; padding: 12px; border-radius: 6px; margin-bottom: 8px; }
+  .hidden { display: none; }
+  details { background: #16213e; padding: 12px; border-radius: 6px; margin-top: 8px; }
+  details pre { white-space: pre-wrap; max-height: 400px; overflow-y: auto; font-size: 12px; }
+</style>
+</head>
+<body>
+<h1>🏴‍☠️ Pockie Pirates — נכסים שחולצו מה־APK</h1>
+<div class="summary">
+  פוצח פורמט הארכיון <code>NetDragonDatPkg</code>: 56 קבצי <code>data.tpd.*</code> חוברו ל־58MB דחוסים, נפתחו לזרמי zlib (1533 בלוקים של 2MB), וחולצו מתוכם הקבצים. סך הכל:
+  <ul>
+    <li><strong>203 אטלסי טקסטורות</strong> (PVR בפורמט RGBA4444 הומרו ל־PNG, רובם 1024×1024)</li>
+    <li><strong>768 PNGs בודדים</strong> (אייקונים, רכיבי UI, פורטרטים)</li>
+    <li><strong>4 קבצי שמע</strong> (MP3 מתוך תיקיית sound)</li>
+    <li>קבצי טקסט וקונפיגורציה — שמות פריטים, מסכי GUI, מדריך משחק</li>
+  </ul>
+</div>
+
+<div class="tabs">
+  <button onclick="showTab('atlases')" class="active" id="t-atlases">אטלסים (203)</button>
+  <button onclick="showTab('icons')" id="t-icons">אייקונים (768)</button>
+  <button onclick="showTab('sound')" id="t-sound">שמע (4)</button>
+  <button onclick="showTab('text')" id="t-text">טקסטים</button>
+</div>
+
+<div id="atlases" class="section">
+  <h2>אטלסי טקסטורות</h2>
+  <p style="color:#aaa">אלה גליונות־אטלס גדולים שמכילים סצנות, רקעים, דמויות ואלמנטי משחק. עכשיו בפורמט PNG שאפשר לפתוח כל מציג תמונות.</p>
+  <div class="grid" id="atlases-grid"></div>
+</div>
+
+<div id="icons" class="section hidden">
+  <h2>אייקונים ורכיבי UI</h2>
+  <div class="grid icons" id="icons-grid"></div>
+</div>
+
+<div id="sound" class="section hidden">
+  <h2>קבצי שמע</h2>
+  <div id="sound-list"></div>
+</div>
+
+<div id="text" class="section hidden">
+  <h2>קבצי טקסט וקונפיגורציה</h2>
+  <div id="text-list"></div>
+</div>
+
+<script>
+const ATLASES_COUNT = 203;
+const ICONS_COUNT = 768;
+const SOUND_FILES = ['FightMusic.mp3','WarMusic.mp3','creat.mp3','scene1.mp3'];
+const TEXT_FILES = ['battleperson.xml','normalperson.xml','sceneconfig.xml','scenelimit.xml','language_zh.ini','gui.ini'];
+
+function pad5(n){return String(n).padStart(5,'0')}
+const atGrid = document.getElementById('atlases-grid');
+for(let i=0;i<ATLASES_COUNT;i++){
+  const img = document.createElement('img');
+  img.loading = 'lazy';
+  // we don't know dimensions per file - use a wildcard; we'll fix below
+  img.dataset.idx = i;
+  atGrid.appendChild(img);
+}
+// Resolve actual filenames by trying common dimensions
+// Since most are 1024x1024, default to that; if missing, fallback handled by onerror
+document.querySelectorAll('#atlases-grid img').forEach((img, i) => {
+  img.src = `atlases/img_${pad5(i)}_1024x1024.png`;
+  img.onerror = function(){
+    // try other sizes
+    const tries = ['512x512','2048x2048','256x256','128x128'];
+    let t = 0;
+    img.onerror = function(){
+      if(t < tries.length){ img.src = `atlases/img_${pad5(i)}_${tries[t++]}.png`; }
+      else { img.style.opacity = 0.2; img.alt = 'X'; }
+    };
+    img.src = `atlases/img_${pad5(i)}_${tries[t++]}.png`;
+  };
+});
+
+const icGrid = document.getElementById('icons-grid');
+for(let i=0;i<ICONS_COUNT;i++){
+  const img = document.createElement('img');
+  img.loading = 'lazy';
+  img.src = `icons/img_${pad5(i)}.png`;
+  icGrid.appendChild(img);
+}
+
+const sl = document.getElementById('sound-list');
+SOUND_FILES.forEach(name => {
+  const div = document.createElement('div');
+  div.className = 'sound-item';
+  div.innerHTML = `<strong>${name}</strong><audio controls src="sound/${name}"></audio>`;
+  sl.appendChild(div);
+});
+
+const tl = document.getElementById('text-list');
+TEXT_FILES.forEach(name => {
+  const det = document.createElement('details');
+  det.innerHTML = `<summary>${name}</summary><pre id="pre-${name.replace(/\W/g,'_')}">טוען...</pre>`;
+  tl.appendChild(det);
+  fetch(`text/${name}`).then(r => r.text()).then(t => {
+    document.getElementById(`pre-${name.replace(/\W/g,'_')}`).textContent = t.slice(0, 50000);
+  }).catch(() => {});
+});
+
+function showTab(name){
+  document.querySelectorAll('.section').forEach(s => s.classList.add('hidden'));
+  document.getElementById(name).classList.remove('hidden');
+  document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+  document.getElementById('t-' + name).classList.add('active');
+}
+</script>
+</body>
+</html>

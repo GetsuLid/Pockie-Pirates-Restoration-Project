@@ -1,0 +1,1502 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: JuyVKq94jyK6GhOSaZftFDgB0QE=
+Created-By: 1.6.0_23 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: gVhJc5CB9QS5UYwx6/5YNDBhycs=
+
+Name: res/drawable/nd3_button_x.xml
+SHA1-Digest: i0fFJ4+/uisgEOro8ds8WlWwu+8=
+
+Name: res/drawable-hdpi/nd_slider_handle_v_1.9.png
+SHA1-Digest: DjBbvQ2Rb7JYoh7obDrnlfBIhPE=
+
+Name: res/drawable/nd3_button_x1.png
+SHA1-Digest: GaGsmTqFyFhPP/U6SLctu1bsyJQ=
+
+Name: assets/Env/ini/languageGuide_zh.ini
+SHA1-Digest: SDckeSjTF3izIDb7xHT2advclG4=
+
+Name: res/layout/nd3_thirdplatform_item.xml
+SHA1-Digest: TOq9STfG4pYaSrV6acvqiG85JJE=
+
+Name: res/drawable/nd3_image82.png
+SHA1-Digest: dOGjikpK8eJ24J7D/BMYWzjSH6Q=
+
+Name: res/drawable/nd_slider_handle_v.xml
+SHA1-Digest: GoPyVH2Nc+mwmG9OwT8DvBnGHy0=
+
+Name: res/drawable/tq_back.png
+SHA1-Digest: 5N6flzXt/OUb/cfxckrtoUyNALM=
+
+Name: res/layout/nd3_message_friendmsge_list.xml
+SHA1-Digest: hFfW1rzxqIhXd07sBaLlPWoY4LU=
+
+Name: res/drawable/nd_btn_add.png
+SHA1-Digest: 2/9V8n37f1swmdcx8wfJlckAZ7w=
+
+Name: res/drawable/nd_btn_reduce.png
+SHA1-Digest: 0B2jXEGWAx9cjUOl3X9o8pRv8sk=
+
+Name: res/layout/nd3_listview_template.xml
+SHA1-Digest: VhiZscLvSknHhgxdU/6STICJ+B4=
+
+Name: res/layout/nd_softpromotion_slider_item.xml
+SHA1-Digest: Rd7MFukVBAzBJdon4CynpvihAmE=
+
+Name: res/layout/nd3_activity_action_template.xml
+SHA1-Digest: Zbr+miBNkVFRIx62jRXwkx385Gg=
+
+Name: assets/Env/ini/NewGuide_hd.xml
+SHA1-Digest: 4fEidwDtpjW2WsUXEQ9tyvKMiRs=
+
+Name: res/layout/nd3_user_message.xml
+SHA1-Digest: Wl7yoqxRVD9uhsAcNjqGf1mP5Gw=
+
+Name: res/drawable/nd_xline.png
+SHA1-Digest: f2IpR5Y0l3sUq6G4AgA/UA9cTMc=
+
+Name: res/drawable/nd3_icon_point.png
+SHA1-Digest: GD67oHKCdX4bQY5waWTNrtM9pSQ=
+
+Name: assets/Env/ani/skill_effect.ani
+SHA1-Digest: D7zts+R1+VvUldnxea4X5sZ5DFc=
+
+Name: res/layout/nd3_more_info.xml
+SHA1-Digest: KgOYBrD0otY1QQ6Tbinc6a151rI=
+
+Name: res/drawable/nd3_icon_more03.png
+SHA1-Digest: fJaU28mZ+XcKdl1oUClCjT5/bXw=
+
+Name: res/drawable/nd3_icon11.png
+SHA1-Digest: vgI6ZHhulCbNV+VLj7XZhDyxWUE=
+
+Name: res/drawable/nd_slider_handle_v_expand.xml
+SHA1-Digest: XpMcD1Fj2s+heGIv/jkYtM7qSNY=
+
+Name: res/drawable/nd3_headbar.png
+SHA1-Digest: R7PpAGIz97zmyCXyxdafqPSuu4s=
+
+Name: res/drawable/nd_goods_no_stock.png
+SHA1-Digest: R7gRZfcVhB2UpAm1st/BP01YdBM=
+
+Name: res/drawable/nd3_maingame_1.png
+SHA1-Digest: BzFu+5DOefB3AmQYj6h/g5MV92w=
+
+Name: res/drawable/nd3_rank_choice_middle_2.9.png
+SHA1-Digest: pDBc/tthEka7OjVqGTcQXKtg8SQ=
+
+Name: res/drawable/nd3_showplayer.png
+SHA1-Digest: MpVe52T5PbaC8jPSp1KeLFzzJEE=
+
+Name: assets/Env/ini/package.ini
+SHA1-Digest: Oq8p2sjuee2bqK7pMQBAbrGOIIM=
+
+Name: res/drawable/nd3_rank_1.png
+SHA1-Digest: T2WwMUSkLAQst6AOCSSv65/r5zQ=
+
+Name: res/drawable/nd3_button_bg_dis.png
+SHA1-Digest: Mxq9D9xFhognSH6aXjqQRrFWMVI=
+
+Name: assets/Env/conf/scenelimit.xml
+SHA1-Digest: FLblhD195FUR/cs1s2Ubfgvkx90=
+
+Name: res/drawable/nd3_search_layout_bg.9.png
+SHA1-Digest: HjBl2NFNffa2KsYiK6bTQ2PaTF8=
+
+Name: res/drawable/nd3_rank_choice_right_btn_bg.xml
+SHA1-Digest: ZVM+Tvxbu1kef9VzzxS0oPJMX9k=
+
+Name: res/layout/nd_bind_phone_number_result.xml
+SHA1-Digest: QQUq0eIDzCmpeOnlPk0tpbGcrVQ=
+
+Name: res/layout/nd3_friend_section_list_item.xml
+SHA1-Digest: WrrdzIc0Qj19ItkR4pL57GN/71o=
+
+Name: assets/Env/sound/FightMusic.mp3
+SHA1-Digest: BNliYIZnlh7iPilK2CA9E9hAWYo=
+
+Name: res/drawable/nd3_rank_choice_left_btn_bg.xml
+SHA1-Digest: +ZonAMCbHaQcAB/sOQKGlNdzbN0=
+
+Name: res/drawable-hdpi/nd_slider_next_h.png
+SHA1-Digest: qahaDTwzSr0YWmGu8XpTi2e0DaE=
+
+Name: res/drawable/nd3_rank_choice_left_2.9.png
+SHA1-Digest: jNtAy0NCWF5riRykC8hbV3au//s=
+
+Name: res/layout/nd_softwarepromotion.xml
+SHA1-Digest: wpo2Il25969notmAh4JebCAcuZQ=
+
+Name: res/drawable/nd3_icon_22.png
+SHA1-Digest: wLRJcjPcuUIJIhY/+75JfQg6o5E=
+
+Name: res/layout/nd3_account_official_landscape.xml
+SHA1-Digest: OPPzhEDstreb54M8RsA4Qw6OfwY=
+
+Name: res/layout/nd3_activity_no_action_template.xml
+SHA1-Digest: dPeTGecx8p00KhqVMhLfvBIjLFA=
+
+Name: res/drawable-hdpi/nd_flip_bg.png
+SHA1-Digest: 9cejZkygOLbUh9EJaWu8GlU+Zdg=
+
+Name: res/layout/nd3_more_account.xml
+SHA1-Digest: SnVazkZerExFZBUag+B9lxBP4J0=
+
+Name: res/drawable/nd3_checkbox_button.xml
+SHA1-Digest: PE26Lm6FY44KfhHE5XUBzb7S1TM=
+
+Name: res/layout/nd3_more_info_edit_head_dialog.xml
+SHA1-Digest: YvyjvRNacr7e4WYectmGkRP19QA=
+
+Name: res/drawable/nd_white_btn_1.9.png
+SHA1-Digest: 15kswvjKm6RtmhT9SX3ytbmtavU=
+
+Name: res/layout/nd3_share_bind_account_item.xml
+SHA1-Digest: N6sArdKPU6WmUiVFkKrQ0yL/IHA=
+
+Name: res/drawable/nd3_bk1.9.png
+SHA1-Digest: C7+2LANhpDHhlTMjWsxVNpvSE+Y=
+
+Name: res/layout/nd3_activity_detail_plus_list_ext.xml
+SHA1-Digest: Ny1wiune5fTFXRZo46k2hjlIhQs=
+
+Name: assets/Env/data.tpi
+SHA1-Digest: F5t7XxQ4nVGBaOZz4ISpzny6Thg=
+
+Name: res/drawable-hdpi/nd_slider_handle_h_1.9.png
+SHA1-Digest: 9A750tW98Fkb/CgyOHJD5EUwaA8=
+
+Name: assets/Env/conf/appstoreproduct.ini
+SHA1-Digest: tiVgy40P65DhVSjEkwUJKQqEQ2E=
+
+Name: res/drawable/nd3_button_02.xml
+SHA1-Digest: aaXOD56HuJ5bYvFTwg8uzb3IOlk=
+
+Name: res/drawable-hdpi/nd_slider_handle_v_2_expand.9.png
+SHA1-Digest: ODVgStr9Wk9UzvYFe416FpVwV1g=
+
+Name: res/drawable/nd3_background.png
+SHA1-Digest: rA3cCld+MV4fYNiWDhSFYMol5Ek=
+
+Name: res/layout/nd3_account_bind_bind.xml
+SHA1-Digest: 580bWyNyw/PWACyWyYzr7XSFxvk=
+
+Name: res/layout/nd_goods_list_item.xml
+SHA1-Digest: fyhJSY0hvi3s9HbyP87zayQpYow=
+
+Name: res/drawable/nd_blue.xml
+SHA1-Digest: jIZitgn1jwtPjbQUjZpES91zRNQ=
+
+Name: res/layout/nd3_account_official.xml
+SHA1-Digest: FYZt1lGvzy5BaLyLUVQhIafufMU=
+
+Name: res/layout/nd3_friend_home.xml
+SHA1-Digest: UNtB0uOMgz/JHjJPDGZlXVIxRVk=
+
+Name: res/layout/nd3_dispatch_search_friend.xml
+SHA1-Digest: WEhyFV4vHT2Tx3xfgxsvpjmn2/M=
+
+Name: res/layout/nd3_more_records_item.xml
+SHA1-Digest: H8YIxAHUJAu+RDHG3zdR1GcQw7A=
+
+Name: res/layout/nd3_home.xml
+SHA1-Digest: 5rgFzkLuQHJ4kyC4owM3oSIMCQ8=
+
+Name: res/layout/nd_unbind_phone_number.xml
+SHA1-Digest: txQJTvQUffCehRQg74jQl6wxaL4=
+
+Name: res/layout/nd3_user_message_switcher.xml
+SHA1-Digest: gZ9PrznKUulo3KGO+VUSxcUhdX4=
+
+Name: assets/NdChannelId.xml
+SHA1-Digest: 0qRNKXSOz6PYxqNif9lUw7sESKk=
+
+Name: res/drawable/nd_btn_reduce_press.png
+SHA1-Digest: 99m0CIUs6B8pBq4r3Sp3HKDvNP0=
+
+Name: res/layout/nd_leaderboard_list_header.xml
+SHA1-Digest: 6hR090w2Yuh4yjLfFtM+eJeiBrc=
+
+Name: res/drawable/tq_exit.png
+SHA1-Digest: /xAT+65NizU3csgDgRGxeMQ8UrI=
+
+Name: res/layout/nd3_account_oauth_bind.xml
+SHA1-Digest: BI3U87NryXxXWjqFDC6fuPIvwXU=
+
+Name: res/layout/nd3_activity_head_reg.xml
+SHA1-Digest: 3smbAh6UgxDGR7Z4+ChOVsAWbMU=
+
+Name: res/drawable/nd3_round_bg.xml
+SHA1-Digest: gq79iTpmrE4HIED9jsn+YqFHtXU=
+
+Name: res/layout/nd3_control_center.xml
+SHA1-Digest: deCFvYZuKwrQkCqVTV2ko7NnbpE=
+
+Name: res/drawable/nd3_banner.9.png
+SHA1-Digest: MXVDqoKzQDk3elWGQJ5cNrbVfSM=
+
+Name: res/drawable/nd3_maingame_2.png
+SHA1-Digest: C/SwDC37nIfm7yc7BWAIGsQ7Yzw=
+
+Name: res/layout/nd3_progressbar.xml
+SHA1-Digest: vjmGtA+77RPwDP6C3SdX7j+8sZo=
+
+Name: res/drawable/nd3_button_old.xml
+SHA1-Digest: mw4oef06BuJk9Rn4Z4Ix2bpRg+4=
+
+Name: assets/Env/ani/icon.ani
+SHA1-Digest: vXgalRpcL9kQNXYPvHvsWZqgR1Y=
+
+Name: res/layout/nd3_account_bind_register.xml
+SHA1-Digest: qr+LghmUhfMFYi6pel1n83fvuFo=
+
+Name: res/layout/nd3_activity_content_reg_template_4.xml
+SHA1-Digest: CN4FH35hRviRtXATOtSdO+Oia4k=
+
+Name: res/drawable/nd_direct_logo.png
+SHA1-Digest: skaGq6yG5Jvvr/wmw6SInBvYFyw=
+
+Name: res/drawable/nd_leaderboard_left_2.9.png
+SHA1-Digest: vnF5rZ/H3MXD7mUeQrb/jgPKyYU=
+
+Name: res/drawable/nd3_button2.png
+SHA1-Digest: DK05pfIRmKGB4sx9G/1ZiasfMeU=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: p/yTY4Rn8L/p0SmPq8mzz7W+DwA=
+
+Name: res/layout/nd3_user_fangle.xml
+SHA1-Digest: fVD/GHlavYtw5Na45eW1z8yLuQE=
+
+Name: res/layout/nd3_more_recharges.xml
+SHA1-Digest: HdDhctCS9UezeduSWBRcJO90JMM=
+
+Name: res/layout/nd3_empty_listview.xml
+SHA1-Digest: ejdWI3w0Ydps1q7BSVwabgH/Cjc=
+
+Name: res/drawable/nd3_bbs_icon.png
+SHA1-Digest: GcaCws+IsHMmLWoeCWqIGdH466w=
+
+Name: res/layout/nd3_listview_footer_ext.xml
+SHA1-Digest: md4TIzVO344/faMGkUUD0tL08BQ=
+
+Name: res/layout/nd3_account_official_portrait.xml
+SHA1-Digest: j2nbZuC8ANZO2H8t8wNXzyRvSCs=
+
+Name: assets/Env/ani/eliteperson.ani
+SHA1-Digest: rVHkfFysT6Aq5oloc1HSgZo5xN0=
+
+Name: res/layout/nd3_recharge_record.xml
+SHA1-Digest: XOwwMv0wf8ZjaFaxwHe6xcajyNM=
+
+Name: res/drawable/nd3_redbtn_down.9.png
+SHA1-Digest: jLtf141f+JbTJW2vcH21mq8gKy8=
+
+Name: res/drawable/nd3_icon_05.png
+SHA1-Digest: alz/5JmzltNLOAWXBW+lkRqB7qM=
+
+Name: assets/Env/splites.xml
+SHA1-Digest: 9hBW3yOHG6pglvdr36siMp1oafs=
+
+Name: res/layout/nd3_more_no_password.xml
+SHA1-Digest: a7qB7Ezb7a8iSIs3kfnQSCW6398=
+
+Name: assets/Env/conf/normalperson.xml
+SHA1-Digest: YnluyHSHw93ncOyiDf42gLIrLZk=
+
+Name: res/anim/nd_flipin_reverse.xml
+SHA1-Digest: NpVPwnuKbgdFwveTeehPar/q2vk=
+
+Name: res/drawable/nd3_list_bg.9.png
+SHA1-Digest: DTnxxjEOUwD/TfnDKGeFL0188B4=
+
+Name: res/layout/nd_leaderboard_switcher_portrait_1.xml
+SHA1-Digest: VOODaVwvRL5DoAoLjQUAs/l6yF8=
+
+Name: res/drawable/nd_blue1.9.png
+SHA1-Digest: qd+VdFlyuiGd88V/ac7O3No99p8=
+
+Name: res/drawable/nd3_line.9.png
+SHA1-Digest: OYJ4VssjTfI0kntpJ/dqj8zQ97Q=
+
+Name: assets/Env/data.tpd.15
+SHA1-Digest: KdbD8vOPh1VRmOw3FW+JFZ/mBos=
+
+Name: assets/Env/data.tpd.16
+SHA1-Digest: eGGy3zXQfLVgtV4ZupZs3FZGHJE=
+
+Name: assets/Env/data.tpd.17
+SHA1-Digest: JMhKrJREm2x0m1NfIbRm5HgR55Y=
+
+Name: assets/Env/data.tpd.18
+SHA1-Digest: mKiU9geM6FApPeLDWHyO0XstsVc=
+
+Name: assets/Env/data.tpd.19
+SHA1-Digest: UD++bvCBcAmKPTlCKRp1XFPuNkE=
+
+Name: res/anim/nd_flipin.xml
+SHA1-Digest: 6nfKdpnUFJdUgpoVML397MYoGCU=
+
+Name: res/layout/nd3_personinfo.xml
+SHA1-Digest: m4PaV8sM+CthhpHVqAFDTIIZk3A=
+
+Name: res/layout/nd3_account_email_item.xml
+SHA1-Digest: DB9bLQg70m5iD/I71oA9LA1mmQs=
+
+Name: assets/Env/ani/common.ani
+SHA1-Digest: zVFFPUX/sXJ+oipDq7s7GRG01Hk=
+
+Name: res/drawable/nd3_mainfriend_1.png
+SHA1-Digest: USnbrr3U5k28msXNAdPvcj8ujiw=
+
+Name: res/drawable/nd_warn.png
+SHA1-Digest: 3yiPJdui/bexK2CsG6DE8ww8BnE=
+
+Name: assets/Env/data.tpd.21
+SHA1-Digest: UdSNFTQ8u01XcPH82tD/XJlQzgI=
+
+Name: assets/Env/data.tpd.20
+SHA1-Digest: 2HSOdI9UUpxoQOigJ/FQoFcaBNI=
+
+Name: assets/Env/data.tpd.23
+SHA1-Digest: aEP7cz5IlRL40aUvfHBhsKuf8EI=
+
+Name: assets/Env/data.tpd.22
+SHA1-Digest: pYvgr66yfJeSQ3YdFyu8uUoMOzY=
+
+Name: res/layout/nd3_more_consume_detail.xml
+SHA1-Digest: IbrDcldIEmMyyKzGI3mTTsRI5KY=
+
+Name: assets/Env/data.tpd.25
+SHA1-Digest: GT9R1WiIUxKhkOf7EzGolOlCpcE=
+
+Name: assets/Env/data.tpd.24
+SHA1-Digest: 1Lxssbtmeis09/nOfcX2xnVHQ8Y=
+
+Name: res/layout/nd3_version_update.xml
+SHA1-Digest: 1i1nGmwQGN3c9TS79MC78CVEHZY=
+
+Name: res/layout/nd3_game_main.xml
+SHA1-Digest: juDhsOR1FbPPHPW/l8ZDfFb5j90=
+
+Name: res/drawable/nd_ad.png
+SHA1-Digest: +6UXK1gDEfR1kyauolU1LhNreSo=
+
+Name: assets/Env/ini/strings_en.ini
+SHA1-Digest: I7I5lNqQegFwpkwJN0FzSfEPpos=
+
+Name: res/drawable/nd3_icon_more06.png
+SHA1-Digest: RfhO3ybanzwJ/rkbkJChlt/QVt4=
+
+Name: assets/Env/ani/ui.ani
+SHA1-Digest: nxXV2SMbc2haMifdGlafPisuBc8=
+
+Name: res/drawable/nd3_icon_06.png
+SHA1-Digest: klcTotxDOhK1U5uyBN6WlqchjII=
+
+Name: res/drawable/nd3_invite_image.png
+SHA1-Digest: y+dQvofemyynWRItaxK/DwDJloM=
+
+Name: assets/Env/conf/battleperson.xml
+SHA1-Digest: foCgaB3SucI+7lVHWYldSb9tON0=
+
+Name: res/drawable/nd_c_blur2.9.png
+SHA1-Digest: jN23aX6ZkhSi0WC/LBMZlvfU1v0=
+
+Name: assets/Env/data.tpd.10
+SHA1-Digest: TLfKmx/JhQ8/T/HATxyV3QVp5Cs=
+
+Name: res/layout/nd3_game_content.xml
+SHA1-Digest: 9JSNfLCmh+qzMwPa2oOuJmXk4E4=
+
+Name: assets/Env/data.tpd.14
+SHA1-Digest: 2cy7d5c/2PVm7Zj/BKFcVtT2Fkk=
+
+Name: assets/Env/data.tpd.13
+SHA1-Digest: MD3hmsZzwAMzojwSw3dJI3evPEY=
+
+Name: assets/Env/data.tpd.12
+SHA1-Digest: Y6KqCr1nZxusE+6ysHhlpfnv61c=
+
+Name: assets/Env/data.tpd.11
+SHA1-Digest: RM8pWgmhK4vLxuf2dOGiwbgkalg=
+
+Name: res/drawable/curserver_android.png
+SHA1-Digest: RfzUK/aaVxeLRtmmrgGD5II9RMY=
+
+Name: res/drawable/nd3_bg.png
+SHA1-Digest: G8MTUWZX0fPgzWRTtWEhkB8pORA=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RmynkX81hyHgAizrubsI38KXfzM=
+
+Name: assets/Env/ini/c3.wdb
+SHA1-Digest: Ip5r5k+RU90XZG0ID2OSv3JcU3Q=
+
+Name: res/layout/nd_bind_phone_number.xml
+SHA1-Digest: XlBc1dbTV2oZFTrVDQ/A5wZ+s38=
+
+Name: res/drawable/nd3_pay_checkbox_button.xml
+SHA1-Digest: G1FPIt5fqY2wCu/bTPkZdSEpBxQ=
+
+Name: res/layout/nd3_app_property.xml
+SHA1-Digest: RmkuJDJqmpjayLoxoJT1td1I7Dw=
+
+Name: res/drawable/nd3_platform_logo.png
+SHA1-Digest: 1IGXquya9iAWAtNliHT8mHGab1U=
+
+Name: assets/Env/ini/font.ini
+SHA1-Digest: K3J+YsapzMdkOyA3E3M4QQeJnXY=
+
+Name: res/layout/nd3_account_register_quick.xml
+SHA1-Digest: YMpyTd/oq0/UpwT7OnWQhZk+LN0=
+
+Name: res/drawable/nd3_progress_large.xml
+SHA1-Digest: rRtWZbrZ0xP5lKL5GforrDblqHo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: qA58NSbXFsmcC740sBh3IGgYa6o=
+
+Name: assets/Env/data.tpd.3
+SHA1-Digest: 9aQ4aaTjhdY5o9fGFQ7bP+2Y/x8=
+
+Name: assets/Env/data.tpd.2
+SHA1-Digest: hgkdFg5YsXvTp9Cg3MA3Dhxab84=
+
+Name: assets/Env/data.tpd.1
+SHA1-Digest: 6W5pamlRlFZ1+teF0mjRZxC6PmU=
+
+Name: assets/Env/ani/personbattle.ani
+SHA1-Digest: okA/qz+bPJyuSEky01R3FM0CDZA=
+
+Name: assets/Env/data.tpd.7
+SHA1-Digest: ldKPfahiZScqain5uMLBrSX3Z5Y=
+
+Name: res/layout/nd3_banner_layout.xml
+SHA1-Digest: ZE+FAI0RFe+H5y/LvgZgYB4wVJg=
+
+Name: assets/Env/data.tpd.6
+SHA1-Digest: B7UyfafdcqcRf1UqpkbbLLy8VsY=
+
+Name: assets/Env/data.tpd.5
+SHA1-Digest: hCBnjKamL5AWqB9gL64y11hq7G4=
+
+Name: assets/Env/data.tpd.4
+SHA1-Digest: SV6jsCtxDdL7n7D1hGxjT2dIyvI=
+
+Name: res/drawable/nd_green1.9.png
+SHA1-Digest: pXBGcGoOChesKSLT1GRw2ejh36o=
+
+Name: assets/Env/data.tpd.9
+SHA1-Digest: FMc3xCmpaqNUtdV1MslJidNtndY=
+
+Name: res/layout/nd3_pay_friend_item.xml
+SHA1-Digest: Jr6jmQtJAvajVB4jtjM4h4HswA8=
+
+Name: assets/Env/data.tpd.8
+SHA1-Digest: 9TZVfsr6MkC1cQ07TOS5ymLGPus=
+
+Name: res/drawable/nd3_bnt_01.9.png
+SHA1-Digest: AaRnh8bUmeoNUBpWufusKGVVYTg=
+
+Name: res/layout/nd3_pay_template.xml
+SHA1-Digest: NKzx9Ht0YRsI1pmasmvPC+TKOqU=
+
+Name: res/drawable/nd3_switch_image.png
+SHA1-Digest: HEQsWZwoOOiAt7UyaGGvTrxgeOY=
+
+Name: res/layout/nd3_pay_password_check.xml
+SHA1-Digest: P/IWqULInn/QbgbH1hDjJV3moq4=
+
+Name: res/drawable/nd3_button_long_press.9.png
+SHA1-Digest: WvifWxaexwhr3/KSyNt2pq3TKjs=
+
+Name: classes.dex
+SHA1-Digest: zq4OXTwa31CYBvRNob2fdk+n5do=
+
+Name: assets/Env/conf/onepiece.dll.2
+SHA1-Digest: 80oQJ2sDUmCo8+ebk6gk5Eq4Ozs=
+
+Name: res/layout/nd3_home_portrait.xml
+SHA1-Digest: 0jmO7HcNRwj6tGlc8/F8jpxOpJI=
+
+Name: assets/Env/conf/onepiece.dll.1
+SHA1-Digest: sfDxCWLdjYIWi3GKV6ITKGy8Sq8=
+
+Name: assets/Env/ini/gui.ini
+SHA1-Digest: 5BuJRfx8Q63o0jBEZs1TBFd05SI=
+
+Name: res/drawable/nd3_achieve.png
+SHA1-Digest: KwCOQSKIvVp4Ig+5Ep9G/yU66bo=
+
+Name: res/layout/nd_bind_phone_lottery.xml
+SHA1-Digest: 113bYNIcC2QDPYrrMW6CbQwZuf4=
+
+Name: res/layout/nd3_activity_content_reg_template_2.xml
+SHA1-Digest: i0dpGjPTrs+KOShEKbITGa/+1Fk=
+
+Name: assets/Env/ani/skillimg_effect.ani
+SHA1-Digest: /7gxGm5M8gwgc7EydImaWSQZiy0=
+
+Name: res/drawable/nd_login_btn_land_selector.xml
+SHA1-Digest: i97AOqKSjpGotLxhIgHjeDYrTOY=
+
+Name: res/drawable/nd3_3rd_platform_icon_more.png
+SHA1-Digest: kJ3kt74QWbIBsgUY2U3L+IsmX2g=
+
+Name: res/layout/nd3_sysmessage_detail_no_action.xml
+SHA1-Digest: xOi9dihf+lexQqyC+vEuNa30EfU=
+
+Name: res/drawable/nd3_horizontal_line.9.png
+SHA1-Digest: g5zyvehAUYHWUgINJT0BKqa0GRE=
+
+Name: res/layout/tq_webdlg.xml
+SHA1-Digest: DjT5nUnrwnZLfwVbC68Ktyr9KtM=
+
+Name: assets/Env/ani/team.ani
+SHA1-Digest: Xph7AMoaPXLyTdnZEOzKi+sPvUQ=
+
+Name: res/drawable/nd_green.xml
+SHA1-Digest: qOhHsLOmvfxxevMo+kgUrkjFCOo=
+
+Name: res/drawable/nd3_vertical_line.png
+SHA1-Digest: s51TVBfjV+uJ5hfr6Ry+7+4IAZk=
+
+Name: res/drawable/nd3_msge_owen.9.png
+SHA1-Digest: FDtCHgf8uUjP7yDn0zN9kFNZwVo=
+
+Name: res/drawable/nd3_title_bar_return_btn.9.png
+SHA1-Digest: SmphxUkq57m4TUj9Nqi0CZQNHnc=
+
+Name: res/drawable/tq_startbg.png
+SHA1-Digest: qpW6GKbbsHrwsAsvRtMcLxUQHo8=
+
+Name: res/layout/nd_softpromotion_slider_h.xml
+SHA1-Digest: E3ls4L2PXOBNZWAh7gRTZw7Z4Hc=
+
+Name: res/drawable/nd3_game_head.png
+SHA1-Digest: Lf/eNLOa7mqWKu00VADg9YF/00g=
+
+Name: res/drawable/nd3_message_item_1_bg.xml
+SHA1-Digest: e77yud6Apg4pM5SF6vtzhFwd1/0=
+
+Name: res/drawable/nd3_game_detail.png
+SHA1-Digest: wnc8EKE6FtJAKXwqSWdkxzLFdJw=
+
+Name: res/layout/nd3_user_fangle_ext.xml
+SHA1-Digest: gXKsnpB+k1UPwmSKzx0itbweoI0=
+
+Name: res/layout/nd3_invite_friend_item.xml
+SHA1-Digest: pfWIn0b/yW8igvwmtESSaGHcQTA=
+
+Name: res/layout/nd3_more_records.xml
+SHA1-Digest: 1/m7M5pHduDr7zw1/gZlSaxx8q8=
+
+Name: res/drawable/nd3_head_bg.png
+SHA1-Digest: k+N+HKARsMSnwo0kqoymSe60DWQ=
+
+Name: res/layout/nd_leaderboard_switcher_landscape_1.xml
+SHA1-Digest: rq6+xBeP7xdZbxTvDZ46nDw2R0s=
+
+Name: res/drawable/nd_slider_handle_h.xml
+SHA1-Digest: XFOLmec6tUtvpUcWqunPa+LY2Zg=
+
+Name: res/layout/nd3_activity_content_reg_template_2_ext.xml
+SHA1-Digest: R4AlZHpZDBzd8WEgoIhg54tuF+g=
+
+Name: res/anim/nd_flipout.xml
+SHA1-Digest: zKT7y+tl9ABCcA9Zqc9GKheaALg=
+
+Name: res/drawable/nd_login_btn_normal_land.9.png
+SHA1-Digest: ucPMA+DYWPz1vw20zwwepx+VFA4=
+
+Name: res/drawable/nd3_close.png
+SHA1-Digest: zamZcMzHqyxGIvrtUN3fcXxgp0s=
+
+Name: assets/Env/data.tpd.49
+SHA1-Digest: 4ifLBfaXbssurgrc6Tvvlc2bF4s=
+
+Name: assets/Env/data.tpd.48
+SHA1-Digest: wlQYFEN6laar2YE5or52Fo+SjPI=
+
+Name: res/drawable-hdpi/nd_slider_handle_h_2_expand.9.png
+SHA1-Digest: Tl+dNyfv0YTtPk60D1gjh766Bbc=
+
+Name: res/drawable/nd_goods_limit_stock.png
+SHA1-Digest: rq4tHlwbd6SQuUBxEKiup9SwZ34=
+
+Name: assets/Env/data.tpd.53
+SHA1-Digest: 3+0g4suMxtJOfg5ms7cPvBh+r5k=
+
+Name: res/drawable/nd3_icon_more04.png
+SHA1-Digest: U/joo2MY3gXpRRRvMstzkSXKNSA=
+
+Name: assets/Env/data.tpd.54
+SHA1-Digest: wfQwouCP7NKceygMaWDKR5RZ0FE=
+
+Name: res/layout/nd_check_version.xml
+SHA1-Digest: /4vcoPzUzOkrSjplmgcLpZ2RFpU=
+
+Name: assets/Env/data.tpd.51
+SHA1-Digest: VVgvjY5BMvV8Pzs7fzJOC3gSRM4=
+
+Name: assets/Env/data.tpd.52
+SHA1-Digest: 8tFrlEOvYYlwiXExr1ea3gQf7/g=
+
+Name: assets/Env/ani/scenebg.ani
+SHA1-Digest: 4oUjpjjleenr2XX3P5GboEjdUnQ=
+
+Name: res/drawable/nd3_rank_3.png
+SHA1-Digest: gmDV2E4o46SZz/WyTStCzFHfzxw=
+
+Name: res/drawable/nd_leaderboard_right_2.9.png
+SHA1-Digest: 5aZlgq5zuQfT2lkOr1HN+vwpQog=
+
+Name: res/layout/nd3_write_message.xml
+SHA1-Digest: RSMRwj/HDWFzlojmkfM4E5HIcAc=
+
+Name: assets/Env/data.tpd.55
+SHA1-Digest: fksCF0iGrr3EeZJ102PjG/ClXsA=
+
+Name: assets/Env/data.tpd.56
+SHA1-Digest: E6jfv7BlmAHH7z+KEwtLBnutKBc=
+
+Name: res/layout/nd3_activity_detail_plus_list.xml
+SHA1-Digest: dmz4pqH7s6Ezb1l41bmLrZFAg74=
+
+Name: res/drawable/nd3_rank_choice_middle_btn_bg.xml
+SHA1-Digest: H11Imlzapjfch+cUCNhzEupzAcA=
+
+Name: res/drawable/ship.png
+SHA1-Digest: iDcxVS+W7xajCBONh/gkezWUWWg=
+
+Name: res/drawable/nd3_game_face.png
+SHA1-Digest: SioVUmTPUJTDyzGvdfNWiuYiVWk=
+
+Name: assets/Env/data.tpd.50
+SHA1-Digest: MRt9Xy0ttp9JQ8uFetj1S6n5RtA=
+
+Name: lib/armeabi/libOnePiece.so
+SHA1-Digest: oaOVqu7C4aJgYcdlKv+oJx/K3lM=
+
+Name: res/drawable/nd3_title_bar_action_btn_pressed.9.png
+SHA1-Digest: oPBqXrSYFil6G+UVeQ5raEnQsl0=
+
+Name: res/layout/nd3_more_password.xml
+SHA1-Digest: y4oAj5rzC1lWfSlPxNxHg/HB6e4=
+
+Name: res/drawable/nd_register_btn_portrait_selector.xml
+SHA1-Digest: T1MlsttDoK3+skpKRElGCcoJlq4=
+
+Name: res/layout/nd3_searchfriend_condition.xml
+SHA1-Digest: 8KLn8RggbfjVm0Ptn3492Agb+qU=
+
+Name: res/drawable/nd3_title_bar_bg.9.png
+SHA1-Digest: dkQ3RzXGOAjyR7FC3ciQR3yYgJ8=
+
+Name: assets/Env/data.tpd.38
+SHA1-Digest: IjX6QHfcrkPVp3MB8gZRUKfqq08=
+
+Name: assets/Env/data.tpd.37
+SHA1-Digest: jEMRjagUDYb9DYpx/evfMq6Bvjw=
+
+Name: res/layout/nd_set_password.xml
+SHA1-Digest: GWJuz90dbRpu1JTcTlHF5I1Gfj8=
+
+Name: assets/Env/data.tpd.39
+SHA1-Digest: /Sriks4Fn2Z9MxlrNf5VjZsEgGc=
+
+Name: assets/Env/data.tpd.44
+SHA1-Digest: Zu5khU44umUpTxfC8ME5tbcxz/w=
+
+Name: assets/Env/data.tpd.45
+SHA1-Digest: PRB+wW6cdnrVmblNLqJqidVWIzw=
+
+Name: assets/Env/data.tpd.46
+SHA1-Digest: vM6Kap5Jr1YU4+poQkeU/ux5Pv0=
+
+Name: assets/Env/data.tpd.47
+SHA1-Digest: Icz2OtontGnGClkCVg9MG/mv82A=
+
+Name: res/layout/nd3_more_consumes.xml
+SHA1-Digest: 7E1H/UiOuYU64vdVkheKlRyWzcg=
+
+Name: assets/Env/data.tpd.40
+SHA1-Digest: lpTmtwv/tC74oaHH3pVyeeU2R10=
+
+Name: assets/Env/data.tpd.41
+SHA1-Digest: Cy+2StNSX0iKKiJR0NB+6Rg3+fE=
+
+Name: assets/Env/data.tpd.42
+SHA1-Digest: 9XCDFFRgPtmO4HxyWGR2dcfKB5k=
+
+Name: assets/Env/data.tpd.43
+SHA1-Digest: 0j29/oFlCT1tGWrGOSvnJl2lltE=
+
+Name: assets/Env/ini/languagelstGuide.ini
+SHA1-Digest: nBOdYzM0Bm1XzPpO9UKexZVNspg=
+
+Name: res/drawable/nd3_button_bg_dis02.png
+SHA1-Digest: 8OwIa/9Q7KtG52W2rg2kZrbHnrg=
+
+Name: res/drawable/nd_gamecoin.png
+SHA1-Digest: 8wFcdbYlWwJM3uzlRVyfS/3TtGM=
+
+Name: res/drawable/tq_gif_frame_btn_bg.png
+SHA1-Digest: VL9BLcDkxIHN7/ubJdlR33LwAfo=
+
+Name: res/layout/nd3_sysmessage_head_reg.xml
+SHA1-Digest: WafEe8SEhrBzOqK9sUKvIqWvp24=
+
+Name: res/drawable/nd3_icon_error.png
+SHA1-Digest: eeAwC0G0cHrxiKiuFUMURSxBntA=
+
+Name: res/drawable/nd3_button_long.9.png
+SHA1-Digest: QnYAMzbmZU+gCsiuJv3yVuk72yA=
+
+Name: res/layout/nd3_more_permission.xml
+SHA1-Digest: 7yBlRBN++6103Ku6+ZQerjznjV0=
+
+Name: res/drawable-hdpi/nd_download_1.9.png
+SHA1-Digest: 1P1ro/p1vqH3q7v3XN6jB4pEyuQ=
+
+Name: res/layout/nd_account_manage.xml
+SHA1-Digest: XRab/39rVD1F49xuexZA0AYZxSA=
+
+Name: res/drawable/nd3_icon_more01.png
+SHA1-Digest: 9AxsJ5Qmd6ErjMHzRILp2vV4d0o=
+
+Name: res/drawable/nd3_mainfriend_2.png
+SHA1-Digest: zCWV825J7FwM1iqkp7H+wzKpvDo=
+
+Name: res/drawable/nd3_mainpage_2.png
+SHA1-Digest: dBbClWfte97YIGkl5PxClloUbfE=
+
+Name: assets/Env/ini/DynResList.ini
+SHA1-Digest: 3t//eZlf5f+Zk1Pk+4vIDNCGd4o=
+
+Name: assets/Env/data.tpd.29
+SHA1-Digest: eYHjWHbU4V72NmgkdxbfIvBMJic=
+
+Name: res/drawable/nd_login_btn_portrait_selector.xml
+SHA1-Digest: 7g3DDeYmCE/7pYDzKdXK2Rvj5H0=
+
+Name: assets/Env/data.tpd.28
+SHA1-Digest: 8ona7Tifg3NKzxI93AW2nRATM7s=
+
+Name: assets/Env/data.tpd.27
+SHA1-Digest: RYxuXQLP/M5v2BUkh3e5LRdMnwU=
+
+Name: assets/Env/data.tpd.26
+SHA1-Digest: O4MI7ai55G6efHGi/oqeflRAUt8=
+
+Name: assets/Env/data.tpd.35
+SHA1-Digest: 6ryrir0KQrjc0f5hE45fQeX3vz4=
+
+Name: assets/Env/data.tpd.36
+SHA1-Digest: otouKSgYk7hJUzBhARYaIhMph04=
+
+Name: res/drawable/nd3_rank_choice_right_1.9.png
+SHA1-Digest: 7znacI+Qb5qKVkWQxrDVf1enP2s=
+
+Name: assets/Env/data.tpd.33
+SHA1-Digest: ZlrZi3PPtEDMfNj9lpPkjNtPT00=
+
+Name: assets/Env/data.tpd.34
+SHA1-Digest: pzkJ2yJYw/9Ps/0npa3n7SHGfTA=
+
+Name: assets/Env/data.tpd.31
+SHA1-Digest: Da4W+QW75ctPv9aaBnpHWvmpfdA=
+
+Name: assets/Env/data.tpd.32
+SHA1-Digest: uyPziieTPmN4ddIoL8g59xPa/aM=
+
+Name: assets/Env/data.tpd.30
+SHA1-Digest: mSvgle430OcSDzzuRVEhgBWACdM=
+
+Name: res/drawable/nd3_regist_checked.xml
+SHA1-Digest: RAueMSfF0oZw0QWhJvcefhyB1Og=
+
+Name: res/drawable/nd3_msge_friend.9.png
+SHA1-Digest: 3hPGgk19G6ZZOBqonqwEruNYKVE=
+
+Name: res/layout/nd3_message_receive_item.xml
+SHA1-Digest: NuywWZpYtz0veAMchI0qxZQ+Ml0=
+
+Name: res/drawable/nd3_icon12.png
+SHA1-Digest: YOYACshjsCjukCHUPyx3G+beJ10=
+
+Name: res/drawable/nd3_mainmore_2.png
+SHA1-Digest: Lih5zPveQJ8LKTwAmHuLArzaqCQ=
+
+Name: res/drawable/nd3_friend_section_bg.9.png
+SHA1-Digest: elbcfiC7z0TRjJwtJK6Q2lvY/bQ=
+
+Name: res/drawable/nd3_check_yes.png
+SHA1-Digest: fDWl+HGvnAGV56fhbjJRcOEYV8k=
+
+Name: res/drawable/nd3_title_bar_action_btn.9.png
+SHA1-Digest: PzB+Sz89HhsP1CpSkMaNoc8BsDk=
+
+Name: res/drawable/nd_slider_handle_h_expand.xml
+SHA1-Digest: eDs6vMOAPvii0vhukAFIsmSKWeI=
+
+Name: res/drawable/nd3_app_icon_default.png
+SHA1-Digest: bP468H5ZgbasjZm+SJfdKZRJHm4=
+
+Name: res/drawable/nd3_search_edit_bg.9.png
+SHA1-Digest: 90p/6BnYAw7y/eL3iiHTVjKQfLA=
+
+Name: res/drawable/nd3_message_item_2_bg.xml
+SHA1-Digest: RubYHuMsbvEOrwB1ytfeYmwLTOo=
+
+Name: res/drawable/nd_btn_buy_press.9.png
+SHA1-Digest: A3yQIpY3lTIAVw6Vh5zZR1RhHnI=
+
+Name: res/drawable/nd_winning.png
+SHA1-Digest: 6E0+7UUdrpCHWQq8V3Px4AId/3A=
+
+Name: res/drawable/nd_button_action_reduce.xml
+SHA1-Digest: dw0628q+JbAfCB+x3EZouHOFFnI=
+
+Name: res/layout/nd3_network_error.xml
+SHA1-Digest: kV1YRZm4el0zz02THdFwDNHBXHQ=
+
+Name: res/layout/nd3_more_more.xml
+SHA1-Digest: wqU8rUyPcoKUlwyeYUINyytdqaw=
+
+Name: res/drawable/nd_change_account.png
+SHA1-Digest: X6LJHWf1Kd/aSfsNHYnAOYPXXZc=
+
+Name: res/drawable/nd3_input_1.9.png
+SHA1-Digest: hnLCakYplG2TytJ7vg+ks6uXNj8=
+
+Name: res/drawable/nd3_bnt_zhuxiao.png
+SHA1-Digest: SgJEm7gAqhptG+CARRftAxrzatI=
+
+Name: assets/Env/sound/WarMusic.mp3
+SHA1-Digest: fjI4pzkE414UOFVi5P3nFm71cNU=
+
+Name: res/drawable/nd3_mainmessage_1.png
+SHA1-Digest: KLtkXTz9NiMSTUN2v6wtcwtAz8Q=
+
+Name: res/drawable/nd_list_btn_delete_selector.xml
+SHA1-Digest: MjjtD1553QcGSPsPGihax3qg4QA=
+
+Name: res/drawable/nd3_mainmore_1.png
+SHA1-Digest: osqjKNSEaC1A3LVn6JBEnoRUuYU=
+
+Name: res/drawable/nd_goods_default.png
+SHA1-Digest: bFrmVzwTO6axS4NMgYlFdDXEotI=
+
+Name: res/layout/nd3_mesg_main.xml
+SHA1-Digest: AuNE2SAwiBUl6zhwxxCi1p6V3Bc=
+
+Name: res/layout/nd3_message_record_item.xml
+SHA1-Digest: kbZQysoHssKggYq7PuqPAvK55ds=
+
+Name: res/drawable/nd3_background_xml.xml
+SHA1-Digest: +2JS6UXGjWLa5qq/cxr1e3axT3k=
+
+Name: res/drawable/nd_white_btn.xml
+SHA1-Digest: 89N207V8SUxGbuswywGcHjJGXP0=
+
+Name: res/layout/nd3_pay_select_friend.xml
+SHA1-Digest: 0sqhRvXfaKgSzam0G8n+kpFN+zE=
+
+Name: res/drawable/nd3_button.xml
+SHA1-Digest: U/M6JIAFpwwttExQ5iULH6XZRQ8=
+
+Name: res/drawable/nd3_91.png
+SHA1-Digest: Sn2/HF1bQ0qzDqz654pUtgsA2OU=
+
+Name: res/layout/nd3_category_item.xml
+SHA1-Digest: ubrF3LWr45LTkBudkj+OyjiKLUU=
+
+Name: res/layout/nd3_person_info_detail.xml
+SHA1-Digest: vfi0y3vp71JxVhDQ5V3xSuUINl0=
+
+Name: res/drawable/nd_input.9.png
+SHA1-Digest: dSGhuANfhmsbFYD/up3LzohcVgU=
+
+Name: res/anim/nd_flipout_reverse.xml
+SHA1-Digest: 8uwjw0Nk2VxzGNO8wBBLA62MJvo=
+
+Name: res/drawable/nd3_button_bg_02_press.png
+SHA1-Digest: /IW3Ih5P2+P+aMF3qoSo/V5jE7c=
+
+Name: assets/Env/ani/skillname.ani
+SHA1-Digest: 6L7s903jMGnetEEw83BC5CJY9dA=
+
+Name: res/drawable/nd3_default_portrait_big.png
+SHA1-Digest: Oma9M/cBTAILHVhzuY3PWEHaiMk=
+
+Name: res/layout/nd_login_director.xml
+SHA1-Digest: /NfkSM/Ffw/+Z0DJpox6dKjAI40=
+
+Name: res/layout/nd3_user_item_divider.xml
+SHA1-Digest: DxzQnqy+onFDHuoFQ4WxAiHvvuk=
+
+Name: res/layout/nd3_activity_content_reg_template_1.xml
+SHA1-Digest: JS4A6yqUb2IIVWG5MMq4b0Efu2Q=
+
+Name: res/layout/nd_account_list_item.xml
+SHA1-Digest: 2oj3UN3Vw0y8EaexP2wVkpELXUw=
+
+Name: res/drawable/nd3_portrait_edit_bg.png
+SHA1-Digest: O+CLqi2eAp5AdGfewYcPW2sVNEk=
+
+Name: res/layout/nd3_account_register_phone.xml
+SHA1-Digest: rTcVx9g2gA3YTAjYVqp3SYjDdL4=
+
+Name: res/drawable/nd3_list_separator.png
+SHA1-Digest: aDYkbgwr2e2uoBuKuazHgroeJig=
+
+Name: res/drawable/nd_button_action_buy.xml
+SHA1-Digest: MPFh03VSiGEhqXpXMRXvyQOnvL8=
+
+Name: res/drawable/nd3_game_error_bg.png
+SHA1-Digest: jl0b4en7OmVV9Ghi4oOiq6z5guM=
+
+Name: assets/Env/TqUpdate.ver
+SHA1-Digest: WcDxKOaOy7+XapRzsw2/5bPIQKc=
+
+Name: res/drawable/tq_button.png
+SHA1-Digest: 0Oal+2miSVBfPYZo9jJKTWAWfCE=
+
+Name: res/layout/nd_find_password.xml
+SHA1-Digest: E1ZCQCHf2b5R6mLDdWWlS4vlrlM=
+
+Name: assets/Env/ini/languageGuide_en.ini
+SHA1-Digest: 4hWnQajhaX83gt1LYOhs4YPnnqs=
+
+Name: res/layout/nd3_account_sina.xml
+SHA1-Digest: XwFVD8l6O1f3F0pa/HHgWNYUys8=
+
+Name: res/drawable/nd3_button_bg_02.png
+SHA1-Digest: apgUkLoSXZICOff8ywVH2/iYC1Y=
+
+Name: res/drawable/nd_white_btn_2.9.png
+SHA1-Digest: RiQ77WgyqgI5zOAFv5tT0wXToKw=
+
+Name: res/drawable/nd3_mainpage_1.png
+SHA1-Digest: Wtu6aUs1aNhePpSBvWtJh45/i3A=
+
+Name: res/drawable/nd3_mainmessage_2.png
+SHA1-Digest: n78KqE58pVsYnuQmftrsXfGT+B0=
+
+Name: res/drawable/nd_theme.png
+SHA1-Digest: S3ycSsmiMn+QCPq08lknTgjODo0=
+
+Name: res/layout/nd3_sysmessage_detail_app.xml
+SHA1-Digest: cfjHQp2C9oIbvaJ+MYbM2qDohcg=
+
+Name: res/drawable/nd_green2.9.png
+SHA1-Digest: XJTkyS8ZRpZnLXsizGgJSjohSM8=
+
+Name: res/layout/nd3_pay_products_item.xml
+SHA1-Digest: 0MuBGKgrdOiKSoYvQe9ILt064pg=
+
+Name: assets/Env/ini/language_en.ini
+SHA1-Digest: 3oYTEl1wjW5EDMIYM6fsqcYz/ik=
+
+Name: res/layout/nd3_leaderboard_category.xml
+SHA1-Digest: nt8pUoyVY7La7eL4sPpnpDk2QhU=
+
+Name: res/drawable/nd3_activity_action_above_bg.9.png
+SHA1-Digest: WSfErDgh0TbgCiMluyy6Y2VhALk=
+
+Name: res/drawable/nd_c_blur1.9.png
+SHA1-Digest: 4+djS/LXK4mkOmYPBl5038EsEg8=
+
+Name: res/drawable/nd_register_btn_normal_portrait.9.png
+SHA1-Digest: F7HToSjQbv/kbdOY2fJA+qP5/Bk=
+
+Name: res/drawable/nd3_rank_2.png
+SHA1-Digest: SPaksy4A40EPJaaekAaSn8CmP78=
+
+Name: assets/Env/conf/session.ini
+SHA1-Digest: hQXbP6xFHXQsed4yOMXJCHgKhCQ=
+
+Name: res/layout/nd_leaderboard.xml
+SHA1-Digest: LHng44FtchcBtcxwiPv1oJAKAPs=
+
+Name: res/drawable/nd_login_btn_pressed_portrait.9.png
+SHA1-Digest: fLzvBRmai6wXPNuc4/SJ8DHRHDg=
+
+Name: assets/Env/ini/strings_zh.ini
+SHA1-Digest: /jqJAM3zLrqHHcKC0wrzK5MeAYg=
+
+Name: res/layout/nd3_title_bar.xml
+SHA1-Digest: UdzobCqZvEiH1xzHJBiWABmBWJE=
+
+Name: res/layout/nd3_account_register_agreement.xml
+SHA1-Digest: 5liNIdCKDYev528QP41GGmlCRpQ=
+
+Name: assets/Env/conf/config.ini
+SHA1-Digest: UpQCviwrNFdGl75+ZxgoOT4dqvM=
+
+Name: res/drawable/nd_goods_limit_time.png
+SHA1-Digest: cbmPbUxoxesWP39o36hEaCri+cw=
+
+Name: res/layout/nd_goods_list.xml
+SHA1-Digest: t4+tLshI1CNF8BFTa1rlJTffGjg=
+
+Name: res/drawable/nd_true.png
+SHA1-Digest: nhzs09O0fShAV7++F7YJVhvhTsM=
+
+Name: res/drawable/nd_login_btn_pressed_land.9.png
+SHA1-Digest: Vk8wxRUuobabqOE9XlSm7e4+CIg=
+
+Name: res/drawable/nd3_rank_choice_middle_1.9.png
+SHA1-Digest: IwCay+mhYk2d3fBhbnrd6zwgnyQ=
+
+Name: assets/Env/ini/language_zh.ini
+SHA1-Digest: 5zKlRMJw3JzieRiXleXi658KUY4=
+
+Name: res/drawable/nd3_search_edit_left.9.png
+SHA1-Digest: dILoe7vHjAgyUuTI2MAkp+FFemI=
+
+Name: res/drawable/nd_goods_detail_default.png
+SHA1-Digest: 2hQBx9ZDa1LyU+H/yn8dy+i1ktE=
+
+Name: assets/Env/conf/sceneconfig.xml
+SHA1-Digest: wCuanfPIEjgLA+f9b9Mj6TwPBaE=
+
+Name: assets/Env/ani/face.ani
+SHA1-Digest: WOBrR3DUQMLWduULFp7H2qABErM=
+
+Name: res/drawable/nd3_leaderboard_default.png
+SHA1-Digest: ToHw8x2tfdgG+R9Ve7UdXVVY608=
+
+Name: res/drawable/nd3_default_portrait.png
+SHA1-Digest: EFYDSDrsEgCcTgQ9wnl/FHd9nKQ=
+
+Name: res/drawable/nd_register_btn_pressed_portrait.9.png
+SHA1-Digest: GlXK/jVpKnIvuKozslUoMn9pWpQ=
+
+Name: res/layout/nd3_frame.xml
+SHA1-Digest: 0YTlmriDfkEj0EVYmaaKnoHproQ=
+
+Name: res/drawable/nd3_input_gray.xml
+SHA1-Digest: ehhFSVs+ptqqwb3ZP5u4PrpMsgU=
+
+Name: res/drawable-hdpi/nd_slider_pre_v.png
+SHA1-Digest: 3qaU+4Ir09ZRBYnlpxEVd0ITbN0=
+
+Name: res/drawable-hdpi/nd_slider_content_h.9.png
+SHA1-Digest: zXCppS8gtHDJr3Xdw8lrxh8VKlQ=
+
+Name: res/layout/nd3_bottom_bar.xml
+SHA1-Digest: 5zw4LeFc1/SeGKL1UeM8Hk9xPRU=
+
+Name: res/drawable/nd3_image_48_bg.xml
+SHA1-Digest: SYWR7HWFNXnmT+vSuX8zmmJirS4=
+
+Name: res/drawable/nd_btn_add_press.png
+SHA1-Digest: Gui2plnTtE0XYcXmvAyhZZOR8Eg=
+
+Name: res/layout/nd3_invite_friend.xml
+SHA1-Digest: A0jVWUv01tnhmsLWFV+Xu61yHlg=
+
+Name: res/drawable/nd3_bizarre_image.png
+SHA1-Digest: 9aRSydwlFMBhNH1zGut0ttZ2+2A=
+
+Name: res/drawable-hdpi/nd_slider_handle_h_1_expand.9.png
+SHA1-Digest: pf4U0PuZUIxnbB2eOPB5tInQKIU=
+
+Name: res/layout/nd3_sysmessage_detail_action.xml
+SHA1-Digest: cBUvDh+3ec7wMHUJ00PPjOGQd2Q=
+
+Name: res/drawable/nd3_icon_21.png
+SHA1-Digest: 2ZPTekJGO8kNCXYpMTwR42Zj/yk=
+
+Name: res/drawable/nd3_friend_del_button.xml
+SHA1-Digest: XrXLsihPBxCqF5UsTg0Cg4FoODU=
+
+Name: res/drawable-hdpi/nd_slider_next_v.png
+SHA1-Digest: y+xhwb8/eR4S2aS5fvz9KGiGSrI=
+
+Name: res/layout/nd3_account_login_land.xml
+SHA1-Digest: fLZQI1yZup1B+/Qcs1/fur5ad5I=
+
+Name: res/layout/nd3_invite_friend_choice.xml
+SHA1-Digest: yUVntmRFFJa0VMQ3wpgMd7bX5P4=
+
+Name: assets/Env/ini/NewGuide.xml
+SHA1-Digest: osTIKSDPinpz305MMmAvOQi4tK0=
+
+Name: res/drawable-hdpi/nd_slider_content_v.9.png
+SHA1-Digest: h5snxxa7tX9rR1KmognbcNWheh4=
+
+Name: res/layout/nd3_myfriend.xml
+SHA1-Digest: m5kFSl8JMRjg25OmaoUcsZxJy7I=
+
+Name: res/layout/nd3_friend_section.xml
+SHA1-Digest: dmFBHTOsB8PUoof+148cx+UXfe0=
+
+Name: res/drawable-hdpi/nd_download_2.9.png
+SHA1-Digest: TexmCmctaUCm+aIzOuGkzf4NBA4=
+
+Name: res/drawable/nd3_rank_image.png
+SHA1-Digest: 8WVXRzD6ZfKRQ30gD5KTp/6/ZmE=
+
+Name: res/drawable/nd_list_btn_delete_pressed.9.png
+SHA1-Digest: ltvngKOEkq4AfKaOYaWLTuQ1YNo=
+
+Name: res/layout/nd3_activity_detail.xml
+SHA1-Digest: 5m72i0eUE2PEfvBddQKiupCwK/E=
+
+Name: res/layout/nd3_app_feedback.xml
+SHA1-Digest: QoC7EvXTDqE9wvwyCi/QEXxQ5aQ=
+
+Name: assets/Env/conf/onepiece.dll.4
+SHA1-Digest: ZfXbBLVtDzqYzj7ljt53OC4F4k0=
+
+Name: assets/Env/conf/onepiece.dll.3
+SHA1-Digest: 1YAsRm3SQ8q6LFtg1utf702+r9U=
+
+Name: res/drawable/nd_login_btn_normal_portrait.9.png
+SHA1-Digest: CLBcMj9UGIMTG9TjeQ25LX7sbxg=
+
+Name: res/drawable/nd_goods_price_down.png
+SHA1-Digest: mY9tNXi6rmCqs2VyFVywQ0kMq8o=
+
+Name: assets/tqApkVer.ver
+SHA1-Digest: /Ull7Hk4Kp0jmCUAXkgb3Rt3ySM=
+
+Name: com/nd/OnePiece/OnePieceActivity.java.bak
+SHA1-Digest: 743stUiJ+jryTd22Z60aDxpa0Es=
+
+Name: res/drawable/nd3_add.png
+SHA1-Digest: kr8ST0d/TYY8gsLC+yvSyg7T8BQ=
+
+Name: res/layout/nd3_more_about.xml
+SHA1-Digest: rCEP4quHcRUIOdxi6J3WrQtvmR4=
+
+Name: res/drawable/nd3_icon_more05.png
+SHA1-Digest: Ks5Xdw0ecaHSidVCyqz8zZGWdzA=
+
+Name: res/drawable/nd3_icon_08.png
+SHA1-Digest: KxDQ/P3dCr2Vsv/b2KBR24zEjcQ=
+
+Name: res/drawable/nd3_icon_more02.png
+SHA1-Digest: P+MFhen6ZncSwkt+y4y3ByzgfLs=
+
+Name: res/drawable/nd_btn_buy.9.png
+SHA1-Digest: ee4jm0ebF9ywds1SF6UXks+ui/Y=
+
+Name: res/layout/nd3_more_recharge_detail.xml
+SHA1-Digest: DegohTI8iumlVHz3okYPJtNcj1Q=
+
+Name: res/layout/nd3_account_login_portrait.xml
+SHA1-Digest: ZbfB4WRXZ+0MBZGaQPqZNHSaO6s=
+
+Name: assets/Env/ini/graphic.ini
+SHA1-Digest: TLLafYMCwYNv3SDi64gKRv7AtRU=
+
+Name: res/drawable/nd_leaderboard_left_btn_bg.xml
+SHA1-Digest: Z8b05k2s4Uotqju9e5RqnSHSiqo=
+
+Name: res/drawable/nd3_icon_07.png
+SHA1-Digest: /F8kftHg30H0OjwaeJE+oPz4G8o=
+
+Name: res/drawable/nd3_white_bg.9.png
+SHA1-Digest: vo8Pi0kFZLRi81Ohiay0JmFwCVI=
+
+Name: res/drawable/nd_leaderboard_left_1.9.png
+SHA1-Digest: EvJah5xgie2byxCFTZ2omKYPCgE=
+
+Name: assets/Env/sound/scene1.mp3
+SHA1-Digest: 7QSaki+f+317qlu1OGXRcjJXLD8=
+
+Name: res/drawable/nd_button_action_add.xml
+SHA1-Digest: hejqBmU4gxgId5GZWigPLZKPxHs=
+
+Name: res/layout/nd3_app_item.xml
+SHA1-Digest: 1d5fOAZYYqOENMmwBwO+R2jVDQ8=
+
+Name: res/layout/nd3_account_register.xml
+SHA1-Digest: ACHxNGREfVAJsvuPMFljG/QpgUY=
+
+Name: res/drawable/nd3_icon_selected.png
+SHA1-Digest: z85ikJ5RRJMjTZQCAkFEQL42jJY=
+
+Name: assets/Env/ani/animation.ani
+SHA1-Digest: rYITUWk+sanEAx6QW1XSydkdaAU=
+
+Name: res/layout/nd3_home_land.xml
+SHA1-Digest: 830yk3HMahEmbSm72IEROJ4p7nk=
+
+Name: res/layout/nd3_normal_search.xml
+SHA1-Digest: pQcKb082M47HP7B/Xst8DqdIk8E=
+
+Name: res/layout/nd3_message_main.xml
+SHA1-Digest: ec5qx5k2xQI2B4ucarWoiCMirvU=
+
+Name: resources.arsc
+SHA1-Digest: e9q7+TSxTT5KocK3m2B7FKTKLd0=
+
+Name: res/drawable/nd3_input_bg.png
+SHA1-Digest: IA1Vxl0visr2x5A+++TwEWJXUmI=
+
+Name: assets/Env/ani/DynDefAni.ani
+SHA1-Digest: iUU7qUp3YyXllbXhai0wG68au18=
+
+Name: res/drawable/nd3_rank_choice_left_1.9.png
+SHA1-Digest: s4dyO37fOSRyWxmyHWBaq3HNW7E=
+
+Name: res/layout/nd3_listview_footer.xml
+SHA1-Digest: Cb1h52Dw6qg9CJ7ZeKLbibhyxl0=
+
+Name: res/layout/nd3_leaderboard_list_item.xml
+SHA1-Digest: O4/tYEkhoyxfMJEW7Lo7X0Ho0fc=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: 0+rF/whJnkttEX8PF1aAIyhrJaU=
+
+Name: assets/Env/ani/personnormal.ani
+SHA1-Digest: M9/Ln6kyTc25b3KFG2i6bRGuUU4=
+
+Name: res/drawable/nd3_title_bar_return_btn_pressed.9.png
+SHA1-Digest: umfJwcqoppfhcZVMJOM8kULz7u0=
+
+Name: res/layout/nd3_account_login_item.xml
+SHA1-Digest: VJpJJyUpHlofJy/6LdexRQ0neBg=
+
+Name: res/drawable/nd3_3rd_platform_icon.png
+SHA1-Digest: AWw06rkq3a19nl9iiK+r7YxHPhs=
+
+Name: res/drawable/nd3_bottom_bar_bg.9.png
+SHA1-Digest: TYPEcOHXXJ9RbY6A5XdwaWwa8CI=
+
+Name: res/layout/nd3_blank_listview.xml
+SHA1-Digest: vA/W04QtYCfzm85OQDwB2BaLx5g=
+
+Name: res/layout/nd3_more_bean_recharge.xml
+SHA1-Digest: nVwTygRP7FfAP1ZVxEMkldwrO2c=
+
+Name: res/drawable/nd_direct_login.9.png
+SHA1-Digest: bA5gGSff3k/v+k5WLfp6ew5310Q=
+
+Name: res/drawable/nd_book.png
+SHA1-Digest: FnbR7SDg4DWT1xjxEHnqrg3+lUw=
+
+Name: res/layout/nd3_friend_remark_setting.xml
+SHA1-Digest: yNnMs6Gs5LiRlPlbryK90Cvw7JY=
+
+Name: res/drawable/nd_goods_count_input_bg.9.png
+SHA1-Digest: Q1qaLFVAC2Uyd/wFtDQPFNZjVvg=
+
+Name: res/drawable/nd3_icon_01.png
+SHA1-Digest: z8dIXVDxi/7QoBku5unZYo64rSs=
+
+Name: res/drawable/nd3_new_message.9.png
+SHA1-Digest: 631fZY/jLQRT+0JqbmqLneOdtJM=
+
+Name: res/layout/nd_bind_phone_number_tip.xml
+SHA1-Digest: do8L/Myc55VB3evlpHeUJVC7Nmw=
+
+Name: res/drawable/nd3_user_item_bg.xml
+SHA1-Digest: 0bK/hWvBNUAK9HbttG9v6MS6ydg=
+
+Name: res/drawable/nd3_inputbox_bg1.9.png
+SHA1-Digest: sI72yErQ/FxOy41LaOTLNj/D+dU=
+
+Name: res/drawable/nd3_title_bar_action_btn_xml.xml
+SHA1-Digest: rQqinTTyN44dvXZQ4Ad+H7Wh8Qs=
+
+Name: res/drawable/nd3_button_logout.xml
+SHA1-Digest: m9UuaEeCXJFFryRXlZXvnXySAuQ=
+
+Name: res/layout/nd_goods_detail.xml
+SHA1-Digest: i8nZqWuFLfRlgblYcXEFpO/XIuA=
+
+Name: res/drawable/nd3_input_2.9.png
+SHA1-Digest: tx76fb1QUgkLX0Fxa2MLpO+JMXk=
+
+Name: res/drawable/nd3_button_130_01.png
+SHA1-Digest: O7lVOKimOEtm5J6tTxGdhYs72ZU=
+
+Name: res/layout/nd3_account_login_other_item.xml
+SHA1-Digest: hr+6UXmKaqNefOnlN7SU1Go9GeA=
+
+Name: res/layout/nd3_share_unbind_account_item.xml
+SHA1-Digest: /iUD2ODaqdN1cHO+TGSturdpH8M=
+
+Name: res/layout/nd3_user_item.xml
+SHA1-Digest: L9ZqG5jqIiq74f7WdXkQ/qvMiNo=
+
+Name: res/drawable-hdpi/nd_slider_handle_h_2.9.png
+SHA1-Digest: XehO6zGIbXCgzAKAZWMHl1fxFdM=
+
+Name: res/layout/tq_copyresfiles.xml
+SHA1-Digest: cL4d6GHqGk4MKyviJooR7KvyV8U=
+
+Name: res/drawable/nd3_rank_choice_right_2.9.png
+SHA1-Digest: b7KmYeovy5AFBcmtV1g9s7iWXpo=
+
+Name: res/drawable/nd3_mood_bg.9.png
+SHA1-Digest: c9rKtR2/bZQlW6/AIdjWSP78XqQ=
+
+Name: res/drawable/nd_leaderboard_right_1.9.png
+SHA1-Digest: 6PlqhtuLsQD4ncH+9TiLUzhKCIo=
+
+Name: assets/Env/ini/gui_hd.ini
+SHA1-Digest: eOkIOFELesek1Q8f9isgkmNJ47o=
+
+Name: res/drawable-hdpi/nd_slider_handle_v_2.9.png
+SHA1-Digest: nd/TnvwHOt/etNQuZhiIqJMq/UA=
+
+Name: res/layout/nd3_friend_section_panel.xml
+SHA1-Digest: kyx9DpYqwxBOqzZ1UMhRPvyFtBc=
+
+Name: res/layout/nd3_message_send_item.xml
+SHA1-Digest: +3C6znMnVfbxZIQvikgFGH5W9CA=
+
+Name: res/drawable/nd3_button_radio.png
+SHA1-Digest: CngoXSkO7KkkP2tbyTZ3NVODoaE=
+
+Name: res/layout/nd3_activity_detail_plus_image.xml
+SHA1-Digest: P6Qjc3u3VrWmboAKOUN6i653Bmo=
+
+Name: res/layout/nd3_pay_pass.xml
+SHA1-Digest: 1oHxaipEFOgOHZY8f1e3d9PWVVk=
+
+Name: res/layout/nd3_account_secret_set.xml
+SHA1-Digest: Vfo4dVkeet7aYNd4EOeGMRS/Kao=
+
+Name: res/drawable/nd3_switch_image_white.png
+SHA1-Digest: Dnp8pXHS6/20kjMLCxi5L//ep7A=
+
+Name: res/drawable-hdpi/nd_slider_handle_v_1_expand.9.png
+SHA1-Digest: MQlmConKo84MQQIfTRSFA8lMApk=
+
+Name: res/layout/nd3_message_send.xml
+SHA1-Digest: ZQUalnKhJDk5Pe17z+7H6CReVas=
+
+Name: res/layout/nd_softpromotion_slider_v.xml
+SHA1-Digest: McEiPU99jXibsFk3LmDBG6nl3po=
+
+Name: res/layout/main.xml
+SHA1-Digest: vzPlz8xbCxEa+i6HyaeiJOM8DQY=
+
+Name: res/drawable/nd_list_btn_delete_normal.9.png
+SHA1-Digest: GH6c0rwSRvW/N+jvos7bn9fuTqw=
+
+Name: res/layout/nd_softpromotion_listitem.xml
+SHA1-Digest: i/44/cm3+stfIki5tM8VlaPK2vM=
+
+Name: assets/Env/sound/creat.mp3
+SHA1-Digest: nUyNb6d7gVpy4RuvN0DC6k/BP3Y=
+
+Name: res/drawable-hdpi/nd_slider_pre_h.png
+SHA1-Digest: FW8iNFkwTknZd+60iug8GwTfRFY=
+
+Name: res/drawable/nd3_agreement_logo.png
+SHA1-Digest: d15UrTsWvtyVFGbQxgtiTmqMsmQ=
+
+Name: res/drawable/nd3_button_130_03.png
+SHA1-Digest: GrbGcBARFKlfUobeLS+xbu2dZbA=
+
+Name: res/layout/nd3_share_sina.xml
+SHA1-Digest: 33yhielcH2VIq55QpkT9CsCdKTA=
+
+Name: res/layout/nd3_achieve_detail.xml
+SHA1-Digest: jV3ehvpXKhnJAMgzsLzfnpFnSvY=
+
+Name: res/layout/nd3_account_login.xml
+SHA1-Digest: 79FtPNRSmUoSSatcn/hQxrOzOow=
+
+Name: res/drawable/nd_c_blur.xml
+SHA1-Digest: DfPsHDYh5vFNjyFDezSmu0mGy4Q=
+
+Name: res/drawable/nd_download.xml
+SHA1-Digest: neionfr/Y+jyXTe3yW0YaCPTEm4=
+
+Name: res/raw/nd_res.zip
+SHA1-Digest: XxLb+kMqMAQ9nw9nzwTJ4rpojvc=
+
+Name: res/drawable/nd3_banner_bg.9.png
+SHA1-Digest: 5kRJzvhmLi2oVjSv85ss9oScsVw=
+
+Name: res/drawable/nd_logo48.png
+SHA1-Digest: Qg3SjYXBmRBJr9wL2Jb6pTmxhp0=
+
+Name: res/layout/nd3_home_personal.xml
+SHA1-Digest: xO5zafQJBpAuT9jJYUmrl0u0Owg=
+
+Name: res/drawable/nd3_button1.png
+SHA1-Digest: UFFW7kfUgdGHOS3uoWIP9rNLRto=
+
+Name: res/layout/tq_update.xml
+SHA1-Digest: 6YC7j0ufYeP7CJkl7SPnEuG1Kl8=
+
+Name: res/drawable/nd3_redbtn.9.png
+SHA1-Digest: cWtAAx7e9SBBWMkB2CuinXfTQFQ=
+
+Name: res/drawable/nd3_achievement_lock.png
+SHA1-Digest: /fxmZTkzoUW8Rypvr7KJWNeeFhg=
+
+Name: res/layout/nd3_stranger_home.xml
+SHA1-Digest: HsxjB27K3XVt8TfJBVQseQjBWz4=
+
+Name: res/drawable/nd3_banner_logo.png
+SHA1-Digest: +ftwA8WLefLttO/ZulIiI4xG6GM=
+
+Name: res/drawable/nd_leaderboard_right_btn_bg.xml
+SHA1-Digest: kM9ruCzqY4AyoDZvg4BSvJSvyjU=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: h4ll/J+ddF8xebNgFzBBckOwiC4=
+
+Name: res/layout/nd3_category_plus_image_item.xml
+SHA1-Digest: koXrHViq1u/dZJdyD+Tqfi/w6tY=
+
+Name: res/drawable/nd_blue2.9.png
+SHA1-Digest: rqkm3Pq88wwPr8aSfjzWmOf/OMA=
+
+Name: res/drawable/nd3_title_bar_return_btn_xml.xml
+SHA1-Digest: KLpPEhx/UwLF5+ECkP5akS7bRck=
+
+Name: res/layout/nd3_activity_content_reg_template_3.xml
+SHA1-Digest: h9q4t1F7tqk2wwMveE+pgS2SlNM=
+
+Name: res/drawable/nd3_image81.png
+SHA1-Digest: MoHo7FkUyq0b70ZjuB0Fefl6374=
+
+Name: res/layout/nd3_listview_template_no_divider.xml
+SHA1-Digest: Fseux6qNJJKhj6ZDBBqFodh+F8g=
+
+Name: assets/Env/ini/languagelst.ini
+SHA1-Digest: M4ZDSUeIe6NZIaUUcPdUPrkRULA=
+
+Name: res/drawable/nd3_button_278.png
+SHA1-Digest: a4EhClxXfZNexVVwZHQZUWwW4xo=
+
+Name: res/drawable/nd3_button_action.xml
+SHA1-Digest: 72K+8y8AMF0T8s9SpDGO2NAzq40=
+
+Name: res/drawable/nd3_new_message_flag.png
+SHA1-Digest: 61+Na9GaquRKIEd2++8BXFncuCU=
+
+Name: res/drawable/nd3_bm.9.png
+SHA1-Digest: uz2/IREaZdoU97uApR5lCTw6vZo=
+
+Name: res/drawable/nd3_square_checkbox_button.xml
+SHA1-Digest: ki3jNQkl2N+HKMw7fn+f5IlsK7o=
+
+Name: res/layout/nd_softpromotion_flipitem.xml
+SHA1-Digest: GsvnWL9mfTN2UT+RsgUf24D/RI0=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: C8Zcw2ntpxwaaO601EqUt9Zz504=
+
+Name: res/layout/nd3_account_secret_find.xml
+SHA1-Digest: l7yu9gs9vSkvzAQGFUsy3ekQ9HI=
+
+Name: res/layout/nd3_account_other_login.xml
+SHA1-Digest: SGLhDMC5/x+C6HIM7uSu4J2RIMM=
+
+Name: res/layout/nd_bind_phone_number_unactivity_tip.xml
+SHA1-Digest: yZgvTi8LojkdemvZxoa39L02ZyQ=
+

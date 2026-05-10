@@ -1,0 +1,80 @@
+[
+  {
+    "addType3": 8,
+    "name": "God of Thunder Set",
+    "addValue1": 120,
+    "addType1": 8,
+    "addValue3": 180,
+    "desc": "Has the will of God of Thunder. It's said whoever equips it can gain powerful strength of God of Thunder. greatly boost critical hit and hit.",
+    "addValue4": 5000,
+    "addValue2": 200,
+    "addType4": 1,
+    "cfgSuitId": 1,
+    "addType2": 6
+  },
+  {
+    "addType3": 9,
+    "name": "Gale Set",
+    "addValue1": 500,
+    "addType1": 9,
+    "addValue3": 1000,
+    "desc": "Equip it to move as fast as the wind. greatly boost Dodge and Speed.",
+    "addValue4": 10000,
+    "addValue2": 100,
+    "addType4": 1,
+    "cfgSuitId": 2,
+    "addType2": 7
+  },
+  {
+    "addType3": 4,
+    "name": "God of Sea Set",
+    "addValue1": 1500,
+    "addType1": 4,
+    "addValue3": 2100,
+    "desc": "Greatly boost Magical Attack and Defense",
+    "addValue4": 20000,
+    "addValue2": 1400,
+    "addType4": 1,
+    "cfgSuitId": 3,
+    "addType2": 5
+  },
+  {
+    "addType3": 2,
+    "name": "Crimson Set",
+    "addValue1": 1500,
+    "addType1": 2,
+    "addValue3": 2100,
+    "desc": "Greatly boost Physical Attack and Defense",
+    "addValue4": 30000,
+    "addValue2": 1400,
+    "addType4": 1,
+    "cfgSuitId": 4,
+    "addType2": 3
+  },
+  {
+    "addType3": 9,
+    "name": "Black Moon Set",
+    "addValue1": 300,
+    "addType1": 6,
+    "addValue3": 2000,
+    "desc": "Greatly boost Physical Attack, Magical Attack and HP",
+    "addValue4": 40000,
+    "addValue2": 400,
+    "addType4": 1,
+    "cfgSuitId": 5,
+    "addType2": 8
+  },
+  {
+    "addType3": 18,
+    "name": "Shiny Set ",
+    "addValue1": 2000,
+    "addType1": 18,
+    "addValue3": 3000,
+    "desc": "Enhances attack, Anti Cri.Hit and HP greatly",
+    "addValue4": 60000,
+    "addValue2": 3000,
+    "addType4": 1,
+    "cfgSuitId": 6,
+    "addType2": 14
+  }
+]

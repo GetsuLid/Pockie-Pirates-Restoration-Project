@@ -1,0 +1,602 @@
+[
+  {
+    "experienceNeed": 2000,
+    "level": 1
+  },
+  {
+    "experienceNeed": 2100,
+    "level": 2
+  },
+  {
+    "experienceNeed": 2400,
+    "level": 3
+  },
+  {
+    "experienceNeed": 2800,
+    "level": 4
+  },
+  {
+    "experienceNeed": 3500,
+    "level": 5
+  },
+  {
+    "experienceNeed": 4400,
+    "level": 6
+  },
+  {
+    "experienceNeed": 5700,
+    "level": 7
+  },
+  {
+    "experienceNeed": 7500,
+    "level": 8
+  },
+  {
+    "experienceNeed": 9700,
+    "level": 9
+  },
+  {
+    "experienceNeed": 12500,
+    "level": 10
+  },
+  {
+    "experienceNeed": 15800,
+    "level": 11
+  },
+  {
+    "experienceNeed": 19800,
+    "level": 12
+  },
+  {
+    "experienceNeed": 24600,
+    "level": 13
+  },
+  {
+    "experienceNeed": 30100,
+    "level": 14
+  },
+  {
+    "experienceNeed": 36500,
+    "level": 15
+  },
+  {
+    "experienceNeed": 51900,
+    "level": 17
+  },
+  {
+    "experienceNeed": 43700,
+    "level": 16
+  },
+  {
+    "experienceNeed": 71500,
+    "level": 19
+  },
+  {
+    "experienceNeed": 61200,
+    "level": 18
+  },
+  {
+    "experienceNeed": 95600,
+    "level": 21
+  },
+  {
+    "experienceNeed": 83000,
+    "level": 20
+  },
+  {
+    "experienceNeed": 124800,
+    "level": 23
+  },
+  {
+    "experienceNeed": 109500,
+    "level": 22
+  },
+  {
+    "experienceNeed": 159500,
+    "level": 25
+  },
+  {
+    "experienceNeed": 141400,
+    "level": 24
+  },
+  {
+    "experienceNeed": 200100,
+    "level": 27
+  },
+  {
+    "experienceNeed": 179000,
+    "level": 26
+  },
+  {
+    "experienceNeed": 247300,
+    "level": 29
+  },
+  {
+    "experienceNeed": 222900,
+    "level": 28
+  },
+  {
+    "experienceNeed": 301400,
+    "level": 31
+  },
+  {
+    "experienceNeed": 273500,
+    "level": 30
+  },
+  {
+    "experienceNeed": 396700,
+    "level": 34
+  },
+  {
+    "experienceNeed": 432500,
+    "level": 35
+  },
+  {
+    "experienceNeed": 331200,
+    "level": 32
+  },
+  {
+    "experienceNeed": 363000,
+    "level": 33
+  },
+  {
+    "experienceNeed": 552600,
+    "level": 38
+  },
+  {
+    "experienceNeed": 597100,
+    "level": 39
+  },
+  {
+    "experienceNeed": 470300,
+    "level": 36
+  },
+  {
+    "experienceNeed": 510300,
+    "level": 37
+  },
+  {
+    "experienceNeed": 744900,
+    "level": 42
+  },
+  {
+    "experienceNeed": 799200,
+    "level": 43
+  },
+  {
+    "experienceNeed": 644000,
+    "level": 40
+  },
+  {
+    "experienceNeed": 693200,
+    "level": 41
+  },
+  {
+    "experienceNeed": 977600,
+    "level": 46
+  },
+  {
+    "experienceNeed": 1042500,
+    "level": 47
+  },
+  {
+    "experienceNeed": 856000,
+    "level": 44
+  },
+  {
+    "experienceNeed": 915500,
+    "level": 45
+  },
+  {
+    "experienceNeed": 1331000,
+    "level": 51
+  },
+  {
+    "experienceNeed": 1254500,
+    "level": 50
+  },
+  {
+    "experienceNeed": 1180900,
+    "level": 49
+  },
+  {
+    "experienceNeed": 1110300,
+    "level": 48
+  },
+  {
+    "experienceNeed": 1668500,
+    "level": 55
+  },
+  {
+    "experienceNeed": 1579300,
+    "level": 54
+  },
+  {
+    "experienceNeed": 1493400,
+    "level": 53
+  },
+  {
+    "experienceNeed": 1410600,
+    "level": 52
+  },
+  {
+    "experienceNeed": 2058700,
+    "level": 59
+  },
+  {
+    "experienceNeed": 1956000,
+    "level": 58
+  },
+  {
+    "experienceNeed": 1856700,
+    "level": 57
+  },
+  {
+    "experienceNeed": 1760900,
+    "level": 56
+  },
+  {
+    "experienceNeed": 2505600,
+    "level": 63
+  },
+  {
+    "experienceNeed": 2388300,
+    "level": 62
+  },
+  {
+    "experienceNeed": 2274800,
+    "level": 61
+  },
+  {
+    "experienceNeed": 2165000,
+    "level": 60
+  },
+  {
+    "experienceNeed": 3149700,
+    "level": 68
+  },
+  {
+    "experienceNeed": 3290500,
+    "level": 69
+  },
+  {
+    "experienceNeed": 7551500,
+    "level": 70
+  },
+  {
+    "experienceNeed": 7879500,
+    "level": 71
+  },
+  {
+    "experienceNeed": 2626600,
+    "level": 64
+  },
+  {
+    "experienceNeed": 2751500,
+    "level": 65
+  },
+  {
+    "experienceNeed": 2880200,
+    "level": 66
+  },
+  {
+    "experienceNeed": 3012900,
+    "level": 67
+  },
+  {
+    "experienceNeed": 9663200,
+    "level": 76
+  },
+  {
+    "experienceNeed": 10049500,
+    "level": 77
+  },
+  {
+    "experienceNeed": 10446000,
+    "level": 78
+  },
+  {
+    "experienceNeed": 10852800,
+    "level": 79
+  },
+  {
+    "experienceNeed": 8217000,
+    "level": 72
+  },
+  {
+    "experienceNeed": 8564000,
+    "level": 73
+  },
+  {
+    "experienceNeed": 8920600,
+    "level": 74
+  },
+  {
+    "experienceNeed": 9287000,
+    "level": 75
+  },
+  {
+    "experienceNeed": 13517000,
+    "level": 85
+  },
+  {
+    "experienceNeed": 13045600,
+    "level": 84
+  },
+  {
+    "experienceNeed": 14493400,
+    "level": 87
+  },
+  {
+    "experienceNeed": 13999500,
+    "level": 86
+  },
+  {
+    "experienceNeed": 11697700,
+    "level": 81
+  },
+  {
+    "experienceNeed": 11270000,
+    "level": 80
+  },
+  {
+    "experienceNeed": 12585400,
+    "level": 83
+  },
+  {
+    "experienceNeed": 12136100,
+    "level": 82
+  },
+  {
+    "experienceNeed": 24137300,
+    "level": 93
+  },
+  {
+    "experienceNeed": 23367200,
+    "level": 92
+  },
+  {
+    "experienceNeed": 25728000,
+    "level": 95
+  },
+  {
+    "experienceNeed": 24924200,
+    "level": 94
+  },
+  {
+    "experienceNeed": 15515700,
+    "level": 89
+  },
+  {
+    "experienceNeed": 14998700,
+    "level": 88
+  },
+  {
+    "experienceNeed": 22613600,
+    "level": 91
+  },
+  {
+    "experienceNeed": 21876500,
+    "level": 90
+  },
+  {
+    "experienceNeed": 31843300,
+    "level": 102
+  },
+  {
+    "experienceNeed": 32788900,
+    "level": 103
+  },
+  {
+    "experienceNeed": 30007000,
+    "level": 100
+  },
+  {
+    "experienceNeed": 30916000,
+    "level": 101
+  },
+  {
+    "experienceNeed": 28242600,
+    "level": 98
+  },
+  {
+    "experienceNeed": 29115900,
+    "level": 99
+  },
+  {
+    "experienceNeed": 26548800,
+    "level": 96
+  },
+  {
+    "experienceNeed": 27387000,
+    "level": 97
+  },
+  {
+    "experienceNeed": 53247500,
+    "level": 110
+  },
+  {
+    "experienceNeed": 54712700,
+    "level": 111
+  },
+  {
+    "experienceNeed": 37798700,
+    "level": 108
+  },
+  {
+    "experienceNeed": 38858300,
+    "level": 109
+  },
+  {
+    "experienceNeed": 35737700,
+    "level": 106
+  },
+  {
+    "experienceNeed": 36758600,
+    "level": 107
+  },
+  {
+    "experienceNeed": 33753100,
+    "level": 104
+  },
+  {
+    "experienceNeed": 34736000,
+    "level": 105
+  },
+  {
+    "experienceNeed": 67414300,
+    "level": 119
+  },
+  {
+    "experienceNeed": 65729100,
+    "level": 118
+  },
+  {
+    "experienceNeed": 64072300,
+    "level": 117
+  },
+  {
+    "experienceNeed": 62443600,
+    "level": 116
+  },
+  {
+    "experienceNeed": 60842700,
+    "level": 115
+  },
+  {
+    "experienceNeed": 59269400,
+    "level": 114
+  },
+  {
+    "experienceNeed": 57723500,
+    "level": 113
+  },
+  {
+    "experienceNeed": 56204700,
+    "level": 112
+  },
+  {
+    "experienceNeed": 173328000,
+    "level": 127
+  },
+  {
+    "experienceNeed": 162428000,
+    "level": 126
+  },
+  {
+    "experienceNeed": 151628000,
+    "level": 125
+  },
+  {
+    "experienceNeed": 140928000,
+    "level": 124
+  },
+  {
+    "experienceNeed": 130328000,
+    "level": 123
+  },
+  {
+    "experienceNeed": 119828000,
+    "level": 122
+  },
+  {
+    "experienceNeed": 109428000,
+    "level": 121
+  },
+  {
+    "experienceNeed": 99128000,
+    "level": 120
+  },
+  {
+    "experienceNeed": 1273815923.0,
+    "level": 137
+  },
+  {
+    "experienceNeed": 1098117175.0,
+    "level": 136
+  },
+  {
+    "experienceNeed": 1625213419.0,
+    "level": 139
+  },
+  {
+    "experienceNeed": 1449514671.0,
+    "level": 138
+  },
+  {
+    "experienceNeed": 2240159037.0,
+    "level": 141
+  },
+  {
+    "experienceNeed": 1800912167.0,
+    "level": 140
+  },
+  {
+    "experienceNeed": 3118652777.0,
+    "level": 143
+  },
+  {
+    "experienceNeed": 2679405907.0,
+    "level": 142
+  },
+  {
+    "experienceNeed": 195428000,
+    "level": 129
+  },
+  {
+    "experienceNeed": 184328000,
+    "level": 128
+  },
+  {
+    "experienceNeed": 219623435,
+    "level": 131
+  },
+  {
+    "experienceNeed": 206628000,
+    "level": 130
+  },
+  {
+    "experienceNeed": 571020931.0,
+    "level": 133
+  },
+  {
+    "experienceNeed": 395322183.0,
+    "level": 132
+  },
+  {
+    "experienceNeed": 922418427.0,
+    "level": 135
+  },
+  {
+    "experienceNeed": 746719679.0,
+    "level": 134
+  },
+  {
+    "experienceNeed": 3557899647.0,
+    "level": 144
+  },
+  {
+    "experienceNeed": 3997146517.0,
+    "level": 145
+  },
+  {
+    "experienceNeed": 4436393387.0,
+    "level": 146
+  },
+  {
+    "experienceNeed": 4875640257.0,
+    "level": 147
+  },
+  {
+    "experienceNeed": 5314887127.0,
+    "level": 148
+  },
+  {
+    "experienceNeed": 5754133997.0,
+    "level": 149
+  },
+  {
+    "experienceNeed": 6193380867.0,
+    "level": 150
+  }
+]
