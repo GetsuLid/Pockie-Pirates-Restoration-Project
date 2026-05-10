@@ -19,7 +19,6 @@ The project is currently in the early stages of restoration.
 
 ## 🛠 Tech Stack
 - **Server:** Python 3.x
-- **Database:** MySQL
 - **Client:** Original Flash (SWF) - Runs via Flash Player SA.
 - **Language:** English (Restoring the original JoyGames localization).
 
